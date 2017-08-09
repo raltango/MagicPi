@@ -9,7 +9,7 @@
 </item>
  
 <item>
-<title>[B][COLOR deeppink]SUPER MARIO BROS[/COLOR][/B]</title>
+<title>[B][COLOR skyblue]SUPER[/COLOR][COLOR yellow] MARIO[/COLOR][COLOR red] BROS[/COLOR][/B]</title>
 <thumbnail>http://i.imgur.com/cDb3DTV.png</thumbnail>
 <fanart>http://i.imgur.com/XDgjUks.jpg</fanart>
 <link>http://ignoreme</link>
@@ -17,11 +17,11 @@
 </item>
 
 <item>
-<title></title>
+<title>[COLOR gold]CANAL NEREO[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/canalnereo.xml</externallink>
 </item>
 
 <item>
