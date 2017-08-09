@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>Carreras F1</title>
-<thumbnail></thumbnail>
+<title>[COLOR indigo]Carreras F1[/COLOR]</title>
+<thumbnail>http://i.imgur.com/iSohVQa.jpg</thumbnail>
 <fanart>https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwj_vdTH88rVAhUGbBoKHY59A5gQjRwIBw&url=http%3A%2F%2Fwww.elamigodelpueblo.com%2Fnoticias%2Fmedios-tv-radio%2F8-series-netflix-dejara-emitir-pronto%2F&psig=AFQjCNH6ES46OYXQGtwusrA2MkoADQZVQA&ust=1502393886027938</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/test1.xml</externallink>
@@ -24,11 +24,5 @@
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/canalnereo.xml</externallink>
 </item>
 
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
+
  
