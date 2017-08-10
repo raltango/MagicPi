@@ -50,3 +50,45 @@
  
  #EXTINF:-1 group-title=”DEPORTES”,CANAL + TOROS ACESTREAMS
  acestream://3bb0246987ede915b48a897a8bba6da90a2fcd84
+ 
+--------------------ieep---------------------
+ 
+ #EXTINF:-1,ES: Movistar F1
+http://worldcs.info:8080/live/kingcs/multics.info/5963.ts
+ 
+#EXTINF:-1,ES: Movistar Moto GP
+http://worldcs.info:8080/live/kingcs/multics.info/5962.ts
+ 
+#EXTINF:-1,ES: Movistar+ Deportes
+http://alphalocal.ddns.me:8015/live/live6/server15/12.ts
+#EXTINF:-1,ES: Eurosport 2
+http://alphalocal.ddns.me:8015/live/live6/server15/51.ts
+#EXTINF:-1,ES: Teledeporte
+http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
+ 
+#EXTINF:-1,UK: Sky Sports F1
+http://5.39.188.204:8000/live/moes/moes/55.ts
+#EXTINF:-1,UK: Sky Sport F1 (2)
+http://62.4.21.70:8000/live/raji/raji/566.ts
+#EXTINF:-1,UK Sky Sports F1 (3)
+http://5.255.90.224:5000/play/a08n
+#EXTINF:-1,UK Sky Sports F1 (4)
+http://5.255.90.224:5000/play/a05r
+#EXTINF:-1,UK: Motors TV (WEC)
+http://worldcs.info:8080/live/kingcs/multics.info/627.ts
+ 
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://PV3.fretnow.net:7040/live/afreddos/EF9EE198/5931.ts
+#EXTINF:-1,IT: SkySport F1 HD (2)
+http://149.202.78.137:8080/live/5454/5454/1332.ts
+#EXTINF:-1,IT: Sky Sports F1
+http://worldcs.info:8080/live/kingcs/multics.info/1125.ts
+ 
+#EXTINF:-1,USA: ESPN HD
+http://worldcs.info:8080/live/kingcs/multics.info/7333.ts
+#EXTINF:-1,USA: Fox Sport 1 HD WEC
+http://worldcs.info:8080/live/kingcs/multics.info/7258.ts
+#EXTINF:-1,USA: Fox Sport 2 HD
+http://worldcs.info:8080/live/kingcs/multics.info/7259.ts
+#EXTINF:-1,USA: ESPN 2
+http://worldcs.info:8080/live/kingcs/multics.info/4570.ts
