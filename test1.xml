@@ -49,4 +49,43 @@
 </items>
 </channel>
 
+<item>
+<title>[COLOR lime][COLOR  lime]*[/COLOR]peliculas de extrenos de 2016[/COLOR][COLOR=yellow]>>[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Yankieflixtv==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/estrenos-de-cine-2-el-rockero-38410/list,1,6</page>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/estrenos-de-cine-2-el-rockero-38410/list,1,6</referer>
+<connection>keep-alive</connection>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<thumbnail>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</thumbnail>
+<fanart>http://www.supercartelera.es/wp-content/uploads/2015/12/caratula-min.png</fanart>
+</item>
+</items>
+</channel>
+
 
