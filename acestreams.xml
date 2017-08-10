@@ -1,0 +1,52 @@
+#EXTM3U
+ 
+ #EXTINF:-1 group-title=”DEPORTES”,CANAL + ACESTREAMS
+ acestream://9de6d098b1af54dd536b6ece4f538f0e12a23db4
+ 
+ #EXTINF:-1 group-title=”DEPORTES”,CANAL + LIGA ACESTREAMS
+ acestream://c3d48b4cd8e1460a39c57153f1df06154907dad1
+ 
+ #EXTINF:-1 group-title=”DEPORTES”,CANAL + LIGA CAMPEONES ACESTREAMS
+ acestream://98a6f814f9e5cbf68d8ad48466500e1bf0c67911
+ 
+ #EXTINF:-1 group-title=”DEPORTES”,GOL TV ACESTREAMS
+ acestream://7d24be4d2325e90d4f209daaf37378bb3c3bb52a
+ 
+ #EXTINF:-1 group-title=”DEPORTES”,SPORTMANIA ACESTREAMS
+ acestream://31e79ad6a45f09e8027e1e0592c85445071c6fbb
+ 
+ #EXTINF:-1 group-title=”DEPORTES”,MOVISTAR MOTO GP ACESTREAMS
+ acestream://029fd73c07b2028bc3b75f7b09cd271d809d2df7
+
+ #EXTINF:-1 group-title=”DEPORTES”,MOVISTAR F1 ACESTREAMS
+ acestream://b3e388c9fae21994e275cdd3fe6a946f4a986f2c
+ 
+ #EXTINF:-1 group-title=”DEPORTES”,BEIN Ñ
+ http://bein-es.fubotv.com.global.pro…/playlist.m3u8
+ 
+ #EXTINF:-1 group-title=”DEPORTES”,ARENAVISION 1
+ acestream://9aecdf25fbe7dcf945304b3b5d9e76027924f924
+ 
+ #EXTINF:-1 group-title=”DEPORTES”,ARENAVISION 2
+ acestream://20ab5cb6c537180924ca585563bb36792b85e1a1
+
+ #EXTINF:-1 group-title=”DEPORTES”,ARENAVISION 3
+ acestream://b96a2ef93ab88e25063e4fd6350a0a45bd5e7fd9
+ 
+ #EXTINF:-1 group-title=”DEPORTES”,ARENAVISION 4
+ acestream://586a2d2a08eac2fc2085c6f5496858d0d1ee1597
+ 
+ #EXTINF:-1 group-title=”DEPORTES”,ARENAVISION 5
+ acestream://0c535cd6eabc2aa6ce6e6ba6b04af8258e92473e
+
+ #EXTINF:-1 group-title=”DEPORTES”,ARENAVISION 6
+ acestream://e0b02e0874acc016ccc4bca559dc3657d779e78a
+
+ #EXTINF:-1 group-title=”DEPORTES”,ARENAVISION 15
+ acestream://012017935361b8796d51428016a1f23867d8ecb9
+
+ #EXTINF:-1 group-title=”DEPORTES”,TELEDEPORTE ACESTREAMS
+ acestream://0b9fd2ff75fe160902118640002ef923c3a6c641
+ 
+ #EXTINF:-1 group-title=”DEPORTES”,CANAL + TOROS ACESTREAMS
+ acestream://3bb0246987ede915b48a897a8bba6da90a2fcd84
