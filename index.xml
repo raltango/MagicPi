@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>[B][COLOR indigo]CANALES +[/COLOR][/B]</title>
+<title>[B][COLOR indigo]PELICULAS[/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/rayZwMdx</externallink>
+<externallink>https://pastebin.com/raw/s0BK3XUU</externallink>
 </item>
  
 <item>
@@ -30,6 +30,14 @@
 <fanart>http://i.imgur.com/XDgjUks.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/test1.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR indigo]LA PATRULLA CANINA[/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/MdDqtgF5</externallink>
 </item>
 
 
