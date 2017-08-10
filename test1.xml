@@ -88,4 +88,238 @@
 </items>
 </channel>
 
+<item>
+<title>[COLOR lime][COLOR  lime]*[/COLOR]PELICULAS DE ACCION CASTELLANO[/COLOR][COLOR=yellow]>>[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Yankieflixtv==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://el-mejor.com/subidas/mejores-peliculas-de-accion-300x250.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/peliculas-de-accion-castellanoel-rockero-31004/list,1,1</page>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/peliculas-de-accion-castellanoel-rockero-31004/list,1,1</referer>
+<connection>keep-alive</connection>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/46g9PVRWHIw/hqdefault.jpg</thumbnail>
+<fanart>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</fanart>
+</item>
+</items>
+</channel>
+ 
+<item>
+<title>[COLOR lime][COLOR  lime]*[/COLOR]Películas de Aventura [/COLOR][COLOR=yellow]>>[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Yankieflixtv==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://el-mejor.com/subidas/mejores-peliculas-de-accion-300x250.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/peliculas-de-aventura-en-espanol-latino-19600/list,1,2</page>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/peliculas-de-aventura-en-espanol-latino-19600/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/46g9PVRWHIw/hqdefault.jpg</thumbnail>
+<fanart>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</fanart>
+</item>
+</items>
+</channel>
+ 
+<item>
+<title>[COLOR lime][COLOR  lime]*[/COLOR]Películas de acción[/COLOR][COLOR=yellow]>>[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Yankieflixtv==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://i.ytimg.com/vi/JZ42ybAadX4/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/peliculas-de-accion-en-espanol-latino-16521/list,1,3</page>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/peliculas-de-accion-en-espanol-latino-16521/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/JZ42ybAadX4/hqdefault.jpg</thumbnail>
+<fanart>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</fanart>
+</item>
+</items>
+</channel>
+ 
+<item>
+<title>[COLOR lime][COLOR  lime]*[/COLOR]Peliculas de drama [/COLOR][COLOR=yellow]>>[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Yankieflixtv==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://i.ytimg.com/vi/JZ42ybAadX4/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://st-listas.20minutos.es/images/2010-02/190987/2094767_640px.jpg?1335799033</page>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/peliculas-de-drama-en-espanol-latino-18845/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<thumbnail>http://st-listas.20minutos.es/images/2010-02/190987/2094767_640px.jpg?1335799033</thumbnail>
+<fanart>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</fanart>
+</item>
+</items>
+</channel>
+ 
+<item>
+<title>[COLOR lime][COLOR  lime]*[/COLOR]películas de comedia[/COLOR][COLOR=yellow]>>[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Yankieflixtv==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://i.ytimg.com/vi/5tR0kxbzvHg/maxresdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/peliculas-de-comedia-en-espanol-latino-17449</page>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/peliculas-de-comedia-en-espanol-latino-17449</referer>
+<connection>keep-alive</connection>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/5tR0kxbzvHg/maxresdefault.jpg</thumbnail>
+<fanart>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</fanart>
+</item>
+</items>
+</channel>
+ 
+<item>
+<title>[COLOR lime][COLOR  lime]*[/COLOR]PELICULAS COMEDIA CASTELLANO[/COLOR][COLOR=yellow]>>[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Yankieflixtv==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://i.ytimg.com/vi/5tR0kxbzvHg/maxresdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/peliculas-comedia-castellanoel-rockero-30489/list,1,5</page>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/peliculas-comedia-castellanoel-rockero-30489/list,1,5</referer>
+<connection>keep-alive</connection>
+<cookieJar>yankieflixtv</cookieJar>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/5tR0kxbzvHg/maxresdefault.jpg</thumbnail>
+<fanart>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</fanart>
+</item>
+</items>
+</channel>
+
 
