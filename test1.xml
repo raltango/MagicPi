@@ -1,53 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>AMERICAN HORROR STORY T-6</title>        
+<title>AMERICAN HORROR STORY </title>        
 <urlsolve>http://diskokosmiko.mx/SeriesHD/american-horror-story-dual-t6-44765</urlsolve>
 <thumbnail>http://diskokosmiko.mx/SeriesHD/american-horror-story-dual-t6-44765</thumbnail>
 <fanart></fanart>
 </item>
-
-
-<item>
-<title>[COLOR orange][COLOR  lime]Shin Chan[/COLOR](Serie de anime)[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>Yankieflixtv==[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.seriesyonkis.com/img/series/170x243/shin-chan.jpg</thumbnail>
-        <fanart>http://vozperica.com/wp-content/uploads/2017/03/hqdefault.jpg</fanart>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/naredo/coleccion-shin-chan-43560/list,1,27</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/naredo/coleccion-shin-chan-43560/list,1,27</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://www.seriesyonkis.com/img/series/170x243/shin-chan.jpg</thumbnail>
-<fanart>http://vozperica.com/wp-content/uploads/2017/03/hqdefault.jpg</fanart>
- <info>Serie de TV (1992-Actualidad) 1126 episodios. Cuenta las aventuras de Shinnosuke Nohara, alias Shin Chan, un niño de cinco años que se dedica a hacer las más variadas travesuras, a perseguir a las chicas guapas y a ver por la tele, a diario, a su amado Ultrahéroe. </info>
-</item>
-</items>
-</channel>
 
 <item>
 <title>[COLOR lime][COLOR  lime]*[/COLOR]peliculas de extrenos de 2016[/COLOR][COLOR=yellow]>>[/COLOR] </title>
@@ -321,13 +279,4 @@
 </item>
 </items>
 </channel>
-
-<item>
-<title>MICKEY MOUSE 1X01</title>        
-<urlsolve>http://ul.to/file/qbewviyg/La%20casa%20de%20Mickey%20Mouse%201x01%20La%20pastorcita%20Daisy.avi
-</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
 
