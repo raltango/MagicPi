@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== PELÍCULAS Y SERIES ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="PELÍCULAS Y SERIES",AMC
 http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/YW1j/visita-exabytetv.m3u8
  
