@@ -92,3 +92,392 @@ http://worldcs.info:8080/live/kingcs/multics.info/7258.ts
 http://worldcs.info:8080/live/kingcs/multics.info/7259.ts
 #EXTINF:-1,USA: ESPN 2
 http://worldcs.info:8080/live/kingcs/multics.info/4570.ts
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== PELÍCULAS Y SERIES ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="PELÍCULAS Y SERIES",AMC
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/YW1j/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" group-title="PELÍCULAS Y SERIES",ATRESERIES ESPAñOL
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s6.postimg.org/ws2lvpljl/azcinema.png" group-title="PELÍCULAS Y SERIES",AZCINEMA
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/YXp0ZWNhY2luZW1h/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-BgPocZVKhFA/VPTsxk6MufI/AAAAAAAAAD4/CMcxFVYYsLA/s1600/Imagen1.png" group-title="PELÍCULAS Y SERIES",CINECANAL
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Y2luZWNhbmFs/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-BgPocZVKhFA/VPTsxk6MufI/AAAAAAAAAD4/CMcxFVYYsLA/s1600/Imagen1.png" group-title="PELÍCULAS Y SERIES",CINECANAL OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Y2luZWNhbmFsb3AuMg==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-BgPocZVKhFA/VPTsxk6MufI/AAAAAAAAAD4/CMcxFVYYsLA/s1600/Imagen1.png" group-title="PELÍCULAS Y SERIES",CINECANAL OP.3
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Y2luZWNhbmFsb3AuMw==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="PELÍCULAS Y SERIES",CINEMAX
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Y2luZW1heA==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="PELÍCULAS Y SERIES",CINEMAX OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Y2luZW1heG9wLjI=/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PELÍCULAS Y SERIES",DEPELICULA
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/ZGVwZWxpY3VsYQ==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PELÍCULAS Y SERIES",DEPELICULA HD
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/ZGVwZWxpY3VsYWhk/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/_jb8siMMpEnQ/SRCaqq3fodI/AAAAAAAAFKs/kB11kmPeURk/s400/logos+peliculas+24+hs+copia.jpg" group-title="PELÍCULAS Y SERIES",EXAMOVIES 1
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/cGVsaWN1bGFzMjQvNw==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-b84hPge9HWU/U_AGE-nLWaI/AAAAAAAAAfY/T5UHFfvGTCw/s1600/logo-nuevo-6-011-300x300.png" group-title="PELÍCULAS Y SERIES",EXAMOVIES 2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/cGVsaWN1bGFzZGV0ZXJyb3IyNC83/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/FOX_ACTIONHD.png" group-title="PELÍCULAS Y SERIES",FOX ACTION
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94YWN0aW9u/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/FOX_ACTIONHD.png" group-title="PELÍCULAS Y SERIES",FOX ACTION
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94YWN0aW9u/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/FOX_ACTIONHD.png" group-title="PELÍCULAS Y SERIES",FOX ACTION OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94YWN0aW9ub3AuMg==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-cinema-blanco.png.8267a80d9cea1d104e0a5269171d158b.png" group-title="PELÍCULAS Y SERIES",FOX CINEMA
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94Y2luZW1h/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-classics-blanco.png.2a5287bef8ed0158113e790a3009165a.png" group-title="PELÍCULAS Y SERIES",FOX CLASSICS
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94Y2xhc3NpY3M=/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-comedy-blanco.png.f720b00ef28d91a6cd6f93d8b2c73a74.png" group-title="PELÍCULAS Y SERIES",FOX COMEDY
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94Y29tZWR5/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-comedy-blanco.png.f720b00ef28d91a6cd6f93d8b2c73a74.png" group-title="PELÍCULAS Y SERIES",FOX COMEDY OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94Y29tZWR5b3AuMg==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-family-blanco.png.ff94e0e2127dd2bae75d63e66395f10b.png" group-title="PELÍCULAS Y SERIES",FOX FAMILY
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94ZmFtaWx5/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-family-blanco.png.ff94e0e2127dd2bae75d63e66395f10b.png" group-title="PELÍCULAS Y SERIES",FOX FAMILY OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94ZmFtaWx5b3AuMg==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/FOX_MOVIESHD.png" group-title="PELÍCULAS Y SERIES",FOX MOVIES
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94bW92aWVz/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/FOX_MOVIESHD.png" group-title="PELÍCULAS Y SERIES",FOX MOVIES HD
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94bW92aWVzaGQ=/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/FOX_MOVIESHD.png" group-title="PELÍCULAS Y SERIES",FOX MOVIES HD OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94bW92aWVzaGRvcC4y/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/FOX_MOVIESHD.png" group-title="PELÍCULAS Y SERIES",FOX MOVIES OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94bW92aWVzb3AuMg==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-series-blanco.png.376adb604c5e6dda7fa6a83023f022fe.png" group-title="PELÍCULAS Y SERIES",FOX SERIES
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94c2VyaWVz/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png" group-title="PELÍCULAS Y SERIES",GOLDEN
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Z29sZGVu/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://televisa.plancomercial.com/wp-content/uploads/2015/09/golden-edge.png" group-title="PELÍCULAS Y SERIES",GOLDEN EDGE
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Z29sZGVuZWRnZQ==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://televisa.plancomercial.com/wp-content/uploads/2015/09/golden-edge.png" group-title="PELÍCULAS Y SERIES",GOLDEN EDGE OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Z29sZGVuZWRnZW9wLjI=/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png" group-title="PELÍCULAS Y SERIES",GOLDEN HD
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Z29sZGVuaGQ=/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png" group-title="PELÍCULAS Y SERIES",GOLDEN OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Z29sZGVub3AuMg==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://puu.sh/mbMeZ/0502ebe188.png" group-title="PELÍCULAS Y SERIES",GOLDEN PREMIER
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Z29sZGVucHJlbWllcg==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://puu.sh/mbMih/f670253ae9.png" group-title="PELÍCULAS Y SERIES",GOLDEN PREMIER 2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Z29sZGVucHJlbWllcjI=/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue-700x321.png" group-title="PELÍCULAS Y SERIES",HBO
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aGJv/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="PELÍCULAS Y SERIES", HBO 2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aGJvMg==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="PELÍCULAS Y SERIES", HBO 2 HD
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aGJvMmhk/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PELÍCULAS Y SERIES", HBO FAMILY
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aGJvZmFtaWx5/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PELÍCULAS Y SERIES", HBO FAMILY OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aGJvZmFtaWx5b3AuMg==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_latinoamerica.png" group-title="PELÍCULAS Y SERIES",HBO LATINO
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9oYm8tZW4tdml2by5odG1s/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue-700x321.png" group-title="PELÍCULAS Y SERIES",HBO OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aGJvb3AuMg==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2165.png" group-title="PELÍCULAS Y SERIES",HBO PLUS
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aGJvcGx1cw==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2165.png" group-title="PELÍCULAS Y SERIES",HBO PLUS HD
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aGJvcGx1c2hk/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/4/45/IbnsA9mAqE0U6O.png/revision/latest?cb=20151009181232&path-prefix=es" group-title="PELÍCULAS Y SERIES",HBO SIGNATURE
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aGJvc2lnbmF0dXJl/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516" group-title="PELÍCULAS Y SERIES",MAXUP
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/bWF4dXA=/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/b/bf/Mp-08.png/revision/latest?cb=20110620211839&path-prefix=es" group-title="PELÍCULAS Y SERIES", MULTIPREMIER
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/bXVsdGlwcmVtaWVy/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/d/d9/Paramount_channel_logo.png" group-title="PELÍCULAS Y SERIES",PARAMOUNT CHANNEL
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/cGFyYW1vdW50Y2hhbm5lbA==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://internet.alfasurtfibraoptica.com/wp-content/uploads/2016/07/space-en-vivo-online.png" group-title="PELÍCULAS Y SERIES",SPACE
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/c3BhY2U=/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://internet.alfasurtfibraoptica.com/wp-content/uploads/2016/07/space-en-vivo-online.png" group-title="PELÍCULAS Y SERIES",SPACE HD
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/c3BhY2VoZA==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://internet.alfasurtfibraoptica.com/wp-content/uploads/2016/07/space-en-vivo-online.png" group-title="PELÍCULAS Y SERIES",SPACE OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/c3BhY2VvcC4y/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/49/81/6a/49816a3abc55802c1442d81bd8498ca7.jpg" group-title="PELÍCULAS Y SERIES",STUDIO UNIVERSAL
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/c3R1ZGlvdW5pdmVyc2Fs/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/49/81/6a/49816a3abc55802c1442d81bd8498ca7.jpg" group-title="PELÍCULAS Y SERIES",STUDIO UNIVERSAL OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/c3R1ZGlvdW5pdmVyc2Fsb3AuMg==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="PELÍCULAS Y SERIES",SYFY
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/c3lmeQ==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/FILM-ZONE.jpg" group-title="PELÍCULAS Y SERIES",THE FILM ZONE
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dGhlZmlsbXpvbmU=/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/FILM-ZONE.jpg" group-title="PELÍCULAS Y SERIES",THE FILM ZONE OP. 2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dGhlZmlsbXpvbmVvcC4y/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tbsila.cdn.turner.com/tbsila/hashtag/assets/tcm/logo.png" group-title="PELÍCULAS Y SERIES",TMC
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dG1j/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canaltnt.es/dynamic/channel/00000000/12/d9faae6d68fe0b8a80f646e286157db1135cc2ac_1461934546.png" group-title="PELÍCULAS Y SERIES",TNT
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dG50/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-MoRtXgzhRkw/UNOLefNLaVI/AAAAAAAAAB8/H4eNMcGxRyo/s1600/640px-TNT_HD.png" group-title="PELÍCULAS Y SERIES",TNT HD
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dG50aGQ=/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canaltnt.es/dynamic/channel/00000000/12/d9faae6d68fe0b8a80f646e286157db1135cc2ac_1461934546.png" group-title="PELÍCULAS Y SERIES",TNT OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dG50b3AuMg==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logosolusa.com/wp-content/uploads/parser/TNT-Serie-Logo-1.png" group-title="PELÍCULAS Y SERIES",TNT SERIES
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dG50c2VyaWVz/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logosolusa.com/wp-content/uploads/parser/TNT-Serie-Logo-1.png" group-title="PELÍCULAS Y SERIES",TNT SERIES OP.2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dG50c2VyaWVzb3AuMg==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logosolusa.com/wp-content/uploads/parser/TNT-Serie-Logo-1.png" group-title="PELÍCULAS Y SERIES",TNT SERIES OP.3
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dG50c2VyaWVzb3AuMw==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="PELÍCULAS Y SERIES",UNIVERSAL CHANNEL
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dW5pdmVyc2FsY2hhbm5lbA==/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/0/0c/Logo_Universal-Channel_HD.svg/800px-Logo_Universal-Channel_HD.svg.png" group-title="PELÍCULAS Y SERIES",UNIVERSAL CHANNEL HD
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dW5pdmVyc2FsY2hhbm5lbGhk/visita-exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="PELÍCULAS Y SERIES",WARNER CHANNEL
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/d2FybmVyY2hhbm5lbA==/visita-exabytetv.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/825376881193070592/7W4w3Kia_bigger.jpg", PELICULAS - CINE - SERIES
+ 
+group,PELÍCULAS-CINE-SERIES
+#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="CINE", A&E
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/YSZl/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="CINE", A&E  
+http://nitrotv.for-the.biz:25461/live/EAS22/7777/2.ts
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-RigzES2ZCHs/AAAAAAAAAAI/AAAAAAAAAAA/7Sj9DbFYW3U/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" , Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0 tvg-logo="http://masaryk.tv/wp-content/uploads/2015/05/az-cinema-cartel.jpg" group-title="CINE", AZTECA CINEMA
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/YXp0ZWNhY2luZW1h/visita-exabytetv.m3u8
+#EXTINF:0 tvg-logo="http://masaryk.tv/wp-content/uploads/2015/05/az-cinema-cartel.jpg" group-title="CINE", AZTECA CINEMA
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15927.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/32.png" group-title="CINE", Comedy Central
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Y29tZWR5Y2VudHJhbA==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/32.png" group-title="CINE", Comedy Central
+http://209.126.116.177:2086/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/5.png" group-title="CINE", Distrito Comedia
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/ZGlzdHJpdG9jb21lZGlh/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/17.png" group-title="CINE", TBS
+http://209.126.116.177:2086/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/the-film-zone-e.gif" group-title="CINE", Film Zone
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dGhlZmlsbXpvbmU=/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/11.png" group-title="CINE", Isat
+http://live.tvplayerlatino.com/usuarios/src1/ISat/Elarqi/7qe.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/tcm.png" group-title="CINE", TCM
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dG1j/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/13.png" group-title="CINE", Studio Universal
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/c3R1ZGlvdW5pdmVyc2Fsb3AuMg==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/13.png" group-title="CINE", Studio Universal
+http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/amc.png" group-title="CINE", AMC
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/YW1j/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/20.png" group-title="CINE", Sony
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/c29ueQ==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/20.png" group-title="CINE", Sony
+http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="Cine", Space
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/c3BhY2U=/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/22.png" group-title="CINE", SyFy
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/c3lmeQ==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/22.png" group-title="CINE", SyFy
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/1_abba071f13.jpg?ssl=1&w=450" group-title="CINE", AXN
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/YXhub3AuMg==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/1_abba071f13.jpg?ssl=1&w=450" group-title="CINE", AXN
+http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png" group-title="Cine", TNT
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dG50/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png" group-title="Cine", TNT
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/tnt-series.png" group-title="CINE", TNT Series
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dG50c2VyaWVz/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/tnt-series.png" group-title="CINE", TNT Series
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png" group-title="CINE", Universal Channel
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/dW5pdmVyc2FsY2hhbm5lbA==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png" group-title="CINE", Universal Channel
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png" group-title="CINE", Warner Channel
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/d2FybmVyY2hhbm5lbA==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png" group-title="CINE", Warner Channel
+http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/CINE-canal.png" group-title="CINE", CINEcanal
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Y2luZWNhbmFsb3AuMw==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/16.png" group-title="CINE", CINEmax
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Y2luZW1heG9wLjI=/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/fx.png" group-title="CINE", FX
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zng=/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/fx.png" group-title="CINE", FX
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png" group-title="CINE", Fox
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png" group-title="CINE", Fox
+http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/16.png" group-title="CINE", FOX Life
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94bGlmZQ==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/16.png" group-title="CINE", FOX Life
+http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg" group-title="CINE", Fox Premium Series
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94c2VyaWVz/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-action.png" group-title="CINE", Fox Action
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94YWN0aW9u/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94Y2luZW1h/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-classics.png" group-title="CINE", Fox Classics
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94Y2xhc3NpY3M=/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="CINE", Fox Movies
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94bW92aWVz/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zmTGzafOIe8/Vfz6Yzk1MQI/AAAAAAAAAX0/bomr2zyOrdw/s400/logo%2BFOX%2BFAMILY.png" group-title="CINE", Fox Family
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94ZmFtaWx5/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Comedy-Logo-01.png" group-title="CINE", Fox Comedy
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Zm94Y29tZWR5/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png" group-title="CINE", HBO
+http://edge99007.livesports.pw/live/verhbodoslat25784f751d35899003/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png" group-title="CINE", HBO
+http://edge99006.livesports.pw/live/verhbodoslat25784f751d35899003/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png" group-title="CINE", HBO
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aGJv/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="Cine", HBO 2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aGJvMg==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cine", HBO Family
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aGJvZmFtaWx5b3AuMg==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif" group-title="CINE", HBO Plus
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aGJvcGx1cw==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/hbo-signature.gif" group-title="CINE", HBO Signature
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/aGJvc2lnbmF0dXJl/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="CINE", Max
+http://nitrotv.for-the.biz:25461/live/EAS22/7777/5803.ts
+#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="CINE", Max Prime
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/MDNIJ-1011001011110110010101101111101-ExabyteTV-holis/bWF4LXByaW1l/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbM9Q/075938049b.png" group-title="CINE", Max Up
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/bWF4dXA=/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.CINEytele.com/wp-content/uploads/2016/06/paramount-channel.png" group-title="España", Paramount Channel
+http://live.tvplayerlatino.com/usuarios/src5/Paramount/Elarqi/7qe.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/b/bf/Mp-08.png/revision/latest?cb=20110620211839&path-prefix=es" group-title="CINE", MultiPremier
+http://live.tvplayerlatino.com/usuarios/src5/MultiPremier/Elarqi/7qe.m3u8
+#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="CINE", SUNDANCE Channel
+http://nitrotv.for-the.biz:25461/live/EAS22/7777/5812.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/434292249719885824/RYy0Zc69.png" group-title="CINE", MC
+http://s1.iptv66.tv/live/7984279085471/7984279085471/431.ts
+#EXTINF:-1 tvg-logo="http://agendatv.com.mx/wp-content/uploads/stories/2010/Mayo/logo-filmsarts.jpg" group-title="CINE", Film & Arts Latinoamerica
+http://s1.iptv66.tv/live/7984279085471/7984279085471/213.ts
+#EXTINF:-1 tvg-logo="http://diesl.com/wp-content/uploads/2013/04/eurochannel3.jpg" group-title="CINE", Eurochannel
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/211.flv
+#EXTINF:-1 tvg-logo="http://airecable.com/wp-content/uploads/2013/09/EUROPA-EUROPA.png" group-title="CINE", Europa Europa
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/212.flv
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/6.png" group-title="CINE", Golden Edge
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Z29sZGVuZWRnZQ==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/30.png" group-title="CINE", Golden HD
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Z29sZGVuaGQ=/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-m_F6pXqflvI/VfZT4h5IM2I/AAAAAAAACUE/Y50lSWpQ03s/s288-Ic42/Cinema_golden_en-vivo.png" group-title="CINE", GOLDEN MULTIPLEX
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Z29sZGVuZWRnZW9wLjI=/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbMeZ/0502ebe188.png" group-title="CINE", Golden Premier
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Z29sZGVucHJlbWllcg==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbMih/f670253ae9.png" group-title="CINE", Golden Premier 2
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/Z29sZGVucHJlbWllcjI=/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/2016/03/CINElatinologo_616-150x120.png" group-title="CINE", CINE Latino
+http://wowza2.mysoltv.com:1992/Latino_CINELATINO/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11737_7_225568.png" group-title="CINE", CINEma Dinamita
+http://s1.iptv66.tv/live/7984279085471/7984279085471/203.ts
+#EXTINF:-1 tvg-logo="http://14575-presscdn-0-73.pagely.netdna-cdn.com/wp-content/uploads/2014/05/depelicula_gallery.jpg" group-title="CINE", DE PELICULA
+http://romeo.exabytetv.info/exabytetv-esgratis/roberta/PGQZZ-1011001100010000111010100001000-ExabyteTV-holis/ZGVwZWxpY3VsYQ==/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MxFVv8kb3V4/VOY5A8D-VaI/AAAAAAAAAPA/hsjTaa44_3s/s1600/icon.png" group-title="CINE", CINE ON DEMAND
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8?wowzasessionid=412620615
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XPEodnr.png" group-title="CINE", Telecine Action
+http://BelcoCanaisHdPremium@stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="CINE", CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/1605.png" group-title="CINE", Cine AR
+http://ar.watcha.live/ch17/hi.m3u8
+#EXTINF:-1 tvg-logo="http://multiredtv.com/wp-content/uploads/2014/07/katyhd_320.jpg" group-title="CINE", Katy HD Movies
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_katyhd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/0/1/0/20109787/20109787,640x360,b:2.jpg" group-title="CINE", Vitato Movie
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_vitatotv/chunklist.m3u8
+#EXTINF:-1, Cine Star
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_cine_star/chunklist.m3u8
+#EXTINF:-1, CineScape
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_cinescape/chunklist.m3u8
+#EXTINF:-1, Mega Extremo
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_mega_extremo/chunklist.m3u8
+#EXTINF:-1, Cine Calidad
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cine_calidad/chunklist.m3u8
+#EXTINF:-1, Broad Movies
+https://hls-ord-1a.vaughnsoft.net/ord/live/live_broadmovieshd/chunklist.m3u8
+#EXTINF:-1, Icrememax
+https://hls-ord-4a.vaughnsoft.net/den/live/live_lcrememax/chunklist.m3u8
+#EXTINF:-1, Zona Terror
+https://hls-ord-4a.vaughnsoft.net/ams/live/live_zonafilmsterror/chunklist.m3u8
+#EXTINF:-1, Movies
+https://www.youtube.com/watch?v=QdsBWySpsNc
+#EXTINF:-1, Movies1
+https://www.youtube.com/watch?v=pcozU53QOxI
+#EXTINF:-1, Movies2
+https://www.youtube.com/watch?v=oDiNAW2esWg
+#EXTINF:-1, Movies3
+https://www.youtube.com/watch?v=mvRhby4kMkY
+#EXTINF:-1, Movies4
+https://www.youtube.com/watch?v=-xIDynuYaRw
+#EXTINF:-1, Movies5
+https://www.youtube.com/watch?v=FYz5tYQ2_mk
+#EXTINF:-1 tvg-logo="http://18839-presscdn.pagely.netdna-cdn.com/wp-content/uploads/2015/10/El-Rey-Network.jpg" group-title="CINE", EL Rey Network
+http://basic.ioiptv.com:8000/live/pedro/pedro/4980.ts
+#EXTINF:-1, 高清影院 Movies1
+http://dlhls.cdn.zhanqi.tv/zqlive/75885_IvfFq.m3u8
+#EXTINF:-1, 高清影院 Movies2
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:-1, 高清影院 Movies3
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:-1, 高清影院 Movies4
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+#EXTINF:-1, JUEGO DE TRONOS  
+http://basic.ioiptv.com:8000/live/pedro/pedro/4365.ts
