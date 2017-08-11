@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>AMERICAN HORROR STORY </title>        
-<urlsolve>http://diskokosmiko.mx/SeriesHD/american-horror-story-dual-t6-44765</urlsolve>
-<thumbnail>http://diskokosmiko.mx/SeriesHD/american-horror-story-dual-t6-44765</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLOR lime][COLOR  lime]*[/COLOR]peliculas de extrenos de 2016[/COLOR][COLOR=yellow]>>[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
