@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[B][COLOR powderblue]VIDEOS/RESUMENES[/COLOR][/B]</title>        
+<urlsolve>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/acestreams.xml</urlsolve>
+<thumbnail>http://i.imgur.com/O3UEdQP.png</thumbnail>
+<fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR powderblue]CARRERAS[/COLOR][/B] </title>        
+<urlsolve></urlsolve>
+<thumbnail>http://i.imgur.com/O3UEdQP.png</thumbnail>
+<fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR powderblue]EVENTOS[/COLOR][/B]</title>        
+<urlsolve></urlsolve>
+<thumbnail>http://i.imgur.com/O3UEdQP.png</thumbnail>
+<fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
+</item>
+
+
