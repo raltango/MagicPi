@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
 <title>-----------------[B][COLOR powderblue]VIDEOS/RESUMENES[/COLOR][/B]----------------</title>
+</item>
 
 <item>
 <title>2017 Canadian Grand Prix: Race Highlights </title>        
@@ -33,6 +35,13 @@
 <item>
 <title>2017 Russian Grand Prix: Race Highlights</title>        
 <urlsolve>https://youtu.be/xtHtegExhXY</urlsolve>
+<thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
+<fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
+</item>
+
+<item>
+<title>exabyte</title>        
+<urlsolve>https://exabyte.info/sgeox.m3u</urlsolve>
 <thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
 </item>
