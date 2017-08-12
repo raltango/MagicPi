@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+-----------------[B][COLOR powderblue]VIDEOS/RESUMENES[/COLOR][/B]----------------
+
 <item>
-<title>[B][COLOR powderblue]VIDEOS/RESUMENES[/COLOR][/B]</title>        
-<urlsolve>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/acestreams.xml</urlsolve>
-<thumbnail>http://i.imgur.com/O3UEdQP.png</thumbnail>
+<title>2017 Hungarian Grand Prix | Race Highlights </title>        
+<urlsolve>https://youtu.be/pU72heP0uH0</urlsolve>
+<thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
 </item>
 
 <item>
-<title>[B][COLOR powderblue]CARRERAS[/COLOR][/B] </title>        
-<urlsolve></urlsolve>
-<thumbnail>http://i.imgur.com/O3UEdQP.png</thumbnail>
+<title>2017 Azerbaijan Grand Prix | Race Highlights </title>        
+<urlsolve>https://youtu.be/zP3WOVR1-YU</urlsolve>
+<thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
 </item>
 
 <item>
-<title>[B][COLOR powderblue]EVENTOS[/COLOR][/B]</title>        
-<urlsolve></urlsolve>
-<thumbnail>http://i.imgur.com/O3UEdQP.png</thumbnail>
+<title>2017 Canadian Grand Prix: Race Highlights </title>        
+<urlsolve>https://youtu.be/YwL19BaHY2w</urlsolve>
+<thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
+<fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
+</item>
+
+<item>
+<title>2017 Monaco Grand Prix: Race Highlights </title>        
+<urlsolve>https://youtu.be/MzQ8CzXRO8A</urlsolve>
+<thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
 </item>
 
