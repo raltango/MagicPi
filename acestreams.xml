@@ -1,770 +1,206 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
- #EXTM3U
-
- #EXTINF:-1,AR | Bein Sports News
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/200.ts
-#EXTINF:-1,AR | Bein Sports 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/577.ts
-#EXTINF:-1,AR | Bein Sports 1 Low
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/202.ts
-#EXTINF:-1,AR | Bein Sports 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/578.ts
-#EXTINF:-1,AR | Bein Sports 2 Low
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/203.ts
-#EXTINF:-1,AR | Bein Sports 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/579.ts
-#EXTINF:-1,AR | Bein Sports 3 Low
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/204.ts
-#EXTINF:-1,AR | Bein Sports 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/580.ts
-#EXTINF:-1,AR | Bein Sports 4 Low
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/205.ts
-#EXTINF:-1,AR | Bein Sports 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/581.ts
-#EXTINF:-1,AR | Bein Sports 5 SD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/206.ts
-#EXTINF:-1,AR | Bein Sports 6 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/582.ts
-#EXTINF:-1,AR | Bein Sports 6 Low
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/207.ts
-#EXTINF:-1,AR | Bein Sports 7 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/583.ts
-#EXTINF:-1,AR | Bein Sports 7 Low
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/208.ts
-#EXTINF:-1,AR | Bein Sports 8 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/584.ts
-#EXTINF:-1,AR | Bein Sports 8 Low
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/209.ts
-#EXTINF:-1,AR | Bein Sports 9 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/585.ts
-#EXTINF:-1,AR | Bein Sports 9 SD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/210.ts
-#EXTINF:-1,AR | Bein Sports 10 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/586.ts
-#EXTINF:-1,AR | Bein Sports 10 SD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/211.ts
-#EXTINF:-1,EN | Bein Sports 11 SD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/212.ts
-#EXTINF:-1,EN | Bein Sports 11 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/587.ts
-#EXTINF:-1,EN | Bein Sports 12 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/588.ts
-#EXTINF:-1,FR | Bein Sport Max 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/592.ts
-#EXTINF:-1,FR | Bein Sport Max 5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/593.ts
-#EXTINF:-1,FR | Bein Sport Max 6
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/594.ts
-#EXTINF:-1,FR | beIN Sport Max 7
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2201.ts
-#EXTINF:-1,FR | beIN Sport Max 8
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2202.ts
-#EXTINF:-1,FR | beIN Sport Max 9
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2203.ts
-#EXTINF:-1,FR | beIN Sport Max 10
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2204.ts
-#EXTINF:-1,beIN Sports HD ESPAGNA
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/3288.ts
-#EXTINF:-1,AR | BeIN Movies 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1352.ts
-#EXTINF:-1,AR | BeIN Movies 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/762.ts
-#EXTINF:-1,AR | BeIN Movies 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/763.ts
-#EXTINF:-1,AR | beIN Movies 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1715.ts
-#EXTINF:-1,SP-FR: INFOSPORT
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4700.ts
-#EXTINF:-1,SP-FR: Canal+ Sport HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4113.ts
-#EXTINF:-1,SP-FR: SFR Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4012.ts
-#EXTINF:-1,SP-FR: SFR Sport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4011.ts
-#EXTINF:-1,SP-FR: SFR Sports 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4010.ts
-#EXTINF:-1,SP-FR: SFR Sports 5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4009.ts
-#EXTINF:-1,SP-FR: beiN Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4112.ts
-#EXTINF:-1,SP-FR: beiN Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4111.ts
-#EXTINF:-1,SP-FR: beiN Sport 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4110.ts
-#EXTINF:-1,SP-AR: beINSports 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4071.ts
-#EXTINF:-1,SP-AR: beINSports 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4070.ts
-#EXTINF:-1,SP-AR: beINSports 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4069.ts
-#EXTINF:-1,SP-AR: beINSports 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4068.ts
-#EXTINF:-1,SP-AR: beINSports 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4067.ts
-#EXTINF:-1,SP-AR: beINSports 6 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4066.ts
-#EXTINF:-1,SP-AR: beINSports 7 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4065.ts
-#EXTINF:-1,SP-AR: beINSports 8 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4064.ts
-#EXTINF:-1,SP-AR: beINSports 9 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4063.ts
-#EXTINF:-1,SP-AR: beINSports 10 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4062.ts
-#EXTINF:-1,SP-AR: beINSports 11 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4061.ts
-#EXTINF:-1,SP-AR: OSN SPORTS 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4008.ts
-#EXTINF:-1,SP-AR: OSN SPORTS 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4007.ts
-#EXTINF:-1,SP-AR: OSN SPORTS 4HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4005.ts
-#EXTINF:-1,SP-AR:OSN SPORTS 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4006.ts
-#EXTINF:-1,SP-AR:OSN SPORTS CRICKET HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4004.ts
-#EXTINF:-1,SP-IT: Sky Sport 24 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4200.ts
-#EXTINF:-1,SP-IT: Sky Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4199.ts
-#EXTINF:-1,SP-IT: Sky Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4198.ts
-#EXTINF:-1,SP-IT: Sky Sport 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4197.ts
-#EXTINF:-1,SP-IT: Sky Sport F1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4175.ts
-#EXTINF:-1,SP-IT: Premium Calcio 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4194.ts
-#EXTINF:-1,SP-IT: Premium Calcio 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4193.ts
-#EXTINF:-1,SP-IT: Premium Calcio 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4192.ts
-#EXTINF:-1,SP-IT: Premium Calcio 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4191.ts
-#EXTINF:-1,SP-IT: Premium Calcio 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4190.ts
-#EXTINF:-1,SP-IT: Premium Calcio 6 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4189.ts
-#EXTINF:-1,SP-IT: PREMIUM SPORT HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4196.ts
-#EXTINF:-1,SP-IT: Premium Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4195.ts
-#EXTINF:-1,SP-IT: ROMA CHANNEL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4185.ts
-#EXTINF:-1,SP-IT: INTER CHANNEL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4186.ts
-#EXTINF:-1,SP-IT: Juventus Channel
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4188.ts
-#EXTINF:-1,SP-IT: Milan Channel
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4187.ts
-#EXTINF:-1,SP-IT: Sky Calcio 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4209.ts
-#EXTINF:-1,SP-IT: Sky Calcio 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4208.ts
-#EXTINF:-1,SP-IT: Sky Calcio.3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4207.ts
-#EXTINF:-1,SP-IT: Sky Calcio.4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4206.ts
-#EXTINF:-1,SP-IT: Sky Calcio.5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4205.ts
-#EXTINF:-1,SP-IT: Sky Calcio.6
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4204.ts
-#EXTINF:-1,SP-IT: Sky Calcio.7
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4203.ts
-#EXTINF:-1,SP-IT : Sky Calcio 8
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4202.ts
-#EXTINF:-1,SP-IT: Sky Sport MotoGP HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4174.ts
-#EXTINF:-1,SP-IT: Sport Italia
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4177.ts
-#EXTINF:-1,SP-IT: Super Tennis HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4180.ts
-#EXTINF:-1,SP-IT: Rai Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4184.ts
-#EXTINF:-1,SP-IT: Rai Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4183.ts
-#EXTINF:-1,SP-IT: Eurosport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4179.ts
-#EXTINF:-1,SP-IT: Eurosport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4178.ts
-#EXTINF:-1,SP-IT: Fox Sport HD Italia
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4181.ts
-#EXTINF:-1,SP-IT: San Marino Rtv Sport
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4210.ts
-#EXTINF:-1,SP-IT: AutoMoto TV
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4176.ts
-#EXTINF:-1,SP-UK: BT Sports 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4087.ts
-#EXTINF:-1,SP-UK: Liverpool FC
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4085.ts
-#EXTINF:-1,SP-UK: Manchester United TV
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4086.ts
-#EXTINF:-1,SP-UK: Sky Sport 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4084.ts
-#EXTINF:-1,SP-UK: SKY Sport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4082.ts
-#EXTINF:-1,SP-UK: Sky Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4083.ts
-#EXTINF:-1,SP-UK: Sky Sport 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4080.ts
-#EXTINF:-1,SP-UK: Sky Sport 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4081.ts
-#EXTINF:-1,SP-UK: Sky Sport 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4079.ts
-#EXTINF:-1,SP-UK: Sky Sport 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4078.ts
-#EXTINF:-1,SP-UK:BT Sports 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4091.ts
-#EXTINF:-1,SP-UK:BT Sports 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4089.ts
-#EXTINF:-1,SP-UK:BT Sports 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4090.ts
-#EXTINF:-1,SP-UK:BT Sports 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4088.ts
-#EXTINF:-1,SP-UK:Sky Sports 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4076.ts
-#EXTINF:-1,SP-UK:Sky Sports 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4075.ts
-#EXTINF:-1,SP-UK:Sky Sports 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4074.ts
-#EXTINF:-1,SP-UK:Sky Sports 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4073.ts
-#EXTINF:-1,SP-UK:Sky Sports 5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4072.ts
-#EXTINF:-1,SP-UK:Sky Sports F1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4077.ts
-#EXTINF:-1,SP-DE: Eurosport 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4151.ts
-#EXTINF:-1,SP-DE: Eurosport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4171.ts
-#EXTINF:-1,SP-DE: ORF Sport HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4150.ts
-#EXTINF:-1,SP-DE: Sky Sport 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4163.ts
-#EXTINF:-1,SP-DE: Sky Bundesliga 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4161.ts
-#EXTINF:-1,SP-DE: Sky Bundesliga 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4158.ts
-#EXTINF:-1,SP-DE: Sky Bundesliga 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4157.ts
-#EXTINF:-1,SP-DE: Sky Bundesliga 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4155.ts
-#EXTINF:-1,SP-DE: Sky Bundesliga 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4154.ts
-#EXTINF:-1,SP-DE: Sky Bundesliga 6 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4153.ts
-#EXTINF:-1,SP-DE: Sky Sport 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4169.ts
-#EXTINF:-1,SP-DE: Sky Sport 1 BackUp
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4168.ts
-#EXTINF:-1,SP-DE: Sky Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4170.ts
-#EXTINF:-1,SP-DE: Sky Sport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4166.ts
-#EXTINF:-1,SP-DE: Sky Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4167.ts
-#EXTINF:-1,SP-DE: Sky Sport 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4164.ts
-#EXTINF:-1,SP-DE: Sky Sport 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4162.ts
-#EXTINF:-1,SP-DE: Sky Sport Austria HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4172.ts
-#EXTINF:-1,SP-DE: SKY Sport News HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4173.ts
-#EXTINF:-1,SP-DE: SPORT1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4152.ts
-#EXTINF:-1,SP-DE:Sky Bundesliga 1 BackUp
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4159.ts
-#EXTINF:-1,SP-DE:Sky Sport 2 BackUp
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4165.ts
-#EXTINF:-1,SP-ES: Canal Futbol
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4125.ts
-#EXTINF:-1,SP-ES: Canal Liga
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4127.ts
-#EXTINF:-1,SP-ES: Canal Liga 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4126.ts
-#EXTINF:-1,SP-ES: REAL MADRID TV
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4124.ts
-#EXTINF:-1,SP-PT: Sport TV3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4131.ts
-#EXTINF:-1,SP-PT: Sporting TV
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4128.ts
-#EXTINF:-1,SP-PT: Sport TV 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4134.ts
-#EXTINF:-1,SP-PT: Sport TV 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4133.ts
-#EXTINF:-1,SP-PT: Sport TV 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4132.ts
-#EXTINF:-1,SP-PT: Sport TV 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4130.ts
-#EXTINF:-1,SP-PT: Sport TV 5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4129.ts
-#EXTINF:-1,SP-PT: Sport TV1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4136.ts
-#EXTINF:-1,SP-PT: Sport TV2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4135.ts
-#EXTINF:-1,SP-AL: Kujtesa Sport 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4217.ts
-#EXTINF:-1,SP-AL: Kujtesa Sport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4216.ts
-#EXTINF:-1,SP-AL: Kujtesa Sport 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4215.ts
-#EXTINF:-1,SP-AL: Kujtesa Sport 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4214.ts
-#EXTINF:-1,SP-AL: RTSH Sport HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4212.ts
-#EXTINF:-1,SP-AL: Sport Kosova 1 -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4224.ts
-#EXTINF:-1,SP-AL: Sport Kosova 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4223.ts
-#EXTINF:-1,SP-AL: SS Kosova 1 HD -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4227.ts
-#EXTINF:-1,SP-AL: SS Kosova 2HD -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4226.ts
-#EXTINF:-1,SP-AL: Super Sport 1 -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4237.ts
-#EXTINF:-1,SP-AL: Super Sport 1 HD -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4242.ts
-#EXTINF:-1,SP-AL: Super Sport 2 -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4236.ts
-#EXTINF:-1,SP-AL: Super Sport 2 HD -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4241.ts
-#EXTINF:-1,SP-AL: Super Sport 3 -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4235.ts
-#EXTINF:-1,SP-AL: Super Sport 3 HD -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4239.ts
-#EXTINF:-1,SP-AL: Super Sport 4 -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4234.ts
-#EXTINF:-1,SP-AL: Super Sport 4 HD -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4238.ts
-#EXTINF:-1,SP-AL: Super Sport 5 -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4233.ts
-#EXTINF:-1,SP-AL: Supersport 1 (backup)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4231.ts
-#EXTINF:-1,SP-AL: Supersport 2 (backup)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4230.ts
-#EXTINF:-1,SP-AL: Supersport 3 (backup)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4229.ts
-#EXTINF:-1,SP-AL: Supersport 4 (backup)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4228.ts
-#EXTINF:-1,SP-AL: SuperSport 6
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4232.ts
-#EXTINF:-1,SP-AL: SuperSport Kosova
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4225.ts
-#EXTINF:-1,SP-AL: Tele Sport
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4213.ts
-#EXTINF:-1,SP-AL: Tibo Sport 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4211.ts
-#EXTINF:-1,SP-AL: Tring Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4221.ts
-#EXTINF:-1,SP-AL: Tring Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4220.ts
-#EXTINF:-1,SP-AL: Tring Sport 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4219.ts
-#EXTINF:-1,SP-AL: Tring Sport 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4218.ts
-#EXTINF:-1,SP-AL: Tring Sport News HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4222.ts
-#EXTINF:-1,SP-AL:Super Sport 2 HD -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4240.ts
-#EXTINF:-1,SP-AR: Mio STADIUM 101
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4149.ts
-#EXTINF:-1,SP-EX YU: SPORT KLUB 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4031.ts
-#EXTINF:-1,SP-EX YU: SPORT KLUB 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4030.ts
-#EXTINF:-1,SP-EX YU: SPORT KLUB 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4029.ts
-#EXTINF:-1,SP-EX YU: SPORT KLUB 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4028.ts
-#EXTINF:-1,SP-EX-YU : SPORT KLUB 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4050.ts
-#EXTINF:-1,SP-EX-YU : SPORT KLUB 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4049.ts
-#EXTINF:-1,SP-EX-YU : SPORT KLUB 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4048.ts
-#EXTINF:-1,SP-EX-YU : Sportal TV HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4025.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 1 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4056.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 1 SRB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4047.ts
-#EXTINF:-1,SP-EX-YU: ARENA SPORT 1 SRB (local)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4042.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 2 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4055.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 2 SRB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4046.ts
-#EXTINF:-1,SP-EX-YU: ARENA SPORT 2 SRB (local)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4041.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 3 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4053.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 3 SRB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4045.ts
-#EXTINF:-1,SP-EX-YU: ARENA SPORT 3 SRB (reserve)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4040.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 4 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4054.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 4 SRB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4044.ts
-#EXTINF:-1,SP-EX-YU: ARENA SPORT 4 SRB (reserve)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4039.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 5 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4052.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 5 SRB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4043.ts
-#EXTINF:-1,SP-EX-YU: ARENA SPORT 5 SRB (reserve)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4038.ts
-#EXTINF:-1,SP-EX-YU: Sport Klub 1 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4060.ts
-#EXTINF:-1,SP-EX-YU: Sport Klub 2 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4059.ts
-#EXTINF:-1,SP-EX-YU: Sport Klub 3 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4058.ts
-#EXTINF:-1,SP-EX-YU: SPORT KLUB 5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4027.ts
-#EXTINF:-1,SP-EX-YU: SPORT KLUB 6
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4026.ts
-#EXTINF:-1,SP-EX-YU: SPORT TV 1 HD SLO
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4034.ts
-#EXTINF:-1,SP-EX-YU: SPORT TV 2 HD SLO
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4033.ts
-#EXTINF:-1,SP-EX-YU: SPORT TV 3 HD SLO
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4032.ts
-#EXTINF:-1,SP-EX-YU: SPORTKLUB 1 HD SLO
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4037.ts
-#EXTINF:-1,SP-EX-YU: SPORTKLUB 2 HD SLO
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4036.ts
-#EXTINF:-1,SP-EX-YU: SPORTKLUB 3 HD SLO
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4035.ts
-#EXTINF:-1,SP-Ex-Yu:Sport Klub 6
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4057.ts
-#EXTINF:-1,SP-EX:YU: ARENA SPORT 6 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4051.ts
-#EXTINF:-1,SP-NL: Fox Sports 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4107.ts
-#EXTINF:-1,SP-NL: Fox Sports 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4106.ts
-#EXTINF:-1,SP-NL: Ziggo Sport Extra 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4109.ts
-#EXTINF:-1,SP-NL: Ziggo Sport Extra 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4108.ts
-#EXTINF:-1,SP-RO: DIGI Sport 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4024.ts
-#EXTINF:-1,SP-RO: DIGI Sport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4023.ts
-#EXTINF:-1,SP-RO: DIGI Sport 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4022.ts
-#EXTINF:-1,SP-SP: Astro Sports 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4018.ts
-#EXTINF:-1,SP-SP: Astro Sports 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4017.ts
-#EXTINF:-1,SP-SP: Astro sports 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4016.ts
-#EXTINF:-1,SP-SP: Astro Sports 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4015.ts
-#EXTINF:-1,SP-SP: Bundesliga 3 (Only Live Matches) back up
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4156.ts
-#EXTINF:-1,SP-SP: Digi Sport 1 Hungary
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4020.ts
-#EXTINF:-1,SP-SP: Digi Sport 2 Hungary
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4019.ts
-#EXTINF:-1,SP-SP: Digi Sport 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4021.ts
-#EXTINF:-1,SP-SP: Dolce-Sport-2-HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4013.ts
-#EXTINF:-1,SP-SP: Fox Sports 1 Asia
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4105.ts
-#EXTINF:-1,SP-SP: Fox Sports 2 Asia
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4104.ts
-#EXTINF:-1,SP-SP: Fox Sports 3 Asia
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4103.ts
-#EXTINF:-1,SP-SP: Mio STADIUM 102
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4148.ts
-#EXTINF:-1,SP-SP: Mio STADIUM 103
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4147.ts
-#EXTINF:-1,SP-SP: Mio STADIUM 104
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4146.ts
-#EXTINF:-1,SP-SP: Mio STADIUM 105
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4145.ts
-#EXTINF:-1,SP-SP: Mio STADIUM 106
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4144.ts
-#EXTINF:-1,SP-SP: SKYNET SPORTS 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4142.ts
-#EXTINF:-1,SP-SP: SKYNET SPORTS 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4141.ts
-#EXTINF:-1,SP-SP: SKYNET SPORTS 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4139.ts
-#EXTINF:-1,SP-SP: SKYNET SPORTS 5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4138.ts
-#EXTINF:-1,SP-SP: SKYNET SPORTS 6
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4137.ts
-#EXTINF:-1,SP-SP: SKYNET SPORTS HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4143.ts
-#EXTINF:-1,SP-SP:Dolce-Sport-1-HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4014.ts
-#EXTINF:-1,SP-SP:SKYNET SPORTS 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4140.ts
-#EXTINF:-1,SP-TR: A Spor HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4096.ts
-#EXTINF:-1,SP-TR: Lig TV 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4101.ts
-#EXTINF:-1,SP-TR: Lig TV 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4100.ts
-#EXTINF:-1,SP-TR: Lig TV 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4099.ts
-#EXTINF:-1,SP-TR: Lig TV 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4098.ts
-#EXTINF:-1,SP-TR: NTV Spor
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4097.ts
-#EXTINF:-1,SP-TR: TIVIBU SPORT 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4095.ts
-#EXTINF:-1,SP-TR: TIVIBU SPORT 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4094.ts
-#EXTINF:-1,SP-TR: TIVIBU SPORT 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4093.ts
-#EXTINF:-1,SP-TR: TIVIBU SPORT 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4092.ts
-#EXTINF:-1,SP-US: ESPN 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4114.ts
-#EXTINF:-1,SP-USA: AFN Sports
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4117.ts
-#EXTINF:-1,SP-USA: AFN Sports 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4116.ts
-#EXTINF:-1,SP-USA: AFN Sports HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4118.ts
-#EXTINF:-1,SP-USA: FOX Sport 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4115.ts
-#EXTINF:-1,SP-USA: Tsn-Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4123.ts
-#EXTINF:-1,SP-USA: Tsn-Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4122.ts
-#EXTINF:-1,SP-USA: Tsn-Sport 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4121.ts
-#EXTINF:-1,SP-USA: Tsn-Sport 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4120.ts
-#EXTINF:-1,SP-USA: Tsn-Sport 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4119.ts
-#EXTINF:-1,UK: Sky Sports Main Event ▀ Sports Section ▀
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/806.ts
-#EXTINF:-1,UK: Sky Sports Main Event
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/823.ts
-#EXTINF:-1,Sky Sports Arena HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2308.ts
-#EXTINF:-1,Sky Sports Football HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2307.ts
-#EXTINF:-1,UK: Sky Sports Cricket HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/813.ts
-#EXTINF:-1,UK: Sky Sports Cricket
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/822.ts
-#EXTINF:-1,UK: Sky Sports Action HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/795.ts
-#EXTINF:-1,UK: Sky Sports Action
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/821.ts
-#EXTINF:-1,UK: Sky Sports Golf HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/796.ts
-#EXTINF:-1,UK: Sky Sports Golf
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/820.ts
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/834.ts
-#EXTINF:-1,UK: Sky Sports Premier League
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/797.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/807.ts
-#EXTINF:-1,UK: Sky Sport F1
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1426.ts
-#EXTINF:-1,UK: Sky Sport MIX
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1424.ts
-#EXTINF:-1,UK Sky Sports News HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/824.ts
-#EXTINF:-1,Uk: Sky sports news
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/814.ts
-#EXTINF:-1,UK: Premier Sport HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/800.ts
-#EXTINF:-1,UK: Premier Sport
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1427.ts
-#EXTINF:-1,UK: Eir Sport 1 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/802.ts
-#EXTINF:-1,UK: Eir Sport 1
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1429.ts
-#EXTINF:-1,UK: Setanta Sport
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/851.ts
-#EXTINF:-1,UK: BT Sports 1 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1433.ts
-#EXTINF:-1,UK: BT Sports 1
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1325.ts
-#EXTINF:-1,UK: BT Sports 2 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1432.ts
-#EXTINF:-1,UK: BT Sports 2
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1326.ts
-#EXTINF:-1,UK: BT Sports ESPN HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/848.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1430.ts
-#EXTINF:-1,UK: BT Sports Europe HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/829.ts
-#EXTINF:-1,UK: Box Nation HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1435.ts
-#EXTINF:-1,UK: Box Nation
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1434.ts
-#EXTINF:-1,UK: FIGHTBOX HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/826.ts
-#EXTINF:-1,MOTORSPORTS 7 -USA
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/852.ts
-#EXTINF:-1,UK: At The Races UK
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/825.ts
-#EXTINF:-1,UK:AT The Races
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2441.ts
-#EXTINF:-1,UK:At The Races..
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2440.ts
-#EXTINF:-1,UK: Racing UK
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1467.ts
-#EXTINF:-1,UK: Racing UK HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/847.ts
-#EXTINF:-1,Uk : Racing UK.
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1228.ts
-#EXTINF:-1,UK: British Eurosport
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/846.ts
-#EXTINF:-1,UK: Eurosports 1
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/798.ts
-#EXTINF:-1,UK: Eurosport 1 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/828.ts
-#EXTINF:-1,UK: British Eurosport 2
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/845.ts
-#EXTINF:-1,UK: Eurosport 2
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/799.ts
-#EXTINF:-1,UK: Eurosport 2 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/827.ts
-#EXTINF:-1,UK: LIVERPOOL FC TV
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1492.ts
-#EXTINF:-1,UK:LIVERPOOL FC TV HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1493.ts
-#EXTINF:-1,UK: Chelsea Tv HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/842.ts
-#EXTINF:-1,UK: Chelsea Tv
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1425.ts
-#EXTINF:-1,UK: MUTV HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/841.ts
-#EXTINF:-1,UK: MUTV
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1487.ts
-#EXTINF:-1,UK: Celtic TV
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1501.ts
-#EXTINF:-1,UK: Rangers TV ( live matches only )
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1098.ts
-#EXTINF:-1,UK: SKYBOX OFFICE PPV
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1263.ts
-#EXTINF:-1,UK: SKYBOX OFFICE PPV (on Event Oly)
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1264.ts
-#EXTINF:-1,ITV Box Office
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1495.ts
-#EXTINF:-1,== VIP Bein Sport HD==
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/810.ts
-#EXTINF:-1,VIP: Bein Sport 2 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/809.ts
-#EXTINF:-1,VIP: Bein Sport 3 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/815.ts
-#EXTINF:-1,VIP: Bein Sport 4 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/816.ts
-#EXTINF:-1,VIP: Bein Sport 5
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/817.ts
-#EXTINF:-1,VIP: Bein Sport 6 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/818.ts
-#EXTINF:-1,AR_BEINSPORT_7HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/859.ts
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/850.ts
-#EXTINF:-1,AR_BEINSPORT_8HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/858.ts
-#EXTINF:-1,AR_BEINSPORT_9HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/857.ts
-#EXTINF:-1,AR_BEINSPORT_10HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/856.ts
-#EXTINF:-1,AR_BEINSPORT_12HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/839.ts
-#EXTINF:-1,AR_BEINSPORT_13HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/840.ts
-#EXTINF:-1,AR_MBC_PROSPORT1
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/811.ts
-#EXTINF:-1,FR: SFR SPORTS 1 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/854.ts
-#EXTINF:-1,FR: SFR SPORTS 2 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/855.ts
-#EXTINF:-1,Ex-Yu: Areana Sports 2 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2311.ts
-#EXTINF:-1,Ex-Yu: Arena Sports 3
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2314.ts
-#EXTINF:-1,Ex-Yu: Arena Sports 1
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2310.ts
-#EXTINF:-1,Ex-Yu: Arena Sports 1 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2309.ts
-#EXTINF:-1,Ex-Yu: Arena Sports 2
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2312.ts
-#EXTINF:-1,Ex-Yu: Arena Sports 3 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2313.ts
-#EXTINF:-1,Ex-Yu: Arena Sports 4
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2316.ts
-#EXTINF:-1,Ex-Yu: Arena Sports 4 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2315.ts
-#EXTINF:-1,Ex-Yu: Arena Sports 5 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2317.ts
-#EXTINF:-1,Ex-Yu: Sport Klub 1 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2318.ts
-#EXTINF:-1,Ex-Yu: Sport Klub 2 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2319.ts
-#EXTINF:-1,Ex-Yu: Sport Klub 3 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2320.ts
-#EXTINF:-1,PT: Sport TV 1 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2364.ts
-#EXTINF:-1,PT: Sport TV 2 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2365.ts
-#EXTINF:-1,PT: Sport TV 3 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2366.ts
-#EXTINF:-1,PT: Sport TV 5 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2368.ts
-#EXTINF:-1,PT:Sport TV 4 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2367.ts
-#EXTINF:-1,US: Skynet Sports 1 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2375.ts
-#EXTINF:-1,US: Skynet Sports 2 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2370.ts
-#EXTINF:-1,US: Skynet Sports 3 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2371.ts
-#EXTINF:-1,US: Skynet Sports 4 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2372.ts
-#EXTINF:-1,US: Skynet Sports 5 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2373.ts
-#EXTINF:-1,US: Skynet Sports 6 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/2374.ts
-#EXTINF:-1,US: WWE HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1488.ts
-#EXTINF:-1,US: WWE Network
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1331.ts
-#EXTINF:-1,US: Willow Cricket HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1518.ts
-#EXTINF:-1,US: NBC Sport HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1513.ts
-#EXTINF:-1,US: Sports Net 360 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1502.ts
-#EXTINF:-1,US: Sports Net HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1500.ts
-#EXTINF:-1,US: TSN 1 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1508.ts
-#EXTINF:-1,US: TSN 2HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1509.ts
-#EXTINF:-1,US: TSN 3 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1510.ts
-#EXTINF:-1,US: TSN 4 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1511.ts
-#EXTINF:-1,US: TSN 5 HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1512.ts
-#EXTINF:-1,US: ESPN HD
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1516.ts
-#EXTINF:-1,US: Fox Sport 1
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1514.ts
-#EXTINF:-1,US: Fox Sport 2
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/1515.ts
-#EXTINF:-1,US: Fox Sports 3
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/808.ts
-#EXTINF:-1,USA_NBC_SPORT
-http://topdogiptv.star4tv.com:25461/live/sOM3bzDwJL/EP6sHe1elt/801.ts
+#EXTINF:0 group-title="Z omitir",== PELÍCULAS Y SERIES ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Exabyte TV AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="PELÍCULAS Y SERIES",AMC (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/444/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="PELÍCULAS Y SERIES",AMC (Op2)
+http://premium.exabytetv.info/HLSST/485/485-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="PELÍCULAS Y SERIES",Atreseries Español
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Az Cinema" tvg-name="Az Cinema" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-cinema.gif" group-title="PELÍCULAS Y SERIES",Az Cinema (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/425/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-(w).gif" group-title="PELÍCULAS Y SERIES",Cinecanal (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/480/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="PELÍCULAS Y SERIES",Cinecanal+ (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/430/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="PELÍCULAS Y SERIES",Cinecanal+ (Op2)
+http://premium.exabytetv.info/HLSST/13424/13424-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/873.png" group-title="PELÍCULAS Y SERIES",Cine Dinamita
+http://premium.exabytetv.info/HLSST/3465/3465-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Cine Latino" tvg-name="Cine Latino" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cine-latino.gif" group-title="PELÍCULAS Y SERIES",Cine Latino
+http://premium.exabytetv.info/HLSST/477/477-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Cinemax (O)" tvg-name="Cinemax (O)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-(w).gif" group-title="PELÍCULAS Y SERIES",Cinemax (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/481/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Cinemax (O)" tvg-name="Cinemax (O)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-(w).gif" group-title="PELÍCULAS Y SERIES",Cinemax (Op2)
+http://premium.exabytetv.info/HLSST/343/343-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3688.png" group-title="PELÍCULAS Y SERIES",De Pelicula Multiplex
+http://premium.exabytetv.info/HLSST/13430/13430-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV De Película" tvg-name="De Película" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-película-hd.gif" group-title="PELÍCULAS Y SERIES",De Película (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/442/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV De Película" tvg-name="De Película" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-película-hd.gif" group-title="PELÍCULAS Y SERIES",De Película (Op2)
+http://premium.exabytetv.info/HLSST/13429/13429-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/943.png" group-title="PELÍCULAS Y SERIES",Film & Arts Latino
+http://premium.exabytetv.info/HLSST/1599/1599-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Fox 1 (E)" tvg-name="Fox 1 (E)" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/211.png" group-title="PELÍCULAS Y SERIES",Fox 1 Este
+http://premium.exabytetv.info/HLSST/433/433-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Fox 1 (E)" tvg-name="Fox 1 (E)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-1-hd.gif" group-title="PELÍCULAS Y SERIES",Fox 1 HD (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/415/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Fox 1 (W)" tvg-name="Fox 1 (W)" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/211.png" group-title="PELÍCULAS Y SERIES",Fox 1 Oeste
+http://premium.exabytetv.info/HLSST/439/439-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Action (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/416/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Fox Cinéma" tvg-name="Fox Cinéma" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-cinéma.gif" group-title="PELÍCULAS Y SERIES",Fox Cinema (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/421/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Fox Cinéma" tvg-name="Fox Cinéma" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-cinéma.gif" group-title="PELÍCULAS Y SERIES",Fox Cinema (Op2)
+http://premium.exabytetv.info/HLSST/457/457-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif" group-title="PELÍCULAS Y SERIES",Fox Classics (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/424/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif" group-title="PELÍCULAS Y SERIES",Fox Classics (Op2)
+http://premium.exabytetv.info/HLSST/465/465-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/175.png" group-title="PELÍCULAS Y SERIES",Fox Comedy
+http://premium.exabytetv.info/HLSST/461/461-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Fox Family (E)" tvg-name="Fox Family (E)" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/173.png" group-title="PELÍCULAS Y SERIES",Fox Family
+http://premium.exabytetv.info/HLSST/467/467-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Fox Movies" tvg-name="Fox Movies" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Movies
+http://premium.exabytetv.info/HLSST/463/463-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Movies HD (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/417/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Golden" tvg-name="Golden" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden.gif" group-title="PELÍCULAS Y SERIES",Golden
+http://premium.exabytetv.info/HLSST/264/264-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Golden Edge" tvg-name="Golden Edge" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif" group-title="PELÍCULAS Y SERIES",Golden Edge (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/484/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Golden Edge" tvg-name="Golden Edge" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif" group-title="PELÍCULAS Y SERIES",Golden Edge (Op2)
+http://premium.exabytetv.info/HLSST/1465/1465-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Golden HD" tvg-name="Golden HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif" group-title="PELÍCULAS Y SERIES",Golden HD (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/436/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV I.Sat" tvg-name="I.Sat" tvg-logo="http://y.cdn.entutele.com/media/channels/big/i.sat.gif" group-title="PELÍCULAS Y SERIES",I.Sat (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/495/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Multipremier" tvg-name="Multipremier" tvg-logo="http://z.cdn.entutele.com/media/channels/big/multipremier.gif" group-title="PELÍCULAS Y SERIES",Multipremier
+http://premium.exabytetv.info/HLSST/3293/3293-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/18.png" group-title="PELÍCULAS Y SERIES",Paramount Channel Latino
+http://premium.exabytetv.info/HLSST/260/260-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="PELÍCULAS Y SERIES",Space (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/491/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="PELÍCULAS Y SERIES",Space (Op2)
+http://premium.exabytetv.info/HLSST/2489/2489-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Space HD" tvg-name="Space HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif" group-title="PELÍCULAS Y SERIES",Space HD (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/445/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="PELÍCULAS Y SERIES",Studio Universal (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/492/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="PELÍCULAS Y SERIES",Studio Universal (Op2)
+http://premium.exabytetv.info/HLSST/345/345-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="PELÍCULAS Y SERIES",TCM (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/496/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="PELÍCULAS Y SERIES",TCM (Op2)
+http://premium.exabytetv.info/HLSST/481/481-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV TNT" tvg-name="TNT" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif" group-title="PELÍCULAS Y SERIES",TNT (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/482/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV TNT" tvg-name="TNT" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif" group-title="PELÍCULAS Y SERIES",TNT (Op2)
+http://premium.exabytetv.info/HLSST/9042/9042-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV TNT HD" tvg-name="TNT HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif" group-title="PELÍCULAS Y SERIES",TNT HD (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/435/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="PELÍCULAS Y SERIES",TNT Series (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/266/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="PELÍCULAS Y SERIES",TNT Series (Op2)
+http://premium.exabytetv.info/HLSST/331/331-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="PELÍCULAS Y SERIES",Universal Channel (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/256/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="PELÍCULAS Y SERIES",Universal Channel (Op2)
+http://premium.exabytetv.info/HLSST/387/387-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Universal HD" tvg-name="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="PELÍCULAS Y SERIES",Universal HD (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/207/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Warner Channel" tvg-name="Warner Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-channel.gif" group-title="PELÍCULAS Y SERIES",Warner Channel
+http://premium.exabytetv.info/HLSST/2499/2499-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif" group-title="PELÍCULAS Y SERIES",Warner HD (Op1) (solo en MX o con VPN)
+http://premium.exabytetv.info/totalpleix/205/3/YHSJR-1011000101010000101110010100011-ExabyteTV/exabytetv.m3u8
+ 
+#EXTINF:0 group-title="Z omitir",== PREMIUM ==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/exakids.png" group-title="PREMIUM",Exabyte Kids
+http://ultra.exabytetv.info/HLSVAUG/mega_kids/exabytetv-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/examovies1.png" group-title="PREMIUM",Exabyte Movies 1 (Drama-Comedia-Romance)
+http://ultra.exabytetv.info/HLSVAUG/megamovieshd/exabytetv-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/examovies2.png" group-title="PREMIUM",Exabyte Movies 2 (Accción-Suspenso)
+http://ultra.exabytetv.info/HLSVAUG/cine_calidad/exabytetv-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/examovies3.png" group-title="PREMIUM",Exabyte Movies 3 (Terror)
+http://ultra.exabytetv.info/HLSVAUG/mega_extremo/exabytetv-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/examovies4.png" group-title="PREMIUM",Exabyte Movies 4
+http://ultra.exabytetv.info/HLSVAUG/katyhd/exabytetv-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/examovies5.png" group-title="PREMIUM",Exabyte Movies 5
+http://ultra.exabytetv.info/HLSVAUG/mega_movieshd/exabytetv-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV Golden Choice Multiplex" tvg-name="Golden Choice Multiplex" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/615.png" group-title="PREMIUM",Golden Multiplex  
+http://premium.exabytetv.info/HLSST/1035/1035-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1787.png" group-title="PREMIUM",Golden Premier 1
+http://premium.exabytetv.info/HLSST/4777/4777-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1782.png" group-title="PREMIUM",Golden Premier 2
+http://premium.exabytetv.info/HLSST/4772/4772-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV HBO 2" tvg-name="HBO 2" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/187.png" group-title="PREMIUM",HBO 2 Latino
+http://premium.exabytetv.info/HLSST/365/365-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV HBO Family Este" tvg-name="HBO Family Este" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/193.png" group-title="PREMIUM",HBO Family Latino
+http://premium.exabytetv.info/HLSST/449/449-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV HBO" tvg-name="HBO" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/207.png" group-title="PREMIUM",HBO Latino
+http://premium.exabytetv.info/HLSST/385/385-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV HBO Plus" tvg-name="HBO Plus" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/189.png" group-title="PREMIUM",HBO Plus Este
+http://premium.exabytetv.info/HLSST/453/453-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV HBO Plus Oeste" tvg-name="HBO Plus Oeste" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/191.png" group-title="PREMIUM",HBO Plus Oeste
+http://premium.exabytetv.info/HLSST/369/369-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Max (Este)" tvg-name="Max (Este)" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/203.png" group-title="PREMIUM",Max Latino
+http://premium.exabytetv.info/HLSST/381/381-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV MAX Prime Este" tvg-name="MAX Prime Este" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/199.png" group-title="PREMIUM",Max Prime Este
+http://premium.exabytetv.info/HLSST/377/377-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV MAX Prime Oeste" tvg-name="MAX Prime Oeste" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/201.png" group-title="PREMIUM",Max Prime Oeste
+http://premium.exabytetv.info/HLSST/379/379-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV Max UP" tvg-name="Max UP" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/197.png" group-title="PREMIUM",Max Up Latino
+http://premium.exabytetv.info/HLSST/469/469-YHSJR-1011000101010000101110010100011-ExabyteTV.m3u8
