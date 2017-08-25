@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-#EXTM3U
-#EXTINF:-1,El Marine
-http://dl2.downloado.site/dl2/Movie/The.Marine.5.Battleground.2017.720p-%5BDownloado.site%5D.mkv
+<item>
+<title>El Marine 5 </title>        
+<urlsolve>http://dl2.downloado.site/dl2/Movie/The.Marine.5.Battleground.2017.720p-%5BDownloado.site%5D.mkv</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
