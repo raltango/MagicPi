@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>El Marine 5 </title>        
-<urlsolve>http://dl2.downloado.site/dl2/Movie/The.Marine.5.Battleground.2017.720p-%5BDownloado.site%5D.mkv</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+#EXTM3U
+#EXTINF:0,Josele 05-Jun-2017 
+#EXTGRP:la ola
+https://1fiag0r.oloadcdn.net/dl/l/V2NOnLnefFVFnliq/YtFsw0VArkQ/00aa1LA.OLA.7p.5.1.CAS.mkv.mp4?mime=true
+#EXTINF:0,el peque se va de marcha
+https://ph2drf.oloadcdn.net/dl/l/mDxhrHf-oJCd3Zba/puPi2mECp-4/3l.P3q113.S3.V4.D3.M4rch4.1994.HDRip.Ac3.Castellano.avi.mp4?mime=true
