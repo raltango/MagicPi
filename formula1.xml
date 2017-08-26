@@ -42,14 +42,14 @@
 
 <item>
 <title>pruebas</title>        
-<page>http://exabyte.info/peliculas.m3u</page>
+<urlsolve>http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x01.m720p.acc.mkv</urlsolve>
 <thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
 </item>
 
 <item>
 <title>lucifer</title>        
-<urlresolver>http://condor1726.dedicatedpanel.com/series/Lucifer/</urlresolver>
+<urlsolve>http://condor1726.dedicatedpanel.com/series/Lucifer/</urlsolve>
 <thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
 </item>
