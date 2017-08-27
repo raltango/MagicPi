@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+#EXTM3U
+
 #EXTINF:-1,##########   Spain   ##########
 http://portal.geniptv.com:8080/live/messef/ao539EpinD/2532.ts
 
