@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-#EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== PELÍCULAS Y SERIES ==[/COLOR][/B]
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="PELÍCULAS Y SERIES",AMC *
-http://premium.exabytetv.info/play3/101010110111100101/444/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PELÍCULAS Y SERIES",Atreseries Español
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 tvg-id="Az Cinema" tvg-name="Az Cinema" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-cinema.gif" group-title="PELÍCULAS Y SERIES",Az Cinema *
-http://premium.exabytetv.info/play3/101010110111100101/425/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-(w).gif" group-title="PELÍCULAS Y SERIES",Cinecanal *
-http://premium.exabytetv.info/play3/101010110111100101/480/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="PELÍCULAS Y SERIES",Cinecanal+ *
-http://premium.exabytetv.info/play3/101010110111100101/430/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Cinemax (W)" tvg-name="Cinemax (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-(w).gif" group-title="PELÍCULAS Y SERIES",Cinemax *
-http://premium.exabytetv.info/play3/101010110111100101/481/exabytetv.m3u8
-#EXTINF:-1 tvg-id="De Película HD" tvg-name="De Película HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-película-hd.gif" group-title="PELÍCULAS Y SERIES",De Película *
-http://premium.exabytetv.info/play3/101010110111100101/442/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-1-hd.gif" group-title="PELÍCULAS Y SERIES",Fox 1 HD *
-http://premium.exabytetv.info/play3/101010110111100101/415/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Action *
-http://premium.exabytetv.info/play3/101010110111100101/416/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Fox Cinéma" tvg-name="Fox Cinéma" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-cinéma.gif" group-title="PELÍCULAS Y SERIES",Fox Cinema *
-http://premium.exabytetv.info/play3/101010110111100101/421/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif" group-title="PELÍCULAS Y SERIES",Fox Classics *
-http://premium.exabytetv.info/play3/101010110111100101/424/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Movies *
-http://premium.exabytetv.info/play3/101010110111100101/417/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif" group-title="PELÍCULAS Y SERIES",Golden Edge *
-http://premium.exabytetv.info/play3/101010110111100101/484/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif" group-title="PELÍCULAS Y SERIES",Golden HD *
-http://premium.exabytetv.info/play3/101010110111100101/436/exabytetv.m3u8
-#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="http://y.cdn.entutele.com/media/channels/big/i.sat.gif" group-title="PELÍCULAS Y SERIES",I.Sat *
-http://premium.exabytetv.info/play3/101010110111100101/495/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="PELÍCULAS Y SERIES",Space *
-http://premium.exabytetv.info/play3/101010110111100101/491/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif" group-title="PELÍCULAS Y SERIES",Space HD *
-http://premium.exabytetv.info/play3/101010110111100101/445/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="PELÍCULAS Y SERIES",Studio Universal *
-http://premium.exabytetv.info/play3/101010110111100101/492/exabytetv.m3u8
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="PELÍCULAS Y SERIES",TCM *
-http://premium.exabytetv.info/play3/101010110111100101/496/exabytetv.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif" group-title="PELÍCULAS Y SERIES",TNT *
-http://premium.exabytetv.info/play3/101010110111100101/482/exabytetv.m3u8
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif" group-title="PELÍCULAS Y SERIES",TNT HD *
-http://premium.exabytetv.info/play3/101010110111100101/435/exabytetv.m3u8
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="PELÍCULAS Y SERIES",TNT Series *
-http://premium.exabytetv.info/play3/101010110111100101/266/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="PELÍCULAS Y SERIES",Universal Channel *
-http://premium.exabytetv.info/play3/101010110111100101/256/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Universal HD" tvg-name="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="PELÍCULAS Y SERIES",Universal HD *
-http://premium.exabytetv.info/play3/101010110111100101/207/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif" group-title="PELÍCULAS Y SERIES",Warner HD *
-http://premium.exabytetv.info/play3/101010110111100101/205/exabytetv.m3u8
+#EXTM3U
+ 
+#EXTINF:-1,lucifer 1x01
+http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x01.m720p.acc.mkv
