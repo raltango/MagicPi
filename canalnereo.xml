@@ -11,3 +11,15 @@ http://m3u.iptvla.xyz/usuarios/src5/F1TV/Maik.Gonzalez/oMp.m3u8
 #EXTINF:-1,[B][COLOR deeppink]*[/COLOR][/B][B][COLOR powderblue]F1 HD[/COLOR][/B][B][COLOR deeppink]*[/COLOR][/B]
 Http://158.69.52.43:8000/live/george/george/155.ts
 
+#EXTINF:0,SP:  M. MOTO GP
+http://sporti.tv:6500/live/UmThMMGT7E/7iCJNU3ojN/15438.ts
+
+#EXTINF:0,SP: M. Formula 1
+http://sporti.tv:6500/live/UmThMMGT7E/7iCJNU3ojN/7617.ts
+
+#EXTINF:0,SP: M. Formula 1 HD
+http://sporti.tv:6500/live/UmThMMGT7E/7iCJNU3ojN/15437.ts
+
+#EXTINF:0,SP: M. MotoGp HD
+http://sporti.tv:6500/live/UmThMMGT7E/7iCJNU3ojN/7616.ts
+
