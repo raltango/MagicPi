@@ -7,22 +7,6 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/series.xml</externallink>
 </item>
- 
-<item>
-<title>[B][COLOR skyblue]SUPER[/COLOR][COLOR yellow] MARIO[/COLOR][COLOR red] BROS[/COLOR][/B]</title>
-<thumbnail>http://i.imgur.com/cDb3DTV.png</thumbnail>
-<fanart>http://i.imgur.com/XDgjUks.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/test2.xml</externallink>
-</item>
-
-<item>
-<title>[B][COLOR gold]PELICULAS[/COLOR][/B]</title>
-<thumbnail>http://i.imgur.com/O3UEdQP.png</thumbnail>
-<fanart>https://images5.alphacoders.com/393/393688.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/test1.xml</externallink>
-</item>
 
 <item>
 <title>[B][COLOR yellow]FANATICS F1[/COLOR][/B]</title>
@@ -30,6 +14,14 @@
 <fanart>http://k37.kn3.net/92F366932.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/formula1.xml</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR skyblue]SUPER[/COLOR][COLOR yellow] MARIO[/COLOR][COLOR red] BROS[/COLOR][/B]</title>
+<thumbnail>http://i.imgur.com/cDb3DTV.png</thumbnail>
+<fanart>http://i.imgur.com/XDgjUks.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/test2.xml</externallink>
 </item>
 
 <item>
