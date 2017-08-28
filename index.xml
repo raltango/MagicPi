@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
+<title>[B][COLOR deeppink]***[/COLOR][/B][B][COLOR powderblue]FORMULA 1, MOTO GP Y TELEVISION[/COLOR][/B][B][COLOR deeppink]***[/COLOR][/B]</title>
+<link>http://ignoreme</link>
+</item>
+ 
+ 
+ 
+ 
+ <item>
 <title>[B][COLOR chartreuse]MOVISTAR +(28/08 13:55)[/COLOR][/B]</title>
 <thumbnail>http://a1438.phobos.apple.com/us/r30/Purple/v4/4b/38/1d/4b381dc8-5de8-c130-41df-b3c09058dffc/mzl.igucdcqz.256x256-75.png</thumbnail>
 <fanart>http://k37.kn3.net/92F366932.jpg</fanart>
@@ -15,7 +23,27 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/formula1.xml</externallink>
 </item>
- 
+
+<item>
+<title>[B][COLOR yellow]PRUEBAS 2[/COLOR][/B]</title>
+<thumbnail>http://a1438.phobos.apple.com/us/r30/Purple/v4/4b/38/1d/4b381dc8-5de8-c130-41df-b3c09058dffc/mzl.igucdcqz.256x256-75.png</thumbnail>
+<fanart>https://wallpaperscraft.com/image/game_of_thrones_series_throne_power_sword_2017_1920x1080.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/acestreams.xml</externallink>
+</item>
+
+
+
+
+
+<item>
+<title>[B][COLOR deeppink]***[/COLOR][/B][B][COLOR powderblue]SERIES[/COLOR][/B][B][COLOR deeppink]***[/COLOR][/B]</title>
+<link>http://ignoreme</link>
+</item>
+
+
+
+
 <item>
 <title>[B][COLOR skyblue]SUPER[/COLOR][COLOR yellow] MARIO[/COLOR][COLOR red] BROS[/COLOR][/B]</title>
 <thumbnail>http://i.imgur.com/cDb3DTV.png</thumbnail>
@@ -30,14 +58,6 @@
 <fanart>https://wallpaperscraft.com/image/game_of_thrones_series_throne_power_sword_2017_1920x1080.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/pZvBmpJc</externallink>
-</item>
-
-<item>
-<title>[B][COLOR yellow]PRUEBAS 2[/COLOR][/B]</title>
-<thumbnail>http://a1438.phobos.apple.com/us/r30/Purple/v4/4b/38/1d/4b381dc8-5de8-c130-41df-b3c09058dffc/mzl.igucdcqz.256x256-75.png</thumbnail>
-<fanart>https://wallpaperscraft.com/image/game_of_thrones_series_throne_power_sword_2017_1920x1080.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/acestreams.xml</externallink>
 </item>
 
 <item>
