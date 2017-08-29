@@ -1,477 +1,444 @@
 #EXTM3U
 
-#EXTINF:-1,[000] Movistar+
-rtp://@239.0.0.77:8208
-#EXTINF:-1,[001] La 1
-rtp://@239.0.0.76:8208
-#EXTINF:-1,[002] La 2
-rtp://@239.0.0.2:8208
-#EXTINF:-1,[003] Antena 3
-rtp://@239.0.0.3:8208
-#EXTINF:-1,[004] Cuatro
-rtp://@239.0.0.4:8208
-#EXTINF:-1,[005] Tele 5
-rtp://@239.0.0.5:8208
-#EXTINF:-1,[006] La Sexta
-rtp://@239.0.0.58:8208
-#EXTINF:-1,[007] #0
-rtp://@239.0.0.108:8208
-#EXTINF:-1,[008] TV3 *
-rtp://@239.0.0.23:8208
-#EXTINF:-1,[009] 8tv *
-rtp://@239.0.0.82:8208
-#EXTINF:-1,[156] Super 3/33 *
-rtp://@239.0.0.24:8208
-#EXTINF:-1,[157] Esport3 *
-rtp://@239.0.0.51:8208
-#EXTINF:-1,[158] 3/24 *
-rtp://@239.0.0.61:8208
-#EXTINF:-1,[159] Xarxa Televisions *
-rtp://@239.0.0.9:8208
-#EXTINF:-1,[160] betevé *
-rtp://@239.0.0.110:8208
-#EXTINF:-1,[010] beIN LaLiga
-rtp://@239.0.0.252:8208
-#EXTINF:-1,[013] FOX
-rtp://@239.0.0.74:8208
-#EXTINF:-1,[014] AXN
-rtp://@239.0.0.14:8208
-#EXTINF:-1,[015] TNT
-rtp://@239.0.0.44:8208
-#EXTINF:-1,[016] Comedy Central
-rtp://@239.0.0.68:8208
-#EXTINF:-1,[017] Calle 13
-rtp://@239.0.0.13:8208
-#EXTINF:-1,[018] COSMO
-rtp://@239.0.0.15:8208
-#EXTINF:-1,[019] AMC
-rtp://@239.0.0.8:8208
-#EXTINF:-1,[020] FOX life
-rtp://@239.0.0.43:8208
-#EXTINF:-1,[021] AXN White
-rtp://@239.0.0.62:8208
-#EXTINF:-1,[022] Syfy
-rtp://@239.0.0.111:8208
-#EXTINF:-1,[023] Non Stop People
-rtp://@239.0.0.212:8208
-#EXTINF:-1,[024] MTV España
-rtp://@239.0.0.211:8208
-#EXTINF:-1,[025] FDF
-rtp://@239.0.0.84:8208
-#EXTINF:-1,[026] Neox
-rtp://@239.0.0.107:8208
-#EXTINF:-1,[027] Atreseries
-rtp://@239.0.3.29:8208
-#EXTINF:-1,[028] Energy
-rtp://@239.0.0.59:8208
-#EXTINF:-1,[029] M. eSports
-rtp://@239.0.3.30:8208
-#EXTINF:-1,[037] TCM
-rtp://@239.0.6.5:8208
-#EXTINF:-1,[038] Hollywood
-rtp://@239.0.0.16:8208
-#EXTINF:-1,[039] Sundance Channel
-rtp://@239.0.0.102:8208
-#EXTINF:-1,[040] DARK
-rtp://@239.0.0.39:8208
-#EXTINF:-1,[041] 13 TV
-rtp://@239.0.0.91:8208
-#EXTINF:-1,[042] Ten
-rtp://@239.0.0.34:8208
-#EXTINF:-1,[043] Paramount Channel
-rtp://@239.0.0.90:8208
-#EXTINF:-1,[044] DEPORTES
-rtp://@239.0.3.33:8208
-#EXTINF:-1,[047] beIN LaLiga
-rtp://@239.0.0.252:8208
-#EXTINF:-1,[048] beIN LaLiga 1
-rtp://@239.0.0.253:8208
-#EXTINF:-1,[049] beIN LaLiga 2
-rtp://@239.0.0.254:8208
-#EXTINF:-1,[050] beIN SPORTS
-rtp://@239.0.3.100:8208
-#EXTINF:-1,[051] beIN MAX 1
-rtp://@239.0.3.101:8208
-#EXTINF:-1,[052] beIN MAX 2
-rtp://@239.0.3.102:8208
-#EXTINF:-1,[053] Real Madrid TV
-rtp://@239.0.0.83:8208
-#EXTINF:-1,[060] Eurosport 1
-rtp://@239.0.0.18:8208
-#EXTINF:-1,[061] Eurosport 2
-rtp://@239.0.0.37:8208
-#EXTINF:-1,[062] GOL
-rtp://@239.0.0.7:8208
-#EXTINF:-1,[063] Teledeporte
-rtp://@239.0.0.79:8208
-#EXTINF:-1,[064] Fútbol Replay
-rtp://@239.0.0.97:8208
-#EXTINF:-1,[070] National Geographic
-rtp://@239.0.0.103:8208
-#EXTINF:-1,[071] NAT GEO Wild
-rtp://@239.0.0.89:8208
-#EXTINF:-1,[072] Historia
-rtp://@239.0.0.19:8208
-#EXTINF:-1,[073] Discovery Channel
-rtp://@239.0.0.21:8208
-#EXTINF:-1,[074] ODISEA
-rtp://@239.0.0.22:8208
-#EXTINF:-1,[075] A&E
-rtp://@239.0.0.38:8208
-#EXTINF:-1,[076] Viajar
-rtp://@239.0.0.20:8208
-#EXTINF:-1,[077] Discovery Max
-rtp://@239.0.0.32:8208
-#EXTINF:-1,[078] Crimen + Investigación
-rtp://@239.0.0.57:8208
-#EXTINF:-1,[079] CGTN Español
-rtp://@239.0.0.65:8208
-#EXTINF:-1,[080] Cocina
-rtp://@239.0.0.27:8208
-#EXTINF:-1,[081] Decasa
-rtp://@239.0.0.71:8208
-#EXTINF:-1,[082] DKISS
-rtp://@239.0.0.6:8208
-#EXTINF:-1,[083] Divinity
-rtp://@239.0.0.48:8208
-#EXTINF:-1,[084] Nova
-rtp://@239.0.0.106:8208
-#EXTINF:-1,[085] MEGA
-rtp://@239.0.3.31:8208
-#EXTINF:-1,[086] BeMad
-rtp://@239.0.0.17:8208
-#EXTINF:-1,[087] Garage TV
-rtp://@239.0.0.99:8208
-#EXTINF:-1,[088] Canal Orbe 21
-rtp://@239.0.0.45:8208
-#EXTINF:-1,[090] Baby TV
-rtp://@239.0.0.113:8208
-#EXTINF:-1,[091] Disney Junior
-rtp://@239.0.0.10:8208
-#EXTINF:-1,[092] Canal Panda
-rtp://@239.0.0.117:8208
-#EXTINF:-1,[093] Nick Jr
-rtp://@239.0.0.115:8208
-#EXTINF:-1,[094] Nickelodeon
-rtp://@239.0.0.69:8208
-#EXTINF:-1,[095] Disney XD
-rtp://@239.0.0.11:8208
-#EXTINF:-1,[096] Disney Channel
-rtp://@239.0.0.64:8208
-#EXTINF:-1,[097] Boing
-rtp://@239.0.0.66:8208
-#EXTINF:-1,[098] Clan TVE
-rtp://@239.0.0.80:8208
-#EXTINF:-1,[105] VH1
-rtp://@239.0.0.75:8208
-#EXTINF:-1,[112] Canal 24 Horas
-rtp://@239.0.0.78:8208
-#EXTINF:-1,[113] BBC world
-rtp://@239.0.0.30:8208
-#EXTINF:-1,[114] CNNi
-rtp://@239.0.0.40:8208
-#EXTINF:-1,[115] Fox News
-rtp://@239.0.7.65:8208
-#EXTINF:-1,[116] Euronews
-rtp://@239.0.0.28:8208
-#EXTINF:-1,[117] Al Jazeera
-rtp://@239.0.7.66:8208
-#EXTINF:-1,[118] France 24
-rtp://@239.0.7.67:8208
-#EXTINF:-1,[119] Russia Today
-rtp://@239.0.7.68:8208
-#EXTINF:-1,[120] CNBC Europe
-rtp://@239.0.7.69:8208
-#EXTINF:-1,[122] TV5 Monde Europe
-rtp://@239.0.0.31:8208
-#EXTINF:-1,[123] Bloomberg
-rtp://@239.0.0.29:8208
-#EXTINF:-1,[124] Intereconomía TV
-rtp://@239.0.0.63:8208
-#EXTINF:-1,[125] Libertad Digital
-rtp://@239.0.0.85:8208
-#EXTINF:-1,[129] CNC World
-rtp://@239.0.0.221:8208
-#EXTINF:-1,[143] EWTN
-rtp://@239.0.0.72:8208
-#EXTINF:-1,[150] Canal Sur Andalucía
-rtp://@239.0.0.1:8208
-#EXTINF:-1,[151] Galicia TV Europa
-rtp://@239.0.3.37:8208
-#EXTINF:-1,[152] Canal Extremadura SAT
-rtp://@239.0.0.52:8208
-#EXTINF:-1,[153] TV3CAT
-rtp://@239.0.3.36:8208
-#EXTINF:-1,[154] ETB Sat
-rtp://@239.0.0.60:8208
-#EXTINF:-1,[155] Aragón TV Int
-rtp://@239.0.0.81:8208
-#EXTINF:-1,[200] La Tienda en Casa
-rtp://@239.0.0.98:8208
-#EXTINF:-1, [011] Movistar Series
-rtp://@239.0.5.4:8208
-#EXTINF:-1, [012] Movistar Series Xtra
-rtp://@239.0.3.20:8208
-#EXTINF:-1, [031] Movistar Estrenos
-rtp://@239.0.3.40:8208
-#EXTINF:-1, [032] Movistar Xtra
-rtp://@239.0.3.41:8208
-#EXTINF:-1, [033] Movistar Acción
-rtp://@239.0.3.42:8208
-#EXTINF:-1, [034] Movistar Comedia
-rtp://@239.0.3.43:8208
-#EXTINF:-1, [035] Movistar DCine
-rtp://@239.0.3.44:8208
-#EXTINF:-1, [036] Movistar Cine Español
-rtp://@239.0.3.45:8208
-#EXTINF:-1, [045] Movistar Fútbol
-rtp://@239.0.6.8:8208
-#EXTINF:-1, [046] Movistar Partidazo
-rtp://@239.0.4.129:8208
-#EXTINF:-1, [047] beIN La Liga
-rtp://@239.0.0.252:8208
-#EXTINF:-1, [048] beIN LaLiga 1
-rtp://@239.0.0.253:8208
-#EXTINF:-1, [049] beIN LaLiga 2
-rtp://@239.0.0.254:8208
-#EXTINF:-1, [050] beIN SPORTS
-rtp://@239.0.3.100:8208
-#EXTINF:-1, [051] beIN MAX 1
-rtp://@239.0.3.101:8208
-#EXTINF:-1, [052] beIN MAX 2
-rtp://@239.0.3.102:8208
+#EXTINF:-1,Latino: TNT Series HD
+http://iptvfree1.com:6969/live/232323/232323/5179.ts
+#EXTINF:-1,Latino: NatGeo Wild HD
+http://iptvfree1.com:6969/live/232323/232323/5180.ts
+#EXTINF:-1,Latino: Multimedios Monterrey HD
+http://iptvfree1.com:6969/live/232323/232323/5181.ts
+#EXTINF:-1,Latino: Fox Sports 2 HD
+http://iptvfree1.com:6969/live/232323/232323/5183.ts
+#EXTINF:-1,Latino: Fox Sports
+http://iptvfree1.com:6969/live/232323/232323/5184.ts
+#EXTINF:-1,Latino: Fox Movies HD
+http://iptvfree1.com:6969/live/232323/232323/5185.ts
+#EXTINF:-1,Latino: Fox HD
+http://iptvfree1.com:6969/live/232323/232323/5186.ts
+#EXTINF:-1,Latino: Fox Cinema HD
+http://iptvfree1.com:6969/live/232323/232323/5187.ts
+#EXTINF:-1,Latino: Fox Action HD
+http://iptvfree1.com:6969/live/232323/232323/5188.ts
+#EXTINF:-1,Latino: Fox 1 HD
+http://iptvfree1.com:6969/live/232323/232323/5189.ts
+#EXTINF:-1,Latino: F1 HD
+http://iptvfree1.com:6969/live/232323/232323/5191.ts
+#EXTINF:-1,Latino: ESPN 3
+http://iptvfree1.com:6969/live/232323/232323/5192.ts
+#EXTINF:-1,Latino: ESPN 2
+http://iptvfree1.com:6969/live/232323/232323/5193.ts
+#EXTINF:-1,Latino: ESPN
+http://iptvfree1.com:6969/live/232323/232323/5182.ts
+#EXTINF:-1,Latino: Discovery Turbo
+http://iptvfree1.com:6969/live/232323/232323/5194.ts
+#EXTINF:-1,Latino: Discovery TLC
+http://iptvfree1.com:6969/live/232323/232323/5195.ts
+#EXTINF:-1,Latino: Discovery Teather HD
+http://iptvfree1.com:6969/live/232323/232323/5196.ts
+#EXTINF:-1,Latino: Discovery Kids
+http://iptvfree1.com:6969/live/232323/232323/5197.ts
+#EXTINF:-1,Latino: Discovery ID
+http://iptvfree1.com:6969/live/232323/232323/5198.ts
+#EXTINF:-1,Latino: Discovery Civilization
+http://iptvfree1.com:6969/live/232323/232323/5199.ts
+#EXTINF:-1,Latino: Discovery Channel
+http://iptvfree1.com:6969/live/232323/232323/5200.ts
+#EXTINF:-1,Latino: Cinecanal
+http://iptvfree1.com:6969/live/232323/232323/5190.ts
+#EXTINF:-1,Latino: Carton Network HD
+http://iptvfree1.com:6969/live/232323/232323/5201.ts
+#EXTINF:-1,Latino: AXN HD
+http://iptvfree1.com:6969/live/232323/232323/5202.ts
+#EXTINF:-1,Latino: Animal Planet
+http://iptvfree1.com:6969/live/232323/232323/5203.ts
+#EXTINF:-1,Latino: A&E HD
+http://iptvfree1.com:6969/live/232323/232323/5204.ts
+#EXTINF:-1,Latino: Az Click HD
+http://iptvfree1.com:6969/live/232323/232323/6791.ts
+#EXTINF:-1,Latino: Canal 5 HD
+http://iptvfree1.com:6969/live/232323/232323/6790.ts
+#EXTINF:-1,Latino: Canal De Las Estrellas HD
+http://iptvfree1.com:6969/live/232323/232323/6774.ts
+#EXTINF:-1,Latino: Cinecanal HD
+http://iptvfree1.com:6969/live/232323/232323/6789.ts
+#EXTINF:-1,Latino: Comedy Central HD
+http://iptvfree1.com:6969/live/232323/232323/6788.ts
+#EXTINF:-1,Latino: De Pelicula HD
+http://iptvfree1.com:6969/live/232323/232323/6787.ts
+#EXTINF:-1,Latino: Gala Tv HD
+http://iptvfree1.com:6969/live/232323/232323/6786.ts
+#EXTINF:-1,Latino: Glitz
+http://iptvfree1.com:6969/live/232323/232323/6785.ts
+#EXTINF:-1,Latino: Golden Edge
+http://iptvfree1.com:6969/live/232323/232323/6784.ts
+#EXTINF:-1,Latino: Golden HD
+http://iptvfree1.com:6969/live/232323/232323/6783.ts
+#EXTINF:-1,Latino: Gourmet
+http://iptvfree1.com:6969/live/232323/232323/6782.ts
+#EXTINF:-1,Latino: History HD
+http://iptvfree1.com:6969/live/232323/232323/6781.ts
+#EXTINF:-1,Latino: Milenio TV HD
+http://iptvfree1.com:6969/live/232323/232323/6780.ts
+#EXTINF:-1,Latino: Space HD
+http://iptvfree1.com:6969/live/232323/232323/6779.ts
+#EXTINF:-1,Latino: Tru Tv HD
+http://iptvfree1.com:6969/live/232323/232323/6778.ts
+#EXTINF:-1,Latino: Unicable HD
+http://iptvfree1.com:6969/live/232323/232323/6777.ts
+#EXTINF:-1,Latino: Universal HD
+http://iptvfree1.com:6969/live/232323/232323/6776.ts
+#EXTINF:-1,Latino: Warner HD
+http://iptvfree1.com:6969/live/232323/232323/6775.ts
+#EXTINF:-1,Latino: Azteca NOTICIAS
+http://iptvfree1.com:6969/live/232323/232323/7160.ts
+#EXTINF:-1,Latino: AMC
+http://iptvfree1.com:6969/live/232323/232323/7272.ts
+#EXTINF:-1,Latino: Disney Channel
+http://iptvfree1.com:6969/live/232323/232323/7274.ts
+#EXTINF:-1,Latino: Disney Junior
+http://iptvfree1.com:6969/live/232323/232323/7278.ts
+#EXTINF:-1,Latino: Disney XD
+http://iptvfree1.com:6969/live/232323/232323/7275.ts
+#EXTINF:-1,Latino: NICKELODEON
+http://iptvfree1.com:6969/live/232323/232323/7273.ts
+#EXTINF:-1,Latino: Telemundo Puerto Rico
+http://iptvfree1.com:6969/live/232323/232323/7276.ts
+#EXTINF:-1,Latino: TNT
+http://iptvfree1.com:6969/live/232323/232323/7271.ts
+#EXTINF:-1,Latino: Wapa
+http://iptvfree1.com:6969/live/232323/232323/7277.ts
+#EXTINF:-1,Latino: AZTECA 13
+http://iptvfree1.com:6969/live/232323/232323/7430.ts
+#EXTINF:-1,Latino: AZTECA 7
+http://iptvfree1.com:6969/live/232323/232323/7429.ts
+#EXTINF:-1,Latino: CANAL 11
+http://iptvfree1.com:6969/live/232323/232323/7424.ts
+#EXTINF:-1,Latino: CARACOL
+http://iptvfree1.com:6969/live/232323/232323/7422.ts
+#EXTINF:-1,Latino: CARTOON NETWORK
+http://iptvfree1.com:6969/live/232323/232323/7421.ts
+#EXTINF:-1,Latino: CINELATINO
+http://iptvfree1.com:6969/live/232323/232323/7420.ts
+#EXTINF:-1,Latino: Claro Sports
+http://iptvfree1.com:6969/live/232323/232323/7386.ts
+#EXTINF:-1,Latino: DISTRITO COMEDIA
+http://iptvfree1.com:6969/live/232323/232323/7417.ts
+#EXTINF:-1,Latino: DXTV
+http://iptvfree1.com:6969/live/232323/232323/7416.ts
+#EXTINF:-1,Latino: E!
+http://iptvfree1.com:6969/live/232323/232323/7384.ts
+#EXTINF:-1,Latino: EL GOURMET
+http://iptvfree1.com:6969/live/232323/232323/7415.ts
+#EXTINF:-1,Latino: Film & Arts
+http://iptvfree1.com:6969/live/232323/232323/7374.ts
+#EXTINF:-1,Latino: FORO TV
+http://iptvfree1.com:6969/live/232323/232323/7412.ts
+#EXTINF:-1,Latino: FOX LIFE
+http://iptvfree1.com:6969/live/232323/232323/7406.ts
+#EXTINF:-1,Latino: FOX SPORT 3
+http://iptvfree1.com:6969/live/232323/232323/7414.ts
+#EXTINF:-1,Latino: FX
+http://iptvfree1.com:6969/live/232323/232323/7407.ts
+#EXTINF:-1,Latino: H2
+http://iptvfree1.com:6969/live/232323/232323/7399.ts
+#EXTINF:-1,Latino: HBO
+http://iptvfree1.com:6969/live/232323/232323/7428.ts
+#EXTINF:-1,Latino: HBO 2
+http://iptvfree1.com:6969/live/232323/232323/7427.ts
+#EXTINF:-1,Latino: HBO Signature
+http://iptvfree1.com:6969/live/232323/232323/7426.ts
+#EXTINF:-1,Latino: INVESTIGACION DISCOVERY
+http://iptvfree1.com:6969/live/232323/232323/7398.ts
+#EXTINF:-1,Latino: MAX UP
+http://iptvfree1.com:6969/live/232323/232323/7433.ts
+#EXTINF:-1,Latino: MEXIQUENSE
+http://iptvfree1.com:6969/live/232323/232323/7397.ts
+#EXTINF:-1,Latino: MI MUSICA HD
+http://iptvfree1.com:6969/live/232323/232323/7396.ts
+#EXTINF:-1,Latino: MTV LATINO
+http://iptvfree1.com:6969/live/232323/232323/7395.ts
+#EXTINF:-1,Latino: MTV LATINO HITS
+http://iptvfree1.com:6969/live/232323/232323/7394.ts
+#EXTINF:-1,Latino: MULTIMEDIOS Plus
+http://iptvfree1.com:6969/live/232323/232323/7393.ts
+#EXTINF:-1,Latino: MUSICA SI
+http://iptvfree1.com:6969/live/232323/232323/7392.ts
+#EXTINF:-1,Latino: NATIONAL GEOGRAPHIC
+http://iptvfree1.com:6969/live/232323/232323/7390.ts
+#EXTINF:-1,Latino: NICK Jr
+http://iptvfree1.com:6969/live/232323/232323/7389.ts
+#EXTINF:-1,Latino: ONCE Noticias
+http://iptvfree1.com:6969/live/232323/232323/7402.ts
+#EXTINF:-1,Latino: PROYECTO 40
+http://iptvfree1.com:6969/live/232323/232323/7388.ts
+#EXTINF:-1,Latino: TELE MUSICA
+http://iptvfree1.com:6969/live/232323/232323/7382.ts
+#EXTINF:-1,Latino: TELEMUNDO INT
+http://iptvfree1.com:6969/live/232323/232323/7381.ts
+#EXTINF:-1,Latino: TELEVISA HD
+http://iptvfree1.com:6969/live/232323/232323/7380.ts
+#EXTINF:-1,Latino: TLC
+http://iptvfree1.com:6969/live/232323/232323/7387.ts
+#EXTINF:-1,Latino: TV MARTI
+http://iptvfree1.com:6969/live/232323/232323/7379.ts
+#EXTINF:-1,Latino: UFC Network HD
+http://iptvfree1.com:6969/live/232323/232323/7401.ts
+#EXTINF:-1,Latino: UNIMAS HD
+http://iptvfree1.com:6969/live/232323/232323/7378.ts
+#EXTINF:-1,Latino: UNIVISION HD
+http://iptvfree1.com:6969/live/232323/232323/7376.ts
+#EXTINF:-1,Latino: UNIVISION TDN HD
+http://iptvfree1.com:6969/live/232323/232323/7375.ts
+#EXTINF:-1,Latino: AYM SPORT
+http://iptvfree1.com:6969/live/232323/232323/7773.ts
+#EXTINF:-1,Latino: AZTECA CINEMA
+http://iptvfree1.com:6969/live/232323/232323/7772.ts
+#EXTINF:-1,Latino: AZTECA MUNDO
+http://iptvfree1.com:6969/live/232323/232323/7771.ts
+#EXTINF:-1,Latino: BANDAMAX
+http://iptvfree1.com:6969/live/232323/232323/7770.ts
+#EXTINF:-1,Latino: BOOMERANG
+http://iptvfree1.com:6969/live/232323/232323/7769.ts
+#EXTINF:-1,Latino: CINEMAX
+http://iptvfree1.com:6969/live/232323/232323/7768.ts
+#EXTINF:-1,Latino: DISCOVERY HOME & HEALTH
+http://iptvfree1.com:6969/live/232323/232323/7763.ts
+#EXTINF:-1,Latino: DISCOVERY SCIENCE.
+http://iptvfree1.com:6969/live/232323/232323/7762.ts
+#EXTINF:-1,Latino: DISCOVERY WORLD
+http://iptvfree1.com:6969/live/232323/232323/7761.ts
+#EXTINF:-1,Latino: EL FINANCIERO BLOOMBERGS
+http://iptvfree1.com:6969/live/232323/232323/7760.ts
+#EXTINF:-1,Latino: FASHION TV
+http://iptvfree1.com:6969/live/232323/232323/7758.ts
+#EXTINF:-1,Latino: FILM ZONE
+http://iptvfree1.com:6969/live/232323/232323/7757.ts
+#EXTINF:-1,Latino: FOX CLASSIC
+http://iptvfree1.com:6969/live/232323/232323/7756.ts
+#EXTINF:-1,Latino: HMX
+http://iptvfree1.com:6969/live/232323/232323/7755.ts
+#EXTINF:-1,Latino: HOLA TV
+http://iptvfree1.com:6969/live/232323/232323/7754.ts
+#EXTINF:-1,Latino: I-SAT
+http://iptvfree1.com:6969/live/232323/232323/7753.ts
+#EXTINF:-1,Latino: LIFETIME
+http://iptvfree1.com:6969/live/232323/232323/7752.ts
+#EXTINF:-1,Latino: MTV LIVE
+http://iptvfree1.com:6969/live/232323/232323/7750.ts
+#EXTINF:-1,Latino: NICK TOONS
+http://iptvfree1.com:6969/live/232323/232323/7749.ts
+#EXTINF:-1,Latino: PX
+http://iptvfree1.com:6969/live/232323/232323/7748.ts
+#EXTINF:-1,Latino: SONY
+http://iptvfree1.com:6969/live/232323/232323/7747.ts
+#EXTINF:-1,Latino: STUDIO UNIVERSAL
+http://iptvfree1.com:6969/live/232323/232323/7746.ts
+#EXTINF:-1,Latino: SYFY
+http://iptvfree1.com:6969/live/232323/232323/7745.ts
+#EXTINF:-1,Latino: TBS VERYFUNNY
+http://iptvfree1.com:6969/live/232323/232323/7744.ts
+#EXTINF:-1,Latino: TCM
+http://iptvfree1.com:6969/live/232323/232323/7743.ts
+#EXTINF:-1,Latino: TELEHIT
+http://iptvfree1.com:6969/live/232323/232323/7742.ts
+#EXTINF:-1,Latino: TELEMUNDO
+http://iptvfree1.com:6969/live/232323/232323/7741.ts
+#EXTINF:-1,Latino: TIIN
+http://iptvfree1.com:6969/live/232323/232323/7740.ts
+#EXTINF:-1,Latino: TOONCAST
+http://iptvfree1.com:6969/live/232323/232323/7739.ts
+#EXTINF:-1,Latino: TRENDY CHANNEL
+http://iptvfree1.com:6969/live/232323/232323/7738.ts
+#EXTINF:-1,Latino: TVE
+http://iptvfree1.com:6969/live/232323/232323/7736.ts
+#EXTINF:-1,Latino: URUGUAY – VTV HD (720p)
+http://iptvfree1.com:6969/live/232323/232323/7734.ts
+#EXTINF:-1,Latino: WIN SPORT HD
+http://iptvfree1.com:6969/live/232323/232323/7732.ts
+#EXTINF:-1,Latino: CNN en Espagnol
+http://iptvfree1.com:6969/live/232323/232323/8089.ts
+#EXTINF:-1,Latino: NTN24
+http://iptvfree1.com:6969/live/232323/232323/8090.ts
+#EXTINF:-1,Latino: TDN HD
+http://iptvfree1.com:6969/live/232323/232323/8100.ts
+#EXTINF:-1,Latino: CDF Premuim
+http://iptvfree1.com:6969/live/232323/232323/8808.ts
+EXTINF:-1,LATINO: A&E HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15924.m3u8
+#EXTINF:-1,LATINO: Animal Planet
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15925.m3u8
+#EXTINF:-1,LATINO: AXN HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15926.m3u8
+#EXTINF:-1,LATINO: Az Cinema HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15927.m3u8
+#EXTINF:-1,LATINO: CABLE NOTICIAS HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15921.m3u8
+#EXTINF:-1,LATINO: Canal 5 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15929.m3u8
+#EXTINF:-1,LATINO: Canal De Las Estrellas HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15930.m3u8
+#EXTINF:-1,LATINO: CANAL U
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15919.m3u8
+#EXTINF:-1,LATINO: CANAL UNO HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15918.m3u8
+#EXTINF:-1,LATINO: CARACOL
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15958.m3u8
+#EXTINF:-1,LATINO: Discovery Civilization
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15936.m3u8
+#EXTINF:-1,LATINO: Discovery ID
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15937.m3u8
+#EXTINF:-1,LATINO: Discovery Kids
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15938.m3u8
+#EXTINF:-1,LATINO: Discovery Science
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15939.m3u8
+#EXTINF:-1,LATINO: Discovery Teather HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15940.m3u8
+#EXTINF:-1,LATINO: Discovery TLC
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15941.m3u8
+#EXTINF:-1,LATINO: Discovery Turbo
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15942.m3u8
+#EXTINF:-1,LATINO: Discovey World HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15943.m3u8
+#EXTINF:-1,LATINO: Fox 1 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15949.m3u8
+#EXTINF:-1,LATINO: Fox Action HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15950.m3u8
+#EXTINF:-1,LATINO:Cinema HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15951.m3u8
+#EXTINF:-1,LATINO: Fox HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15952.m3u8
+#EXTINF:-1,LATINO: Fox Movies HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15953.m3u8
+#EXTINF:-1,LATINO: Fox Sports
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15954.m3u8
+#EXTINF:-1,LATINO: History HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15962.m3u8
+#EXTINF:-1,LATINO: NatGeo Wild HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15966.m3u8
+#EXTINF:-1,LATINO: RCN
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15923.m3u8
+#EXTINF:-1,LATINO: RCN HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15928.m3u8
+#EXTINF:-1,LATINO: Universal HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15973.m3u8
  
-#EXTINF:-1, [176] Multifútbol 1
-rtp://@239.0.0.124:8208
-#EXTINF:-1, [177] Multifútbol 2
-rtp://@239.0.0.123:8208
-#EXTINF:-1, [178] Multifútbol 3
-rtp://@239.0.3.3:8208
-#EXTINF:-1, [179] Multifútbol 4
-rtp://@239.0.3.4:8208
-#EXTINF:-1, [180] Multifútbol 5
-rtp://@239.0.3.5:8208
-#EXTINF:-1, [181] Multifútbol 6
-rtp://@239.0.3.6:8208
-#EXTINF:-1, [182] Multifútbol 7
-rtp://@239.0.3.7:8208
-#EXTINF:-1, [183] Multifútbol 8
-rtp://@239.0.0.46:8208
-#EXTINF:-1, [184] Multifútbol 9
-rtp://@239.0.0.42:8208
-#EXTINF:-1, [055] Movistar Deportes 1
-rtp://@239.0.4.193:8208
-#EXTINF:-1, [056] Movistar Deportes 2
-rtp://@239.0.5.5:8208
-#EXTINF:-1, [057] Movistar F1
-rtp://@239.0.1.246:8208
-#EXTINF:-1, [058] Movistar MotoGP
-rtp://@239.0.3.38:8208
-#EXTINF:-1, [059] Movistar Golf
-rtp://@239.0.5.2:8208
-#EXTINF:-1, [068] Multideporte 1
-rtp://@239.0.7.1:8208
- 
-#EXTINF:-1, [192] Multideporte 2
-rtp://@239.0.7.2:8208
-#EXTINF:-1, [193] Multideporte 3
-rtp://@239.0.7.3:8208
-#EXTINF:-1, [194] Multideporte 4
-rtp://@239.0.7.4:8208
-#EXTINF:-1, [195] Multideporte 5
-rtp://@239.0.7.5:8208
-#EXTINF:-1, [196] Multideporte 6
-rtp://@239.0.7.132:8208
-#EXTINF:-1, [197] Multideporte 7
-rtp://@239.0.7.133:8208
-#EXTINF:-1,[010] beIN LaLiga HD
-rtp://@239.0.5.252:8208
-#EXTINF:-1,[013] FOX HD
-rtp://@239.0.9.134:8208
-#EXTINF:-1,[014] AXN HD
-rtp://@239.0.9.131:8208
-#EXTINF:-1,[015] TNT HD
-rtp://@239.0.5.87:8208
-#EXTINF:-1,[016] Comedy Central HD
-rtp://@239.0.0.174:8208
-#EXTINF:-1,[017] Calle 13 HD
-rtp://@239.0.5.74:8208
-#EXTINF:-1,[018] COSMO HD
-rtp://@239.0.5.71:8208
-#EXTINF:-1,[019] AMC HD
-rtp://@239.0.9.132:8208
-#EXTINF:-1,[020] FOX life HD
-rtp://@239.0.0.165:8208
-#EXTINF:-1,[021] AXN White HD
-rtp://@239.0.5.79:8208
-#EXTINF:-1,[022] Syfy HD
-rtp://@239.0.5.75:8208
-#EXTINF:-1,[023] Non Stop People HD
-rtp://@239.0.5.170:8208
-#EXTINF:-1,[027] Atreseries HD
-rtp://@239.0.0.190:8208
-#EXTINF:-1,[029] M. eSports HD
-rtp://@239.0.0.178:8208
-#EXTINF:-1,[037] TCM HD
-rtp://@239.0.5.89:8208
-#EXTINF:-1,[038] Hollywood HD
-rtp://@239.0.5.76:8208
-#EXTINF:-1,[039] Sundance Channel HD
-rtp://@239.0.5.72:8208
-#EXTINF:-1,[044] DEPORTES HD
-rtp://@239.0.0.180:8208
-#EXTINF:-1,[047] beIN LaLiga HD
-rtp://@239.0.5.252:8208
-#EXTINF:-1,[048] beIN LaLiga 1 HD
-rtp://@239.0.5.253:8208
-#EXTINF:-1,[049] beIN LaLiga 2 HD
-rtp://@239.0.5.254:8208
-#EXTINF:-1,[050] beIN SPORTS HD
-rtp://@239.0.9.80:8208
-#EXTINF:-1,[051] beIN MAX 1 HD
-rtp://@239.0.9.81:8208
-#EXTINF:-1,[052] beIN MAX 2 HD
-rtp://@239.0.9.82:8208
-#EXTINF:-1,[053] Real Madrid TV HD
-rtp://@239.0.0.179:8208
-#EXTINF:-1,[060] Eurosport 1 HD
-rtp://@239.0.9.135:8208
-#EXTINF:-1,[060] Eurosport 1 HD Nuevos paquetes
-rtp://@239.0.9.144:8208
-#EXTINF:-1,[061] Eurosport 2 HD
-rtp://@239.0.5.105:8208
-#EXTINF:-1,[062] GOL HD
-rtp://@239.0.5.189:8208
-#EXTINF:-1,[063] Teledeporte HD
-rtp://@239.0.0.188:8208
-#EXTINF:-1,[070] National Geographic HD
-rtp://@239.0.5.78:8208
-#EXTINF:-1,[071] Nat Geo Wild HD
-rtp://@239.0.9.136:8208
-#EXTINF:-1,[073] Discovery Channel HD
-rtp://@239.0.5.77:8208
-#EXTINF:-1,[074] Odisea HD
-rtp://@239.0.5.82:8208
-#EXTINF:-1,[076] Viajar HD
-rtp://@239.0.5.73:8208
-#EXTINF:-1,[086] BeMad HD
-rtp://@239.0.0.182:8208
-#EXTINF:-1,[096] Disney Channel HD
-rtp://@239.0.0.173:8208
-#EXTINF:-1, [011] Movistar Series HD
-rtp://@239.0.5.250:8208
-#EXTINF:-1, [012] Movistar Series Xtra HD
-rtp://@239.0.5.83:8208
-#EXTINF:-1, [031] Movistar Estrenos HD
-rtp://@239.0.5.111:8208
-#EXTINF:-1, [032] Movistar Xtra HD
-rtp://@239.0.5.112:8208
-#EXTINF:-1, [033] Movistar Acción HD
-rtp://@239.0.5.113:8208
-#EXTINF:-1, [034] Movistar Comedia HD
-rtp://@239.0.5.114:8208
-#EXTINF:-1, [035] Movistar DCine HD
-rtp://@239.0.5.115:8208
- 
- 
--PAQUETE FÚTBOL HD-  
- 
- 
-#EXTINF:-1, [045] Movistar Futbol HD
-rtp://@239.0.6.14:8208
-#EXTINF:-1, [046] Movistar Partidazo HD
-rtp://@239.0.5.84:8208
-#EXTINF:-1, [047] beIN LaLiga HD
-rtp://@239.0.5.252:8208
-#EXTINF:-1, [048] beIN LaLiga 1 HD
-rtp://@239.0.5.253:8208
-#EXTINF:-1, [049] beIN LaLiga 2 HD
-rtp://@239.0.5.254:8208
-#EXTINF:-1, [050] beIN SPORTS HD
-rtp://@239.0.9.80:8208
-#EXTINF:-1, [051] beIN MAX 1 HD
-rtp://@239.0.9.81:8208
-#EXTINF:-1, [052] beIN MAX 2 HD
-rtp://@239.0.9.82:8208
-#EXTINF:-1, [055] Movistar Deportes 1 HD
-rtp://@239.0.5.248:8208
-#EXTINF:-1, [056] Movistar Deportes 2 HD
-rtp://@239.0.5.245:8208
-#EXTINF:-1, [057] Movistar F1 HD
-rtp://@239.0.5.246:8208
-#EXTINF:-1, [058] Movistar MotoGP HD
-rtp://@239.0.5.107:8208
-#EXTINF:-1, [059] Movistar Golf HD
-rtp://@239.0.5.249:8208
-#EXTINF:-1, [054] Barça TV
-rtp://@239.0.3.65:8208
-#EXTINF:-1, [065] Caza y Pesca
-rtp://@239.0.3.1:8208
-#EXTINF:-1, [066] Iberalia
-rtp://@239.0.5.1:8208
-#EXTINF:-1, [067] Toros TV
-rtp://@239.0.1.140:8208
-#EXTINF:-1, [107] Mezzo
-rtp://@239.0.4.65:8208
-#EXTINF:-1, [109] Classica
-rtp://@239.0.3.193:8208
-#EXTINF:-1, [111] Playboy TV
-rtp://@239.0.5.3:8208
-#EXTINF:-1, [134] Telefe Internacional
-rtp://@239.0.8.3:8208
-#EXTINF:-1, [135] Canal Estrellas
-rtp://@239.0.8.193:8208
-#EXTINF:-1, [137] TV Record
-rtp://@239.0.8.2:8208
-#EXTINF:-1, [138] TV Chile Internacional
-rtp://@239.0.8.1:8208
-#EXTINF:-1, [139] Nuestra Tele
-rtp://@239.0.7.131:8208
-#EXTINF:-1, [141] Cubavision
-rtp://@239.0.8.67:8208
-#EXTINF:-1, [142] teleSUR
-rtp://@239.0.8.69:8208
-#EXTINF:-1, [065] Caza y Pesca HD
-rtp://@239.0.6.54:8208
-#EXTINF:-1, [066] Iberalia HD
-rtp://@239.0.5.188:8208
-#EXTINF:-1, [067] Toros TV HD
-rtp://@239.0.0.191:8208
-#EXTINF:-1, [109] Classica HD
-rtp://@239.0.9.137:8208
-#EXTINF:-1, [057] Movistar F1 HD
-rtp://@239.0.5.246:8208
- 
-#EXTINF:-1, [220] Multicamara 1 HD F1
-rtp://@239.0.5.121:8208
-#EXTINF:-1, [221] Multi 1 HD  F1
-rtp://@239.0.5.230:8208
-#EXTINF:-1, [222] Multi 2 HD  F1
-rtp://@239.0.5.122:8208
-#EXTINF:-1, [223] Multi 3 HD  F1
-rtp://@239.0.5.117:8208
-#EXTINF:-1, [224] Multi 4 HD F1
-rtp://@239.0.5.118:8208
-#EXTINF:-1, [225] Multi 5 HD  F1
-rtp://@239.0.5.119:8208
-#EXTINF:-1, [226] Multi 6 HD  F1
-rtp://@239.0.5.120:8208
-#EXTINF:-1, [058] Movistar MotoGP HD
-rtp://@239.0.5.107:8208
-#EXTINF:-1, [058] Movistar MotoGP HD Degustacion
-rtp://@239.0.0.167:8208
- 
-#EXTINF:-1, [260] Multicamara 1 HD MotoGP
-rtp://@239.0.5.154:8208
-#EXTINF:-1, [261] Multi 1 HD MotoGP
-rtp://@239.0.5.155:8208
-#EXTINF:-1, [262] Multi 2 HD MotoGP
-rtp://@239.0.5.156:8208
-#EXTINF:-1, [263] Multi 3 HD MotoGP
-rtp://@239.0.5.157:8208
-#EXTINF:-1, [264] Multi 4 HD MotoGP
-rtp://@239.0.5.158:8208
-#EXTINF:-1, [265] Multi 5 HD MotoGP
-rtp://@239.0.5.159:8208
-#EXTINF:-1, [266] Multi 6 HD MotoGP
-rtp://@239.0.5.160:8208
+#EXTINF:-1,FX
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox
+http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,FOX_LIFE
+http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,TBS
+http://209.126.116.177:2086/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,SYFY
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,AXN
+http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Universal
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Warner
+ http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,SONY
+http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Studio Universal
+http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,TNT SERIES
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,E!
+http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Comedy Central
+http://209.126.116.177:2086/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,History Channel
+http://209.126.116.177:2086/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,National Geographic
+http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Discovery H&H
+http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://209.126.116.177:2086/408animalplanet/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,NICK JR
+http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,NICKELODEON
+http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,DISNEY XD
+http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Disney Channel
+http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox Sports 1
+http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox Sports 3 Mexico
+http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,ESPN 3
+http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,ESPN 2
+http://209.126.116.177:2086/506ESPN2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,ESPN
+http://209.126.116.177:2086/505ESPN/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,ClaroSports
+http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+TDN HD
+https://eventos1.dreamsmx.com/EVENTOS/UNIVICION_TDN15_153_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchileyelmundo.xyz/logos/TDN.png" group-title="Mexico", Univision TDN SD
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/index_524_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://iptvchileyelmundo.xyz/logos/TDN.png" group-title="Mexico", Univision TDN HD
+#EXTINF:-1,LATINO: ESPN
+http://sporti.tv:6500/live/UmThMMGT7E/7iCJNU3ojN/15944.ts
+#EXTINF:-1,LATINO: ESPN 2
+http://sporti.tv:6500/live/UmThMMGT7E/7iCJNU3ojN/15945.ts
+#EXTINF:-1,LATINO: ESPN 3
+http://sporti.tv:6500/live/UmThMMGT7E/7iCJNU3ojN/15946.ts
+#EXTINF:-1,CPETV La Pampa Argentina
+http://live-19.viewer.dacast.com:80/i/dclive_1@336785/index_150_av-p.m3u8
+#EXTINF:-1,CPETV La Pampa Argentina
+http://live-19.viewer.dacast.com:80/i/dclive_1@336785/index_151_av-p.m3u8
+#EXTINF:-1,AZTECA NOTICIAS México
+http://aztecalive-lh.akamaihd.net:80/i/0qeij0bji_1@26639/index_3_av-b.m3u8
+#EXTINF:-1,AZTECA NOTICIAS México
+http://aztecalive-lh.akamaihd.net:80/i/0qeij0bji_1@26639/index_2_av-b.m3u8
+#EXTINF:-1,AZTECA TRECE México
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:-1,AZTECA TRECE México
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
+#EXTINF:-1,TV PERÚ HD (Lima – Perú)
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1,TV PERÚ (Lima – Perú)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1,TV PERÚ (Lima – Perú)
+https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1,TV PERÚ 7.3 (Lima – Perú)
+http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1,CNN (Noticias Chile)
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+#EXTINF:-1,CNN (Noticias Chile)
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
+#EXTINF:-1,MEGA (Chile)
+http://edge-10-ak.mdstrm.com:80/i/mediastream01_hls@119683/index_1_av-p.m3u8
+#EXTINF:-1,MEGA (Chile)
+http://edge-10-ak.mdstrm.com:80/i/mediastream01_hls@119683/index_2_av-p.m3u8
+#EXTINF:-1,MEGA (Chile)
+http://edge-10-ak.mdstrm.com:80/i/mediastream01_hls@119683/index_3_av-p.m3u8
+#EXTINF:-1,MEGA (Chile)
+http://edge-10-ak.mdstrm.com:80/i/mediastream01_hls@119683/index_4_av-p.m3u8
+#EXTINF:-1,CANAL CNC ESTRELLA TV (Quibdó Colombia)
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
+#EXTINF:-1,CANAL CNC (Pasto Colombia)
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,TELEENVIGADO (Envigado Colombia)
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:-1,SON POPULAR (Música Colombia)
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+#EXTINF:-1,CANAL 2 TV (Cali Colombia)
+http://181.143.238.252/canal2/canal2cali/index.m3u8
+#EXTINF:-1,RCN HD (Bogotá Colombia)
+http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
