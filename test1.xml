@@ -1,275 +1,98 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
 
-<item>
-<title>[COLOR lime][COLOR  lime]*[/COLOR]peliculas de extrenos de 2016[/COLOR][COLOR=yellow]>>[/COLOR] </title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>Yankieflixtv==[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/trivianita/estrenos-de-cine-2-el-rockero-38410/list,1,6</page>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/trivianita/estrenos-de-cine-2-el-rockero-38410/list,1,6</referer>
-<connection>keep-alive</connection>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<thumbnail>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</thumbnail>
-<fanart>http://www.supercartelera.es/wp-content/uploads/2015/12/caratula-min.png</fanart>
-</item>
-</items>
-</channel>
-
-<item>
-<title>[COLOR lime][COLOR  lime]*[/COLOR]PELICULAS DE ACCION CASTELLANO[/COLOR][COLOR=yellow]>>[/COLOR] </title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>Yankieflixtv==[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://el-mejor.com/subidas/mejores-peliculas-de-accion-300x250.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/trivianita/peliculas-de-accion-castellanoel-rockero-31004/list,1,1</page>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/trivianita/peliculas-de-accion-castellanoel-rockero-31004/list,1,1</referer>
-<connection>keep-alive</connection>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<thumbnail>https://i.ytimg.com/vi/46g9PVRWHIw/hqdefault.jpg</thumbnail>
-<fanart>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</fanart>
-</item>
-</items>
-</channel>
- 
-<item>
-<title>[COLOR lime][COLOR  lime]*[/COLOR]Películas de Aventura [/COLOR][COLOR=yellow]>>[/COLOR] </title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>Yankieflixtv==[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://el-mejor.com/subidas/mejores-peliculas-de-accion-300x250.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/marcos20/peliculas-de-aventura-en-espanol-latino-19600/list,1,2</page>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/marcos20/peliculas-de-aventura-en-espanol-latino-19600/list,1,2</referer>
-<connection>keep-alive</connection>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<thumbnail>https://i.ytimg.com/vi/46g9PVRWHIw/hqdefault.jpg</thumbnail>
-<fanart>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</fanart>
-</item>
-</items>
-</channel>
- 
-<item>
-<title>[COLOR lime][COLOR  lime]*[/COLOR]Películas de acción[/COLOR][COLOR=yellow]>>[/COLOR] </title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>Yankieflixtv==[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://i.ytimg.com/vi/JZ42ybAadX4/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/marcos20/peliculas-de-accion-en-espanol-latino-16521/list,1,3</page>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/marcos20/peliculas-de-accion-en-espanol-latino-16521/list,1,3</referer>
-<connection>keep-alive</connection>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<thumbnail>https://i.ytimg.com/vi/JZ42ybAadX4/hqdefault.jpg</thumbnail>
-<fanart>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</fanart>
-</item>
-</items>
-</channel>
- 
-<item>
-<title>[COLOR lime][COLOR  lime]*[/COLOR]Peliculas de drama [/COLOR][COLOR=yellow]>>[/COLOR] </title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>Yankieflixtv==[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://i.ytimg.com/vi/JZ42ybAadX4/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://st-listas.20minutos.es/images/2010-02/190987/2094767_640px.jpg?1335799033</page>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/marcos20/peliculas-de-drama-en-espanol-latino-18845/list,1,2</referer>
-<connection>keep-alive</connection>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<thumbnail>http://st-listas.20minutos.es/images/2010-02/190987/2094767_640px.jpg?1335799033</thumbnail>
-<fanart>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</fanart>
-</item>
-</items>
-</channel>
- 
-<item>
-<title>[COLOR lime][COLOR  lime]*[/COLOR]películas de comedia[/COLOR][COLOR=yellow]>>[/COLOR] </title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>Yankieflixtv==[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://i.ytimg.com/vi/5tR0kxbzvHg/maxresdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/marcos20/peliculas-de-comedia-en-espanol-latino-17449</page>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/marcos20/peliculas-de-comedia-en-espanol-latino-17449</referer>
-<connection>keep-alive</connection>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<thumbnail>https://i.ytimg.com/vi/5tR0kxbzvHg/maxresdefault.jpg</thumbnail>
-<fanart>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</fanart>
-</item>
-</items>
-</channel>
- 
-<item>
-<title>[COLOR lime][COLOR  lime]*[/COLOR]PELICULAS COMEDIA CASTELLANO[/COLOR][COLOR=yellow]>>[/COLOR] </title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>Yankieflixtv==[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://i.ytimg.com/vi/5tR0kxbzvHg/maxresdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/trivianita/peliculas-comedia-castellanoel-rockero-30489/list,1,5</page>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/trivianita/peliculas-comedia-castellanoel-rockero-30489/list,1,5</referer>
-<connection>keep-alive</connection>
-<cookieJar>yankieflixtv</cookieJar>
-</regex>
-<thumbnail>https://i.ytimg.com/vi/5tR0kxbzvHg/maxresdefault.jpg</thumbnail>
-<fanart>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7949_668x384.jpg</fanart>
-</item>
-</items>
-</channel>
-
+#EXTINF:-1,---------- DEPORTES ----------
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13653.ts
+#EXTINF:-1,SP: BEIN SPORTS HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/5983.ts
+#EXTINF:-1,SP: BEIN SPORTS SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/587.ts
+#EXTINF:-1,SP: BEIN LA LIGA HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13932.ts
+#EXTINF:-1,SP: BEIN LA LIGA SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13914.ts
+#EXTINF:-1,SP: LA LIGA TV BAR HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13933.ts
+#EXTINF:-1,SP: LA LIGA TV BAR SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/12.ts
+#EXTINF:-1,SP: LA LIGA BAR TV 1
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13940.ts
+#EXTINF:-1,SP: GOL TV
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13934.ts
+#EXTINF:-1,SP: M. PARTIDAZO HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13649.ts
+#EXTINF:-1,SP: M. PARTIDAZO SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/9190.ts
+#EXTINF:-1,SP: M. FUTBOL HD (1080)
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/18686.ts
+#EXTINF:-1,SP: M.  FUTBOL HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13596.ts
+#EXTINF:-1,SP: M. FUTBOL
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/10.ts
+#EXTINF:-1,SP: M. DEPORTES 1 HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13600.ts
+#EXTINF:-1,SP: M.  DEPORTES 1 SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/419.ts
+#EXTINF:-1,SP: M. DEPORTES 2 HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13627.ts
+#EXTINF:-1,SP: M. DEPORTES 2
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/7197.ts
+#EXTINF:-1,SP: EUROSPORT 1 HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13587.ts
+#EXTINF:-1,SP: EUROSPORT 1 SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13668.ts
+#EXTINF:-1,SP: EUROSPORT 2 SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13670.ts
+#EXTINF:-1,SP: BEIN LA LIGA 1 SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13700.ts
+#EXTINF:-1,SP: LA LIGA TV 2 SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13699.ts
+#EXTINF:-1,SP: LA LIGA TV 3 SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13698.ts
+#EXTINF:-1,SP: LA LIGA TV 4 SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13697.ts
+#EXTINF:-1,SP: LA LIGA TV 5 SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13696.ts
+#EXTINF:-1,SP: LA LIGA TV 6 SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13695.ts
+#EXTINF:-1,SP: LA LIGA TV 7 SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13694.ts
+#EXTINF:-1,SP: LA LIGA TV 8 SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13693.ts
+#EXTINF:-1,SP: BEIN MAX 1 HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13646.ts
+#EXTINF:-1,SP: BEIN MAX 2 HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13647.ts
+#EXTINF:-1,SP: BEIN MAX 3 HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13648.ts
+#EXTINF:-1,SP: BEIN MAX 1
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13948.ts
+#EXTINF:-1,SP: BEIN MAX 2
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13947.ts
+#EXTINF:-1,SP: BEIN MAX 3
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13946.ts
+#EXTINF:-1,SP: BEIN MAX 4
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13945.ts
+#EXTINF:-1,SP: BEIN MAX 5
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13944.ts
+#EXTINF:-1,SP: BEIN MAX 6
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13943.ts
+#EXTINF:-1,SP: BEIN MAX 7
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13942.ts
+#EXTINF:-1,SP: BEIN MAX 8
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13941.ts
+#EXTINF:-1,SP: MULTIDEPORTES 1
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/16837.ts
+#EXTINF:-1,SP: MULTIDEPORTES 2
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/16838.ts
+#EXTINF:-1,SP: MULTIDEPORTES 3
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/16839.ts
+#EXTINF:-1,SP: MULTIDEPORTES 4
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/16840.ts
+#EXTINF:-1,SP: BARCA TV
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/7213.ts
+#EXTINF:-1,SP: REAL MADRID
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/422.ts
+#EXTINF:-1,SP: TELEDEPORTES
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13917.ts
+#EXTINF:-1,SP: MEGA
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/14118.ts
