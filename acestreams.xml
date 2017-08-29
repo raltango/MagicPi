@@ -1,26 +1,28 @@
 #EXTM3U
  
-#EXTINF:-1, MOTO GP
-http://edge504.livesports.pw/live/vermotogpmea6b484f0907aac/index
-
-.m3u8
-#EXTINF:-1,MOTO GP OPCION 2
-http://edge501.livesports.pw/live/vermotogpmea6b484f0907aac/index
-
-.m3u8
-#EXTINF:-1,MOVISTAR 
-
-F1http://edge505.livesports.pw/live/verfunoesp3d183864ebf1241/ind
-
-ex.m3u8
-http://edge506.livesports.pw/live/verfunoesp3d183864ebf1241/index
-
-.m3u8
-#EXTINF:-1,MOVISTAR F1 OPCION 2
-http://edge505.livesports.pw/live/verfunoesp3d183864ebf1241/index
-
-.m3u8
-#EXTINF:-1,MOVISTAR F1 OPCION 3
-http://edge504.livesports.pw/live/verfunoesp3d183864ebf1241/index
-
-.m3u8
+#EXTINF:-1,SP:  M. MOTO GP
+ http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15438.ts
+ 
+ #EXTINF:-1,SP: beIN La Liga
+ http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/12497.ts
+ 
+#EXTINF:-1,SP: Bein La Liga HD
+ http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/16981.ts
+ 
+#EXTINF:-1,SP: Bein LaLiga HD
+ http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13709.ts
+ 
+ #EXTINF:-1,SP: BeIN Sports FHD
+ http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13279.ts
+ 
+#EXTINF:-1,SP: BEIN SPORTS HD
+ http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15440.ts
+ 
+ #EXTINF:-1,SP: M. Formula 1
+ http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7617.ts
+ 
+#EXTINF:-1,SP: M. Formula 1 HD
+ http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15437.ts
+ 
+#EXTINF:-1,SP: M. Futbol
+ http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13008.ts
