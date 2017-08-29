@@ -1,179 +1,26 @@
 #EXTM3U
+ 
+#EXTINF:-1, MOTO GP
+http://edge504.livesports.pw/live/vermotogpmea6b484f0907aac/index
 
-#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/prd-mujer-maravilla-610x800.jpg" group-title="Estreno", La mujer Maravilla HD
-https://files.fromsmash.com/f9f98119-6456-11e7-830d-0a39043893bc/mujermaravilla20177.mp4
- 
-#EXTINF:-1 tvg-logo="https://marsmediaapp.azurewebsites.net/300/files/POSTER/mumya_afis.jpg",The Mummy 3D
-https://files.fromsmash.com/9cffeb62-665b-11e7-830d-0a39043893bc/THE%20MUMMY%202017%20Sub.%20HD%26Quique.mp4
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/azteca_7.png" group-title="TV Abierta",Azteca 7
-http://209.126.116.177:2086/107azteca7/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1, Fox latino
-http://edge1.telesport.pw/live/foxlatino/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/04/tnt_logo-silver1.jpg?w=150&h=122" ,TNT
-http://edge1.telesport.pw/live/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_mexico.png" group-title="TV Abierta",Canal 5
-http://209.126.116.177:2086/105canal5/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_13.png" group-title="TV Abierta",El Trece
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv.png" group-title="TV Abierta",Televisi�n Mexiquense
-http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas_mexico.png" group-title="TV Abierta",Canal 2
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus.png" group-title="TV Abierta",Multimedios Monterrey
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1,A+
-http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 type="stream" , azteca america
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1,101 españa
-http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" group-title="MEXICO", Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
- 
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.58ca099958cf2_a.png.5324ca4355112d0398127d724539e1bd.png" group-title="MEXICO", Azteca+ Plus
-http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="LATINO", Univision
-http://cdnh8.iblups.com/hls/TzfgMY2JVi.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="LATINO", Univision
-http://104.245.96.214:8000/live/F3lip3098/Pobl3t3098/149.ts
-#EXTINF:-1 tvg-logo="http://rec-eph.gfrcdn.net/images/tnph3/295/379/0/0/295/379/2014/10/17/univision141017.jpg" group-title="LATINO", Univisión Puerto Rico
-https://cdnh8.iblups.com/hls/TzMLT5VhhH.m3u8
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/rcn.png" , RCN HD
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.info?.m3u
- 
-#EXTINF:-1 tvg-logo="http://www.lepoint.fr/images
-/2016/06/07/4196567lpw-4196810-jpg_3591288.jpg" group-title="Francia", BFM Sport
-http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/35.png" group-title="Nacional" , Telefe HD
-http://ar.watcha.live/ch6/hi.m3u8
-#EXTINF:-1,Antena latina Peru
-http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/az_noticias.png" group-title="Noticias",AZ Noticias
-http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
- 
- 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/1623.png" group-title="Mundo",Animal Planet
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/373.flv
- 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/1623.png" group-title="Mundo",Animal Planet USA
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/1624.png" group-title="Mundo",TLC
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/386.flv
- 
-#EXTINF:-1 type="stream" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Mundo",Nasa TV
-https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/VvDJqwZ.png" group-title="Mundo",Sun Channel
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://top-radio.org/wp-content/uploads/logo/AKeckFhWLs.jpg" group-title="M�sica",Radio ONE TV
-http://190.57.234.165/V2/2/1.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="http://2.bp.blogspot.com/-gxt_W3_eXYQ/Tzw0i0tmOiI/AAAAAAAASSI/URlXJIIAX1E/s1600/rockandpop-2012.png" group-title="M�sica",Rock&Pop
-http://190.57.234.165/V2/3/1.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="http://www.radiopower.com.ar/img/logoPwrHD_small.png" group-title="M�sica",Power
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/chunklist_w668249396.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="http://coolradiohd.com/wp-content/uploads/2015/02/logo-stream.png" group-title="M�sica",Cool
-http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/597/250" group-title="M�sica",Rock Nacional TV
-http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://k61.kn3.net/5/7/8/0/3/C/9BF.png" group-title="M�sica",Djing
-http://www.djing.com/tv/i-05.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://k61.kn3.net/3/B/C/2/6/7/C22.png" group-title="M�sica",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" group-title="M�sica",Mi Musica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?iptvgratis?chile.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://1.bp.blogspot.com/-C6_LBSkr2RI/VyLFj6wKsLI/AAAAAAAACB4/fQRlMReEwGQC1V6D92S9Nd5meTARU7lbgCLcB/s200/Top%2BLatino%2Btv.png" group-title="M�sica",Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.57e29c46a43b8_QuieroMsicaTV.png.c8744ad128faccb060fc71fa96ba294e.png" group-title="M�sica",Quiero Musica
-mms://200.42.92.6:1755/qmusica
- 
- 
-#EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RMS.png" group-title="M�sica",Ritmoson
-http://23.237.22.2:8080/lstream4/578/11/654681644949e1a53be8493e2112723e/731.flv
- 
-#EXTINF:-1 type="stream" tvg-logo="http://i63.tinypic.com/2a0002c.png" group-title="M�sica",Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="http://promocionestigohn.com/saatchihn/tigo/landing-pages/2016/01-enero/refresh-tigo-smart/images/footer-02-logo-tigo-music.png" group-title="M�sica",Tigo Music
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?tecnotv.info?iptv.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://k60.kn3.net/9/7/1/9/3/B/674.png" group-title="M�sica",1HD Music
-http://80.250.191.10:1935/live/hlsstream343/chunklist_w69624695.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png" group-title="M�sica",Hit TV
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://lh3.googleusercontent.com/n23OKSMllMG3SgzxwIO0d6JVcKs0eVRxnj3_RlFEQMtwnTBGFM70EA29rRR4GEGpq0Q=w300" group-title="M�sica",Telem�sica
-http://186.155.200.118:1935/live/telemusica/livestream.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="http://3.bp.blogspot.com/-zm_cDQDkEKQ/USFsfwhyesI/AAAAAAAADPY/7QrvU4SYODo/s1600/virgin_radio_tv.png" group-title="M�sica",Virgin TV
-http://wow01.105.net/live/virgin1/chunklist.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="M�sica",Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
- 
-#EXTINF:-1,96 Anime Tv
-http://migre.me/wwuJm/TuIptvLatinoSinFrontera/AnimeTv.m3u8
-#EXTINF:-1,97 Banda Ancha TV
-https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8
-#EXTINF:-1,98 Canal Claro
-http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
-#EXTINF:-1,99 Cantinazo Tv
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?tecnotv.info?iptv.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41Bb2x1cL9L.png" group-title="M�sica",Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/07/vibeelogotv-Custom.png" group-title="M�sica",Vibee
-http://46.101.21.42:8081/live/live2/playlist.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/32/Capital_TV_logo.png/revision/latest?cb=20150327095613" group-title="M�sica",Capital TV Music
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="http://www.satelity-budejovice.cz/fotky13968/EZS/Televizni_anteny/logo-Retro_Music_Tv.png" group-title="M�sica",Retro Music
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/226.png" group-title="Infantil" ,Cartoon Network
-http://23.237.22.2:8080/lstream4/106/14/654681644949e1a53be8493e2112723e/320.flv
- 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/880.png" group-title="Infantil",Tooncast
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/328.flv
- 
-#EXTINF:-1 type="stream" tvg-logo="https://vignette3.wikia.nocookie.net/doblaje/images/0/08/Boomerang_2014_logo.svg.png/revision/latest?cb=20150806160700&path-prefix=es" group-title="Infantil",Boomerang
-http://23.237.22.2:8080/lstream4/440/14/654681644949e1a53be8493e2112723e/324.flv
- 
-#EXTINF:-1 type="stream" tvg-logo="http://static.elmeme.me/static/uploads/images/2013/11/18438/18504_subitem_full.png" group-title="Infantil",Nick
-http://23.237.22.2:8080/lstream4/105/14/654681644949e1a53be8493e2112723e/317.flv
- 
-#EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="Infantil",Nick 2
-http://190.57.234.164/V3/3/1.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Infantil",Nick Toons
-http://190.57.234.164/V6/1/1.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Infantil",Nick Jr
-http://190.57.234.164/V6/2/1.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/136.png" group-title="Infantil",Disney Channel
-http://23.237.22.2:8080/lstream4/104/14/654681644949e1a53be8493e2112723e/312.flv
- 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/325.png" group-title="Infantil",Disney XD
-http://23.237.22.2:8080/lstream4/107/14/654681644949e1a53be8493e2112723e/322.flv
- 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/76.png" group-title="Infantil",Discovery Kids
-http://190.57.234.164/V1/3/1.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/756.png" group-title="Infantil",Disney Junior
-http://190.57.234.164/V9/1/1.m3u8
+.m3u8
+#EXTINF:-1,MOTO GP OPCION 2
+http://edge501.livesports.pw/live/vermotogpmea6b484f0907aac/index
+
+.m3u8
+#EXTINF:-1,MOVISTAR 
+
+F1http://edge505.livesports.pw/live/verfunoesp3d183864ebf1241/ind
+
+ex.m3u8
+http://edge506.livesports.pw/live/verfunoesp3d183864ebf1241/index
+
+.m3u8
+#EXTINF:-1,MOVISTAR F1 OPCION 2
+http://edge505.livesports.pw/live/verfunoesp3d183864ebf1241/index
+
+.m3u8
+#EXTINF:-1,MOVISTAR F1 OPCION 3
+http://edge504.livesports.pw/live/verfunoesp3d183864ebf1241/index
+
+.m3u8
