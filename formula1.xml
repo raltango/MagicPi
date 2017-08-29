@@ -35,7 +35,7 @@
 
 <item>
 <title>2017 Russian Grand Prix: Race Highlights</title>        
-<urlsolve>https://mega.nz/#!KYBzXIaB!r6I_bwIjHhZ2CzlokpZhM4W68a7cuodbokYqIBLsdN4</urlsolve>
+<urlsolve>https://youtu.be/xtHtegExhXY</urlsolve>
 <thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
 </item>
@@ -44,10 +44,13 @@
 
 
 
-<item>
-<title>[B][COLOR deeppink]------------·*[/COLOR][/B][B][COLOR powderblue]CARRERAS 2016[/COLOR][/B][B]---------[COLOR deeppink]*·[/COLOR][/B]</title>
-<link>http://ignoreme</link>
-</item>
+#EXTM3U
+ 
+#EXTINF:-1,[B][COLOR deeppink]*[/COLOR][/B][B][COLOR powderblue]CARRERAS 2016[/COLOR][/B][B][COLOR deeppink]*[/COLOR][/B]
+
+#EXTINF:-1,
+#EXTINF:-1,GP ESPAÑA
+https://archive.org/download/GPDeEspaa2016/GP%20de%20Espa%C3%B1a%202016.mp4
 
 
 
@@ -55,12 +58,6 @@
 
 
 
-<item>
-<title>·2017 GP ESPAÑA</title>        
-<urlsolve>https://archive.org/download/GPDeEspaa2016/GP%20de%20Espa%C3%B1a%202016.mp4</urlsolve>
-<thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
-<fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
-</item>
 
 
 
