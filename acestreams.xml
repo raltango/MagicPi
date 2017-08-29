@@ -1,537 +1,111 @@
 #EXTM3U
  
-#EXTINF:-1,==== SPAIN ====
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/12379.m3u8
-#EXTINF:-1,ES: LA 1
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18322.m3u8
-#EXTINF:-1,ES: LA 2
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18321.m3u8
-#EXTINF:-1,ES- Antena3 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18357.m3u8
-#EXTINF:-1,ES- Antena3 Series
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18356.m3u8
-#EXTINF:-1,ES: CUATRO
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18320.m3u8
-#EXTINF:-1,ES: LA SEXTA
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18318.m3u8
-#EXTINF:-1,ES: TELECINCO
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18319.m3u8
-#EXTINF:-1,ES: TVE LA 1
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18317.m3u8
-#EXTINF:-1,ES: TVE LA 2
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18316.m3u8
-#EXTINF:-1,ES: TV3
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18315.m3u8
-#EXTINF:-1,ES: AMC HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18330.m3u8
-#EXTINF:-1,ES: AXN
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18325.m3u8
-#EXTINF:-1,ES: AXN White
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18324.m3u8
-#EXTINF:-1,ES: Calle 13
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18331.m3u8
-#EXTINF:-1,ES: Comedy Central
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18333.m3u8
-#EXTINF:-1,ES: Fox HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18327.m3u8
-#EXTINF:-1,ES: Fox Life
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18326.m3u8
-#EXTINF:-1,ES: Hollywood
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18332.m3u8
-#EXTINF:-1,ES: Movistar Accion HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18340.m3u8
-#EXTINF:-1,ES: Movistar Comedia HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18341.m3u8
-#EXTINF:-1,ES: Movistar DCine
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18338.m3u8
-#EXTINF:-1,ES: Movistar DCine HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18339.m3u8
-#EXTINF:-1,ES: Movistar Estrenos HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18342.m3u8
-#EXTINF:-1,ES: Movistar Series HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18337.m3u8
-#EXTINF:-1,ES: Movistar Series Xtra HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18336.m3u8
-#EXTINF:-1,ES: Movistar Xtra HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18335.m3u8
-#EXTINF:-1,ES: Paramount Channel
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18334.m3u8
-#EXTINF:-1,ES: Syfy HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18328.m3u8
-#EXTINF:-1,ES: TCM HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18329.m3u8
-#EXTINF:-1,ES: TNT HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18323.m3u8
-#EXTINF:-1,ES- Barca TV
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18346.m3u8
-#EXTINF:-1,ES- BeinSport HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18353.m3u8
-#EXTINF:-1,ES- BeinSport LaLiga HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18352.m3u8
-#EXTINF:-1,ES- GolTV
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18355.m3u8
-#EXTINF:-1,ES- LaLiga TV
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18354.m3u8
-#EXTINF:-1,ES- Movistar Deportes 1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18350.m3u8
-#EXTINF:-1,ES- Movistar Deportes 2 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18349.m3u8
-#EXTINF:-1,ES- Movistar F1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18345.m3u8
-#EXTINF:-1,ES- Movistar Futbol HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18351.m3u8
-#EXTINF:-1,ES- Movistar Golf HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18343.m3u8
-#EXTINF:-1,ES- Movistar MotoGP HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18344.m3u8
-#EXTINF:-1,ES- Real Madrid TV
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18347.m3u8
-#EXTINF:-1,ES- TeleDeporte
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18348.m3u8
-#EXTINF:-1,ES: A&E
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18365.m3u8
-#EXTINF:-1,ES: C&I
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18364.m3u8
-#EXTINF:-1,ES: Caza Y Pesca
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18361.m3u8
-#EXTINF:-1,ES: Clan TVE
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18358.m3u8
-#EXTINF:-1,ES: Cocina
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18360.m3u8
-#EXTINF:-1,ES: Decasa
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18362.m3u8
-#EXTINF:-1,ES: Discovery Channel HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18371.m3u8
-#EXTINF:-1,ES: Discovery Max HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18370.m3u8
-#EXTINF:-1,ES: Historia
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18363.m3u8
-#EXTINF:-1,ES: Nat Geo Wild HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18368.m3u8
-#EXTINF:-1,ES: National Geographic HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18369.m3u8
-#EXTINF:-1,ES: Non Stop Poeple
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18366.m3u8
-#EXTINF:-1,ES: Odisea
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18367.m3u8
-#EXTINF:-1,ES: Viajar
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18359.m3u8
-#EXTINF:-1,ES: Boing
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18373.m3u8
-#EXTINF:-1,ES: Disney Channel HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18377.m3u8
-#EXTINF:-1,ES: Disney Junior
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18376.m3u8
-#EXTINF:-1,ES: Disney XD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18374.m3u8
-#EXTINF:-1,ES: Nickelodeon
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18375.m3u8
-#EXTINF:-1,ES: Panda
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18372.m3u8
-#EXTINF:-1,DE: Pro 7 MAXX HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18545.m3u8
-#EXTINF:-1,DE: RTL HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18547.m3u8
-#EXTINF:-1,DE: RTL II HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18546.m3u8
-#EXTINF:-1,DE: Sky Atlantic HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18559.m3u8
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18562.m3u8
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18561.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18558.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 2 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18557.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 3 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18556.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 4 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18555.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 5 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18554.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 6 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18553.m3u8
-#EXTINF:-1,DE: Sky Cinema 24 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18573.m3u8
-#EXTINF:-1,DE: Sky Cinema Action HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18572.m3u8
-#EXTINF:-1,DE: Sky Cinema Comedy HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18571.m3u8
-#EXTINF:-1,DE: Sky Cinema Emotion
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18570.m3u8
-#EXTINF:-1,DE: Sky Cinema HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18574.m3u8
-#EXTINF:-1,DE: Sky Cinema Hits HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18569.m3u8
-#EXTINF:-1,DE: Sky Sport News HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18560.m3u8
-#EXTINF:-1,DE: Syfy HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18564.m3u8
-#EXTINF:-1,DE: TNT Film HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18567.m3u8
-#EXTINF:-1,DE: AXN HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18563.m3u8
-#EXTINF:-1,DE: DMAX HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18548.m3u8
-#EXTINF:-1,DE: Fox HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18565.m3u8
-#EXTINF:-1,DE: MGM HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18568.m3u8
-#EXTINF:-1,DE: History HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18549.m3u8
-#EXTINF:-1,DE: Discovery Channel HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18550.m3u8
-#EXTINF:-1,DE: Nat Geo Wild HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18551.m3u8
-#EXTINF:-1,DE: Nat Geographic HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18552.m3u8
-#EXTINF:-1,DE: Universal HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18566.m3u8
-#EXTINF:-1,Filmbox
-http://91.224.178.9:5000/10
-#EXTINF:-1,Eurosport
-http://91.224.178.9:5000/11
-#EXTINF:-1,Zenebutik
-http://91.224.178.9:5000/14
-#EXTINF:-1,FEM3
-http://91.224.178.9:5000/15
-#EXTINF:-1,Mozi+
-http://91.224.178.9:5000/12
-#EXTINF:-1,Izaura TV
-http://91.224.178.9:5000/13
-#EXTINF:-1,C8
-http://91.224.178.9:5000/16
-#EXTINF:-1,AXN
-http://91.224.178.9:5000/01
-#EXTINF:-1,RTL+
-http://91.224.178.9:5000/03
-#EXTINF:-1,Da Vinci Learning
-http://91.224.178.9:5000/05
-#EXTINF:-1,PRIME
-http://91.224.178.9:5000/04
-#EXTINF:-1,VIASAT3
-http://91.224.178.9:5000/02
-#EXTINF:-1,Nickelodeon
-http://91.224.178.9:5000/07
-#EXTINF:-1,Cartoon Network
-http://91.224.178.9:5000/08
-#EXTINF:-1,Comedy Central
-http://91.224.178.9:5000/06
-#EXTINF:-1,National Geographic
-http://91.224.178.9:5000/09
-#EXTINF:-1,==== TIVUSAT ====
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9019.m3u8
-#EXTINF:-1,RAI 1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9020.m3u8
-#EXTINF:-1,RAI 2 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9021.m3u8
-#EXTINF:-1,RAI 3 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9022.m3u8
-#EXTINF:-1,RETE 4 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9023.m3u8
-#EXTINF:-1,CANALE 5 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9024.m3u8
-#EXTINF:-1,ITALIA 1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9025.m3u8
-#EXTINF:-1,LA 7 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20430.m3u8
-#EXTINF:-1,LA 7D
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9027.m3u8
-#EXTINF:-1,IRIS
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9030.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13348.m3u8
-#EXTINF:-1,MEDIASET ITALIA 2
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13350.m3u8
-#EXTINF:-1,MEDIASET EXTRA
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13351.m3u8
-#EXTINF:-1,RAI 4 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9031.m3u8
-#EXTINF:-1,RAI 5 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9032.m3u8
-#EXTINF:-1,RAI SCUOLA
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9034.m3u8
-#EXTINF:-1,RAI MOVIE
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9035.m3u8
-#EXTINF:-1,RAI PREMIUM
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9033.m3u8
-#EXTINF:-1,RSI LA 1
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9028.m3u8
-#EXTINF:-1,RSI LA 2
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9029.m3u8
-#EXTINF:-1,TV8
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/19629.m3u8
-#EXTINF:-1,IT:TV 2000
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/19628.m3u8
-#EXTINF:-1,IT:Nuvolari
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/19627.m3u8
-#EXTINF:-1,FINE LIVING
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/16356.m3u8
-#EXTINF:-1,[TVSAT] NOVE
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20333.m3u8
- 
- 
- 
-#EXTINF:-1,==== SKY CINEMA ====
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9036.m3u8
-#EXTINF:-1,SKY CINEMA 3D
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20650.m3u8
-#EXTINF:-1,SKY CINEMA 1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9038.m3u8
-#EXTINF:-1,SKY CINEMA +1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9039.m3u8
-#EXTINF:-1,SKY CINEMA +24 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9040.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9041.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY +1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20272.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9043.m3u8
-#EXTINF:-1,SKY CINEMA PASSION HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9047.m3u8
-#EXTINF:-1,SKY CINEMA MAX HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9045.m3u8
-#EXTINF:-1,SKY CINEMA MAX 1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20538.m3u8
-#EXTINF:-1,SKY CINEMA HITS HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9049.m3u8
-#EXTINF:-1,SKY CINEMA CULT HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9051.m3u8
-#EXTINF:-1,SKY CINEMA CLASSIC HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9052.m3u8
-#EXTINF:-1,==== INTRATTENIMENTO ====
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9070.m3u8
-#EXTINF:-1,SKY UNO HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9086.m3u8
-#EXTINF:-1,SKY UNO +1
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20879.m3u8
-#EXTINF:-1,SKY ATLANTIC HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9084.m3u8
-#EXTINF:-1,SKY ATLANTIC +1
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20880.m3u8
-#EXTINF:-1,Sky Blaze HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20276.m3u8
-#EXTINF:-1,FOX HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9082.m3u8
-#EXTINF:-1,FOX +1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20881.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9080.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9078.m3u8
-#EXTINF:-1,FOX COMEDY HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9075.m3u8
-#EXTINF:-1,FOX ANIMATION HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9076.m3u8
-#EXTINF:-1,CI CRIME INVESTIGATION
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9074.m3u8
-#EXTINF:-1,LEI HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20348.m3u8
-#EXTINF:-1,CIELO
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9150.m3u8
-#EXTINF:-1,Sposa HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20335.m3u8
-#EXTINF:-1,REAL TIME
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9291.m3u8
-#EXTINF:-1,REAL TIME +1
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13347.m3u8
-#EXTINF:-1,GIALLO
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13346.m3u8
-#EXTINF:-1,DMAX
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9140.m3u8
-#EXTINF:-1,IT: Dmax 1
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/16367.m3u8
-#EXTINF:-1,LaEffe
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20429.m3u8
-#EXTINF:-1,TOP CRIME
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/16358.m3u8
-#EXTINF:-1,IT: Comedy Central
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/16371.m3u8
-#EXTINF:-1,COMEDY CENTRAL +1
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20532.m3u8
-#EXTINF:-1,IT: La 5
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/16369.m3u8
-#EXTINF:-1,CLASSICA
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20341.m3u8
-#EXTINF:-1,==== SKY SPORT ====
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20342.m3u8
-#EXTINF:-1,Sky Sport 24 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13767.m3u8
-#EXTINF:-1,sky Sport Mix
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/17712.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13770.m3u8
-#EXTINF:-1,Sky Sport 2 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13772.m3u8
-#EXTINF:-1,Sky Sport 3 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13775.m3u8
-#EXTINF:-1,Sky Formula 1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13784.m3u8
-#EXTINF:-1,Sky Moto GP HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13786.m3u8
-#EXTINF:-1,Fox Sports HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13778.m3u8
-#EXTINF:-1,IT: Sky Sport Plus HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/16365.m3u8
-#EXTINF:-1,Bike Channel HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18512.m3u8
-#EXTINF:-1,UNIRESAT HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20339.m3u8
-#EXTINF:-1,IT:Automoto
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/16366.m3u8
-#EXTINF:-1,Class Horse TV
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20337.m3u8
-#EXTINF:-1,EuroSport 1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13788.m3u8
-#EXTINF:-1,EuroSport 2 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13789.m3u8
-#EXTINF:-1,Rai Sport 1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13791.m3u8
-#EXTINF:-1,SportItalia
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13792.m3u8
-#EXTINF:-1,IT: SuperTennis HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/16363.m3u8
-#EXTINF:-1,==== SKY CALCIO ====
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9119.m3u8
-#EXTINF:-1,Sky Supercalcio HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13799.m3u8
-#EXTINF:-1,Top Calcio 24
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/19451.m3u8
-#EXTINF:-1,Sky Calcio 1 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13801.m3u8
-#EXTINF:-1,Sky Calcio 2 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13803.m3u8
-#EXTINF:-1,Sky Calcio 3 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13804.m3u8
-#EXTINF:-1,Sky Calcio 4 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13805.m3u8
-#EXTINF:-1,Sky Calcio 5 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13806.m3u8
-#EXTINF:-1,Sky Calcio 6 HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13807.m3u8
-#EXTINF:-1,Inter Channel
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13812.m3u8
-#EXTINF:-1,Juventus Channel
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13810.m3u8
-#EXTINF:-1,Milan Channel
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13813.m3u8
-#EXTINF:-1,Roma Channel
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/13811.m3u8
-#EXTINF:-1,IT: LAZIO CHANNEL
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/14767.m3u8
-#EXTINF:-1,TORINO CHANNEL
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20845.m3u8
-#EXTINF:-1,==== CULTURA ====
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9133.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9149.m3u8
-#EXTINF:-1,DISCOVERY SCIENZE HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9148.m3u8
-#EXTINF:-1,DISCOVERY TRAVEL & LIVING HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9147.m3u8
-#EXTINF:-1,NATGEO HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9146.m3u8
-#EXTINF:-1,NATGEO WILD HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9144.m3u8
-#EXTINF:-1,NATGEO PEOPLE HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9145.m3u8
-#EXTINF:-1,HISTORY HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9143.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9142.m3u8
-#EXTINF:-1,GAMBERO ROSSO
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9136.m3u8
-#EXTINF:-1,IT: Sky Arte HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/15495.m3u8
-#EXTINF:-1,FOCUS
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9141.m3u8
-#EXTINF:-1,ALICE
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9151.m3u8
-#EXTINF:-1,CACCIA E PESCA
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9138.m3u8
-#EXTINF:-1,PESCA E CACCIA
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20425.m3u8
-#EXTINF:-1,Italian Fishing
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/17700.m3u8
-#EXTINF:-1,PESCARE E CACCIARE
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9139.m3u8
-#EXTINF:-1,IT: WWE Wrestling HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/16368.m3u8
-#EXTINF:-1,==== MUSICA ====
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9167.m3u8
-#EXTINF:-1,RTL 102.5
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9176.m3u8
-#EXTINF:-1,RADIO TAORMINA TV
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9175.m3u8
-#EXTINF:-1,RADIO NUMBER ONE TV
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9174.m3u8
-#EXTINF:-1,RADIO MONTECARLO TV
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9173.m3u8
-#EXTINF:-1,RADIO IGLESIAS TV
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9172.m3u8
-#EXTINF:-1,RADIO CAPITAL TV
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9171.m3u8
-#EXTINF:-1,RADIO 105 TV
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9170.m3u8
-#EXTINF:-1,M20 TV
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9169.m3u8
-#EXTINF:-1,==== BAMBINI ====
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9177.m3u8
-#EXTINF:-1,MASHA E ORSO
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20715.m3u8
-#EXTINF:-1,TOM E JERRY LIVE CHANNEL
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20827.m3u8
-#EXTINF:-1,Disney Channel HD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18514.m3u8
-#EXTINF:-1,DISNEY XD
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9193.m3u8
-#EXTINF:-1,DISNEY XD 1
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20528.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9194.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9192.m3u8
-#EXTINF:-1,NICK JUNIOR
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20423.m3u8
-#EXTINF:-1,NICKELODEON
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20422.m3u8
-#EXTINF:-1,CARTOONITO
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9191.m3u8
-#EXTINF:-1,BOOMERANG
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20419.m3u8
-#EXTINF:-1,IT: DeA Junior
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/16362.m3u8
-#EXTINF:-1,DEA KIDS
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20421.m3u8
-#EXTINF:-1,Manga
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18513.m3u8
-#EXTINF:-1,FRISBEE
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9188.m3u8
-#EXTINF:-1,SUPER!
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9190.m3u8
-#EXTINF:-1,BOING
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9187.m3u8
-#EXTINF:-1,BABY TV
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/20420.m3u8
-#EXTINF:-1,K2
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9189.m3u8
-#EXTINF:-1,RAI GULP
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9186.m3u8
-#EXTINF:-1,RAI YOYO
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9185.m3u8
-#EXTINF:-1,Topolino Live
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18577.m3u8
-#EXTINF:-1,Tom Jerry Live
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/18576.m3u8
-#EXTINF:-1,==== NOTIZIE ====
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9200.m3u8
-#EXTINF:-1,SKY TG 24
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9201.m3u8
-#EXTINF:-1,RAI NEWS 24
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9202.m3u8
-#EXTINF:-1,EURONEWS
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9204.m3u8
-#EXTINF:-1,TG NORBA 24
-http://portalipt.ddns.net:12000/live/ngogRwm7kH/lmuvhbmD6r/9203.m3u8
+#EXTM3U
+#EXTINF:-1,==========Spain==========
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/7231.ts
+#EXTINF:-1,---------- TDT ----------
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13657.ts
+#EXTINF:-1,SP: LA1 HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13643.ts
+#EXTINF:-1,SP: LA1
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/33.ts
+#EXTINF:-1,SP: LA2
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/34.ts
+#EXTINF:-1,SP: ANTENA 3 HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13640.ts
+#EXTINF:-1,SP: ANTENA 3
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/407.ts
+#EXTINF:-1,SP: CUATRO HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13671.ts
+#EXTINF:-1,SP: CUATRO
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/24.ts
+#EXTINF:-1,SP: TELECINCO HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/7209.ts
+#EXTINF:-1,SP: TELECINCO
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/44.ts
+#EXTINF:-1,SP: LA SEXTA HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/408.ts
+#EXTINF:-1,SP: LA SEXTA
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/35.ts
+#EXTINF:-1,SP: NEOX
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/7194.ts
+#EXTINF:-1,SP: NOVA
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/42.ts
+#EXTINF:-1,SP: MEGA TV
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/7200.ts
+#EXTINF:-1,SP: FDF
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/404.ts
+#EXTINF:-1,SP: DIVINITY
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/7196.ts
+#EXTINF:-1,SP: ENERGY
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/405.ts
+#EXTINF:-1,SP: TV GALICIA
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/410.ts
+#EXTINF:-1,SP: ANDALUCIA TV
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/7195.ts
+#EXTINF:-1,SP: TELEMADRID
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/19936.ts
+#EXTINF:-1,SP: ATRESERIES
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/19923.ts
+#EXTINF:-1,SP: DKISS
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/19919.ts
+#EXTINF:-1,SP: TV CANARIA
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/19920.ts
+#EXTINF:-1,---------- MOVISTAR + ----------
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13658.ts
+#EXTINF:-1,SP: #0 HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13606.ts
+#EXTINF:-1,SP: #0
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/7262.ts
+#EXTINF:-1,---------- CINE ----------
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13651.ts
+#EXTINF:-1,SP: M. ESTRENOS HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/425.ts
+#EXTINF:-1,SP: M. ESTRENOS SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/9.ts
+#EXTINF:-1,SP: M. ACCION HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13603.ts
+#EXTINF:-1,SP: M. ACCION
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/5.ts
+#EXTINF:-1,SP: M. COMEDIA HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/7211.ts
+#EXTINF:-1,SP: M. COMEDIA
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/6.ts
+#EXTINF:-1,SP: M. DCINE HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/7210.ts
+#EXTINF:-1,SP: M. DCINE
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/25.ts
+#EXTINF:-1,SP: M. XTRA HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13625.ts
+#EXTINF:-1,SP: M. XTRA
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/16.ts
+#EXTINF:-1,SP: M CINE ESPANOL
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/7224.ts
+#EXTINF:-1,SP: DARK
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/19927.ts
+#EXTINF:-1,SP: SOMOS
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/19924.ts
+#EXTINF:-1,SP: XTRM
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/19928.ts
+#EXTINF:-1,SP: CINEMAX
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/19926.ts
+#EXTINF:-1,---------- SERIES ----------
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13652.ts
+#EXTINF:-1,SP: M. SERIES
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13.ts
+#EXTINF:-1,SP: M. SERIES XTRA HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13628.ts
+#EXTINF:-1,SP: M. SERIES XTRA
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/14.ts
+#EXTINF:-1,SP: COMEDY CENTRAL HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13634.ts
+#EXTINF:-1,SP: COMEDY CENTRAL SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/7216.ts
+#EXTINF:-1,SP: HOLLYWOOD HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13593.ts
+#EXTINF:-1,SP: HOLLYWOOD SD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/32.ts
+#EXTINF:-1,SP: PARAMOUNT
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/7212.ts
+#EXTINF:-1,SP: FOX HD
+http://alphatv.info:999/live/fernan/0Yinm2jWa3/13594.ts
