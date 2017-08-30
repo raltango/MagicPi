@@ -1,103 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-#EXTM3U
- 
-#EXTINF:-1,[B][COLOR deeppink]*[/COLOR][/B][B][COLOR powderblue]LUCIFER TEMPORADA 1[/COLOR][/B][B][COLOR deeppink]*[/COLOR][/B]
+<item>
+<title>[COLOR skyblue]   ·SUPER[/COLOR][COLOR yellow] MARIO[/COLOR][COLOR red] BROS[/COLOR]</title>
+<thumbnail>http://i.imgur.com/cDb3DTV.png</thumbnail>
+<fanart>http://i.imgur.com/XDgjUks.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/test2.xml</externallink>
+</item>
 
-#EXTINF:-1,
-#EXTINF:-1,LUCIFER 1X01
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x01.m720p.acc.mkv
-#EXTINF:-1,LUCIFER 1X02
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x02.m720p.acc.mkv
-#EXTINF:-1,LUCIFER 1X03
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x03.m720p.acc.mkv
-#EXTINF:-1,LUCIFER 1X04
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x04.es%20acc.mkv
-#EXTINF:-1,LUCIFER 1X05
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x05.m720p%20acc.mkv
-#EXTINF:-1,LUCIFER 1X06
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x06.m720p%20acc.mkv
-#EXTINF:-1,LUCIFER 1X07
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x07.m720p.es%20(1).mkv
-#EXTINF:-1,LUCIFER 1X08
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x08.es%20(1).mkv
-#EXTINF:-1,LUCIFER 1X09
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x09.m720p.es%20(acc).mkv
-#EXTINF:-1,LUCIFER 1X10
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x10.m720p.es%20(1)%20(1).mkv
-#EXTINF:-1,LUCIFER 1X11
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x11.es.mkv
-#EXTINF:-1,LUCIFER 1X12
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x12.es.mkv
-#EXTINF:-1,LUCIFER 1X13
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer1x13.es%20(1).mkv
+<item>
+<title>[COLOR indianred]   ·JUEGO DE TRONOS[/COLOR]</title>
+<thumbnail>http://icon-icons.com/icons2/60/PNG/256/gameofthrones6_folder_12129.png</thumbnail>
+<fanart>https://wallpaperscraft.com/image/game_of_thrones_series_throne_power_sword_2017_1920x1080.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/pZvBmpJc</externallink>
+</item>
 
-#EXTINF:-1,[B][COLOR deeppink]*[/COLOR][/B][B][COLOR powderblue]LUCIFER TEMPORADA 2[/COLOR][/B][B][COLOR deeppink]*[/COLOR][/B]
+<item>
+<title>[COLOR yellowgreen]   ·LA QUE SE AVECINA [/COLOR]</title>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000392758484/cf227a971e3e0923ce10e493bedc43a6.jpeg</thumbnail>
+<fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/04/CCzgAGOWAAMvwjt.jpg-large.jpeg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/LQSA.xml</externallink>
+</item>
 
-#EXTINF:-1,
-#EXTINF:-1,LUCIFER 2X01
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer2x01.m720p.es%20(1)%20(1).mkv
-#EXTINF:-1,LUCIFER 2X02
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer2x02.m720p.es%20(1).mkv
-#EXTINF:-1,LUCIFER 2X03
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer2x03.Traga-pecados.m720p.es%20(1).mkv
-#EXTINF:-1,LUCIFER 2X04
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer2x04.m720p.es%20(1)%20(1).mkv
-#EXTINF:-1,LUCIFER 2X05
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer2x05.m720p.es%20(1)%20(1).mkv
-#EXTINF:-1,LUCIFER 2X06
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer2x06.m720p.es%20(1)%20(1).mkv
-#EXTINF:-1,LUCIFER 2X07
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer2x07.m720p.es%20(1)%20(1).mkv
-#EXTINF:-1,LUCIFER 2X08
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer2x08.m720p.es%20(1)%20(1).mkv
-#EXTINF:-1,LUCIFER 2X09
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer2x09.m720p.es%20(1)%20(1).mkv
-#EXTINF:-1,LUCIFER 2X10
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer2x10.m720p.es%20(1).mkv
-#EXTINF:-1,LUCIFER 2X11
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer2x11.m720p.es%20(1)%20(1).mkv
-#EXTINF:-1,LUCIFER 2X12
-http://condor1726.dedicatedpanel.com/series/Lucifer/lucifer2x12.m720p.es%20(1)%20(1).mkv
+<item>
+<title>[COLOR yellow]   ·NARCOS  [/COLOR]</title>
+<thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
+<fanart>https://okdiario.com/series/img/2016/09/07/narcos-12.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/WcppVhfD</externallink>
+</item>
 
-#EXTINF:-1,[B][COLOR deeppink]*[/COLOR][/B][B][COLOR powderblue]HAWAI 5.0 TEMPORADA 5[/COLOR][/B][B][COLOR deeppink]*[/COLOR][/B]
+<item>
+<title>[COLOR skyblue]   ·THE LAST KINGDOM      [/COLOR]</title>
+<link>ignorame</link>
+ <externallink>https://pastebin.com/raw/ddkLwHPa</externallink>
+<thumbnail>http://cdn-static.sidereel.com/tv_shows/58198/giant_2x/last_kingdom.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
-#EXTINF:-1,
-#EXTINF:-1,HAWAI 5.0 5X01
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x01%20-%20Sin.escapatoria.HDitunes.Castellano.FLY3RS.mp4
-#EXTINF:-1,HAWAI 5.0 5X02
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x02%20-%20Padre.de.familia.HDitunes.Castellano.FLY3RS.mp4
-#EXTINF:-1,HAWAI 5.0 5X03
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x03%20-%20La.ultima.ola.HDitunes.Castellano.FLY3RS.mp4
-#EXTINF:-1,HAWAI 5.0 5X04
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x04.es.mp4
-#EXTINF:-1,HAWAI 5.0 5X05
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x05.Legado.m720p.mp4
-#EXTINF:-1,HAWAI 5.0 5X06
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x06.es.mp4
-#EXTINF:-1,HAWAI 5.0 5X07
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x07.Y.si....m720p.mp4
-#EXTINF:-1,HAWAI 5.0 5X08
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x08.Desde.dentro.m720p.mp4
-#EXTINF:-1,HAWAI 5.0 5X09
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x09.Apuesta.arriesgada.m720p.mp4
-#EXTINF:-1,HAWAI 5.0 5X10
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x10.es.mp4
-#EXTINF:-1,HAWAI 5.0 5X11
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x11.es.mp4
-#EXTINF:-1,HAWAI 5.0 5X12
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x12m720p.mp4
-#EXTINF:-1,HAWAI 5.0 5X13
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x13.mp4
-#EXTINF:-1,HAWAI 5.0 5X14
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x14.es.mp4
-#EXTINF:-1,HAWAI 5.0 5X15
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x15.es.mp4
-#EXTINF:-1,HAWAI 5.0 5X16
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x16.es.mp4
-#EXTINF:-1,HAWAI 5.0 5X17
-http://condor1726.dedicatedpanel.com/series/Hawai.five.0/hawaii%205.0tp5x17.es.mp4
-
+<item>
+<title>[COLOR orange]   ·TRECE RAZONES[/COLOR]</title>
+<link>ignorame</link>
+<externallink>https://pastebin.com/raw/Ppxtkqn1</externallink>
+<thumbnail>http://www.abc.es/media/play/2017/01/25/13ReasonsWhy_SPA-0191-k0hG-U202323256675GAG-510x700@abc.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 
 

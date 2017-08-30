@@ -106,5 +106,23 @@
 <fanart>http://www.urrazacomunidades.es/wp-content/uploads/2015/03/licencia-obras.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/test1.xml</externallink>
+</item
+
+
+<item>
+                <title>lista de series</title>
+                <link>$doregex[makelist]</link>
+                <regex>
+                <name>makelist</name>
+                <listrepeat><![CDATA[
+    <title>[makelist.param2] [makelist.param3]</title>
+    <link>NA</link>
+    <thumbnail>NA</thumbnail>
+]]></listrepeat>
+ <expres><![CDATA[a href="([^"]+)">([^<]+)<\/a>\(VF([^<]+)<br]]></expres>
+
+<page>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/series.xml</page>
+<referer></referer>
+</regex>
 </item>
 
