@@ -13,7 +13,7 @@
 <thumbnail>https://seeklogo.com/images/M/Movistar-logo-FE4A8172D0-seeklogo.com.png</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/aKb93ZCX</externallink>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/canalnereo.xml</externallink>
 </item>
 
 <item>
@@ -84,23 +84,3 @@
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/test1.xml</externallink>
 </item>
 
-<addon id="plugin.video.cine" name="Cine" version="1.0.14" provider-name="Topo">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Cine</summary>
-    <description>Cine</description>
-    <disclaimer></disclaimer>
-    <language></language>
-    <platform>all</platform>
-    <license></license>
-    <forum></forum>
-    <website></website>
-    <email></email>
-    <source></source>
-  </extension>
-</addon>
