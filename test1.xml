@@ -1,22 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14756.ts
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14755.ts
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14754.ts
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14753.ts
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14752.ts
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14751.ts
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14750.ts
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14749.ts
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14748.ts
-#EXTINF:-1,BEIN SPORT 10 HD
-http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14747.ts
+#EXTINF:-1,beIN Sports HD
+http://158.69.52.43:8000/live/2234r/12345/473.ts
+#EXTINF:-1,MOVISTAR F1 HD (ES)
+http://158.69.52.43:8000/live/2234r/12345/431.ts

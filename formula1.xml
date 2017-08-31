@@ -6,6 +6,14 @@
 </item>
 
 <item>
+<title>[B][COLOR deeppink]12->NUEVO[/COLOR][COLOR powderblue] DIRECTO F1 [/COLOR][/B]</title>        
+<link>http://158.69.52.43:8000/live/2234r/12345/431.ts</link>
+<thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
+<fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
+</item>
+
+
+<item>
 <title>[B][COLOR deeppink]12->NUEVO[/COLOR][COLOR powderblue] 2017 GP BELGICA[/COLOR][/B]</title>        
 <link>https://archive.org/download/Formula.1.GP.Gran.Belgica.Carrera.2017.MovistarF1.EventosHQ/Formula.1.GP.Gran.Belgica.Carrera.2017.MovistarF1.EventosHQ.mp4</link>
 <thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
@@ -31,6 +39,9 @@
 
 
 
+
+#EXTINF:-1,MOVISTAR F1 HD (ES)
+http://158.69.52.43:8000/live/2234r/12345/431.ts
 
 
 
