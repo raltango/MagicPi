@@ -1,6 +1,256 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-#EXTINF:-1,LaLiga TV ES
-http://tv.priime.iptv.uno:8080/live/dtRZibF80/2ur7tl94/5457.ts
-#EXTINF:-1,LaLiga TV HD ES
-http://tv.priime.iptv.uno:8080/live/dtRZibF80/2ur7tl94/12718.ts
+<item>
+            <title>CANAL DE RISAS SERIES ESPANOLAS [AIDA : 7vidas : ANHQV : LQSA : CECAA Y++ ] 24 HS.</title>
+            <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_rajaduradplacard live=1 timeout=20</link>
+            <regex>
+            <name>clearCode</name>
+            <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+            <page></page>
+            </regex>
+            <regex>
+            <name>getencoded</name>
+            <expres>:mvnkey-(.*)</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getserver</name>
+            <expres>(.*?);</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getUrl</name>
+            <expres>(.*)</expres>
+            <page>http://mvn.vaughnsoft.net/video/edge/mnv-live_rajaduradplacard$doregex[gettime]-$doregex[gettime].33434</page>
+            </regex>
+            <regex>
+            <name>gettime</name>
+            <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+            <page></page>
+            </regex>
+            <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/rajaduradplacard_320.jpg</thumbnail></item>
+           
+           
+            <item>
+            <title>Canal series españolas todos los días de 11 a 23 horas de ARGENTINA</title>
+            <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_rajaduradplacares live=1 timeout=20</link>
+            <regex>
+            <name>clearCode</name>
+            <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+            <page></page>
+            </regex>
+            <regex>
+            <name>getencoded</name>
+            <expres>:mvnkey-(.*)</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getserver</name>
+            <expres>(.*?);</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getUrl</name>
+            <expres>(.*)</expres>
+            <page>http://mvn.vaughnsoft.net/video/edge/mnv-live_rajaduradplacares$doregex[gettime]-$doregex[gettime].33434</page>
+            </regex>
+            <regex>
+            <name>gettime</name>
+            <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+            <page></page>
+            </regex>
+            <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/rajaduradplacares_320.jpg</thumbnail></item>
+           
+           
+            <item>
+            <title>Canal  Candilejas</title>
+            <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_cine_candilejas live=1 timeout=20</link>
+            <regex>
+            <name>clearCode</name>
+            <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+            <page></page>
+            </regex>
+            <regex>
+            <name>getencoded</name>
+            <expres>:mvnkey-(.*)</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getserver</name>
+            <expres>(.*?);</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getUrl</name>
+            <expres>(.*)</expres>
+            <page>http://mvn.vaughnsoft.net/video/edge/mnv-live_cine_candilejas$doregex[gettime]-$doregex[gettime].33434</page>
+            </regex>
+            <regex>
+            <name>gettime</name>
+            <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+            <page></page>
+            </regex>
+            <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/cine_candilejas_320.jpg</thumbnail></item>
+           
+            <item>
+            <title>Cinelandia</title>
+            <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_cinelandia live=1 timeout=20</link>
+            <regex>
+            <name>clearCode</name>
+            <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+            <page></page>
+            </regex>
+            <regex>
+            <name>getencoded</name>
+            <expres>:mvnkey-(.*)</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getserver</name>
+            <expres>(.*?);</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getUrl</name>
+            <expres>(.*)</expres>
+            <page>http://mvn.vaughnsoft.net/video/edge/mnv-live_cinelandia$doregex[gettime]-$doregex[gettime].33434</page>
+            </regex>
+            <regex>
+            <name>gettime</name>
+            <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+            <page></page>
+            </regex>
+            <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/cinelandia_320.jpg</thumbnail></item>
+           
+           
+           
+            <item>
+            <title>Estrenos HD</title>
+            <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_estrenos_hd live=1 timeout=20</link>
+            <regex>
+            <name>clearCode</name>
+            <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+            <page></page>
+            </regex>
+            <regex>
+            <name>getencoded</name>
+            <expres>:mvnkey-(.*)</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getserver</name>
+            <expres>(.*?);</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getUrl</name>
+            <expres>(.*)</expres>
+            <page>http://mvn.vaughnsoft.net/video/edge/mnv-live_estrenos_hd$doregex[gettime]-$doregex[gettime].33434</page>
+            </regex>
+            <regex>
+            <name>gettime</name>
+            <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+            <page></page>
+            </regex>
+            <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/estrenos_hd_320.jpg</thumbnail></item>
+           
+           
+            <item>
+            <title>Zona Films</title>
+            <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_zonafilms live=1 timeout=20</link>
+            <regex>
+            <name>clearCode</name>
+            <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+            <page></page>
+            </regex>
+            <regex>
+            <name>getencoded</name>
+            <expres>:mvnkey-(.*)</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getserver</name>
+            <expres>(.*?);</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getUrl</name>
+            <expres>(.*)</expres>
+            <page>http://mvn.vaughnsoft.net/video/edge/mnv-live_zonafilms$doregex[gettime]-$doregex[gettime].33434</page>
+            </regex>
+            <regex>
+            <name>gettime</name>
+            <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+            <page></page>
+            </regex>
+            <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/zonafilms_320.jpg</thumbnail></item>
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+<item>
+<title> [COLOR skyblue]>> Mas Canales[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+            <title>[makelist.param2]</title>
+            <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_[makelist.param1] live=1 timeout=20</link>
+            <regex>
+            <name>clearCode</name>
+            <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+            <page></page>
+            </regex>
+            <regex>
+            <name>getencoded</name>
+            <expres>:mvnkey-(.*)</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getserver</name>
+            <expres>(.*?);</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getUrl</name>
+            <expres>(.*)</expres>
+            <page>http://mvn.vaughnsoft.net/video/edge/mnv-live_[makelist.param1]$doregex[gettime]-$doregex[gettime].33434</page>
+            </regex>
+            <regex>
+            <name>gettime</name>
+            <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+            <page></page>
+            </regex>
+            <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail></item>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>http://vaughnlive.tv/browse/espanol</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
