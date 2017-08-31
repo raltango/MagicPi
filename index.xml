@@ -37,7 +37,13 @@
 </item>
 
 
-
+<item>
+<title>[COLOR lime]GAMESTARTER[/COLOR][COLOR blue][I] Addon Necesario[/I][/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://script.gamestarter/</jsonrpc>
+<thumbnail>http://i.imgur.com/dqvKfYH.png</thumbnail>
+<fanart>http://i.imgur.com/IGa8aeb.jpg</fanart>
+</item>
 
 
 
