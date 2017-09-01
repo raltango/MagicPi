@@ -35,7 +35,7 @@
 </item>
 
 <item>
-<title>[B][COLOR red]* [/COLOR][/B][B][COLOR red]  SERIES[/COLOR][/B]</title>
+<title>[B][COLOR red]* [/COLOR][/B][B][COLOR red] SERIES[/COLOR][/B]</title>
 <thumbnail>https://pbs.twimg.com/profile_images/3121099081/435e06fa0cdb34f2fc4a1b045993a030.png</thumbnail>
 <fanart>https://kingstraining.com/wp-content/uploads/2016/07/1jwwo6.jpg</fanart>
 <link>http://ignoreme</link>
@@ -60,6 +60,22 @@
 <fanart>https://cdn-images-1.medium.com/max/1400/1*vvrxNe4FPEeVmXLh5sDLDA.png</fanart>
 </item>
 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR aquamarine]  [B]La Liga[/B][/COLOR] [COLOR lightslategray](acestreams) [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param4]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/[makelist.param5]</page>
+			<referer>http://arenavision2017.tk/</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>	
 
 
 
