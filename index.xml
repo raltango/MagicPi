@@ -13,7 +13,7 @@
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>https://pastebin.com/raw/AQZS8ywc</page>
+<page>http://diskokosmiko.mx/SeriesHD</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -34,13 +34,6 @@
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/acestreams.xml</externallink>
 </item>
 
-<item>
-<title>[COLOR indianred]   > PRUEBAS 2[/COLOR]</title>
-<thumbnail>http://globedia.com/imagenes/noticias/2011/5/24/estamos-de-obras_1_724062.jpg</thumbnail>
-<fanart>http://www.urrazacomunidades.es/wp-content/uploads/2015/03/licencia-obras.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>http://diskokosmiko.mx/lokario1/como-conoci-a-vuestra-madre-temp-456789-14497</externallink>
-</item>
 
 <item>
 <title>[B][COLOR red]* [/COLOR][/B][B][COLOR red] SERIES[/COLOR][/B]</title>
