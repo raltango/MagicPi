@@ -61,16 +61,9 @@
 <fanart>https://cdn-images-1.medium.com/max/1400/1*vvrxNe4FPEeVmXLh5sDLDA.png</fanart>
 </item>
 
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
-<externallink></externallink>
-</item>
 
 <item>
-<title>[COLOR deeppink]* ROM COLLECTION BROWSER - RCB - ( CONSOLAS RETRO)[/COLOR]
+<title>[COLOR skyblue]* ROM COLLECTION BROWSER - RCB - ( CONSOLAS RETRO)[/COLOR]
 [COLOR yellow][I] Addon Necesario,¡¡¡PARA ANDROID Y PC!!![/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.games.rom.collection.browser/</jsonrpc>
