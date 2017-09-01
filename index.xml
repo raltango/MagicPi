@@ -31,7 +31,7 @@
 <thumbnail>http://globedia.com/imagenes/noticias/2011/5/24/estamos-de-obras_1_724062.jpg</thumbnail>
 <fanart>http://www.urrazacomunidades.es/wp-content/uploads/2015/03/licencia-obras.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/NYWF8msH</externallink>
+<externallink>https://pastebin.com/raw/uqbLf134</externallink>
 </item>
 
 <item>
@@ -54,6 +54,15 @@
 <item>
 <title>[COLOR deeppink]* GAMESTARTER ( CONSOLAS RETRO)[/COLOR]
 [COLOR yellow][I] Addon Necesario,¡¡¡SOLO RASPBERRY!!![/I][/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://script.gamestarter/</jsonrpc>
+<thumbnail>https://img08.deviantart.net/17b9/i/2007/087/c/9/snes_logo_by_orksovaj.png</thumbnail>
+<fanart>https://cdn-images-1.medium.com/max/1400/1*vvrxNe4FPEeVmXLh5sDLDA.png</fanart>
+</item>
+
+<item>
+<title>[COLOR chartreuse]* ROM COLLECTION BROWSER - RCB - ( CONSOLAS RETRO)[/COLOR]
+[COLOR yellow][I] Addon Necesario,¡¡¡PARA ANDROID Y PC!!![/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.gamestarter/</jsonrpc>
 <thumbnail>https://img08.deviantart.net/17b9/i/2007/087/c/9/snes_logo_by_orksovaj.png</thumbnail>
