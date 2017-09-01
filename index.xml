@@ -38,11 +38,11 @@
 
 
 <item>
-<title>[B][COLOR deeppink]*[/B][B] GAMESTARTER ( CONSOLAS RETRO)[/COLOR][/B]
-         [COLOR yellow][I] Addon Necesario, ¡¡¡SOLO RASPBERRY!!![/I][/COLOR]</title>
+<title>[COLOR deeppink]* GAMESTARTER ( CONSOLAS RETRO)[/COLOR]
+[COLOR yellow][I] Addon Necesario,¡¡¡SOLO RASPBERRY!!![/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.gamestarter/</jsonrpc>
-<thumbnail>http://www.nostal-geek.com/wp-content/uploads/2017/01/retropie.png</thumbnail>
+<thumbnail>https://img08.deviantart.net/17b9/i/2007/087/c/9/snes_logo_by_orksovaj.png</thumbnail>
 <fanart>https://cdn-images-1.medium.com/max/1400/1*vvrxNe4FPEeVmXLh5sDLDA.png</fanart>
 </item>
 
