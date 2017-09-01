@@ -53,7 +53,7 @@
 
 
 <item>
-<title>[COLOR deeppink]* GAMESTARTER ( CONSOLAS RETRO)[/COLOR]
+<title>[B][COLOR deeppink]* GAMESTARTER[/B] ( CONSOLAS RETRO)[/COLOR]
 [COLOR yellow][I] Addon Necesario,¡¡¡SOLO RASPBERRY!!![/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.gamestarter/</jsonrpc>
@@ -63,7 +63,7 @@
 
 
 <item>
-<title>[COLOR skyblue]* ROM COLLECTION BROWSER - RCB - ( CONSOLAS RETRO)[/COLOR]
+<title>[B][COLOR skyblue]* ROM COLLECTION BROWSER - RCB - [/B]( CONSOLAS RETRO)[/COLOR]
 [COLOR yellow][I] Addon Necesario,¡¡¡PARA ANDROID Y PC!!![/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.games.rom.collection.browser/</jsonrpc>
