@@ -8,16 +8,22 @@
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/series.xml</externallink>
 </item>
 
-
-
-
-  
- <item>
-<title>[COLOR chartreuse]   > MOVISTAR +(30/08 1:38)[/COLOR]</title>
+<item>
+<title>[COLOR chartreuse]   > MOVISTAR +[/COLOR]</title>
+<link>$doregex[makelist]</link>
 <thumbnail>https://seeklogo.com/images/M/Movistar-logo-FE4A8172D0-seeklogo.com.png</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/jEyTFeUh</externallink>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2].ts&amp;name=Catoal - [makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
+<page>http://www.exabytetv.info/ESP.m3u</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
 
 <item>
@@ -36,6 +42,14 @@
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/addon.xml</externallink>
 </item>
 
+<item>
+<title>[COLOR lime]* ArenaVision EZY[/COLOR][COLOR blue][I] Addon ArenaVision EZY Necesario[/I][/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.arenavisionezy/</jsonrpc>
+<thumbnail>http://i.imgur.com/204VXAA.png</thumbnail>
+<fanart>http://i.imgur.com/hftJKqk.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLOR deeppink]* GAMESTARTER ( CONSOLAS RETRO)[/COLOR]
@@ -46,29 +60,8 @@
 <fanart>https://cdn-images-1.medium.com/max/1400/1*vvrxNe4FPEeVmXLh5sDLDA.png</fanart>
 </item>
 
-<item>
-<title>[COLOR lime]* ArenaVision EZY[/COLOR][COLOR blue][I] Addon ArenaVision EZY Necesario[/I][/COLOR]</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.arenavisionezy/</jsonrpc>
-<thumbnail>http://i.imgur.com/204VXAA.png</thumbnail>
-<fanart>http://i.imgur.com/hftJKqk.jpg</fanart>
-</item>
 
-<item>
-<title>Magyck IPTV</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2].ts&amp;name=Catoal - [makelist.param1]</link>
-<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>http://www.exabytetv.info/ESP.m3u</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
+
 
 
 
