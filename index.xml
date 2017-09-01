@@ -46,8 +46,8 @@
 <title>[COLOR lime]* ArenaVision EZY[/COLOR][COLOR blue][I] Addon ArenaVision EZY Necesario[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.arenavisionezy/</jsonrpc>
-<thumbnail>http://i.imgur.com/204VXAA.png</thumbnail>
-<fanart>http://i.imgur.com/hftJKqk.jpg</fanart>
+<thumbnail>http://i.imgur.com/d3WRHhJ.png</thumbnail>
+<fanart>http://www.androidaba.com/wp-content/uploads/2016/12/ar1.jpg</fanart>
 </item>
 
 
@@ -64,9 +64,9 @@
 <title>[COLOR chartreuse]* ROM COLLECTION BROWSER - RCB - ( CONSOLAS RETRO)[/COLOR]
 [COLOR yellow][I] Addon Necesario,¡¡¡PARA ANDROID Y PC!!![/I][/COLOR]</title>
 <link>http://Ignoreme</link>
-<jsonrpc>plugin://script.gamestarter/</jsonrpc>
-<thumbnail>https://img08.deviantart.net/17b9/i/2007/087/c/9/snes_logo_by_orksovaj.png</thumbnail>
-<fanart>https://cdn-images-1.medium.com/max/1400/1*vvrxNe4FPEeVmXLh5sDLDA.png</fanart>
+<jsonrpc>plugin://script.games.rom.collection.browser/</jsonrpc>
+<thumbnail>https://kodi.tv/sites/default/files/addon_assets/script.games.rom.collection.browser/icon/icon.png</thumbnail>
+<fanart>https://i.blogs.es/37a0ba/snes-games/original.jpg</fanart>
 </item>
 
 
