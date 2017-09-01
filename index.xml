@@ -38,11 +38,11 @@
 
 
 <item>
-<title>[COLOR lime]GAMESTARTER[/COLOR][COLOR blue][I] Addon Necesario[/I][/COLOR]</title>
+<title>[B][COLOR deeppink]* [/COLOR][/B][B] GAMESTARTER[/COLOR][COLOR yellow][I] Addon Necesario[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.gamestarter/</jsonrpc>
-<thumbnail>http://i.imgur.com/dqvKfYH.png</thumbnail>
-<fanart>http://i.imgur.com/IGa8aeb.jpg</fanart>
+<thumbnail>http://www.nostal-geek.com/wp-content/uploads/2017/01/retropie.png</thumbnail>
+<fanart>https://cdn-images-1.medium.com/max/1400/1*vvrxNe4FPEeVmXLh5sDLDA.png</fanart>
 </item>
 
 
