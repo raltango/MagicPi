@@ -13,7 +13,7 @@
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>https://pastebin.com/raw/HhGELyXh</page>
+<page>http://exabytetv.info/ESP.m3u</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -31,7 +31,7 @@
 <thumbnail>http://globedia.com/imagenes/noticias/2011/5/24/estamos-de-obras_1_724062.jpg</thumbnail>
 <fanart>http://www.urrazacomunidades.es/wp-content/uploads/2015/03/licencia-obras.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/UbRuJJeR</externallink>
+<externallink>https://pastebin.com/raw/HhGELyXh</externallink>
 </item>
 
 
