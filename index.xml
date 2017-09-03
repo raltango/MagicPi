@@ -13,7 +13,7 @@
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>http://exabytetv.info/ESP.m3u</page>
+<page>http://exabytetv.info/guia.m3u</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
