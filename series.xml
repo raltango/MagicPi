@@ -73,22 +73,14 @@
 </item>
 
 <item>
-<title>[COLOR chartreuse]   >> prueba 2 [/COLOR]</title>
-<link>$doregex[makelist]</link>
-<thumbnail>https://seeklogo.com/images/M/Movistar-logo-FE4A8172D0-seeklogo.com.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2].ts&amp;name=Catoal - [makelist.param1]</link>
-<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/canalnereo.xml</page>
-<cookieJar></cookieJar>
-</regex>
+<title>[COLOR yellow]   > CRONICAS VAMPIRICAS (T-6/7)   [/COLOR]</title>
+<thumbnail>http://my-film.in/wp-content/uploads/2016/04/fear-the-walking-dead-second-season.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/canalnereo.xml</externallink>
 </item>
+
+
 
 
 
