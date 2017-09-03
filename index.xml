@@ -13,7 +13,7 @@
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>http://exabytetv.info/series.m3u</page>
+<page>http://www.mitelekids.es/sitemap_contents_2014_02.xml</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
