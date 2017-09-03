@@ -1,8 +1,172 @@
 #EXTM3U
  
-#EXTINF:-1,Como conoci a vuestra madre,tvg-wall="http://www.antena3.com/clipping/2011/04/08/00026/32.jpg",tvg-logo="http://cdnb.20m.es/solo-un-capitulo-mas-series/files/2014/04/how-i-met-your-mother.jpg",plot=" Ted (Josh Radnor) les CUENTA a sus dos hijos cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Contó PARA ello con la ayuda de su amigo Barney (Neil Patrick Harris), un joven algo extravagante, adicto a los somníferos y muy hábil para conocer mujeres. Cuando Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista. (FILMAFFINITY)"
-#multiparser
-Ver serie por,serie:http://www.seriesadicto.com/serie/como-conoci-a-vuestra-madre
-Ver serie por,serie:http://www.seriesblanco.com/serie/117/como-conoci-a-vuestra-madre.html
-ver serie por,serie:http://www.seriesflv.net/serie/cmo-conoc-a-vuestra-madre.html
-#multiparser
+#EXTINF:-1 group-title="TDT ESPAÑA",LA 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/10.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",ANTENA 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",CUATRO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/12.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",TELECINCO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/13.ts
+#EXTINF:-1 group-title="TDT ESPAÑA",LA SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",CANAL SUR
+http://flus1.sanpedrowifi.com/live/canalsur.SD.xtra/mono.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",NEOX HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",NOVA HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",ATRESERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",GOL TV
+https://cdn.opencable.es/hls/live/goltv/index.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",TELEDEPORTE
+http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",MEGA HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",ENERGY
+https://cdn.opencable.es/hls/live/energy/index.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",DKISS
+http://flus1.sanpedrowifi.com/live/dkiss.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",DIVINITY
+https://cdn.opencable.es/hls/live/divinity/index.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",24 HORAS 1
+http://90.229.173.167:9000/ch40
+#EXTINF:-1 group-title="TDT ESPAÑA",24 HORAS 2
+http://flus1.sanpedrowifi.com/live/24h.SD.ird/mono.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",13 TV
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",CLAN TVE 1
+https://cdn.opencable.es/hls/live/clan/index.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",CLAN TVE 2
+http://flus1.sanpedrowifi.com/live/clan.SD.ird/mono.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",BOING 1
+https://cdn.opencable.es/hls/live/boing/index.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",BOING 2
+http://flus1.sanpedrowifi.com/live/boing.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",DISNEY CHANNEL
+http://flus1.sanpedrowifi.com/live/disneychannel.sd.ird/mono.m3u8
+ 
+#EXTINF:-1 group-title="MOVISTAR+ CINE",#0 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/1.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ESTRENOS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/2.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ACCION HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/4.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ CINE Ñ
+http://bit.ly/2sX0gUg
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ COMEDIA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/5.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ DCINE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/3.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",HOLLYWOOD
+http://flus1.sanpedrowifi.com/live/hollywood.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ CINE",DARK
+http://flus1.sanpedrowifi.com/live/buzzrojo.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ CINE",SOMOS
+http://flus1.sanpedrowifi.com/live/somos.SD.IRD/mono.m3u8
+ 
+ 
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY JUNIOR
+http://flus1.sanpedrowifi.com/live/disneyjnr.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",CANAL PANDA
+http://flus1.sanpedrowifi.com/live/panda.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",NICK JUNIOR
+http://flus1.sanpedrowifi.com/live/nickjnr.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",NICKELODEON
+http://flus1.sanpedrowifi.com/live/nickelodeon.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY XD
+http://flus1.sanpedrowifi.com/live/disneyxd.SD.IRD/mono.m3u8
+ 
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",DECASA
+http://flus1.sanpedrowifi.com/live/decasa.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NATIONAL GEOGRAPHIC HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/34.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/35.ts
+ 
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES
+http://edge6204.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES XTRA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/15.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",SYFY
+http://edge6201.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/18.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN SD
+http://edge6201.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN WHITE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/19.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",TNT
+https://cdn.opencable.es/hls/live/tnt/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX
+https://cdn.opencable.es/hls/live/fox/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX LIFE
+https://cdn.opencable.es/hls/live/foxlife/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",MTV
+http://edgee6.telesport.pw/live/mtv/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",CALLE 13
+http://edgee7.telesport.pw/live/calle13/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",COSMO
+https://cdn.opencable.es/hls/live/cosmopolitan/index.m3u8
+ 
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",LISTA DE EVENTOS ARENAVISION: EJECUTAR DESDE TELEGRAM @W3U_bot . SEGUIR LAS INSTRUCCIONES Y DARLE A LOS TRES PUNTOS DE LA PARTE SUPERIOR EN COMPARTIR TU TELEFONO COMO MEDIDA DE SEGURIDAD Y EL BOT TE DA LA LISTA DE DEPORTES PERSONALIZADA. (INSTALAR APP ACESTREAM Y VLC)
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BEIN LA LIGA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/23.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ FUTBOL HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/26.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ PARTIDAZO 1
+http://edge1865.livesports.pw/live/verpartidazo04b41ff741e2d/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ PARTIDAZO 2
+http://edge9.verliga11.pw/live/verliga2/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",FORMULA 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/29.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",MOTO GP HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/30.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/28.ts
+#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 2 SD
+http://edgee12.verliga1.pw/live/plusdeportes2/index.m3u8
+ 
+#EXTINF:-1 group-title="ADULTOS (+18)",BRAZZERS TV
+http://inetcom.tv/get_channel.php?id=280
+#EXTINF:-1 group-title="ADULTOS (+18)",SEXTATION TV
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+#EXTINF:-1 group-title="ADULTOS (+18)",JASMIN TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
