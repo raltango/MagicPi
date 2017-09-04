@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item><title>[COLOR=green]-----------------------------------[/COLOR][COLOR=orange] CINE [/COLOR][COLOR=green]-----------------------------------[/COLOR]</title>
+                        <link>http://about.me/piza</link>
+                        </item>
+                       
+                        <item>
+                        <title>[COLOR=FF00FF00][B]CANAL + 1[/B][/COLOR]</title>
+                        <thumbnail>https://lh4.googleusercontent.com/-IbllPgxy9LM/UuuCYi1OQXI/AAAAAAAABPI/Wve9Ds9C53A/s536/canalplus1hd.jpg</thumbnail>
+                        <fanart>http://img.xatakahome.com/2013/09/yomvi-7.jpg</fanart>
+                        <link>$doregex[rtmp] playpath=plus1 swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                        <regex>
+                        <name>rtmp</name>
+                        <expres>"file.*(rtmp[^&]*)</expres>
+                        <page>http://privado.streamingfreetv.net/embed/embed.php?channel=plus1</page>
+                        <referer>http://streamingfreetv.net</referer>
+                        </regex>
+                       <info>En CANAL+ 1 podrás encontrar el Partidazo de la liga BBVA en exclusiva, el mejor partido de Liga adelante, un partido de Premier en exclusiva por jornada y un encuentro de NBA cada semana. Y además, el cine de estreno directo de la sala de cine a tu casa y la Ceremonia de los Oscar y los Globos de Oro en exclusiva. Y por supuesto, una selección de las mejores series, los documentales más premiados y programas de producción original.</info>
+                        </item>
+ 
+                       <item>
+                        <title>[COLOR=FF00FF00][B]C+ COMEDIA[/B][/COLOR]</title>
+                       <thumbnail>https://lh6.googleusercontent.com/-YaV3ErIOiCQ/Uu9qgSsp6oI/AAAAAAAABQw/MjpLIZCQwwI/s536/canal%252B%2520comedia.jpg</thumbnail>
+                       <fanart>http://blogs.diariovasco.com/series-gourmets/files/2012/08/little-britain-1-e1343907827614.jpg</fanart>
+                        <link>$doregex[rtmp] playpath=comediaplus swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                        <regex>
+                        <name>rtmp</name>
+                        <expres>"file.*(rtmp[^&]*)</expres>
+                        <page>http://privado.streamingfreetv.net/embed/embed.php?channel=comediaplus</page>
+                        <referer>http://streamingfreetv.net</referer>
+                        </regex>
+                       <info>En él encontrarás el mejor cine de este género, desde las comedias clásicas hasta los últimos éxitos, con más de 250 títulos al año. Además, programas como Saturday Night Live, el mejor y más longevo programa de humor de todos los tiempos que Canal+ Comedia te trae pegado a su estreno de EEUU.</info>
+                        </item>
+ 
+                       <item>
+                        <title>[COLOR=FF00FF00][B]C+ ACCIÓN[/B][/COLOR]</title>
+                       <thumbnail>https://lh4.googleusercontent.com/-Cb4SBKlOQRg/Uu9qdh3uplI/AAAAAAAABQo/PD7InJ-MGVw/s536/canal%252B%2520accion.jpg</thumbnail>
+                       <fanart>http://www.elmulticine.com/imagenes/peliculas/venganza2-pic4.jpg</fanart>
+                        <link>$doregex[rtmp] playpath=plusaccion swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                        <regex>
+                        <name>rtmp</name>
+                        <expres>"file.*(rtmp[^&]*)</expres>
+                        <page>http://privado.streamingfreetv.net/embed/embed.php?channel=plusaccion</page>
+                        <referer>http://streamingfreetv.net</referer>
+                        </regex>
+                       <info>Canal+ Acción es un canal en el que puedes encontrar tanto películas de estreno (más de 170 al año) como clásicos de suspense, bélico, terror, thriller, ciencia ficción o aventuras que representan lo más espectacular del género.</info>
+                        </item>
+ 
+                       <item>
+                        <title>[COLOR=FF00FF00][B]HOLLYWOOD[/B][/COLOR]</title>
+                       <thumbnail>https://lh5.googleusercontent.com/-cxHUbpNzLdc/Uu_WNLSRYMI/AAAAAAAABV0/kaYAdX7ke_Q/s496/canal%2520hollywood.jpg</thumbnail>
+                       <fanart>http://www.abc.es/Media/201311/07/troya-pelicula--644x362.jpg</fanart>
+                        <link>$doregex[rtmp] playpath=hollywood swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                        <regex>
+                        <name>rtmp</name>
+                        <expres>"file.*(rtmp[^&]*)</expres>
+                        <page>http://privado.streamingfreetv.net/embed/embed.php?channel=hollywood</page>
+                        <referer>http://streamingfreetv.net</referer>
+                        </regex>
+                       <info>El mejor cine de los grandes estudios americanos, 24 horas de emoción, los 365 días del año. La mejor selección de títulos, las grandes estrellas, las películas que nunca olvidarás. Los grandes éxitos de taquilla y más de 300 estrenos al año de todos los géneros (comedia, drama, thriller, western, musical y ciencia-ficción), en definitiva cine para todos</info>
+                        </item>
+ 
+                       <item>
+                        <title>[COLOR=FF00FF00][B]PARAMOUNT[/B][/COLOR]</title>
+                       <thumbnail>https://lh4.googleusercontent.com/-eyxwJMGPzY0/Uu-KVxZpx5I/AAAAAAAABT4/7u_nqrQ9hfg/s496/paramount%2520chanel.jpg</thumbnail>
+                       <fanart>http://www.filmbaza.net/logos/paramount_22.jpg</fanart>
+                        <link>$doregex[rtmp] playpath=paramountchannel swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                        <regex>
+                        <name>rtmp</name>
+                        <expres>"file.*(rtmp[^&]*)</expres>
+                        <page>http://privado.streamingfreetv.net/embed/embed.php?channel=paramountchannel</page>
+                        <referer>http://streamingfreetv.net</referer>
+                        </regex>
+                       <info>Paramount Channel es un canal de cine que abarca géneros como el drama, comedia, acción, thriller, animación, películas del oeste, de terror y clásicos de la historia del cine.</info>
+                        </item>
+ 
+                       <item>
+                       <title>[COLOR=FF00FF00][B]FOX FAMILY[/B][/COLOR]</title>
+                       <link>http://live.tutvgratis.tv/ch/341.m3u8|Referer=http://tutvgratis.tv/player/GrindPlayer.swf</link>
+                       <thumbnail>http://www.logopub.net/data/thumbnails/7/FOX%20FAMILY%20CHANNEL%202.png</thumbnail>
+                       <fanart>http://fondos-pantalla.chiquipedia.com/images/fondos-escritorio-peliculas-infantiles-monstruos-alienigenas.jpg</fanart>
+                       <info>Fox Family emite cine clasificado generalmente, con películas de corte infantil y familiar.</info>                        
+                       </item>
+ 
+                       <item>
+                        <title>[COLOR=FF00FF00][B]XTRM[/B][/COLOR]</title>
+                       <thumbnail>http://www.mundoplus.tv/imagenes/logos/xtrm.gif</thumbnail>
+                       <fanart>http://canalxtrm.es/wp-content/uploads/2013/07/canalxtrm.jpg</fanart>
+                        <link>$doregex[rtmp] playpath=xtrm2 swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                        <regex>
+                        <name>rtmp</name>
+                        <expres>"file.*(rtmp[^&]*)</expres>
+                        <page>http://privado.streamingfreetv.net/embed/embed.php?channel=xtrm2</page>
+                        <referer>http://streamingfreetv.net</referer>
+                        </regex>
+                       <info>XTRM es un canal de televisión especializado en películas y series de acción, thriller y ciencia ficción: puro entretenimiento y disfrute para los amantes de las emociones fuertes.</info>
+                        </item>
+ 
+                       <item>
+                        <title>[COLOR=FF00FF00][B]AMC[/B][/COLOR]</title>
+                       <thumbnail>http://ecx.images-amazon.com/images/I/81bThs35TbL.png</thumbnail>
+                       <fanart>http://2.bp.blogspot.com/-S9VU20NMlNk/Uks9SqYrKDI/AAAAAAAADKc/Enxj1Qx8G7Q/s1600/the-walking-dead-season-4-trailer.jpg</fanart>
+                        <link>$doregex[rtmp] playpath=amc swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                        <regex>
+                        <name>rtmp</name>
+                        <expres>"file.*(rtmp[^&]*)</expres>
+                        <page>http://privado.streamingfreetv.net/embed/embed.php?channel=amc</page>
+                        <referer>http://streamingfreetv.net</referer>
+                        </regex>
+                       <info>AMC llega a España precedido de un êxito incuestionable en EE UU. Un nuevo canal de tv que ofrece series originales de gran êxito y películas aclamadas.</info>
+                        </item>
+ 
+                       <item>
+                        <title>[COLOR=FF00FF00][B]BUZZ[/B][/COLOR]</title>
+                       <thumbnail>https://lh5.googleusercontent.com/-0AfuA8yVhYU/Uu-KIWLQvpI/AAAAAAAABTQ/3SCHBKTO6wk/s496/buzz.jpg</thumbnail>
+                       <fanart>http://www.hobbyconsolas.com/sites/default/files/users/Luis%20L%C3%B3pez%20Zamorano/v-de-vendetta-2.jpg</fanart>
+                        <link>$doregex[rtmp] playpath=buzz2 swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                        <regex>
+                        <name>rtmp</name>
+                        <expres>"file.*(rtmp[^&]*)</expres>
+                        <page>http://privado.streamingfreetv.net/embed/embed.php?channel=buzz2</page>
+                        <referer>http://streamingfreetv.net</referer>
+                        </regex>
+                       <info>Violencia, terror, acción, humor, deseo o placer, una programación diferente y atrevida que ofrece el entretenimiento más radical del panorama televisivo.</info>
+                        </item>
+                       
+                        <item><title>[COLOR=FF00FF00][B]TCM[/B][/COLOR]</title>
+                       <link>http://live.tutvgratis.tv/ch/381.m3u8|Referer=http://tutvgratis.tv/player/GrindPlayer.swf</link>
+                       <thumbnail>http://www.writtalin.com/wp-content/uploads/2014/03/preview-turner-classic-movies-tcm-logo-MzU3Mg.jpg</thumbnail>
+                       <fanart>http://talkmedianigeria.com/storage/2012/11/TCM-New-York-1.jpg</fanart>
+                       <info>Su programación está dirigida a un público de 35 años en adelante. El canal exhibe películas del cine clásico de Hollywoood, además de las mejores series que marcaron época. Posee un extenso archivo de películas que van desde los años 1930 con clásicos como King Kong (1933) hasta cine de los años 80, 90 y los principios de la década de 2000 (2000-2003).</info>
+                       </item>
+                       
+                       <item>
+                        <title>[COLOR=FF00FF00][B]SYFY[/B][/COLOR]</title>
+                       <thumbnail>https://lh5.googleusercontent.com/-x0R0a5k3EGU/Uu-KdYUAKnI/AAAAAAAABUQ/d6ycOBLBhYg/s496/syfy.jpg</thumbnail>
+                        <fanart>http://videodromo.files.wordpress.com/2011/03/inauguracic3b3n-8c2aa-muestra-03.jpg</fanart>
+                       <link>$doregex[rtmp] playpath=syfy swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                        <regex>
+                        <name>rtmp</name>
+                        <expres>"file.*(rtmp[^&]*)</expres>
+                        <page>http://privado.streamingfreetv.net/embed/embed.php?channel=syfy</page>
+                        <referer>http://streamingfreetv.net</referer>
+                        </regex>
+                       <info>Syfy es el destino del entretenimiento basado en la imaginación. Desde aclamadas series originales producidas exclusivamente para y por el canal, eventos y películas taquilleras a clásicos de ciencia ficción, paranormales y programación de acción, aventura y fantasía.</info>
+                        </item>
+ 
+                       <item>
+                       <title>[COLOR=FF00FF00][B]TNT[/B][/COLOR]</title>
+                       <thumbnail>https://lh5.googleusercontent.com/-5OSqY1u9fRM/UjY_XWus-gI/AAAAAAAAA9Y/JYWutNo3I3s/w496-h395-no/BOTO+WEB+tnt.jpg</thumbnail>
+                       <fanart>http://elclavo.com/wp-content/uploads/2012/02/Hurtlocker2-TNT.jpg</fanart>
+                        <link>$doregex[rtmp] playpath=tnt swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                        <regex>
+                        <name>rtmp</name>
+                        <expres>"file.*(rtmp[^&]*)</expres>
+                        <page>http://privado.streamingfreetv.net/embed/embed.php?channel=tnt</page>
+                        <referer>http://streamingfreetv.net</referer>
+                        </regex>
+                       <info>TNT es un canal de entretenimiento que destaca por la calidad y la variedad de una programación en la que el espectador siempre encuentra contenidos acordes a sus gustos y a su estado de ánimo. De ahí su lema: Si sólo pudieras ver un canal.</info>
+                        </item>
+ 
+                       <item>
+                       <title>[COLOR=FF00FF00][B]CALLE 13[/B][/COLOR]</title>
+                       <link>$doregex[rtmp] playpath=calle13 swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                       <regex>
+                       <name>rtmp</name>
+                       <expres>"file.*(rtmp[^&]*)</expres>
+                       <page>http://privado.streamingfreetv.net/embed/embed.php?channel=calle13</page>
+                       <referer>http://streamingfreetv.net</referer>
+                       </regex>
+                       <thumbnail>https://alejandrapons.files.wordpress.com/2012/08/nbc_calle_13_universal_hd_black_rgb-719323.jpg</thumbnail>
+                       <fanart>http://4.bp.blogspot.com/_lm86Xp-j6yM/SNZl0d6qL7I/AAAAAAAAAEI/edlAQ702MPs/S1600-R/calle13.jpg</fanart>
+                       <info>El canal del crimen emocionante y del suspense que mantiene al espectador al filo de su asiento. Calle 13 Universal ofrece drama inteligente y fascinante plagado de emoción. Con una mezcla de drama procedimental y películas irresistibles, la esencia de Calle 13 Universal es la expectación. Tanto si quieres ser desafiado como si deseas que te emocionen, Calle 13 Universal te espera.</info>                        
+                       </item>
+                       
+                        <item>
+                        <title>[COLOR=FF00FF00][B]AXN[/B][/COLOR]</title>
+                       <thumbnail>https://lh6.googleusercontent.com/-OCpgTw4mNYY/Uu-KF1RTyRI/AAAAAAAABTI/VxP7yfdKLSY/s496/axn.jpg</thumbnail>
+                       <fanart>http://4.bp.blogspot.com/-AknOdvb1BiA/Uk85aLpq5ZI/AAAAAAAAKuU/WhsJY2Zh9fI/s1600/breaking-bad-promo-t05.jpg</fanart>
+                        <link>$doregex[rtmp] playpath=axn swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                        <regex>
+                        <name>rtmp</name>
+                        <expres>"file.*(rtmp[^&]*)</expres>
+                        <page>http://privado.streamingfreetv.net/embed/embed.php?channel=axn</page>
+                        <referer>http://streamingfreetv.net</referer>
+                        </regex>
+                       <info>Para un público joven adulto, aficionado al cine, la acción y la aventura. Con la máxima variedad y calidad en su oferta de programación: cine actual, series de éxito nacionales e internacionales entre las que destacan CSI, CSI Miami, Mentes Criminales, Castle, Navy: Investigación criminal o Hannibal.</info>
+                        </item>
+                       
+                        <item>
+                        <title>[COLOR=FF00FF00][B]FOX[/B][/COLOR]</title>
+                       <thumbnail>https://lh6.googleusercontent.com/-Vgkmeq5O8xw/UjY_PaLxxEI/AAAAAAAAA7g/jApKYyU1U-4/w496-h395-no/BOTO+WEB+fox.jpg</thumbnail>
+                       <fanart>http://www.cinefilo.es/wp-content/uploads/transformers2-10.jpg</fanart>
+                        <link>$doregex[rtmp] playpath=fox swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                        <regex>
+                        <name>rtmp</name>
+                        <expres>"file.*(rtmp[^&]*)</expres>
+                        <page>http://privado.streamingfreetv.net/embed/embed.php?channel=fox</page>
+                        <referer>http://streamingfreetv.net</referer>
+                        </regex>
+                       <info>FOX, canal propiedad del grupo Fox International Channels, se consolida como el canal de entretenimiento de referencia: el único canal de entretenimiento dedicado cien por cien a la emisión de series, en su mayoría estrenos en primicia de grandes producciones internacionales.</info>
+                        </item>
+ 
+                       <item>
+                       <title>[COLOR=FF00FF00][B]FX[/B][/COLOR]</title>
+                       <link>http://live.tutvgratis.tv/ch/145.m3u8|Referer=http://tutvgratis.tv/player/GrindPlayer.swf</link>
+                       <thumbnail>http://boomstickcomics.com/wp-content/uploads/2013/03/FXntwkLOGO.jpg</thumbnail>
+                       <fanart>http://img02.lavanguardia.com/2014/01/22/Guillermo-del-Toro-deja-a-oscu_54399436347_53699622600_601_341.jpg</fanart>
+                       <info>FX Networks es una rama de la cadena de televisión Fox, orientada principalmente para el público adulto y adolescente, sobre todo para los hombres. Entre sus contenidos destacan: series, algunos deportes que transmiten en Fox Sports, películas de acción y programas para adolescentes y adultos.</info>                      
+                       </item>
+ 
+                       <item>
+                        <title>[COLOR=FF00FF00][B]FDF[/B][/COLOR]</title>
+                       <fanart>http://telecincostatic-a.akamaihd.net/factoriadeficcion/FDF-especialistas-series_MDSVID20111115_0143_3.jpg</fanart>
+                       <thumbnail>https://lh6.googleusercontent.com/-D09Jn55QHZw/Uut_dey17fI/AAAAAAAABM0/nZ2wC3NnlPw/s496/fdf.jpg</thumbnail>
+                        <link>$doregex[rtmp] playpath=fdf swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                        <regex>
+                        <name>rtmp</name>
+                        <expres>"file.*(rtmp[^&]*)</expres>
+                        <page>http://privado.streamingfreetv.net/embed/embed.php?channel=fdf</page>
+                        <referer>http://streamingfreetv.net</referer>
+                        </regex>
+                       <info>Factoría de Ficción es un canal dedicado a las series y películas de éxito, nacionales y extranjeras, de ayer y de hoy</info>
+                        </item>
+ 
+                       <item>
+                       <title>Comedy Central</title>
+                       <fanart>https://i.vimeocdn.com/video/436504513_640.jpg</fanart>
+                        <thumbnail>https://lh5.googleusercontent.com/-AEjzzvmXG-0/Uu-KYspfrTI/AAAAAAAABUA/EZaJ6Sb59YM/s496/paramount%2520comedy.jpg</thumbnail>
+                        <link>$doregex[rtmp] playpath=comedycentral swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+                        <regex>
+                        <name>rtmp</name>
+                        <expres>"file.*(rtmp[^&]*)</expres>
+                        <page>http://privado.streamingfreetv.net/embed/embed.php?channel=comedycentral</page>
+                        <referer>http://streamingfreetv.net</referer>
+                        </regex>
+                       <info>Comedy Central es el único canal de España dedicado exclusivamente a la comedia en todos sus formatos. La comunidad de amantes de este género seguirá disfrutando de la marca de la comedia en nuestro país, de la producción propia en televisión pero también en locales y la gira nacional, con programas de stand-up a la cabeza, sketches, las mejores series nacionales, series internacionales exclusivas y el mejor cine de comedia.</info>
+                        </item>
