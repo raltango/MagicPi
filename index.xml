@@ -18,7 +18,7 @@
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>http://www.mitelekids.es/sitemap_contents_2014_02.xml</page>
+<page>http://exabytetv.info/ESP.m3u</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -44,7 +44,7 @@
 <thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
 <fanart>http://www.f1fanatic.co.uk/wp-content/uploads/2017/04/XPB_868129_HiRes-e1491629335234.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/bzPWXQMq</externallink>
+<externallink>https://pastebin.com/raw/MJbCutz0</externallink>
 </item>
 
 <item>
