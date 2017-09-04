@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
   
 <item>
+<title>[COLOR skyblue]=============== [/COLOR][COLOR yellow]=============== [/COLOR][COLOR red]=============== [/COLOR]</title>
+<link>http://ignoreme</link>
+</item>
+  
+<item>
 <title>[COLOR chartreuse]   >> IPTV [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://seeklogo.com/images/M/Movistar-logo-FE4A8172D0-seeklogo.com.png</thumbnail>
@@ -43,6 +48,11 @@
 </item>
 
 <item>
+<title>[COLOR skyblue]=============== [/COLOR][COLOR yellow]=============== [/COLOR][COLOR red]=============== [/COLOR]</title>
+<link>http://ignoreme</link>
+</item>
+
+<item>
 <title>[B][COLOR red]* [/COLOR][/B][B][COLOR red] SERIES[/COLOR][/B]</title>
 <thumbnail>https://pbs.twimg.com/profile_images/3121099081/435e06fa0cdb34f2fc4a1b045993a030.png</thumbnail>
 <fanart>https://kingstraining.com/wp-content/uploads/2016/07/1jwwo6.jpg</fanart>
@@ -56,6 +66,11 @@
 <jsonrpc>plugin://plugin.video.palantir/</jsonrpc>
 <thumbnail>https://kodi.tv/sites/default/files/addon_assets/script.games.rom.collection.browser/icon/icon.png</thumbnail>
 <fanart>https://i.blogs.es/37a0ba/snes-games/original.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]=============== [/COLOR][COLOR yellow]=============== [/COLOR][COLOR red]=============== [/COLOR]</title>
+<link>http://ignoreme</link>
 </item>
 
 <item>
