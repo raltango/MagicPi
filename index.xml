@@ -24,7 +24,7 @@
 
 
 <item>
-<title>[COLOR skyblue]===== [/COLOR][COLOR limegreen]===== [/COLOR][COLOR yellow===== [/COLOR]</title>
+<title>[B][COLOR skyblue]===== [/COLOR][COLOR limegreen]===== [/COLOR][COLOR yellow=====[/B] [/COLOR]</title>
 <link>http://ignoreme</link>
 </item>
 
@@ -47,7 +47,7 @@
 
 
 <item>
-<title>[COLOR skyblue]===== [/COLOR][COLOR limegreen]===== [/COLOR][COLOR goldenrod]===== [/COLOR]</title>
+<title>[B][COLOR skyblue]===== [/COLOR][COLOR limegreen]===== [/COLOR][COLOR yellow=====[/B] [/COLOR]</title>
 <link>http://ignoreme</link>
 </item>
 
@@ -63,14 +63,14 @@
 <title>[B][COLOR skyblue]* Palantir[/B][/COLOR][COLOR blue][I] Addon Palantir Necesario[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.palantir/</jsonrpc>
-<thumbnail>https://kodi.tv/sites/default/files/addon_assets/script.games.rom.collection.browser/icon/icon.png</thumbnail>
-<fanart>https://i.blogs.es/37a0ba/snes-games/original.jpg</fanart>
+<thumbnail>http://mundokodi.com/wp-content/uploads/2017/07/palantir.png?x86522</thumbnail>
+<fanart>https://i.ytimg.com/vi/-sEMxukeC3M/maxresdefault.jpg</fanart>
 </item>
 
 
 
 <item>
-<title>[COLOR skyblue]===== [/COLOR][COLOR limegreen]===== [/COLOR][COLOR goldenrod]===== [/COLOR]</title>
+<title>[B][COLOR skyblue]===== [/COLOR][COLOR limegreen]===== [/COLOR][COLOR yellow=====[/B] [/COLOR]</title>
 <link>http://ignoreme</link>
 </item>
 
