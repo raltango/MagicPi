@@ -6,7 +6,7 @@
 </item>
   
 <item>
-<title>[COLOR chartreuse]   >> IPTV [/COLOR]</title>
+<title>[B][COLOR chartreuse]   >> IPTV[/B] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://seeklogo.com/images/M/Movistar-logo-FE4A8172D0-seeklogo.com.png</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
@@ -24,7 +24,7 @@
 </item>
 
 <item>
-<title>[COLOR indianred]   >> TELEVISION [/COLOR]</title>
+<title>[B][COLOR indianred]   >> TELEVISION [/B][/COLOR]</title>
 <thumbnail>http://globedia.com/imagenes/noticias/2011/5/24/estamos-de-obras_1_724062.jpg</thumbnail>
 <fanart>http://www.urrazacomunidades.es/wp-content/uploads/2015/03/licencia-obras.jpg</fanart>
 <link>http://ignoreme</link>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]   >> FANATICS F1 [/COLOR]</title>
+<title>[B][COLOR skyblue]   >> FANATICS F1 [/B][/COLOR]</title>
 <thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
 <fanart>http://www.f1fanatic.co.uk/wp-content/uploads/2017/04/XPB_868129_HiRes-e1491629335234.jpg</fanart>
 <link>http://ignoreme</link>
@@ -62,7 +62,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]* ArenaVision EZY[/COLOR][COLOR blue][I] Addon ArenaVision EZY Necesario[/I][/COLOR]</title>
+<title>[B][COLOR lime]* ArenaVision EZY[/COLOR][COLOR blue][I] Addon ArenaVision EZY Necesario[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.arenavisionezy/</jsonrpc>
 <thumbnail>http://i.imgur.com/d3WRHhJ.png</thumbnail>
