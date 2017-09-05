@@ -24,6 +24,21 @@
 </item>
 
 <item>
+<title>[COLOR indianred]   >> TELEVISION [/COLOR]</title>
+<thumbnail>http://globedia.com/imagenes/noticias/2011/5/24/estamos-de-obras_1_724062.jpg</thumbnail>
+<fanart>http://www.urrazacomunidades.es/wp-content/uploads/2015/03/licencia-obras.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/7GWfVqdw</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR skyblue]===== [/COLOR][COLOR limegreen]===== [/COLOR][COLOR goldenrod]===== [/COLOR]</title>
+<link>http://ignoreme</link>
+</item>
+
+<item>
 <title>[COLOR skyblue]   >> FANATICS F1 [/COLOR]</title>
 <thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
 <fanart>http://www.f1fanatic.co.uk/wp-content/uploads/2017/04/XPB_868129_HiRes-e1491629335234.jpg</fanart>
@@ -32,33 +47,14 @@
 </item>
 
 <item>
-<title>[COLOR indianred]   >> TELEVISION [/COLOR]</title>
-<thumbnail>http://globedia.com/imagenes/noticias/2011/5/24/estamos-de-obras_1_724062.jpg</thumbnail>
-<fanart>http://www.urrazacomunidades.es/wp-content/uploads/2015/03/licencia-obras.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/7GWfVqdw</externallink>
-</item>
-
-<item>
-<title>[COLOR skyblue]===== [/COLOR][COLOR limegreen]===== [/COLOR][COLOR goldenrod]===== [/COLOR]</title>
-<link>http://ignoreme</link>
-</item>
-
-<item>
-<title>[B][COLOR red]* [/COLOR][/B][B][COLOR red] SERIES[/COLOR][/B]</title>
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR red] SERIES[/COLOR][/B]</title>
 <thumbnail>https://pbs.twimg.com/profile_images/3121099081/435e06fa0cdb34f2fc4a1b045993a030.png</thumbnail>
 <fanart>https://kingstraining.com/wp-content/uploads/2016/07/1jwwo6.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/series.xml</externallink>
 </item>
 
-<item>
-<title>[B][COLOR skyblue]* Palantir[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.palantir/</jsonrpc>
-<thumbnail>https://kodi.tv/sites/default/files/addon_assets/script.games.rom.collection.browser/icon/icon.png</thumbnail>
-<fanart>https://i.blogs.es/37a0ba/snes-games/original.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLOR skyblue]===== [/COLOR][COLOR limegreen]===== [/COLOR][COLOR goldenrod]===== [/COLOR]</title>
@@ -71,6 +67,21 @@
 <jsonrpc>plugin://plugin.video.arenavisionezy/</jsonrpc>
 <thumbnail>http://i.imgur.com/d3WRHhJ.png</thumbnail>
 <fanart>http://www.androidaba.com/wp-content/uploads/2016/12/ar1.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR skyblue]* Palantir[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.palantir/</jsonrpc>
+<thumbnail>https://kodi.tv/sites/default/files/addon_assets/script.games.rom.collection.browser/icon/icon.png</thumbnail>
+<fanart>https://i.blogs.es/37a0ba/snes-games/original.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR skyblue]===== [/COLOR][COLOR limegreen]===== [/COLOR][COLOR goldenrod]===== [/COLOR]</title>
+<link>http://ignoreme</link>
 </item>
 
 
