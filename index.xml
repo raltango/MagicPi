@@ -6,11 +6,21 @@
 </item>
   
 <item>
-<title>[B][COLOR crimson]* IPTV[/B] [/COLOR]</title>
-<link>http://ignoreme</link>
+<title> [B][COLOR crimson]* IPTV[/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
 <thumbnail>https://seeklogo.com/images/M/Movistar-logo-FE4A8172D0-seeklogo.com.png</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
-<externallik>https://pastebin.com/raw/6dsywtg9</externallink>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2].ts&amp;name=Catoal - [makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
+<page>http://www.exabytetv.info/ESP.m3u</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
 
 <item>
@@ -92,12 +102,6 @@
 <thumbnail>https://img08.deviantart.net/17b9/i/2007/087/c/9/snes_logo_by_orksovaj.png</thumbnail>
 <fanart>http://gearburn.com/wp-content/uploads/2013/07/ROMS.jpeg</fanart>
 </item>
-
-
-
-
-
-
 
 
 
