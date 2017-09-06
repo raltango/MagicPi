@@ -1,172 +1,234 @@
 #EXTM3U
  
-#EXTINF:-1 group-title="TDT ESPAÑA",LA 1 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/10.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",ANTENA 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",CUATRO HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/12.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",TELECINCO HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/13.ts
-#EXTINF:-1 group-title="TDT ESPAÑA",LA SEXTA HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",CANAL SUR
-http://flus1.sanpedrowifi.com/live/canalsur.SD.xtra/mono.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",NEOX HD
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",NOVA HD
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",ATRESERIES HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",GOL TV
-https://cdn.opencable.es/hls/live/goltv/index.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",TELEDEPORTE
-http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",MEGA HD
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",ENERGY
-https://cdn.opencable.es/hls/live/energy/index.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",DKISS
-http://flus1.sanpedrowifi.com/live/dkiss.SD.IRD/mono.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",DIVINITY
-https://cdn.opencable.es/hls/live/divinity/index.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",24 HORAS 1
-http://90.229.173.167:9000/ch40
-#EXTINF:-1 group-title="TDT ESPAÑA",24 HORAS 2
-http://flus1.sanpedrowifi.com/live/24h.SD.ird/mono.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",13 TV
-http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",CLAN TVE 1
-https://cdn.opencable.es/hls/live/clan/index.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",CLAN TVE 2
-http://flus1.sanpedrowifi.com/live/clan.SD.ird/mono.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",BOING 1
-https://cdn.opencable.es/hls/live/boing/index.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",BOING 2
-http://flus1.sanpedrowifi.com/live/boing.SD.IRD/mono.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",DISNEY CHANNEL
-http://flus1.sanpedrowifi.com/live/disneychannel.sd.ird/mono.m3u8
- 
-#EXTINF:-1 group-title="MOVISTAR+ CINE",#0 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/1.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ESTRENOS HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/2.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ACCION HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/4.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ CINE Ñ
-http://bit.ly/2sX0gUg
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ COMEDIA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/5.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ DCINE HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/3.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",HOLLYWOOD
-http://flus1.sanpedrowifi.com/live/hollywood.SD.IRD/mono.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ CINE",DARK
-http://flus1.sanpedrowifi.com/live/buzzrojo.SD.IRD/mono.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ CINE",SOMOS
-http://flus1.sanpedrowifi.com/live/somos.SD.IRD/mono.m3u8
- 
- 
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY JUNIOR
-http://flus1.sanpedrowifi.com/live/disneyjnr.SD.IRD/mono.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",CANAL PANDA
-http://flus1.sanpedrowifi.com/live/panda.SD.IRD/mono.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",NICK JUNIOR
-http://flus1.sanpedrowifi.com/live/nickjnr.SD.IRD/mono.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",NICKELODEON
-http://flus1.sanpedrowifi.com/live/nickelodeon.SD.IRD/mono.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY XD
-http://flus1.sanpedrowifi.com/live/disneyxd.SD.IRD/mono.m3u8
- 
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",DECASA
-http://flus1.sanpedrowifi.com/live/decasa.SD.IRD/mono.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NATIONAL GEOGRAPHIC HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/34.ts
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NAT GEO WILD HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/35.ts
- 
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES
-http://edge6204.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES XTRA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/15.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",SYFY
-http://edge6201.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/18.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN SD
-http://edge6201.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN WHITE HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/19.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",TNT
-https://cdn.opencable.es/hls/live/tnt/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX
-https://cdn.opencable.es/hls/live/fox/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX LIFE
-https://cdn.opencable.es/hls/live/foxlife/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",MTV
-http://edgee6.telesport.pw/live/mtv/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",CALLE 13
-http://edgee7.telesport.pw/live/calle13/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",COSMO
-https://cdn.opencable.es/hls/live/cosmopolitan/index.m3u8
- 
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",LISTA DE EVENTOS ARENAVISION: EJECUTAR DESDE TELEGRAM @W3U_bot . SEGUIR LAS INSTRUCCIONES Y DARLE A LOS TRES PUNTOS DE LA PARTE SUPERIOR EN COMPARTIR TU TELEFONO COMO MEDIDA DE SEGURIDAD Y EL BOT TE DA LA LISTA DE DEPORTES PERSONALIZADA. (INSTALAR APP ACESTREAM Y VLC)
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",BEIN LA LIGA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/23.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ FUTBOL HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/26.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ PARTIDAZO 1
-http://edge1865.livesports.pw/live/verpartidazo04b41ff741e2d/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ PARTIDAZO 2
-http://edge9.verliga11.pw/live/verliga2/index.m3u8
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",FORMULA 1 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/29.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",MOTO GP HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/30.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 2 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/28.ts
-#EXTINF:-1 group-title="MOVISTAR+ DEPORTES",M+ DEPORTES 2 SD
-http://edgee12.verliga1.pw/live/plusdeportes2/index.m3u8
- 
-#EXTINF:-1 group-title="ADULTOS (+18)",BRAZZERS TV
-http://inetcom.tv/get_channel.php?id=280
-#EXTINF:-1 group-title="ADULTOS (+18)",SEXTATION TV
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
-#EXTINF:-1 group-title="ADULTOS (+18)",JASMIN TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,ES: Andalucia Tv
+http://best-anonymous.eu:8000/live/filippo1/carmine/24934.ts
+#EXTINF:-1,ES: Anima Tv
+http://best-anonymous.eu:8000/live/filippo1/carmine/24983.ts
+#EXTINF:-1,ES: Antena 3
+http://best-anonymous.eu:8000/live/filippo1/carmine/24994.ts
+#EXTINF:-1,ES: AXN
+http://best-anonymous.eu:8000/live/filippo1/carmine/24971.ts
+#EXTINF:-1,ES: AXN White HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24972.ts
+#EXTINF:-1,ES: Azteca Trece
+http://best-anonymous.eu:8000/live/filippo1/carmine/24993.ts
+#EXTINF:-1,ES: Baby TV
+http://best-anonymous.eu:8000/live/filippo1/carmine/24985.ts
+#EXTINF:-1,ES: Barca TV
+http://best-anonymous.eu:8000/live/filippo1/carmine/24919.ts
+#EXTINF:-1,ES: Bein Sport Espagne
+http://best-anonymous.eu:8000/live/filippo1/carmine/24920.ts
+#EXTINF:-1,ES: BOING
+http://best-anonymous.eu:8000/live/filippo1/carmine/24984.ts
+#EXTINF:-1,ES: Calle 13 HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24970.ts
+#EXTINF:-1,ES: Canal DeCasa
+http://best-anonymous.eu:8000/live/filippo1/carmine/24938.ts
+#EXTINF:-1,ES: Canal Deportes
+http://best-anonymous.eu:8000/live/filippo1/carmine/24921.ts
+#EXTINF:-1,ES: Canal Cocina
+http://best-anonymous.eu:8000/live/filippo1/carmine/24937.ts
+#EXTINF:-1,ES: Canal HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24962.ts
+#EXTINF:-1,ES: Cartoon Network
+http://best-anonymous.eu:8000/live/filippo1/carmine/24980.ts
+#EXTINF:-1,ES: Comedy Central
+http://best-anonymous.eu:8000/live/filippo1/carmine/24960.ts
+#EXTINF:-1,ES: Cosmo HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24939.ts
+#EXTINF:-1,ES: Crimen Investigation
+http://best-anonymous.eu:8000/live/filippo1/carmine/24940.ts
+#EXTINF:-1,ES: Cuatro
+http://best-anonymous.eu:8000/live/filippo1/carmine/24992.ts
+#EXTINF:-1,ES: Disney Channel
+http://best-anonymous.eu:8000/live/filippo1/carmine/24978.ts
+#EXTINF:-1,ES: Disney Junior
+http://best-anonymous.eu:8000/live/filippo1/carmine/24981.ts
+#EXTINF:-1,ES: Disney XD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24982.ts
+#EXTINF:-1,ES: Energy
+http://best-anonymous.eu:8000/live/filippo1/carmine/24954.ts
+#EXTINF:-1,ES: EUROSPORT
+http://best-anonymous.eu:8000/live/filippo1/carmine/24922.ts
+#EXTINF:-1,ES: Factoria de Ficcion
+http://best-anonymous.eu:8000/live/filippo1/carmine/24956.ts
+#EXTINF:-1,ES: Fox
+http://best-anonymous.eu:8000/live/filippo1/carmine/24973.ts
+#EXTINF:-1,ES: FOX HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24974.ts
+#EXTINF:-1,ES: FOX LIFE
+http://best-anonymous.eu:8000/live/filippo1/carmine/24976.ts
+#EXTINF:-1,ES: FOX Life HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24975.ts
+#EXTINF:-1,ES: Historia
+http://best-anonymous.eu:8000/live/filippo1/carmine/24948.ts
+#EXTINF:-1,ES: Hollywood HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24957.ts
+#EXTINF:-1,ES: Hollywood SD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24958.ts
+#EXTINF:-1,ES: la sexta HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24988.ts
+#EXTINF:-1,ES: Mega
+http://best-anonymous.eu:8000/live/filippo1/carmine/24943.ts
+#EXTINF:-1,ES: Movistar Accion
+http://best-anonymous.eu:8000/live/filippo1/carmine/24969.ts
+#EXTINF:-1,ES: Movistar Comedia
+http://best-anonymous.eu:8000/live/filippo1/carmine/24968.ts
+#EXTINF:-1,ES: Movistar DCine
+http://best-anonymous.eu:8000/live/filippo1/carmine/24967.ts
+#EXTINF:-1,ES: Movistar Estrenos
+http://best-anonymous.eu:8000/live/filippo1/carmine/24963.ts
+#EXTINF:-1,ES: Movistar F1
+http://best-anonymous.eu:8000/live/filippo1/carmine/24935.ts
+#EXTINF:-1,ES: Movistar MotoGP
+http://best-anonymous.eu:8000/live/filippo1/carmine/24936.ts
+#EXTINF:-1,ES: Movistar Series
+http://best-anonymous.eu:8000/live/filippo1/carmine/24964.ts
+#EXTINF:-1,ES: Movistar Series Xtra
+http://best-anonymous.eu:8000/live/filippo1/carmine/24965.ts
+#EXTINF:-1,ES: Movistar Xtra
+http://best-anonymous.eu:8000/live/filippo1/carmine/24966.ts
+#EXTINF:-1,ES: MTV es
+http://best-anonymous.eu:8000/live/filippo1/carmine/24942.ts
+#EXTINF:-1,ES: N Cuatro HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24991.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://best-anonymous.eu:8000/live/filippo1/carmine/24949.ts
+#EXTINF:-1,ES: National Geographic
+http://best-anonymous.eu:8000/live/filippo1/carmine/24950.ts
+#EXTINF:-1,ES: Neox Tv
+http://best-anonymous.eu:8000/live/filippo1/carmine/24951.ts
+#EXTINF:-1,ES: Nickelodeon
+http://best-anonymous.eu:8000/live/filippo1/carmine/24979.ts
+#EXTINF:-1,ES: Nova
+http://best-anonymous.eu:8000/live/filippo1/carmine/24944.ts
+#EXTINF:-1,ES: Odisea Tv
+http://best-anonymous.eu:8000/live/filippo1/carmine/24945.ts
+#EXTINF:-1,ES: Paramount Channel
+http://best-anonymous.eu:8000/live/filippo1/carmine/24959.ts
+#EXTINF:-1,ES: Proyecto 40
+http://best-anonymous.eu:8000/live/filippo1/carmine/24941.ts
+#EXTINF:-1,ES: RealMadrid TV
+http://best-anonymous.eu:8000/live/filippo1/carmine/24933.ts
+#EXTINF:-1,ES: RTVA
+http://best-anonymous.eu:8000/live/filippo1/carmine/24986.ts
+#EXTINF:-1,ES: SYFY
+http://best-anonymous.eu:8000/live/filippo1/carmine/24977.ts
+#EXTINF:-1,ES: Taquilla 1
+http://best-anonymous.eu:8000/live/filippo1/carmine/24932.ts
+#EXTINF:-1,ES: Taquilla 10
+http://best-anonymous.eu:8000/live/filippo1/carmine/24923.ts
+#EXTINF:-1,ES: Taquilla 2
+http://best-anonymous.eu:8000/live/filippo1/carmine/24931.ts
+#EXTINF:-1,ES: Taquilla 3
+http://best-anonymous.eu:8000/live/filippo1/carmine/24930.ts
+#EXTINF:-1,ES: Taquilla 4
+http://best-anonymous.eu:8000/live/filippo1/carmine/24929.ts
+#EXTINF:-1,ES: Taquilla 5
+http://best-anonymous.eu:8000/live/filippo1/carmine/24928.ts
+#EXTINF:-1,ES: Taquilla 6
+http://best-anonymous.eu:8000/live/filippo1/carmine/24927.ts
+#EXTINF:-1,ES: Taquilla 7
+http://best-anonymous.eu:8000/live/filippo1/carmine/24926.ts
+#EXTINF:-1,ES: Taquilla 8
+http://best-anonymous.eu:8000/live/filippo1/carmine/24925.ts
+#EXTINF:-1,ES: Taquilla 9
+http://best-anonymous.eu:8000/live/filippo1/carmine/24924.ts
+#EXTINF:-1,ES: Telecinco
+http://best-anonymous.eu:8000/live/filippo1/carmine/24989.ts
+#EXTINF:-1,ES: Telecinco HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24990.ts
+#EXTINF:-1,ES: Televisa HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24955.ts
+#EXTINF:-1,ES: tHD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24987.ts
+#EXTINF:-1,ES: TNT
+http://best-anonymous.eu:8000/live/filippo1/carmine/24961.ts
+#EXTINF:-1,ES: Toros Tv
+http://best-anonymous.eu:8000/live/filippo1/carmine/24947.ts
+#EXTINF:-1,ES: TV3 HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24995.ts
+#EXTINF:-1,ES: TVE 24H
+http://best-anonymous.eu:8000/live/filippo1/carmine/24952.ts
+#EXTINF:-1,ES: TVE Clan
+http://best-anonymous.eu:8000/live/filippo1/carmine/24953.ts
+#EXTINF:-1,ES: TVE LA 1 HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24997.ts
+#EXTINF:-1,ES: TVE LA 2
+http://best-anonymous.eu:8000/live/filippo1/carmine/24996.ts
+#EXTINF:-1,ES: Viajar HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24946.ts
+#EXTINF:-1,SP: Astro Sports 4
+http://best-anonymous.eu:8000/live/filippo1/carmine/25005.ts
+#EXTINF:-1,SP: Astro SuperSports 1
+http://best-anonymous.eu:8000/live/filippo1/carmine/25008.ts
+#EXTINF:-1,SP: Astro SuperSports 2
+http://best-anonymous.eu:8000/live/filippo1/carmine/25007.ts
+#EXTINF:-1,SP: Astro SuperSports 3
+http://best-anonymous.eu:8000/live/filippo1/carmine/25006.ts
+#EXTINF:-1,SP: beIN LALIGA HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/25018.ts
+#EXTINF:-1,SP: beIN SPORTS HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/25017.ts
+#EXTINF:-1,SP: Digi Sport 1 Hungary
+http://best-anonymous.eu:8000/live/filippo1/carmine/25010.ts
+#EXTINF:-1,SP: Digi Sport 2 Hungary
+http://best-anonymous.eu:8000/live/filippo1/carmine/25009.ts
+#EXTINF:-1,SP: Digi Sport 4
+http://best-anonymous.eu:8000/live/filippo1/carmine/25011.ts
+#EXTINF:-1,SP: Dolce-Sport-2-HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/25003.ts
+#EXTINF:-1,SP: Fox Sports 1 Asia
+http://best-anonymous.eu:8000/live/filippo1/carmine/25014.ts
+#EXTINF:-1,SP: Fox Sports 2 Asia
+http://best-anonymous.eu:8000/live/filippo1/carmine/25013.ts
+#EXTINF:-1,SP: Fox Sports 3 Asia
+http://best-anonymous.eu:8000/live/filippo1/carmine/25012.ts
+#EXTINF:-1,SP: Live Spain Las Palmas LAS CANTERAS beach
+http://best-anonymous.eu:8000/live/filippo1/carmine/25034.ts
+#EXTINF:-1,SP: Mio STADIUM 102
+http://best-anonymous.eu:8000/live/filippo1/carmine/25030.ts
+#EXTINF:-1,SP: Mio STADIUM 103
+http://best-anonymous.eu:8000/live/filippo1/carmine/25029.ts
+#EXTINF:-1,SP: Mio STADIUM 104
+http://best-anonymous.eu:8000/live/filippo1/carmine/25028.ts
+#EXTINF:-1,SP: Mio STADIUM 105
+http://best-anonymous.eu:8000/live/filippo1/carmine/25027.ts
+#EXTINF:-1,SP: Mio STADIUM 106
+http://best-anonymous.eu:8000/live/filippo1/carmine/25026.ts
+#EXTINF:-1,SP: Movistar FUTBOL
+http://best-anonymous.eu:8000/live/filippo1/carmine/25016.ts
+#EXTINF:-1,SP: OSN SPORTS 1 HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/25002.ts
+#EXTINF:-1,SP: OSN SPORTS 2 HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/25001.ts
+#EXTINF:-1,SP: OSN SPORTS 4HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24999.ts
+#EXTINF:-1,SP: REAL MADRID TV
+http://best-anonymous.eu:8000/live/filippo1/carmine/25015.ts
+#EXTINF:-1,SP: SKYNET SPORTS 1
+http://best-anonymous.eu:8000/live/filippo1/carmine/25024.ts
+#EXTINF:-1,SP: SKYNET SPORTS 2
+http://best-anonymous.eu:8000/live/filippo1/carmine/25023.ts
+#EXTINF:-1,SP: SKYNET SPORTS 4
+http://best-anonymous.eu:8000/live/filippo1/carmine/25021.ts
+#EXTINF:-1,SP: SKYNET SPORTS 5
+http://best-anonymous.eu:8000/live/filippo1/carmine/25020.ts
+#EXTINF:-1,SP: SKYNET SPORTS 6
+http://best-anonymous.eu:8000/live/filippo1/carmine/25019.ts
+#EXTINF:-1,SP: SKYNET SPORTS HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/25025.ts
+#EXTINF:-1,SP: Spain Cadiz Beach Santa Mar
+http://best-anonymous.eu:8000/live/filippo1/carmine/25031.ts
+#EXTINF:-1,SP: Spain Chiclana Marina de Sancti Petri
+http://best-anonymous.eu:8000/live/filippo1/carmine/25032.ts
+#EXTINF:-1,SP: Spain Lloret de Mar Central beach
+http://best-anonymous.eu:8000/live/filippo1/carmine/25033.ts
+#EXTINF:-1,SP:Dolce-Sport-1-HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/25004.ts
+#EXTINF:-1,SP:OSN SPORTS 3 HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/25000.ts
+#EXTINF:-1,SP:OSN SPORTS CRICKET HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/24998.ts
+#EXTINF:-1,SP:SKYNET SPORTS 3
+http://best-anonymous.eu:8000/live/filippo1/carmine/25022.ts
