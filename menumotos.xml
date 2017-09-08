@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR deeppink][B]* MOTO GP[/B][/COLOR]</title>        
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR lime] MOTOGP [/B][/COLOR]</title>        
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/motogp.xml</externallink>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[COLOR deeppink][B]* MOTO 2[/COLOR][/B]</title>        
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR lime] MOTO 2 [/B][/COLOR]</title>       
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/moto2.xml</externallink>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>[COLOR deeppink][B]* MOTO 3[/B][/COLOR]</title>        
+<title><title>[B][COLOR orange]* [/COLOR][/B][B][COLOR lime] MOTO 3 [/B][/COLOR]</title></title>        
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/moto3.xml</externallink>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
