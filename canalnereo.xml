@@ -1,162 +1,112 @@
 #EXTM3U
 
-#EXTINF:-1,---Premiun---
-#EXTINF:-1,A&E HD
-http://wowza2.mysoltv.com:1992/Latino_A&E_HD/index.m3u8
-#EXTINF:-1,FOX HD
-http://wowza2.mysoltv.com:1992/Latino_Fox_HD/index.m3u8
-#EXTINF:-1,Cinemax
-http://23.237.22.2:8080/lstream4/401/10/787f871133435e47a2e14ab464387153/481.flv
-#EXTINF:-1,Cinecanal
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/430.flv
-#EXTINF:-1,TNT
-http://23.237.22.2:8080/lstream4/77/10/787f871133435e47a2e14ab464387153/435.flv
-#EXTINF:-1,TNT Series
-http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1,Space
-http://23.237.22.2:8080/lstream4/402/10/787f871133435e47a2e14ab464387153/445.flv
-#EXTINF:-1,Paramount Channel
-http://190.57.234.164/V6/8/1.m3u8
-#EXTINF:-1,Studio Universal
-http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1,Universal Channel
-http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1,SyFy
-http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 ,AXN
-http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 ,Warner Channel
-http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 ,FX
-http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 ,Fox
-http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 ,FOX Life
-http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 ,NatGeo
-http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 ,E! Entertainment
-http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1,HBO
-http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe625/5900bc02970b1071e240b0cb/_/hbo_latino_hd.flv
-#EXTINF:-1,HBO 2
-http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe649/5900bc02970b1071e240b0cb/_/hbo_2.flv
-#EXTINF:-1,HBO Plus
-http://190.57.234.164/V9/5/1.m3u8
-#EXTINF:-1,HBO Family
-http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe624/5900bc02970b1071e240b0cb/_/hbo_family.flv
-#EXTINF:-1,History
-https://live14.userapi.com/637609/live/uK7viRRAfwg_cXce/playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://23.237.22.2:8080/lstream4/92/16/654681644949e1a53be8493e2112723e/371.flv
-#EXTINF:-1,Discovery Theater
-http://190.57.234.164/V1/5/1.m3u8
-#EXTINF:-1,Discovery Civilization
-http://190.57.234.164/V0/2/1.m3u8
-#EXTINF:-1,Discovery Science
-http://190.57.234.164/V0/3/1.m3u8
-#EXTINF:-1,Discovery World
-http://190.57.234.164/V1/4/1.m3u8
-#EXTINF:-1,Discovery Turbo
-http://190.57.234.164/V0/1/1.m3u8
-#EXTINF:-1,National Geographic
-http://23.237.22.2:8080/lstream4/429/16/654681644949e1a53be8493e2112723e/377.flv
-#EXTINF:-1,Nat Geo Wild
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/355.flv
-#EXTINF:-1,Animal Planet
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/373.flv
-#EXTINF:-1,Animal Planet USA
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,TLC
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/386.flv
-#EXTINF:-1,Warner Channel 2
-http://23.237.22.2:8080/lstream4/400/10/787f871133435e47a2e14ab464387153/205.flv
-#EXTINF:-1,FX 2
-http://23.237.22.2:8080/lstream4/398/10/787f871133435e47a2e14ab464387153/209.flv
-#EXTINF:-1,Universal Channel 2
-http://190.57.234.164/V9/4/1.m3u8
-#EXTINF:-1,Canal Sony 2
-http://23.237.22.2:8080/lstream4/396/10/787f871133435e47a2e14ab464387153/203.flv
-#EXTINF:-1,AXN 2
-http://23.237.22.2:8080/lstream4/404/10/787f871133435e47a2e14ab464387153/213.flv
-#EXTINF:-1,A&E 2
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/211.flv
-#EXTINF:-1,Comedy Central 2
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/217.flv
-#EXTINF:-1,TBS 2
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/273.flv
-#EXTINF:-1,Distrito Comedia 2
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/272.flv
-#EXTINF:-1,TNT Series 2
-http://23.237.22.2:8080/lstream4/469/10/787f871133435e47a2e14ab464387153/266.flv
-#EXTINF:-1,Fox Life 2
-http://23.237.22.2:8080/lstream4/436/10/787f871133435e47a2e14ab464387153/271.flv
-#EXTINF:-1,Mundo Fox 2
-http://190.57.234.164/V0/4/1.m3u8
-#EXTINF:-1,MTV 2
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/726.flv
-#EXTINF:-1,E! 2
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/255.flv
+#EXTINF:-1 group-title="TDT ESPAÑA",ANTENA 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",LA SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",CANAL SUR ANDALUCIA HD
+https://youtu.be/uPJZtdlTaR0
+#EXTINF:-1 group-title="TDT ESPAÑA",NEOX HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",NOVA HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",ATRESERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",TELEDEPORTE
+http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",MEGA HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",PARAMOUNT CHANNEL
+http://paramount.live.flumotion.com/live/chunklist.m3u8
+#EXTINF:-1 group-title="TDT ESPAÑA",24 HORAS
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_0650_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TDT ESPAÑA",13 TV
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
  
-#EXTINF:-1,---Msica---
-#EXTINF:-1,Radio ONE TV
-http://190.57.234.165/V2/2/1.m3u8
-#EXTINF:-1,Rock&Pop
-http://190.57.234.165/V2/3/1.m3u8
-#EXTINF:-1,Power
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/chunklist_w668249396.m3u8
-#EXTINF:-1,Cool
-http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
-#EXTINF:-1,Rock Nacional TV
-http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
-#EXTINF:-1,Djing
-http://www.djing.com/tv/i-05.m3u8
-#EXTINF:-1,Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Mi Musica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
-#EXTINF:-1,Quiero Musica
-mms://200.42.92.6:1755/qmusica
-#EXTINF:-1,VH1
-http://23.237.22.2:8080/lstream4/90/11/654681644949e1a53be8493e2112723e/703.flv
-#EXTINF:-1,VH1 Mega Hits
-http://190.57.234.164/V6/5/1.m3u8
-#EXTINF:-1,VH1 Classics
-http://190.57.234.164/V0/6/1.m3u8
-#EXTINF:-1,MTV Dance
-http://190.57.234.164/V6/4/1.m3u8
-#EXTINF:-1,MTV Hits
-http://190.57.234.164/V6/3/1.m3u8
-#EXTINF:-1,MTV Live
-http://190.57.234.164/V6/7/1.m3u8
-#EXTINF:-1,MTV España
-http-referrer=http://tumarcador.xyz
-#EXTINF:-1,Ritmoson
-http://23.237.22.2:8080/lstream4/578/11/654681644949e1a53be8493e2112723e/731.flv
-#EXTINF:-1,Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1,Tigo Music
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1,1HD Music
-http://80.250.191.10:1935/live/hlsstream343/chunklist_w69624695.m3u8
-#EXTINF:-1,Hit TV
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8
-#EXTINF:-1,Telemúsica
-http://186.155.200.118:1935/live/telemusica/livestream.m3u8
-#EXTINF:-1,Virgin TV
-http://wow01.105.net/live/virgin1/chunklist.m3u8
-#EXTINF:-1,Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ CINE",#0 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/1.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ESTRENOS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/2.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ACCION HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/4.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ COMEDIA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/5.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ DCINE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/3.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ XTRA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/6.ts
+#EXTINF:-1 group-title="MOVISTAR+ CINE",LIFE TV HD
+http://163.172.15.219:1935/live/lifetvesp387/playlist.m3u8
  
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/42.ts
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",NICKELODEON HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/43.ts
+#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY XD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG:
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/41.ts
  
-#EXTINF:-1,---24/7---
-#EXTINF:-1,Los Simpsons 24hs
-http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Los Simpsons Random MP4
-http://stream.latino-webtv.com/series/simpsons.mp4
-#EXTINF:-1,Gravity Falls Random MP4
-http://stream.latino-webtv.com/series/gravityfalls.mp4
-#EXTINF:-1,Anime TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NATIONAL GEOGRAPHIC HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/34.ts
+#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/35.ts
+ 
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/14.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES XTRA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/15.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",SYFY HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/8.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/18.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN WHITE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/19.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",TNT HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/21.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX HD
+http://185.22.78.81:8116/play/a009
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX HD 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/16.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX LIFE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/17.ts
+#EXTINF:-1 group-title="MOVISTAR+ SERIES",CALLE 13 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:DLNA.ORG: 1
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/9.ts
