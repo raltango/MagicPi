@@ -1,78 +1,33 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
-#EXTINF:-1,***** SPAIN *****
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6906.ts
-#EXTINF:-1,SP | CANAL ESTRENOS
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6923.ts
-#EXTINF:-1,SP | CANAL HOLLYWOOD
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6912.ts
-#EXTINF:-1,SP | CANAL SERIES
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6911.ts
-#EXTINF:-1,SP | CANAL+ COMEDIA HD
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6926.ts
-#EXTINF:-1,SP | Taquilla1
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6921.ts
-#EXTINF:-1,SP | Taquilla2
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6918.ts
-#EXTINF:-1,SP | Taquilla3
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6910.ts
-#EXTINF:-1,SP | Taquilla4
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6934.ts
-#EXTINF:-1,SP | Antena 3 HD
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6915.ts
-#EXTINF:-1,SP | BEIN SPORT ES
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6929.ts
-#EXTINF:-1,SP | CAZA Y PESCA
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6922.ts
-#EXTINF:-1,SP | CUATRO
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6913.ts
-#EXTINF:-1,SP | DCINE
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6909.ts
-#EXTINF:-1,SP | MEGA
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6916.ts
-#EXTINF:-1,SP | NOVA
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6928.ts
-#EXTINF:-1,SP | TVE LA1
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6930.ts
-#EXTINF:-1,SP | DISCOVERY CHANNEL
-http://src1.56473src.com:8080/live/run259/LiRdslrtAU/6908.ts
-#EXTINF:-1,TNT
-http://23.237.22.2:8080/lstream4/77/10/787f871133435e47a2e14ab464387153/435.flv
-#EXTINF:-1,TNT Series
-http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1,Space
-http://23.237.22.2:8080/lstream4/402/10/787f871133435e47a2e14ab464387153/445.flv
-#EXTINF:-1,Paramount Channel
-http://190.57.234.164/V6/8/1.m3u8
-#EXTINF:-1,Studio Universal
-http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1,Universal Channel
-http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1,SyFy
-http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 ,AXN
-http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 ,Warner Channel
-http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 ,FX
-http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 ,Fox
-http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 ,FOX Life
-http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 ,NatGeo
-http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 ,E! Entertainment
-http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1,HBO
-http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe625/5900bc02970b1071e240b0cb/_/hbo_latino_hd.flv
-#EXTINF:-1,HBO 2
-http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe649/5900bc02970b1071e240b0cb/_/hbo_2.flv
-#EXTINF:-1,HBO Plus
-http://190.57.234.164/V9/5/1.m3u8
-#EXTINF:-1,HBO Family
-http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe624/5900bc02970b1071e240b0cb/_/hbo_family.flv
-#EXTINF:-1,History
-https://live14.userapi.com/637609/live/uK7viRRAfwg_cXce/playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://23.237.22.2:8080/lstream4/92/16/654681644949e1a53be8493e2112723e/371.flv
+<HTML>
+  <HEAD>
+    <TITLE>Reloj Regresivo</TITLE>      
+  </HEAD>
+  <BODY>
+    <h2>Horas para acabar el día:</h2>
+    <FORM NAME="Reloj">
+      <INPUT TYPE="text" SIZE="7" NAME="tiempo" VALUE="mm:hh:ss" TITLE="Tiempo restante para finalizar el dia">
+      <SCRIPT LANGUAGE="JavaScript">
+
+        var tiempoAtras;
+        updateReloj();
+
+        function updateReloj()
+        {
+          var tiempo = new Date();
+          var hora = 23-tiempo.getHours();
+          var minutos = 59-tiempo.getMinutes();
+          var segundos = 59-tiempo.getSeconds();
+
+          tiempoAtras = (hora < 10) ? hora :hora;
+          tiempoAtras += ((minutos < 10) ? ":0":":") + minutos;
+          tiempoAtras += ((segundos < 10) ? ":0":":") + segundos;
+
+          document.Reloj.tiempo.value = tiempoAtras;
+          setTimeout("updateReloj()",1000);
+        }
+      </SCRIPT>   
+    </FORM>  
+  </BODY>
+</HTML>
