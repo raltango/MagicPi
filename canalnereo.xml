@@ -1,112 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TDT ESPAÑA",ANTENA 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",LA SEXTA HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",CANAL SUR ANDALUCIA HD
-https://youtu.be/uPJZtdlTaR0
-#EXTINF:-1 group-title="TDT ESPAÑA",NEOX HD
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",NOVA HD
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",ATRESERIES HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",TELEDEPORTE
-http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",MEGA HD
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",PARAMOUNT CHANNEL
-http://paramount.live.flumotion.com/live/chunklist.m3u8
-#EXTINF:-1 group-title="TDT ESPAÑA",24 HORAS
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_0650_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TDT ESPAÑA",13 TV
-http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1,Latino | Fox Movies HD.
+https://freedom.dreamsmx.com/freedom/foxmoviesizi/playlist.m3u8
+#EXTINF:-1,Latino | Discovery Kids
+https://freedom.dreamsmx.com/freedom/lmb/playlist.m3u8
+#EXTINF:-1,Bet Safe Star Sixes
+https://freedom.dreamsmx.com/freedom/MLB/playlist.m3u8
+#EXTINF:-1,UFC Fight Pass
+https://freedom.dreamsmx.com/freedom/mlb6/playlist.m3u8
+#EXTINF:-1,HBO
+https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
+#EXTINF:-1,Hbo Plus-
+https://freedom.dreamsmx.com/freedom/hboplusdc/playlist.m3u8
+#EXTINF:-1,HBO Family.
+https://freedom.dreamsmx.com/freedom/hbopluswestizi/playlist.m3u8
+#EXTINF:-1,HBO Signature
+https://freedom.dreamsmx.com/freedom/hbosignature/playlist.m3u8
+#EXTINF:-1,Discovery Home & Health
+https://freedom.dreamsmx.com/freedom/formula1/playlist.m3u8
+#EXTINF:-1,Discovery Home & Health
+https://freedom.dreamsmx.com/freedom/formula1/playlist.m3u8
+#EXTINF:-1,Fox Comedy HD.
+https://freedom.dreamsmx.com/freedom/foxcomedy/playlist.m3u8
+#EXTINF:-1,Fox Family EN
+https://freedom.dreamsmx.com/freedom/foxfamili/playlist.m3u8
+#EXTINF:-1,HBO
+https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
+#EXTINF:-1,Hbo Plus-
+https://freedom.dreamsmx.com/freedom/hboplusdc/playlist.m3u8
+#EXTINF:-1,HBO Family.
+https://freedom.dreamsmx.com/freedom/hbopluswestizi/playlist.m3u8
+#EXTINF:-1,HBO Signature
+https://freedom.dreamsmx.com/freedom/hbosignature/playlist.m3u8
+#EXTINF:-1,Liga de Ascenso Mx TVC HD
+https://freedom.dreamsmx.com/freedom/nick2/playlist.m3u8
+#EXTINF:-1,Max UP-
+https://freedom.dreamsmx.com/freedom/feriastaurinas/playlist.m3u8
+#EXTINF:-1,A&E
+https://freedom.dreamsmx.com/freedom/eventos4/playlist.m3u8
+#EXTINF:-1,ESPN +
+https://freedom.dreamsmx.com/freedom/espn+/playlist.m3u8
+#EXTINF:-1,Fox Action HD.
+https://freedom.dreamsmx.com/freedom/foxfamili/playlist.m3u8
  
-#EXTINF:-1 group-title="MOVISTAR+ CINE",#0 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/1.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ESTRENOS HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/2.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ ACCION HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/4.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ COMEDIA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/5.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ DCINE HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/3.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",M+ XTRA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/6.ts
-#EXTINF:-1 group-title="MOVISTAR+ CINE",LIFE TV HD
-http://163.172.15.219:1935/live/lifetvesp387/playlist.m3u8
- 
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY JUNIOR
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/42.ts
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",NICKELODEON HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/43.ts
-#EXTINF:-1 group-title="MOVISTAR+ INFANTILES",DISNEY XD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG:
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/41.ts
- 
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NATIONAL GEOGRAPHIC HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/34.ts
-#EXTINF:-1 group-title="MOVISTAR+ DOCUMENTALES",NAT GEO WILD HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/35.ts
- 
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/14.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",M+ SERIES XTRA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/15.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",SYFY HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/8.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/18.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",AXN WHITE HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/19.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",TNT HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/21.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX HD
-http://185.22.78.81:8116/play/a009
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX HD 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/16.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",FOX LIFE HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/17.ts
-#EXTINF:-1 group-title="MOVISTAR+ SERIES",CALLE 13 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/9.ts
+#EXTINF:-1,CentroAmerica:AZ HONDURAS
+http://aztecalive-lh.akamaihd.net:80/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1,CentroAmerica:TV CENTRO Honduras
+http://tvchonduras-lh.akamaihd.net:80/i/ch_1@325635/master.m3u8
+#EXTINF:-1,CentroAmerica:AZ HONDURAS
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1,CentroAmerica:TV CENTRO Honduras
+http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8
