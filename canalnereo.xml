@@ -11,7 +11,7 @@
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>https://www.youtube.com/watch?v=JnQJqus-vaI&index=2&list=PLe4ZuWFax2d82L388D4BDFsS5fvuQpzu-</page>
+<page>https://www.youtube.com/watch?v=JtW5DaVv4mY&list=PLe4ZuWFax2d82L388D4BDFsS5fvuQpzu-</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
