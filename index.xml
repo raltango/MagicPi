@@ -61,7 +61,7 @@
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>http://46.105.119.223:8000/get.php?username=hasanturan&password=turan&type=m3u</page>
+<page>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/canalnereo.xml</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
