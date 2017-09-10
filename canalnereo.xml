@@ -2,17 +2,13 @@
 
 <item>
 <title>MICKEY MOUSE MODERNO</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2].ts&amp;name=Catoal - [makelist.param1]</link>
-<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
+<link>http://ignorme</link>
 <page>https://www.youtube.com/watch?v=JtW5DaVv4mY&list=PLe4ZuWFax2d82L388D4BDFsS5fvuQpzu-</page>
-<cookieJar></cookieJar>
-</regex>
+</item>
+
+<item>
+<title>POCOYO</title>
+<link>http://ignoreme</link>
+<page>https://www.youtube.com/watch?v=OM1TNGwXehA&list=PLiNcpyRLD5LvafevUwivs84BEsdJao9tq</page>
 </item>
 
