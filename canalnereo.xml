@@ -1,22 +1,95 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>MICKEY MOUSE MODERNO</title>
-<link>http://ignorme</link>
-<page>https://www.youtube.com/watch?v=JtW5DaVv4mY&list=PLe4ZuWFax2d82L388D4BDFsS5fvuQpzu-</page>
-</item>
 
-<item>
-<title>POCOYO</title>
-<link>http://ignoreme</link>
-<page>https://www.youtube.com/watch?v=OM1TNGwXehA&list=PLiNcpyRLD5LvafevUwivs84BEsdJao9tq</page>
-</item>
 
-<item>
-<title>[B][COLOR yellow]* INFANTIL[/B][/COLOR]</title>
-<thumbnail>https://files.gamebanana.com/img/ico/sprays/53095f371273b.png</thumbnail>
-<fanart>http://capitalradio.es/wp-content/uploads/2017/08/Walt_Disney_Animation.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/canalnereo.xml</externallink>
-</item>
+1.#EXTM3U
+
+
+2.#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/9vQ7KaqaLnGhcr4NrzxgaAon8e7.jpg", A todo gas - Rapido y Furioso |CASTELLANO||HD| 
+
+
+3.http://s48.diskokosmiko.mx/download?e=n7eRsZ_bLkWiVYwpSrFkkfRcK4PoihCd74iYURTxFl1ubbL0EvN289Xyzfx3clpBjv5aLwzzve5cVBlebtHeU28YmxjPgsBBKCuvnZVMghAfZ7PawW75wOryGChtr5mM98RWjWbOE7t7U4-vipjk7iT56SjabPFTgk4DsTnZTZuEFU4X_lo97Yy02NszQ0q3-b1NxMeCM9L1rRnTgpdse9lGXdUvsOOcqpEpnoenkwY
+
+
+4.#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/9vQ7KaqaLnGhcr4NrzxgaAon8e7.jpg", A todo gas - Rapido y Furioso |CASTELLANO| |SD| 720 (2001)
+
+
+5.http://stor44.streamcloud.eu:8080/3xv74lp7m6oax3ptx2mila7bvaqpf7wkx3ahipgdyixgxxhcaecnddxzoe/video.mp4
+
+
+6.#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w396/3w1eUOd0Qhx41UVu7kcQQ06YP62.jpg", A todo gas 2 - Rapido y Furioso 2|CASTELLANO| |SD| (2003)
+
+
+7.http://s21.diskokosmiko.mx/download?e=tqk4M4tBkiYo7RJsEU-hxX34lWmKSOWkswAt-i8lSXwMwXa1grkur8wpmxR8aZB9VvpKiQU22GcP-VEwnpmt9WCr6Zj6o2GUTrUKXvDkzE5xafO_dcd2zGGxZXynOtiZSJ73PtPM2_6PRPxXXFKitchEFEj_lkQb72Cjbwqw2qyesSRbvDkG6cn2gTAfIJQ5PXhCH4lDhDjSXwaC39yRSA
+
+
+8.#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w396/3w1eUOd0Qhx41UVu7kcQQ06YP62.jpg", A todo gas 2 - Rapido y Furioso 2|CASTELLANO| |DVD RIP|  (2003)
+
+
+9.http://s21.diskokosmiko.mx/download?e=1S5WdagjZcUeRWBJGPGIr-GYIENTo3cq-Ll07y7eALzBUWRp9ijjC6yC-xYbvtCKmEUxkF9ZuSwsx2Afi3t0ozM2cOS4qOGyFvWMvih7Oh1vRjjNEOQPlvrERYAi-Lvysp2IJ_yKYxTsb3KLJqScNNQCONLVCAz075dL4AtAZnDQOl5uXHMhm5dvxpoSKOhPDcmt3Mt_6AgYHWqJY-M6AA
+
+
+10.#EXTINF:-1 tvg-logo="http://img.sipeliculas.com/img-mediano/a-todo-gas-tokyo-race.jpg", A todo gas 3 - |CASTELLANO| |SD|(2003)
+
+
+11.http://s2.diskokosmiko.mx/download?e=Wp5ZHikOSXx6Xs2bnptzRYtvaLw6S7B23uDwoUpfCP9uvx0hksWNF1fToOpVv9IIrdthFcIB-8WDNyWznrfwSZIUC4zF3OwDOLzylU20By6vhzw2hwY5DLluAq_ksETQlT3EUiy_ptzNwyyvmN7YuDAdPnItzn7EaeJIpUYVrW-NkhQoiX64-nRxT0cTgWwCtFUYWbQm1xu4L9vvtbwAnA
+
+
+12.#EXTINF:-1 tvg-logo="http://img.sipeliculas.com/img-mediano/a-todo-gas-tokyo-race.jpg", A todo gas 3 - |CASTELLANO| |MICRO HD|(2003)
+
+
+13.http://s2.diskokosmiko.mx/download?e=v6PYBzSrOeIO7wPANDZTT29y3GIaqCGOWj7c0uI7JMMG_u3T2F8jzduZQi5dNR286BFXzOuhmROR5celNRQzgZgvrmFlryJhTWGPOlOzdWCnhOl_bCgWzYKS_YzBD7K8ikpG3Ap_V6HL9lD3cnVnjXlsquR4cBfNPX23P1FsKKvp2DX50vSM4wyTws1cj_hfbk7fVvSgOaIdg95DojrRLpAMh1GTzfaScI4C08FSIs8
+
+
+14.#EXTINF:-1 tvg-logo="http://imgs24.com/images/mWln6.jpg", A todo gas 4 - Aun mas rapido|CASTELLANO| |HD|(2009)
+
+
+15.http://s47.diskokosmiko.mx/download?e=7XpmBnPXpIuhzMssAbzS9YBL5KNeW9PNlIdzrCNcqBWTst6h-D0fkMCtObdGXSnfsYu4GKJlaj4Gi-jWnI7xvgPT0Z-ugYo1EHvxnBHSvtF-4c8xT-UNT6OnpC-Jpsz0UF95tgA2mOPom_xjB3SrC8kQDDJkInEP8e1k2-0xn7_aKkRVY8e8FPq5zHHF1Vj78hBUN9dwmE2r9dFHd_bROQ
+
+
+16.#EXTINF:-1 tvg-logo="http://imgs24.com/images/mWln6.jpg", A todo gas 4 - Aun mas rapido |CASTELLANO| |SD|(2009)
+
+
+17.http://stor69.streamcloud.eu:8080/hpv74cptusoax3ptx2pybdnzx5gvuhdq5vlxtgigc3iyfhodis4chlyama/video.mp4
+
+
+18.#EXTINF:-1 tvg-logo="http://imgs24.com/images/mWln6.jpg", A todo gas 4 - Aun mas rapido |CASTELLANO| |SD|(2009)
+
+
+19.http://s3.diskokosmiko.mx/download?e=s5WcbaykKLi29CNvyAUXaFRtT2jJTfAlBqhWJ8fPVkNiRk888JBbFnaQL1SZpDsdiC_bVKEElw9QU7juKWX8Py4agGkym2tIxtjdkdXC3wV1q08mKMy-lL1Z9b_jLvND7tFxjaHP2Ta4hEpZMWs9FSUm42DHYr0CBGwc-G3jt2goXvzfdbM3o-ta3yBvL8P3UIYPid65vqhE5FjsIYUhRg
+
+
+20.#EXTINF:-1 tvg-logo="http://allpeliculas.com/getImages/image/236/317/100/top/files/movies_posters/20110427075442_136679193138_tupeli.me.jpg", A todo gas 5 - |CASTELLANO| |SD|(2009)
+
+
+21.http://stor26.streamcloud.eu:8080/7tv75bhyrwoax3ptxzyi5vxs6ywonql6gx5hiw3v6ycu2jgbub6weaqhl4/video.mp4
+
+
+22.#EXTINF:-1 tvg-logo="http://allpeliculas.com/getImages/image/236/317/100/top/files/movies_posters/20110427075442_136679193138_tupeli.me.jpg", A todo gas 5 - |CASTELLANO| |SD|(2009)
+
+
+23.http://s15.diskokosmiko.mx/download?e=WyT5R4ZCdVjFSwamUZtpeskrk7COKYz9JlROdNNqPnY-joUsKdw7resx_75BEYbiEA8C8HqGtxARrgnlsN3Hx8b6BkTTSb1TOfZtbbdmv655cAJQalTsugNj4FXer13h1jBlqTbq8CjLcZfiTTwwz1TFaoO7uSsMVC6646_4HKqETzhemQY8vug9e4s8GgiRIBuYsXhg1scK0MaeGBdqrQ
+
+
+24.#EXTINF:-1 tvg-logo="http://peliculasyestrenosonline.com//uploads/img-fast-furious-6.jpg", A todo gas 6 - |CASTELLANO| |SD|(2013)
+
+
+25.http://cdn2.streamcloud.eu:8080/zpv74oyul2oax3ptx2qihux5wme3jxsx7f4mhtcl7whgxplpubeskjsyam/video.mp4
+
+
+26.#EXTINF:-1 tvg-logo="http://peliculasyestrenosonline.com//uploads/img-fast-furious-6.jpg", A todo gas 6 - |CASTELLANO| |HD|(2013)
+
+
+27.http://s17.diskokosmiko.mx/download?e=LFpuVQDtarA-2fSlhjGUqfHTP_JTtwBud-QB3BOAFA5Wy8IAaGZEKxF9prHfMHMOacPNZxeppbrL58XzdHQ_AWs5uDTJF_g54lLHbH6mRBxC4BOuVXayYa_l03GXFoWfONTCdfQ9SaWn9qoaXUMnz5uVSx5ecx4Ddxm1ZYTcXLDluJR0yZQBFrQn6jtATm-Ah8cVd0eQUufQZ3kFz1MlinAvVMG51qDm5vwgsYmfmm8
+
+
+28.#EXTINF:-1 tvg-logo="http://newpelis.net/wp-content/uploads/2017/06/eN4cUCRpaUVPLrtu9N1jZdX5chF-185x278.jpg", A todo gas 7 - || |SD|(2015)
+
+
+29.http://cdn2.streamcloud.eu:8080/exv75v5mu2oax3ptxzqydvh3xvdcffj26nmnibqnmc7rltwvzk2llrw2ky/video.mp4
+
+
+30.#EXTINF:-1 tvg-logo="http://newpelis.net/wp-content/uploads/2017/06/eN4cUCRpaUVPLrtu9N1jZdX5chF-185x278.jpg", A todo gas 7  HD |CASTELLANO|- 
+
+
+31.http://s17.diskokosmiko.mx/download?e=a0vQd8pFaVI_vFHKOkoiZP_731XzTyJ1Vrp95jHDQ-A9Sp70F6Dlw05S7dxbof0ELohI7gG8lOmUHkc6b2uTmja27JqjWNvf-SgCewuGHXjXTyPcftoE0LN8MrMcMnnE1vcMVDMmKMYhXoasdiCEbNyMVgLUVWukypz_usJTS__wjRh32mIliG2_q3g67w6_Vg16kIMBvS_tZ6ePTVxEoa9EfQNlJZaU7D7ITfs_irk
 
