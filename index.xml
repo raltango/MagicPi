@@ -62,7 +62,7 @@
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>https://pastebin.com/raw/6h48ntGk</page>
+<page>https://pastebin.com/raw/P1aJLyVS</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
