@@ -1,80 +1,39 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-#EXTINF:-1,Estrenos
-http://edge9206.applive.online/live/vertntesp65a5b8508dd5e287/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,SERIES
-http://edge5202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,SERIES XTRA
-http://edge5204.livesports.pw/live/vera6669184f0b71095624027/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,FOX
-http://edge5202.livesports.pw/live/verfoxespana247756767558f1/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,AXN
-http://edge5204.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,TNT
-http://edge5204.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,COMEDY CENTRAL
-http://cdn3.shurs.xyz/verdirectotv/8/playlist.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,CALLE 13
-http://edge5202.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,AMC
-http://edge5204.livesports.pw/live/veramcespteledd21791245ff/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,SYFY
-http://edge5202.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,MTV
-http://edge5203.livesports.pw/live/vermtvespe9499422bf273237/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,ESTRENOS
-http://edge5203.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,XTRA
-http://edge2501.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,ACCIÓN
-http://edge5202.livesports.pw/live/veraccion177662786c60c28d/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,COMEDIA
-http://edge2501.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,DCine
-http://edge5204.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,TCM
-http://edge2501.livesports.pw/live/vertcmespd1f470f86e0d2cb4/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,TOROS
-http://edge2506.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://edge5202.livesports.pw/live/vernatgeo23aa76d3cff3572e/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,NATGEO WILD
-http://edge1.telesport.pw/live/nationalwild/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,HISTORIA
-http://edge5203.livesports.pw/live/verhistoriaesp92439d25ebf/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,DISCOVERY
-http://edge5202.livesports.pw/live/verdiscoverychannelff096b/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,ODISEA
-http://edge5203.livesports.pw/live/verodiseatelef121d54573d3192a6/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,COCINA
-http://edge5201.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,Nick
-http://edge2501.livesports.pw/live/vernickelones9a7699e72b5a/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,A&E
-http://edge5201.livesports.pw/live/veranadetelefive17669f5d28e4d7/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,HOLLYWOOD
-http://edge5202.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,CRIMEN INVESTIGACIÓN
-http://edge5202.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,CAZA Y PESCA
-http://edge5201.livesports.pw/live/vercazaypesca65b3f60d9f53/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,DARK
-http://edge5204.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,CINEMAX
-http://cdn3.shurs.xyz/verliga/4/playlist.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,FUTBOL
-http://edge2502.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,DEPORTES 1
-http://edge2501.livesports.pw/live/verdeporteone5e281e2e8f20/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,F1
-http://edge2506.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,MOTO GP
-http://edge2502.livesports.pw/live/vermotogpmea6b484f0907aac/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,GOLF
-http://edge2504.livesports.pw/live/vergolfespef14708285db183/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,EUROSPORT 1
-http://edge2504.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,EUROSPORT 2
-http://edge2502.livesports.pw/live/vereurosportsdosespa0a934/index.m3u8|User-Agent=Mozilla 5
-#EXTINF:-1,ESPN
-https://live10.userapi.com/637601/live/1gJD5yNAfz8Y-Icl/playlist.m3u8|User-Agent=Mozilla 5
+<item>
+<title>[COLOR red]ERASE UNA VEZ EL HOMBRE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://bpmaguilar.files.wordpress.com/2016/01/05-c3a9rase-una-vez-el-hombre.jpg</thumbnail>
+		<fanart>https://bpmaguilar.files.wordpress.com/2016/01/05-c3a9rase-una-vez-el-hombre.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/erase-una-vez-el-hombre-51129/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://bpmaguilar.files.wordpress.com/2016/01/05-c3a9rase-una-vez-el-hombre.jpg</thumbnail>
+		<fanart>https://bpmaguilar.files.wordpress.com/2016/01/05-c3a9rase-una-vez-el-hombre.jpg</fanart>
+</item>
