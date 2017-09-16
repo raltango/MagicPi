@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+   <title>[COLOR red]DRAGON BALL SUPER[/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+<fanart>https://img06.deviantart.net/e7c4/i/2016/155/4/0/dragon_ball_super_poster_by_naironkr-da505p5.png</fanart>
+<thumbnail>https://img06.deviantart.net/e7c4/i/2016/155/4/0/dragon_ball_super_poster_by_naironkr-da505p5.png</thumbnail>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart>https://img06.deviantart.net/e7c4/i/2016/155/4/0/dragon_ball_super_poster_by_naironkr-da505p5.png</fanart>
+<thumbnail>https://img06.deviantart.net/e7c4/i/2016/155/4/0/dragon_ball_super_poster_by_naironkr-da505p5.png</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/retrogames33/dragon-ball-super-by-dani-79089</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+<item>
+   <title>[COLOR red]DRAGON BALL Z[/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+<fanart>http://dealgounpoquito.esy.es/images/DragonBall%20Z.jpg</fanart>
+<thumbnail>http://dealgounpoquito.esy.es/images/DragonBall%20Z.jpg</thumbnail>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart>http://dealgounpoquito.esy.es/images/DragonBall%20Z.jpg</fanart>
+<thumbnail>http://dealgounpoquito.esy.es/images/DragonBall%20Z.jpg</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/retrogames33/dragon-ball-z-by-polo-dani-74737</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+<item>
+   <title>[COLOR red]DRAGON BALL GT[/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+<fanart>http://mouse.latercera.com/wp-content/uploads/2017/02/dbgt-900x600.jpg</fanart>
+<thumbnail>http://mouse.latercera.com/wp-content/uploads/2017/02/dbgt-900x600.jpg</thumbnail>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart>http://mouse.latercera.com/wp-content/uploads/2017/02/dbgt-900x600.jpg</fanart>
+<thumbnail>http://mouse.latercera.com/wp-content/uploads/2017/02/dbgt-900x600.jpg</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/retrogames33/dragon-ball-gt-by-polo-dani-76726</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+<item>
+   <title>[COLOR red]DRAGON BALL PELICULAS[/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+<fanart>http://3.bp.blogspot.com/-N3AGlwFrxHI/VZtNSf2gmkI/AAAAAAAAASo/sYIbj9gip2k/s1600/DBPELICULAS.jpg</fanart>
+<thumbnail>http://3.bp.blogspot.com/-N3AGlwFrxHI/VZtNSf2gmkI/AAAAAAAAASo/sYIbj9gip2k/s1600/DBPELICULAS.jpg</thumbnail>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/retrogames33/dragon-ball-peliculas-by-polo-dani-77047</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+<item>
+   <title>[COLOR red]DRAGON BALL KAI PARTE 1 *CATALAN*[/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+<fanart>http://ramenparados.com/wp-content/uploads/2016/11/dragon-ball-kai-saga-majin-boo.jpg</fanart>
+<thumbnail>http://ramenparados.com/wp-content/uploads/2016/11/dragon-ball-kai-saga-majin-boo.jpg</thumbnail>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart>http://ramenparados.com/wp-content/uploads/2016/11/dragon-ball-kai-saga-majin-boo.jpg</fanart>
+<thumbnail>http://ramenparados.com/wp-content/uploads/2016/11/dragon-ball-kai-saga-majin-boo.jpg</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/retrogames33/dragon-ball-kai-by-dani-catalan-parte-1-77058</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+<item>
+   <title>[COLOR red]DRAGON BALL KAI PARTE 2 *CATALAN*[/COLOR] [COLOR red][/COLOR] [COLOR red][/COLOR]</title>
+<fanart>http://ramenparados.com/wp-content/uploads/2016/11/dragon-ball-kai-saga-majin-boo.jpg</fanart>
+<thumbnail>http://ramenparados.com/wp-content/uploads/2016/11/dragon-ball-kai-saga-majin-boo.jpg</thumbnail>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+              <title>[B][COLOR red] Episodio[/COLOR] -[COLOR red][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart>http://ramenparados.com/wp-content/uploads/2016/11/dragon-ball-kai-saga-majin-boo.jpg</fanart>
+<thumbnail>http://ramenparados.com/wp-content/uploads/2016/11/dragon-ball-kai-saga-majin-boo.jpg</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/retrogames33/dragon-ball-kai-by-dani-catalan-parte-2-77765</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
