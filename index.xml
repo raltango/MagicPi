@@ -62,7 +62,7 @@
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</page>
+<page>https://raw.githubusercontent.com/mjgcamus/addons_kodi/master/iptv/iptv_espa%C3%B1ol</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -72,7 +72,7 @@
 <thumbnail>https://img.hdbox.ws/wp-content/uploads/2016/08/1402652350_m3u1.png</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/canales.xml</externallink>
+<externallink>https://github.com/elchocolate/tvchocotv/raw/master/tv2.m3u</externallink>
 </item>
 
 
