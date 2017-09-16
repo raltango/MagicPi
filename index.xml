@@ -62,7 +62,7 @@
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>https://github.com/elchocolate/tvchocotv/raw/master/tv2.m3u</page>
+<page></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
