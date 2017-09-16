@@ -62,7 +62,7 @@
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>http://62.33.239.235:8011/playlist.m3u8</page>
+<page>https://raw.githubusercontent.com/mjgcamus/addons_kodi/master/iptv/iptv_espa%C3%B1ol</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
