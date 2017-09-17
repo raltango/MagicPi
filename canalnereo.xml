@@ -1,234 +1,64 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
 
-<items>
-
-
-
-<item>
-		<title>LA 1</title>
-		<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8</link>
-	</item>
-	
-	<item>
-		<title>LA 2</title>
-		<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8</link>
-	</item>
-	
-	<item>
-		<title>ANTENA 3</title>
-		<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</link>
-	</item>
-	
-
-	<item>
-	<title>.CUATRO</title>
-	<sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-cuatro.php</sportsdevil>
-	<referer>http://cinestrenostv.tv/</referer>
-	<thumbnail>http://www.letraaletra.com/contenidos/ficheros/sociedad/cuatro.jpg</thumbnail>
- </item>
-		
-		
-		<item>
-		<title>TELECINCO</title>
-		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/telecinco.php</sportsdevil>
-		<referer>http://cinestrenostv.tv/canales/nacionales/telecinco.php</referer>
-	</item>
-	
-	
-	
-
-	
-	<item>
-		<title>LA SEXTA</title>
-		<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
-	</item>
-	
-	<item>
-		<title>DIVINITY.</title>
-		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/divinity.php</sportsdevil>
-		<referer>http://cinestrenostv.tv</referer>
-	</item>
-	
-	<item>
-		<title>ENERGY</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=energy&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/tdt/energy</referer>
-	</item>
-	
-	<item>
-		<title>FDF</title>
-		<sportsdevil>http://vertelevisor.com/live/fdf.php</sportsdevil>
-		<referer>http://verplusonline.com/canales/fdf</referer>
-	</item>
-	
-	<item>
-		<title>NOVA</title>
-		<link>http://a3live-lh.akamaihd.net/i/geonova_1@379404/master.m3u8</link>
-	</item>
-	
-	<item>
-		<title>NEOX</title>
-		<link>http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/master.m3u8</link>
-	</item>
-	
-	<item>
-		<title>A3SERIES</title>
-		<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
-	</item>
-	
-			<item>
-		<title>TEN</title>
-		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/ten.php</sportsdevil>
-		<referer>http://cinestrenostv.tv/</referer>
-	</item>
-	
-	
-	<item>
-		<title>TEN</title>
-		<link>http://cdn5.elitegol.xyz/verliga/33/index.m3u8</link>
-	</item>
-	
-	<item>
-		<title>DKISS</title>
-		<link></link>
-	</item>
-	
-	<item>
-		<title>BE MAD</title>
-		<link>http://mediasethls-lh.akamaihd.net/i/mitele/bemad_g@320708/index_500_av-p.m3u8</link>
-	</item>
-	
-	<item>
-		<title>MEGA</title>
-		<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
-	</item>
-	
-	<item>
-		<title>24H</title>
-		<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_lv3_aosv4_gl8/24h_lv3_aosv4_gl8.isml/24h_lv3_aosv4_gl8.m3u8</link>
-	</item>
-	
-	<item>
-		<title>INTERECONOMIA</title>
-		<link>http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8</link>
-	</item>
-	
-
-	<item>
-		<title>BOING</title>
-		<link>http://edge15.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8</link>
-	</item>
-	
-	<item>
-		<title>CLAN TVE</title>
-		<link>http://edge15.livesports.pw/live/verclan12857b2fcd59414ea6/index.m3u8</link>
-	</item>
-
-	
-	<item>
-		<title>TELEMADRID</title>
-		<link>http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8</link>
-	</item>	
-
-	<item>
-		<title>LAOTRA</title>
-		<link>http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8?SAT_TOTAL</link>
-	</item>	
-	
-		<item>
-		<title>CASTILLA LA MANCHA</title>
-		<link>http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8</link>
-	</item>
-	
-	<item>
-		<title>CASTILLA Y LEON</title>
-		<link>http://cdn.s4.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/master.m3u8</link>
-	</item>	
-	
-	<item>
-		<title>8 TV</title>
-		<link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8</link>
-	</item>		
-
-	<item>
-		<title>13TV</title>
-		<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
-	</item>
-	
-	<item>
-		<title>CANAL EXTREMADURA</title>
-		<link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8</link>
-	</item>		
-
-	<item>
-		<title>ANDALUCIA TV</title>
-		<link>http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>	      
-	</item>
-
-	<item>
-		<title>GALICIA TV</title>
-		<link>http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8</link>
-	</item>
-
-	<item>
-		<title>ETB</title>
-		<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
-	</item>
-	
-	<item>
-		<title>TV3</title>
-		<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
-	</item>	
-
-	<item>
-		<title>3/24</title>
-		<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8</link>
-	</item>
-
-	<item>
-		<title>7RM</title>
-		<link></link>
-	</item>	
-
-	<item>
-		<title>ARAGON TV</title>
-		<link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
-	</item>	
-
-	<item>
-		<title>TPA</title>
-		<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
-	</item>	
-	
-	<item>
-		<title>TV CANARIA</title>
-		<link>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w1256186728_b480000_sles.m3u8</link>
-	</item>	
-	
-</items>
-
-
-<item>
-		<title>GOL</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=goltvesp&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/deporte/goltv</referer>
-	</item>
-	
-	<item>
-		<title>TELEDEPORTE</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/deporte/teledeporte</referer>
-	</item>
-	
-		<item>
-		<title>R.MADRID TV</title>
-		<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
-	</item>
-
-			
-	
-	<item>
-		<title>BARCA TV</title>
-		<sportsdevil>http://telefivegb.com/deporte/ver-canal-barcelona-tv-online-gratis-vivo/</sportsdevil>
-		<referer>http://telefivegb.com/</referer>
-	</item>
+#EXTINF:-1,___________Portugal_Espanol_______________
+http://193.70.6.107:9876/live/002763037705/002763037705/1211.ts
+#EXTINF:-1,SPA_Barca_TV
+http://193.70.6.107:9876/live/002763037705/002763037705/1197.ts
+#EXTINF:-1,ES_REAL_MADRID_TV
+http://193.70.6.107:9876/live/002763037705/002763037705/1201.ts
+#EXTINF:-1,SPA_C_Seriesxtra
+http://193.70.6.107:9876/live/002763037705/002763037705/1183.ts
+#EXTINF:-1,SPA_C_Estrenos
+http://193.70.6.107:9876/live/002763037705/002763037705/1184.ts
+#EXTINF:-1,SPA_C_DCINE
+http://193.70.6.107:9876/live/002763037705/002763037705/1185.ts
+#EXTINF:-1,SPA_Cuatro
+http://193.70.6.107:9876/live/002763037705/002763037705/1192.ts
+#EXTINF:-1,SPA_Comedy
+http://193.70.6.107:9876/live/002763037705/002763037705/1180.ts
+#EXTINF:-1,SPA_Canal_Toros
+http://193.70.6.107:9876/live/002763037705/002763037705/1186.ts
+#EXTINF:-1,SPA_CANAL_HD
+http://193.70.6.107:9876/live/002763037705/002763037705/1181.ts
+#EXTINF:-1,SPA_Canal_Liga
+http://193.70.6.107:9876/live/002763037705/002763037705/1195.ts
+#EXTINF:-1,SPA_CANAL_FUTBOL
+http://193.70.6.107:9876/live/002763037705/002763037705/1187.ts
+#EXTINF:-1,SPA_CANAL_DEPORTE
+http://193.70.6.107:9876/live/002763037705/002763037705/1193.ts
+#EXTINF:-1,SPA_Canal_Decasa
+http://193.70.6.107:9876/live/002763037705/002763037705/1182.ts
+#EXTINF:-1,SPA_Canal_Dcine
+http://193.70.6.107:9876/live/002763037705/002763037705/1196.ts
+#EXTINF:-1,SPA_canal_action
+http://193.70.6.107:9876/live/002763037705/002763037705/1194.ts
+#EXTINF:-1,ES_CANAL_Odesia
+http://193.70.6.107:9876/live/002763037705/002763037705/1206.ts
+#EXTINF:-1,ES_CANAL_COCINA
+http://193.70.6.107:9876/live/002763037705/002763037705/1207.ts
+#EXTINF:-1,ES_CANAL_1
+http://193.70.6.107:9876/live/002763037705/002763037705/1208.ts
+#EXTINF:-1,SPA_AXN_White_Spain
+http://193.70.6.107:9876/live/002763037705/002763037705/1198.ts
+#EXTINF:-1,ES_TELECINCO
+http://193.70.6.107:9876/live/002763037705/002763037705/1200.ts
+#EXTINF:-1,ES_LA_SEXTA
+http://193.70.6.107:9876/live/002763037705/002763037705/1202.ts
+#EXTINF:-1,SPA_MoviStar_MotoGP
+http://193.70.6.107:9876/live/002763037705/002763037705/1177.ts
+#EXTINF:-1,SPA_MOVISTAR_F1
+http://193.70.6.107:9876/live/002763037705/002763037705/1189.ts
+#EXTINF:-1,SPA_Hollywood_Spain
+http://193.70.6.107:9876/live/002763037705/002763037705/1190.ts
+#EXTINF:-1,ES_FOX_MOVIE_HD
+http://193.70.6.107:9876/live/002763037705/002763037705/1205.ts
+#EXTINF:-1,SPA_Fox_Life
+http://193.70.6.107:9876/live/002763037705/002763037705/1178.ts
+#EXTINF:-1,SPA_Fox
+http://193.70.6.107:9876/live/002763037705/002763037705/1179.ts
+#EXTINF:-1,ES_LA_2
+http://193.70.6.107:9876/live/002763037705/002763037705/1203.ts
+#EXTINF:-1,ES_LA_1
+http://193.70.6.107:9876/live/002763037705/002763037705/1204.ts
+#EXTINF:-1,SPA_AXN_Spain
+http://193.70.6.107:9876/live/002763037705/002763037705/1199.ts
