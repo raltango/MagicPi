@@ -304,55 +304,7 @@
 		<fanart>http://elblogdemanu.com/wordpress/wp-content/uploads/2007/02/640x580xchicho.jpg.pagespeed.ic.NlCHdbyw4Z.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR cyan][COLOR  lime]•  [/COLOR] Series Estrenos[/COLOR]</title>
-<link>$doregex[makelist2]</link>
-<regex>
-  <name>makelist2</name>
-  <listrepeat><![CDATA[
-  <SetViewMode>55</SetViewMode>
-        <title>[makelist2.param1]</title>
-<link>$doregex[makelist]</link>
-        <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
-<page>https://raw.githubusercontent.com/topogc/TopoGC/b60d801b70d9e984f1f320f937eaad097cc462d2/Series%2BSeriesEstrenos.xml</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>$pyFunction:('[makelist.param3]').replace('Espa&#241;ol','')</title>
-        <link>$doregex[getUrl]</link>
-                <thumbnail>[makelist2.param3]</thumbnail>
-    <fanart>[makelist2.param3]</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>[makelist2.param2]/list,1,15</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>[makelist2.param4]/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>[makelist2.param4]/[makelist.param2]</page>
-<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://1.bp.blogspot.com/-l3YHHeNGIQ4/WXtX3pGfIfI/AAAAAAAAAGQ/sFKf5RBhHFY_xLWykHes2eE9i41M9-QtgCLcBGAs/s1600/Series%2BEstrenos.png</thumbnail>
-</item>
+
 
 <item>
 <title>[COLOR cyan][COLOR  lime]•  [/COLOR] Series Infantiles[/COLOR]</title>
@@ -401,58 +353,10 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://4.bp.blogspot.com/-p42-EqL-8uI/WXtX4KunXJI/AAAAAAAAAGc/xQFVLjQJJMwGEuqg49jDh3MmpJtONXq4gCLcBGAs/s1600/Series%2BInfantiles.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
-<item>
-<title>[COLOR cyan][COLOR  lime]•  [/COLOR] Ladybug[/COLOR]</title>
-<link>$doregex[makelist2]</link>
-<regex>
-  <name>makelist2</name>
-  <listrepeat><![CDATA[
-  <SetViewMode>55</SetViewMode>
-        <title>[makelist2.param1]</title>
-<link>$doregex[makelist]</link>
-        <thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
-<page>http://diskokosmiko.mx/SeriesHD/prodigiosa-las-aventuras-de-ladybug-t1-43864" img:"https://www.tebeosfera.com/T3content/img/T3_numeros/a/1/num1_prodigiosa1.jpg"; server:"http://diskokosmiko.mx</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>$pyFunction:('[makelist.param3]').replace('Espa&#241;ol','')</title>
-        <link>$doregex[getUrl]</link>
-                <thumbnail>[makelist2.param3]</thumbnail>
-    <fanart>[makelist2.param3]</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>[makelist2.param2]/list,1,15</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>[makelist2.param4]/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>[makelist2.param4]/[makelist.param2]</page>
-<referer>[makelist2.param4]/freeworld/fileuploader-67183/list,4,15</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://4.bp.blogspot.com/-p42-EqL-8uI/WXtX4KunXJI/AAAAAAAAAGc/xQFVLjQJJMwGEuqg49jDh3MmpJtONXq4gCLcBGAs/s1600/Series%2BInfantiles.png</thumbnail>
-</item>
+
 
 
 
