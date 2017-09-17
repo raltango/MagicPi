@@ -1,40 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
 
-<item>
-<title>[COLOR deeppink]  Aviones [/COLOR]</title>
-<link>http://streamcloud.eu/fzv04ecjc985/4v10n3s_1_HDRip.avi.html</link>
-<thumbnail>https://i.imgur.com/nWz0ngF.jpg</thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 group-title="PELICULAS FANTASTICAS EN CASTELLANO",HARRY POTTER Y LA PIEDRA FILOSOFAL
+https://openload.co/f/RNAXBSyaHN8/HP_PiedroFil_1080_ESP.mp4
 
+#EXTINF:-1 group-title="PELICULAS FANTASTICAS EN CASTELLANO",HARRY POTTER Y LA CAMARA SECRETA
+https://openload.co/f/QIOaiy4AiXE/HarryPotterylaCamaraSecreta%23Unknown_Code.mkv.mp4
 
-<item>
-<title>[COLOR deeppink]  Toy Story [/COLOR] </title>
-<link>http://streamcloud.eu/dmd39fj2gxpq/T0y_St0ry_1_HDRip.avi.html</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Toy_Story.svg/245px-Toy_Story.svg.png</thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 group-title="PELICULAS FANTASTICAS EN CASTELLANO",HARRY POTTER Y EL PRISIONERO DE AZKABAN
+https://openload.co/f/hNDdgDxTCE0/HarryPotter3%23Unknown_Code.mkv.mp4
 
+#EXTINF:-1 group-title="PELICULAS FANTASTICAS EN CASTELLANO",HARRY POTTER Y EL CALIZ DE FUEGO
+https://openload.co/f/4US4cTHQ3EE/HarryPotteryelCalizdeFuego#Unknown_Code.mkv.mp4
 
-<item>
-<title>[COLOR deeppink]  Toy Story 2[/COLOR] </title>
-<link>http://streamcloud.eu/wr0bg8e16txz/T0y_St0ry_2_HDRip.avi.html</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c0/Toy_Story_2.jpg</thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 group-title="PELICULAS FANTASTICAS EN CASTELLANO",HARRY POTTER Y LA ORDEN DEL FENIX
+https://openload.co/f/hPBitgp9Uk0/HarryPotter5ylaOrdendelFenix%23Unknown_Code.mkv.mp4
 
+#EXTINF:-1 group-title="PELICULAS FANTASTICAS EN CASTELLANO",HARRY POTTER Y EL MISTERIO DEL PRINCIPE
+https://openload.co/f/genqErYvoac/HarryPotter6%23Unknown_Code.mkv.mp4
 
+#EXTINF:-1 group-title="PELICULAS FANTASTICAS EN CASTELLANO",HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE (PARTE 1)
+https://openload.co/f/3it4eXUNpMc/HarryPotter7#Unknown_Code.mkv.mp4
 
-<item>
-<title>[COLOR deeppink]   Toy Story 3[/COLOR]</title>
-<link>http://streamcloud.eu/v6gl79k7ypym/T0y_St0ry_3_HDRip.avi.html</link>
-<thumbnail>http://mejormusic.com/uploads/thumbs/f63b6f867-1.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR deeppink]  Frozen: El reino del hielo[/COLOR] </title>
-<link>http://streamcloud.eu/imqlj2xyh530/Fr0z3n_3l_r31n0_d3l_h13l0_HDRip.avi.html</link>
-<thumbnail>http://www.elseptimoarte.net/carteles/frozen,_el_reino_del_hielo_23788.jpg</thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 group-title="PELICULAS FANTASTICAS EN CASTELLANO",HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE (PARTE 2)
+https://openload.co/f/BhY1yfEFhQE/HarryPotter8#Unknown_Code.mkv.mp4
