@@ -25,12 +25,42 @@
 </item>
 
 <item>
-<title>[COLOR yellowgreen]   > LA QUE SE AVECINA [/COLOR]</title>
-<thumbnail>https://pbs.twimg.com/profile_images/378800000392758484/cf227a971e3e0923ce10e493bedc43a6.jpeg</thumbnail>
-<fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2015/04/CCzgAGOWAAMvwjt.jpg-large.jpeg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/LQSA.xml</externallink>
-</item>
+		<title>[COLOR yellowgreen]   > LA QUE SE AVECINA[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://static.blogocio.net/series/p/o/974.jpg</thumbnail>
+<fanart>http://static.blogocio.net/series/p/o/974.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/Sphynx/la-que-se-avecina-40812/list,1,6</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+<thumbnail>http://static.blogocio.net/series/p/o/974.jpg</thumbnail>
+<fanart>http://static.blogocio.net/series/p/o/974.jpg</fanart>
+	</item>
 
 <item>
 <title>[COLOR yellow]   > NARCOS  [/COLOR]</title>
@@ -88,7 +118,159 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR orange]   > AMERICAN HORROR HISTORY[/COLOR]</title></title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://okdiario.com/series/img/2016/10/23/ahs.jpg</thumbnail>
+		<fanart>https://okdiario.com/series/img/2016/10/23/ahs.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/american-horror-story-castellano-todas-temp-39370/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://okdiario.com/series/img/2016/10/23/ahs.jpg</thumbnail>
+		<fanart>https://okdiario.com/series/img/2016/10/23/ahs.jpg</fanart>
+</item>
 
+<item>
+<title><title>[COLOR indianred]   > ENTRE FANTASMAS[/COLOR]</title></title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.series21.com/thumbs/series_180x270_85/92.jpg</thumbnail>
+		<fanart>http://www.series21.com/thumbs/series_180x270_85/92.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/entre-fantasmas-castellano-todas-temporadas-45287/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://www.series21.com/thumbs/series_180x270_85/92.jpg</thumbnail>
+		<fanart>http://www.series21.com/thumbs/series_180x270_85/92.jpg</fanart>
+</item>
+
+<item>
+		<title>[COLOR yellowgreen]   > HOUSE[/COLOR]</title>
+		<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			<listrepeat><![CDATA[
+			<title>[makelist.param3]</title>
+			<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.zinefilos.com/wp-content/uploads/2011/03/house.jpg</thumbnail>
+<fanart>http://www.zinefilos.com/wp-content/uploads/2011/03/house.jpg</fanart>
+			]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/chinchetas/house-temp-1-2-3-4-5-59528/list,1,4</page>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+		</regex>
+		<thumbnail>http://www.zinefilos.com/wp-content/uploads/2011/03/house.jpg</thumbnail>
+<fanart>http://www.zinefilos.com/wp-content/uploads/2011/03/house.jpg</fanart>
+	</item>
+	
+	<item>
+<title>[COLOR yellow]   > MODERN FAMILY[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzRjOTE1ZTEtMTkwYy00MDQ4LTkxMmYtNzgxMWFlY2YyZjU2XkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_UY1200_CR90,0,630,1200_AL_.jpg</thumbnail>
+		<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNzRjOTE1ZTEtMTkwYy00MDQ4LTkxMmYtNzgxMWFlY2YyZjU2XkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_UY1200_CR90,0,630,1200_AL_.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/modern-family-castellano-todas-temporadas-46969/list,1,8</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzRjOTE1ZTEtMTkwYy00MDQ4LTkxMmYtNzgxMWFlY2YyZjU2XkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_UY1200_CR90,0,630,1200_AL_.jpg</thumbnail>
+		<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNzRjOTE1ZTEtMTkwYy00MDQ4LTkxMmYtNzgxMWFlY2YyZjU2XkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_UY1200_CR90,0,630,1200_AL_.jpg</fanart>
+</item>
+	
+	
 
 
 
