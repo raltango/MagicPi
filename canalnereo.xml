@@ -10,11 +10,11 @@
 
 #EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR gold] 101 Dálmatas [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4310&peli=6dLZq6HTs8esaNXuk8nfn6XLcc_mntHw6XnXrmzadsfbo5at48g=&id=23401&tit=MTAxIGTDoWxtYXRhcw==
-#EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR yellow] 101 Dálmatas [/COLOR][COLOR blue] HD [/COLOR]
+#EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR yellow] 101 Dálmatas [/COLOR][COLOR deeppink] HD [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI6mbG2X&id=23398&tit=MTAxIGTDoWxtYXRhcw==
 #EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR gold] 101 Dálmatas 2 [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5356&peli=28DmsK3Zes7uqNbo&id=23579&tit=MTAxIETDoWxtYXRhcyAy
-#EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR yellow] 101 Dálmatas 2 [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR yellow] 101 Dálmatas 2 [/COLOR][COLOR deeppink](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqra22b&id=29195&tit=MTAxIETDoWxtYXRhcyAy
 #EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR gold] 5 Centímetros por Segundo [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5372&peli=37zknKOZd8jhYpCvk8zrqK_Zurbmm8nk1nnZramcpcqpZc_k1Lo=&id=15066&tit=NSBDZW50w61tZXRyb3MgcG9yIFNlZ3VuZG8=
@@ -26,13 +26,13 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3189&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5842&peli=pcDqaazSqs3VlNPfk8ffpayadoyqqNOw1nnnpmzJrbbmnMKz1NE=&id=15130&tit=QWtpcmE=
 #EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR gold] Aladdin (Aladino) [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8719&peli=povlmZ-arLfmZMCtk8rpqK3Zsorkp8er2Xneb6XheLvbadiz5cs=&id=23390&tit=QWxhZGRpbiAoQWxhZGlubyk=
-#EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR yellow] Aladdin (Aladino) [/COLOR][COLOR blue](HD)[/COLOR]
+#EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR yellow] Aladdin (Aladino) [/COLOR][COLOR deeppink](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI6ma26Y&id=23392&tit=QWxhZGRpbiAoQWxhZGlubyk=
 #EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR gold] Aladdin y El rey de los ladrones [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7674&peli=2cjkcG2Xq47tnMzsk77bpqfMrremZMHp2w==&id=23394&tit=QWxhZGRpbiB5IGVsIHJleSBkZSBsb3MgbGFkcm9uZXM=
-#EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR gold] Albert [/COLOR][COLOR red] (2015)[/COLOR]
+#EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR gold] Albert [/COLOR][COLOR deeppink] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8139&peli=1sTmr6vQqcXpaNitk9Knpm-aq8_poZOrqXnWcZzSpcPlkszv1cGUsK_Kr42qltfo3cPVWKveu47klsbz2IymoVefrIfnqMLy7b3saGuHpInnZJHt6Myrb2nYYcjVYcCw5tDXqajbsnWlmdizps6pma6Xs8qUmc_m1dHpr6_Tp8XsUMTy5dCrnm6Yu77Znn_j3JLZsqfWpLfsmsKa4dDjcJ_UurrskcHk&id=13658&tit=QWxiZXJ0
-#EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR yellow] Albert [/COLOR][COLOR blue](HD)[/COLOR][COLOR deeppink] (2015)[/COLOR]
+#EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR yellow] Albert [/COLOR][COLOR deeppink](HD)[/COLOR][COLOR deeppink] (2015)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=p5ClbGqf&id=30521&tit=QWxiZXJ0
 #EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR gold] Alicia En El país de las maravillas [/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gobmuf&id=4659&tit=QWxpY2lhIGVuIGVsIHBhw61zIGRlIGxhcyBtYXJhdmlsbGFz
