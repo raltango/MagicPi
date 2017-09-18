@@ -157,7 +157,7 @@
 </item>
 
 <item>
-<title><title>[COLOR indianred]   > ENTRE FANTASMAS[/COLOR]</title></title>
+<title>[COLOR indianred]   > ENTRE FANTASMAS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>

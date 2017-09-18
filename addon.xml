@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[UPPERCASE][COLOR skyblue]MOVISTAR ESTRENOS[/UPPERCASE][/COLOR]</title>
+<title>[UPPERCASE][COLOR deeppink]MOVISTAR ESTRENOS[/UPPERCASE][/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
