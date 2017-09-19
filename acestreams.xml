@@ -1,52 +1,171 @@
-#EXTM3U
- 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-42.#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-M26fYPvIqww/TsjS6-Z4yoI/AAAAAAAAAck/g6VLSc3xH3g/s275/piratas-del-caribe-la-maldicion-de-la-perla-negra.jpg", Piratas del Caribe: La maldición de la perla negra  SD |CASTELLANO|- (2003)
-
-
-43.http://cdn1.streamcloud.eu:8080/rtv74b4cccoax3ptxzrilqha7v7r6dycaekvs6urt74uauwdhfy2c7mcpa/video.mp4
-
-
-44.#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-M26fYPvIqww/TsjS6-Z4yoI/AAAAAAAAAck/g6VLSc3xH3g/s275/piratas-del-caribe-la-maldicion-de-la-perla-negra.jpg", Piratas del Caribe: La maldición de la perla negra  HD |CASTELLANO|- (2003)
+<item>
+   <title>[COLOR gold]CUARTO MILENIO[/COLOR]  </title>
+<thumbnail>https://static-1.ivooxcdn.com/canales/8/5/7/9/8071485169758_XXL.jpg</thumbnail>
+<fanart>https://static-1.ivooxcdn.com/canales/8/5/7/9/8071485169758_XXL.jpg</fanart>
+   	<genre>
 
 
-45.http://cdn2.streamcloud.eu:8080/e3v747jhvgoj5nxxx2gibahc7v4q3rbt7uvvbq6bistli737ypxnn7futm/video.mp4
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+              <title>[B] Episodio[/COLOR] -[makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+               <thumbnail>https://static-1.ivooxcdn.com/canales/8/5/7/9/8071485169758_XXL.jpg</thumbnail>
+<fanart>https://static-1.ivooxcdn.com/canales/8/5/7/9/8071485169758_XXL.jpg</fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/lokario1/cuarto-milenio-12130/list,1,7</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+<item>
+   <title>[COLOR indianred]1000 MANERAS DE MORIR[/COLOR]  </title>
+<thumbnail>http://fotografias.lasexta.com/clipping/cmsimages02/2013/10/08/DC305555-87EC-441D-AF2F-967B299FB741/58.jpg</thumbnail>
+<fanart>http://fotografias.lasexta.com/clipping/cmsimages02/2013/10/08/DC305555-87EC-441D-AF2F-967B299FB741/58.jpg</fanart>
+   	<genre>
 
 
-46.#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/oukMfgvEtWUHSJFFwC6jLMmsJeH.jpg", -Piratas del Caribe: El cofre del hombre muerto | (2006) HD |CASTELLANO|
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+              <title>[B] Episodio[/COLOR] -[makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+               <thumbnail>http://fotografias.lasexta.com/clipping/cmsimages02/2013/10/08/DC305555-87EC-441D-AF2F-967B299FB741/58.jpg</thumbnail>
+<fanart>http://fotografias.lasexta.com/clipping/cmsimages02/2013/10/08/DC305555-87EC-441D-AF2F-967B299FB741/58.jpg</fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/trivianita/1000-maneras-de-morirel-rockero-29261/list,1,3</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+<item>
+<title>[COLOR skyblue]CASADOS A PRIMERA VISTA TEMPORADA 2[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.atresplayer.com/clipping/2017/01/24/00022/706.jpg</thumbnail>
+		<fanart>http://www.atresplayer.com/clipping/2017/01/24/00022/706.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>diskokosmiko.mx/lokario1/casados-a-primera-vista-temporada-2-20691</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://www.atresplayer.com/clipping/2017/01/24/00022/706.jpg</thumbnail>
+		<fanart>http://www.atresplayer.com/clipping/2017/01/24/00022/706.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Ninja Warrior [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://fotografias.antena3.com/clipping/cmsimages02/2017/03/31/7B2DE58B-DD52-4828-9B11-30DE43DA3840/58.jpg</thumbnail>
+		<fanart>http://fotografias.antena3.com/clipping/cmsimages02/2017/03/31/7B2DE58B-DD52-4828-9B11-30DE43DA3840/58.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/ninja-warrior-71379</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://fotografias.antena3.com/clipping/cmsimages02/2017/03/31/7B2DE58B-DD52-4828-9B11-30DE43DA3840/58.jpg</thumbnail>
+		<fanart>http://fotografias.antena3.com/clipping/cmsimages02/2017/03/31/7B2DE58B-DD52-4828-9B11-30DE43DA3840/58.jpg</fanart>
+</item>
+
+<item>
+   <title>HUMOR AMARILLO[/COLOR] </title>
+<thumbnail>http://hdfull.tv/thumbs/show_a145635b28c8b7b4e685e6e3b94a1df6.jpg</thumbnail>
+<fanart>http://hdfull.tv/thumbs/show_a145635b28c8b7b4e685e6e3b94a1df6.jpg</fanart>
+   	<genre>
 
 
-47.https://play.cdn14.fx.fastcontentdelivery.com/5k7xu74v7uvvjuw5lx6j3cyfzi6f5xzsnqwobzko2mhhyu4pa4o5vubymruq/normal.mp4
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+              <title>[B] Episodio[/COLOR] -[makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+               <thumbnail>http://hdfull.tv/thumbs/show_a145635b28c8b7b4e685e6e3b94a1df6.jpg</thumbnail>
+<fanart>http://hdfull.tv/thumbs/show_a145635b28c8b7b4e685e6e3b94a1df6.jpg</fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/trivianita/humor-amarillo-81928/list,1,3</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
 
-
-48.#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/oukMfgvEtWUHSJFFwC6jLMmsJeH.jpg", -Piratas del Caribe: El cofre del hombre muerto | (2006) SD |CASTELLANO|
-
-
-49.http://cdn5.streamcloud.eu:8080/vtv74ffyccoax3ptx3wijxf37qqyrrydbb5nl725dnzmrrxnzteac2ogua/video.mp4
-
-
-50.#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hH0ix0Op8D7NV9mKC5CyDsItpjS.jpg", Piratas del Caribe: En mareas misteriosas | (2011)  SD |CASTELLANO|-
-
-
-51.http://stor40.streamcloud.eu:8080/57v75unrrsoj5nxxxyai5v7h6dghx2wye7pbvc3cbybmxb6ie3zlmpufmy/video.mp4
-
-
-52.#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hH0ix0Op8D7NV9mKC5CyDsItpjS.jpg", Piratas del Caribe: En mareas misteriosas | (2011)  SD |CASTELLANO|-
-
-
-53.http://cdn5.streamcloud.eu:8080/vtv74ffyccoax3ptx3wijxf37qqyrrydbb5nl725dnzmrrxnztefg3ogua/video.mp4
-
-
-54.#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2HUVUXFNzvDsXbfFo5SOeE3gNUW.jpg", Piratas del Caribe: En el fin del mundo | (2007) SD |CASTELLANO|-
-
-
-55.http://cdn5.streamcloud.eu:8080/vtv74ffyccoax3ptx3wijxf37qqyrrydbb5nl725dnzmrrxnztefg3ogua/video.mp4
-
-
-56.#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2HUVUXFNzvDsXbfFo5SOeE3gNUW.jpg", Piratas del Caribe: En el fin del mundo | (2007) SD |CASTELLANO|-
-
-
-57.http://stor30.streamcloud.eu:8080/5tv74hzlx2oj5nxxx3synapm65zig6ljqc23w75p744e3afo2ota7cnimm/video.mp4
-
-
-58.#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gB3cNhpfxEWSjiKSGOv8nlmVdeu.jpg", Piratas del Caribe: La venganza de Salazar | (2017) TS 
