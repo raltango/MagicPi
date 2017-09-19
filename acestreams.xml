@@ -1,140 +1,160 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
 
-<item>
-   <title>[COLOR indianred]1000 MANERAS DE MORIR[/COLOR]  </title>
-<thumbnail>http://fotografias.lasexta.com/clipping/cmsimages02/2013/10/08/DC305555-87EC-441D-AF2F-967B299FB741/58.jpg</thumbnail>
-<fanart>http://fotografias.lasexta.com/clipping/cmsimages02/2013/10/08/DC305555-87EC-441D-AF2F-967B299FB741/58.jpg</fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B] Episodio[/COLOR] -[makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>http://fotografias.lasexta.com/clipping/cmsimages02/2013/10/08/DC305555-87EC-441D-AF2F-967B299FB741/58.jpg</thumbnail>
-<fanart>http://fotografias.lasexta.com/clipping/cmsimages02/2013/10/08/DC305555-87EC-441D-AF2F-967B299FB741/58.jpg</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/trivianita/1000-maneras-de-morirel-rockero-29261/list,1,3</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
-</item>
-
-<item>
-<title>[COLOR skyblue]CASADOS A PRIMERA VISTA TEMPORADA 2[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>http://www.atresplayer.com/clipping/2017/01/24/00022/706.jpg</thumbnail>
-		<fanart>http://www.atresplayer.com/clipping/2017/01/24/00022/706.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>diskokosmiko.mx/lokario1/casados-a-primera-vista-temporada-2-20691</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>ok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
-<cookieJar></cookieJar>
-</regex>
-		<thumbnail>http://www.atresplayer.com/clipping/2017/01/24/00022/706.jpg</thumbnail>
-		<fanart>http://www.atresplayer.com/clipping/2017/01/24/00022/706.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange]Ninja Warrior [/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>http://fotografias.antena3.com/clipping/cmsimages02/2017/03/31/7B2DE58B-DD52-4828-9B11-30DE43DA3840/58.jpg</thumbnail>
-		<fanart>http://fotografias.antena3.com/clipping/cmsimages02/2017/03/31/7B2DE58B-DD52-4828-9B11-30DE43DA3840/58.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/trivianita/ninja-warrior-71379</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection> 
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>ok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx</referer>
-<connection>keep-alive</connection> 
-<cookieJar></cookieJar>
-</regex>
-		<thumbnail>http://fotografias.antena3.com/clipping/cmsimages02/2017/03/31/7B2DE58B-DD52-4828-9B11-30DE43DA3840/58.jpg</thumbnail>
-		<fanart>http://fotografias.antena3.com/clipping/cmsimages02/2017/03/31/7B2DE58B-DD52-4828-9B11-30DE43DA3840/58.jpg</fanart>
-</item>
-
-<item>
-   <title>[COLOR deeppink]HUMOR AMARILLO[/COLOR] </title>
-<thumbnail>http://hdfull.tv/thumbs/show_a145635b28c8b7b4e685e6e3b94a1df6.jpg</thumbnail>
-<fanart>http://hdfull.tv/thumbs/show_a145635b28c8b7b4e685e6e3b94a1df6.jpg</fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B] Episodio[/COLOR] -[makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>http://hdfull.tv/thumbs/show_a145635b28c8b7b4e685e6e3b94a1df6.jpg</thumbnail>
-<fanart>http://hdfull.tv/thumbs/show_a145635b28c8b7b4e685e6e3b94a1df6.jpg</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/trivianita/humor-amarillo-81928/list,1,3</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
-</item>
-
+#EXTINF:-1,VIP| ESP #0
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10337.ts
+#EXTINF:-1,VIP| ESP 24.HORAS
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10336.ts
+#EXTINF:-1,VIP| ESP A&E
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10335.ts
+#EXTINF:-1,VIP| ESP AMC
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10334.ts
+#EXTINF:-1,VIP| ESP ANTENA.3
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10333.ts
+#EXTINF:-1,VIP| ESP ARAGON.TV
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10332.ts
+#EXTINF:-1,VIP| ESP AXN
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10331.ts
+#EXTINF:-1,VIP| ESP AXN.WHITE
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10330.ts
+#EXTINF:-1,VIP| ESP BABY.TV
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10266.ts
+#EXTINF:-1,VIP| ESP BAJO DEMANDA
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10329.ts
+#EXTINF:-1,VIP| ESP BAR.A.TV
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10265.ts
+#EXTINF:-1,VIP| ESP BEIN.LALIGA
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10328.ts
+#EXTINF:-1,VIP| ESP BOING
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10264.ts
+#EXTINF:-1,VIP| ESP CALLE.13
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10327.ts
+#EXTINF:-1,VIP| ESP CANAL.COCINA
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10326.ts
+#EXTINF:-1,VIP| ESP CANAL.DECASA
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10325.ts
+#EXTINF:-1,VIP| ESP CANAL.ODISEA
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10324.ts
+#EXTINF:-1,VIP| ESP CANAL.ORBE21
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10323.ts
+#EXTINF:-1,VIP| ESP CANAL.PANDA
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10322.ts
+#EXTINF:-1,VIP| ESP CANAL.SUR.A.
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10321.ts
+#EXTINF:-1,VIP| ESP CAZA.Y.PESCA
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10320.ts
+#EXTINF:-1,VIP| ESP CLAN TVE
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10319.ts
+#EXTINF:-1,VIP| ESP CLASSICA
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10318.ts
+#EXTINF:-1,VIP| ESP COMEDY.CENTRAL
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10317.ts
+#EXTINF:-1,VIP| ESP CRIMEN INVES
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10315.ts
+#EXTINF:-1,VIP| ESP CUATRO
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10314.ts
+#EXTINF:-1,VIP| ESP DISCOVERY
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10313.ts
+#EXTINF:-1,VIP| ESP DISNEY.CH.
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10312.ts
+#EXTINF:-1,VIP| ESP DISNEY.JR
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10311.ts
+#EXTINF:-1,VIP| ESP DISNEY.XD
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10310.ts
+#EXTINF:-1,VIP| ESP EUROSPORT.1
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10263.ts
+#EXTINF:-1,VIP| ESP EUROSPORT.2
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10309.ts
+#EXTINF:-1,VIP| ESP FDF
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10308.ts
+#EXTINF:-1,VIP| ESP FOX
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10307.ts
+#EXTINF:-1,VIP| ESP FOX LIFE
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10306.ts
+#EXTINF:-1,VIP| ESP GOL
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10262.ts
+#EXTINF:-1,VIP| ESP HISTORIA
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10305.ts
+#EXTINF:-1,VIP| ESP HOLLYWOOD
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10304.ts
+#EXTINF:-1,VIP| ESP IBERALIA.TV
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10303.ts
+#EXTINF:-1,VIP| ESP LA.1
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10302.ts
+#EXTINF:-1,VIP| ESP LA.2
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10301.ts
+#EXTINF:-1,VIP| ESP LA.SEXTA
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10300.ts
+#EXTINF:-1,VIP| ESP LALIGATV.BAR
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10299.ts
+#EXTINF:-1,VIP| ESP LTC
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10261.ts
+#EXTINF:-1,VIP| ESP M ACCI?N
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10298.ts
+#EXTINF:-1,VIP| ESP M..Cine.Espa?ol
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10297.ts
+#EXTINF:-1,VIP| ESP M..COMEDIA
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10296.ts
+#EXTINF:-1,VIP| ESP M..DCINE
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10295.ts
+#EXTINF:-1,VIP| ESP M..DEP.1
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10294.ts
+#EXTINF:-1,VIP| ESP M..DEP.2
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10293.ts
+#EXTINF:-1,VIP| ESP M..DisneyPixar
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10292.ts
+#EXTINF:-1,VIP| ESP M..ESTRENOS
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10291.ts
+#EXTINF:-1,VIP| ESP M..F.TBOL
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10290.ts
+#EXTINF:-1,VIP| ESP M..GOLF
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10289.ts
+#EXTINF:-1,VIP| ESP M..MOTOGP
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10288.ts
+#EXTINF:-1,VIP| ESP M..SERIES
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10287.ts
+#EXTINF:-1,VIP| ESP M..SERIESXTRA
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10286.ts
+#EXTINF:-1,VIP| ESP M..XTRA
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10285.ts
+#EXTINF:-1,VIP| ESP M.FORMULA1
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10260.ts
+#EXTINF:-1,VIP| ESP M.Partidazo
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10284.ts
+#EXTINF:-1,VIP| ESP MEZZO
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10283.ts
+#EXTINF:-1,VIP| ESP MTV.ESPA?A
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10259.ts
+#EXTINF:-1,VIP| ESP MULTIDEPORTE
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10282.ts
+#EXTINF:-1,VIP| ESP NAT.GEO.WILD
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10281.ts
+#EXTINF:-1,VIP| ESP NAT.GEOGRAPH
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10280.ts
+#EXTINF:-1,VIP| ESP NEOX
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10279.ts
+#EXTINF:-1,VIP| ESP NICK.JR
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10278.ts
+#EXTINF:-1,VIP| ESP NONSTOPEOPLE
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10277.ts
+#EXTINF:-1,VIP| ESP NOVA
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10276.ts
+#EXTINF:-1,VIP| ESP PARAMOUNT
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10275.ts
+#EXTINF:-1,VIP| ESP R..MADRID.TV
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10274.ts
+#EXTINF:-1,VIP| ESP SUNDANCE
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10273.ts
+#EXTINF:-1,VIP| ESP SYFY
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10272.ts
+#EXTINF:-1,VIP| ESP TCM
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10271.ts
+#EXTINF:-1,VIP| ESP TELECINCO
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10270.ts
+#EXTINF:-1,VIP| ESP TELEDEPORTE
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10269.ts
+#EXTINF:-1,VIP| ESP TNT
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10268.ts
+#EXTINF:-1,VIP| ESP VIAJAR
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10267.ts
+#EXTINF:-1,VIP| ESPCOSMO
+http://orbit-iptv.com:2500/live/Musheer/Musheer1/10316.ts
