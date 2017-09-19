@@ -1,37 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-   <title>[COLOR gold]CUARTO MILENIO[/COLOR]  </title>
-<thumbnail>https://static-1.ivooxcdn.com/canales/8/5/7/9/8071485169758_XXL.jpg</thumbnail>
-<fanart>https://static-1.ivooxcdn.com/canales/8/5/7/9/8071485169758_XXL.jpg</fanart>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-              <title>[B] Episodio[/COLOR] -[makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>https://static-1.ivooxcdn.com/canales/8/5/7/9/8071485169758_XXL.jpg</thumbnail>
-<fanart>https://static-1.ivooxcdn.com/canales/8/5/7/9/8071485169758_XXL.jpg</fanart>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/lokario1/cuarto-milenio-12130/list,1,7</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
-</item>
-
-<item>
    <title>[COLOR indianred]1000 MANERAS DE MORIR[/COLOR]  </title>
 <thumbnail>http://fotografias.lasexta.com/clipping/cmsimages02/2013/10/08/DC305555-87EC-441D-AF2F-967B299FB741/58.jpg</thumbnail>
 <fanart>http://fotografias.lasexta.com/clipping/cmsimages02/2013/10/08/DC305555-87EC-441D-AF2F-967B299FB741/58.jpg</fanart>
@@ -139,7 +108,7 @@
 </item>
 
 <item>
-   <title>HUMOR AMARILLO[/COLOR] </title>
+   <title>[COLOR deeppink]HUMOR AMARILLO[/COLOR] </title>
 <thumbnail>http://hdfull.tv/thumbs/show_a145635b28c8b7b4e685e6e3b94a1df6.jpg</thumbnail>
 <fanart>http://hdfull.tv/thumbs/show_a145635b28c8b7b4e685e6e3b94a1df6.jpg</fanart>
    	<genre>
