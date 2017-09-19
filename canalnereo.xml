@@ -9,9 +9,9 @@
 
 
 #EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR gold] 101 Dálmatas [/COLOR]
-http://tMXVoKzIq7o=&cole=4310&peli=6dLZq6HTs8esaNXuk8nfn6XLcc_mntHw6XnXrmzadsfbo5at48g=&id=23401&tit=MTAxIGTDoWxtYXRhcw==
+plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4310&peli=6dLZq6HTs8esaNXuk8nfn6XLcc_mntHw6XnXrmzadsfbo5at48g=&id=23401&tit=MTAxIGTDoWxtYXRhcw==
 #EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR yellow] 101 Dálmatas [/COLOR][COLOR deeppink] HD [/COLOR]
-http://w87foaWu&cole=44636&peli=qI6mbG2X&id=23398&tit=MTAxIGTDoWxtYXRhcw==
+plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI6mbG2X&id=23398&tit=MTAxIGTDoWxtYXRhcw==
 #EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR gold] 101 Dálmatas 2 [/COLOR]
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5356&peli=28DmsK3Zes7uqNbo&id=23579&tit=MTAxIETDoWxtYXRhcyAy
 #EXTINF:0,[COLOR deeppink] • [/COLOR][COLOR yellow] 101 Dálmatas 2 [/COLOR][COLOR deeppink](HD)[/COLOR]
