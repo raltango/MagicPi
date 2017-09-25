@@ -153,29 +153,9 @@
 <items>
 
 <item>
-<title>[B][COLOR red]Agenda/ArenaVision[/COLOR][/B]  </title>
+<title>[B][COLOR yellow]Agenda/ArenaVision[/COLOR][/B]  </title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.plexus-streams/?item=url=Arenavision.in.cfg&mode=1&name=arenavision_schedule</jsonrpc>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[B][COLOR red]ArenaVision[/COLOR][/B]  </title>
-<link>$doregex[makelist]</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR] [COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][makelist.param4] [/COLOR]  +  [COLOR lightyellow][makelist.param6] [/COLOR] [COLOR lightyellow][makelist.param8] [/COLOR] [COLOR lightyellow][makelist.param10] [/COLOR] 	[COLOR lightyellow][makelist.param12] [/COLOR]</title>
-<link>plugin://program.plexus/?url=[makelist.param5][makelist.param7][makelist.param9][makelist.param11]&amp;mode=1&amp;name=Arenavision</link>
-</item>	
-]]></listrepeat>
-<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,2}>(.*?)<[\w\W\s]{0,60}alt='(.*?)'[\w\W\s]{0,55}br>(.*?)<|[\w\W\s]{0,40}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png]]></expres>
-<page>https://avezy.tk/</page>
-<Agent>Mozilla</Agent>
-</regex>
 <thumbnail></thumbnail>
 </item>
 
