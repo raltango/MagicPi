@@ -1,32 +1,140 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-		<item>
-		<title>[COLOR lime]ON! ->[/COLOR][COLOR gold] CANAL MOTOGP - DIRECTO![/COLOR]</title>
-		<sportsdevil>http://vergol.com/live3/motogp.php</sportsdevil>
+<item>
+<title>[COLOR lime]ON! ->[/COLOR][COLOR gold] CANAL MOTOGP - DIRECTO![/COLOR][COLOR blue][I]-SportDevil- Esperar 7 segundos...[/I][/COLOR]</title>
+<sportsdevil>http://vergol.com/live3/motogp.php</sportsdevil>
 <referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
-		<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
-	</item>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+</item>
+	
+	<item>
+<title>[B][COLOR deeppink]-----------------[/COLOR][/B][B][COLOR powderblue]CARRERAS 2017[/COLOR][/B][B][COLOR deeppink]----------------[/COLOR][/B]</title>
+<link>http://ignoreme</link>
+</item>
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR lime] MOTOGP [/B][/COLOR]</title>        
+<title>[B][COLOR deeppink]---[/COLOR][/B][B][COLOR powderblue]GP ARAGON (MOTORLAND).[/COLOR][/B][B][COLOR deeppink]---[/COLOR][/B]</title>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/motogp.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR deeppink]14 -> NUEVO [/COLOR][COLOR powderblue] 2017 - GP Aragón (MOTOGP) [/COLOR]</title>        
+<link>https://archive.org/download/MotoGP.Aragon.2017.Carrera.Movistar.EventosHQ/MotoGP.Aragon.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR lime] MOTO 2 [/B][/COLOR]</title>       
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/moto2.xml</externallink>
+<title>[COLOR deeppink]14 -> NUEVO [/COLOR][COLOR powderblue] 2017 - GP Aragón (MOTO2) [/COLOR]</title>        
+<link>https://archive.org/download/Moto.2.Aragon.2017.Carrera.Movistar.EventosHQ/Moto.2.Aragon.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR lime] MOTO 3 [/B][/COLOR]</title>
+<title>[COLOR deeppink]14 -> NUEVO [/COLOR][COLOR powderblue] 2017 - GP Aragón (MOTO3)[/COLOR]</title>        
+<link>https://archive.org/download/Moto.3.Aragon.2017.Carrera.Movistar.EventosHQ/Moto.3.Aragon.2017.Carrera.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
+<title>[B][COLOR deeppink]---[/COLOR][/B][B][COLOR powderblue]GP SAN MARINO[/COLOR][/B][B][COLOR deeppink]---[/COLOR][/B]</title>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/moto3.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR deeppink]13 ->[/COLOR][COLOR powderblue] 2017 - GP San Marino (MOTOGP)[/COLOR]</title>        
+<link>https://archive.org/download/MotoGP.San.Marino.2017.Carrera.Movistar.EventosHQ/MotoGP.San.Marino.2017.Carrera.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
+<title>[COLOR deeppink]13 ->[/COLOR][COLOR powderblue] 2017 - GP San Marino (MOTO2)[/COLOR]</title>        
+<link>https://archive.org/download/Moto.2.San.Marino.2017.Carrera.Movistar.EventosHQ_201709/Moto.2.San.Marino.2017.Carrera.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
+<title>[B][COLOR deeppink]---[/COLOR][/B][B][COLOR powderblue]GP GRAN BRETAÑA (SILVERSTONE)[/COLOR][/B][B][COLOR deeppink]---[/COLOR][/B]</title>
+<link>http://ignoreme</link>
+</item>
+
+<item>
+<title>[COLOR deeppink]12 ->[/COLOR][COLOR powderblue] 2017 - GP Silverstone (MOTOGP)[/COLOR]</title>        
+<link>https://archive.org/download/MotoGP.Silverstone.2017.Carrera.Movistar.EventosHQ/MotoGP.Silverstone.2017.Carrera.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
+<title>[COLOR deeppink]12 ->[/COLOR][COLOR powderblue] 2017 - GP Silverstone (MOTO2)[/COLOR]</title>        
+<link>https://archive.org/download/Moto.2.Silverstone.2017.Carrera.Movistar.EventosHQ/Moto.2.Silverstone.2017.Carrera.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
+<title>[COLOR deeppink]12 ->[/COLOR][COLOR powderblue] 2017 - GP Silverstone (MOTO3)[/COLOR]</title>        
+<link>https://archive.org/download/Moto.3.Silverstone.2017.Carrera.Movistar.EventosHQ/Moto.3.Silverstone.2017.Carrera.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
+<title>[B][COLOR deeppink]---[/COLOR][/B][B][COLOR powderblue]GO AUSTRIA (RED BULL RING)[/COLOR][/B][B][COLOR deeppink]---[/COLOR][/B]</title>
+<link>http://ignoreme</link>
+</item>
+
+
+<item>
+<title>[COLOR deeppink]11 ->[/COLOR][COLOR powderblue] 2017 - GP Austria (MOTOGP)[/COLOR]</title>        
+<link>https://archive.org/download/MotoGP.Austria.2017.Carrera.Movistar.EventosHQ/MotoGP.Austria.2017.Carrera.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
+<title>[COLOR deeppink]11 ->[/COLOR][COLOR powderblue] 2017 - GP Austria (MOTO2)[/COLOR]</title>        
+<link>https://archive.org/download/Moto.2.Austria.2017.Carrera.Movistar.EventosHQ/Moto.2.Austria.2017.Carrera.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
+<title>[COLOR deeppink]11 ->[/COLOR][COLOR powderblue] 2017 - GP Austria (MOTO3)[/COLOR]</title>        
+<link>https://archive.org/download/Moto.3.Austria.2017.Carrera.Movistar.EventosHQ/Moto.3.Austria.2017.Carrera.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR deeppink]---[/COLOR][/B][B][COLOR powderblue]GP REP.CHECA (BRNO)[/COLOR][/B][B][COLOR deeppink]---[/COLOR][/B]</title>
+<link>http://ignoreme</link>
+</item>
+
+
+<item>
+<title>[COLOR deeppink]10 ->[/COLOR][COLOR powderblue] 2017 - GP Rep.Checa (MOTOGP)[/COLOR]</title>        
+<link>https://archive.org/download/Moto.GP.Republica.Checa.2017.Carrera.Movistar.EventosHQ/Moto.GP.Republica.Checa.2017.Carrera.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
+<title>[COLOR deeppink]10 ->[/COLOR][COLOR powderblue] 2017 - GP Rep.Checa (MOTO2)[/COLOR]</title>        
+<link>https://archive.org/download/Moto.2.Republica.Checa.2017.Carrera.Movistar.EventosHQ/Moto.2.Republica.Checa.2017.Carrera.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
+<title>[COLOR deeppink]10 ->[/COLOR][COLOR powderblue] 2017 - GP Rep.Checa (MOTO3)[/COLOR]</title>        
+<link>https://archive.org/download/Moto.3.Republica.Checa.2017.Carrera.Movistar.EventosHQ/Moto.3.Republica.Checa.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
