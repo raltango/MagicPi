@@ -95,7 +95,7 @@
 
 
 <item>
-<title>[B][COLOR lime]* ArenaVision IN[/COLOR][/B] </title>
+<title>[B][COLOR lime]* ArenaVision TK[/COLOR][/B] </title>
 <link>$doregex[makelistA]</link>
 <thumbnail>https://static.giga.de/wp-content/uploads/2014/10/acestream-download.png</thumbnail>     
 
@@ -108,8 +108,8 @@
    <regex>
    <name>hash</name> 
    <expres>this.loadPlayer\("([^"]*)</expres>
-   <page>http://www.arenavision.in/av[makelistA.param1]</page>
-   <referer>http://www.arenavision.in</referer>
+   <page>http://www.arenavision.tk/av[makelistA.param1]</page>
+   <referer>http://www.arenavision.tk</referer>
    <setcookie>beget=begetok</setcookie>
    </regex>
 ]]></listrepeat>
