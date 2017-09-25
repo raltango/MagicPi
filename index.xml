@@ -94,6 +94,44 @@
 
 
 
+<item>
+<title>[B][COLOR lime]* ArenaVision IN[/COLOR][/B] </title>
+<link>$doregex[makelistA]</link>
+<thumbnail>https://static.giga.de/wp-content/uploads/2014/10/acestream-download.png</thumbnail>     
+
+<regex>                           
+<name>makelistA</name>
+<listrepeat><![CDATA[
+    <title>[COLOR skyblue]Arenavision [makelistA.param1][/COLOR]</title>           
+    <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+    <thumbnail>https://static.giga.de/wp-content/uploads/2014/10/acestream-download.png</thumbnail>
+   <regex>
+   <name>hash</name> 
+   <expres>this.loadPlayer\("([^"]*)</expres>
+   <page>http://www.arenavision.in/av[makelistA.param1]</page>
+   <referer>http://www.arenavision.in</referer>
+   <setcookie>beget=begetok</setcookie>
+   </regex>
+]]></listrepeat>
+<expres> (.*?),</expres>
+<page>$doregex[get-list-page]</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>                        
+<name>get-list-page</name>                                           
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ liste = list(range(32))
+ return liste
+]]></expres>
+<page></page>
+</regex>
+
+</item>
+
+
+
 
 
 <item>
