@@ -148,18 +148,6 @@
 <fanart>http://gearburn.com/wp-content/uploads/2013/07/ROMS.jpeg</fanart>
 </item>
 
-<channel>
-
-<items>
-
-<item>
-<title>[B][COLOR yellow]Agenda/ArenaVision[/COLOR][/B]  </title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.plexus-streams/?item=url=Arenavision.in.cfg&mode=1&name=arenavision_schedule</jsonrpc>
-<thumbnail></thumbnail>
-</item>
-
-</channel>
 
 
 
