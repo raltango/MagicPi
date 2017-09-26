@@ -148,7 +148,29 @@
 <fanart>http://gearburn.com/wp-content/uploads/2013/07/ROMS.jpeg</fanart>
 </item>
 
-
+<div class="execphpwidget">
+<center>
+<table>
+<tbody>
+<tr>
+<tr colspan="2" style="font-family:Arial,Helvetica,sans-serif; font-style:normal; font-size:15px;">Proxima Carrera:GP Malasia(Sepang)</th>
+</tr>
+<td width="300px">
+<div class="ujic-hold ujic_center">
+<div class="ujicountdown ujic-classic is-countdown" id="ujicountdown">
+<span class="countdown_row countdown_show4">
+</span>
+</div>
+</div>
+</td>
+<td width="32px">
+<img class="aligncenter" style="border:0px solid white;" title alt src="http://porraf1.trigly.es/wp-content/uploads/GrandesPremios/widget-f1-malasya.png" width height="32">
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</div>
 
 
 
