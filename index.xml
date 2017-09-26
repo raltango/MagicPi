@@ -153,25 +153,62 @@
 <table>
 <tbody>
 <tr>
-<th colspan="2" style="font-family:Arial,Helvetica,sans-serif; font-style:normal; font-size:15px;">Gran Premio de Malasia (Sepang)</th>
+<th colspan="2" style="font-family:Arial,Helvetica,sans-serif; font-style:normal; font-size:15px;">Gran Premio de Malasia (Sepang)
+</th>
 </tr>
 <tr>
 <td width="300px">
-<div class="ujic-hold ujic_center">
-
+<div class="ujic-hold ujic_center"> 
 <div class="ujiCountdown ujic-classic is-countdown" id="ujiCountdown">
+<span class="countdown_row countdown_show4">
+<span class="countdown_section">
+<span class="countdown_amount" style="background: -webkit-linear-gradient(top, rgb(250, 250, 250) 50%, rgb(255, 255, 255) 50%); color: rgb(255, 0, 34); text-shadow: rgb(252, 252, 252) 1px 1px 1px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 15px; line-height: 1.5; font-family: Arvo, sans-serif; min-width: 5px;">0
+</span>
+<span class="countdown_amount" style="background: -webkit-linear-gradient(top, rgb(250, 250, 250) 50%, rgb(255, 255, 255) 50%); color: rgb(255, 0, 34); text-shadow: rgb(252, 252, 252) 1px 1px 1px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 15px; line-height: 1.5; font-family: Arvo, sans-serif; min-width: 5px;">5
+</span>
+<span class="countdown_txt" style="color: rgb(114, 114, 114); display: block; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 8px; line-height: normal; font-family: &quot;Open Sans Condensed&quot;, sans-serif;">Días
+</span>
+</span>
+<span class="countdown_section">
+<span class="countdown_amount" style="background: -webkit-linear-gradient(top, rgb(250, 250, 250) 50%, rgb(255, 255, 255) 50%); color: rgb(255, 0, 34); text-shadow: rgb(252, 252, 252) 1px 1px 1px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 15px; line-height: 1.5; font-family: Arvo, sans-serif; min-width: 5px;">0
+</span>
+<span class="countdown_amount" style="background: -webkit-linear-gradient(top, rgb(250, 250, 250) 50%, rgb(255, 255, 255) 50%); color: rgb(255, 0, 34); text-shadow: rgb(252, 252, 252) 1px 1px 1px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 15px; line-height: 1.5; font-family: Arvo, sans-serif; min-width: 5px;">4
+</span>
+<span class="countdown_txt" style="color: rgb(114, 114, 114); display: block; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 8px; line-height: normal; font-family: &quot;Open Sans Condensed&quot;, sans-serif;">Horas
+</span>
+</span>
+<span class="countdown_section">
+<span class="countdown_amount" style="background: -webkit-linear-gradient(top, rgb(250, 250, 250) 50%, rgb(255, 255, 255) 50%); color: rgb(255, 0, 34); text-shadow: rgb(252, 252, 252) 1px 1px 1px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 15px; line-height: 1.5; font-family: Arvo, sans-serif; min-width: 5px;">4
+</span>
+<span class="countdown_amount" style="background: -webkit-linear-gradient(top, rgb(250, 250, 250) 50%, rgb(255, 255, 255) 50%); color: rgb(255, 0, 34); text-shadow: rgb(252, 252, 252) 1px 1px 1px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 15px; line-height: 1.5; font-family: Arvo, sans-serif; min-width: 5px;">0
+</span>
+<span class="countdown_txt" style="color: rgb(114, 114, 114); display: block; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 8px; line-height: normal; font-family: &quot;Open Sans Condensed&quot;, sans-serif;">Minutos
+</span>
+</span>
+<span class="uji_sec" style="margin: 0px;">
+<span class="countdown_section" style="margin: 0px;">
+<span class="countdown_amount" style="background: -webkit-linear-gradient(top, rgb(250, 250, 250) 50%, rgb(255, 255, 255) 50%); color: rgb(255, 0, 34); text-shadow: rgb(252, 252, 252) 1px 1px 1px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 15px; line-height: 1.5; font-family: Arvo, sans-serif; min-width: 5px;">5
+</span>
+<span class="countdown_amount" style="background: -webkit-linear-gradient(top, rgb(250, 250, 250) 50%, rgb(255, 255, 255) 50%); color: rgb(255, 0, 34); text-shadow: rgb(252, 252, 252) 1px 1px 1px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 15px; line-height: 1.5; font-family: Arvo, sans-serif; min-width: 5px;">4
+</span>
+<span class="countdown_txt" style="color: rgb(114, 114, 114); display: block; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 8px; line-height: normal; font-family: &quot;Open Sans Condensed&quot;, sans-serif;">Segundos
+</span>
+</span>
+</span>
+</span>
+</div>
 </div>
 </td>
 <td width="32px">
-<img class="aligncenter" style="border: 0px solid white;" title alt src="http://porraf1.trigly.es/wp-content/uploads/GrandesPremios/widget-f1-malaysia.png" width height="32">
+<img class="aligncenter" style="border: 0px solid white;" title="" alt="" src="http://porraf1.trigly.es/wp-content/uploads/GrandesPremios/widget-f1-malaysia.png" width="" height="32">
 </td>
 </tr>
 </tbody>
 </table>
 </center>
 </div>
-</div>
-</div>
+
+
 
 
 
