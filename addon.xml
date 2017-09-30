@@ -381,10 +381,21 @@
 		<thumbnail>https://4.bp.blogspot.com/-bbMkzJkrBC0/V6b5RKFzibI/AAAAAAAAASc/REEuOxaWin4WbEsNVzk94-WVepKv7msMQCLcB/s1600/movistar-deporte-1.png </thumbnail>
 	</item>
 	
+	<title>[COLOR lime]MOVISTAR DEPORTES 1 (f4mtester)[/COLOR]</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1117.ts</link>
+		<thumbnail>https://4.bp.blogspot.com/-bbMkzJkrBC0/V6b5RKFzibI/AAAAAAAAASc/REEuOxaWin4WbEsNVzk94-WVepKv7msMQCLcB/s1600/movistar-deporte-1.png </thumbnail>
+	</item>
+	
 	<item>
 		<title>[COLOR lime]MOVISTAR DEPORTES 2[/COLOR]</title>
 		<sportsdevil>http://vergol.com/live1/plusdeportes2.php</sportsdevil>
         <referer>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</referer>
+		<thumbnail>https://2.bp.blogspot.com/-b4FUspgJ-Jg/V6b5RABxanI/AAAAAAAAASg/rBo7kURIjdQmRArXCYbd9lFJs4KOIrsJQCLcB/s1600/movistar-deporte-2.png </thumbnail>
+	</item>
+	
+	<item>
+		<title>[COLOR lime]MOVISTAR DEPORTES 2 (f4mtester)[/COLOR]</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1142.ts</link>
 		<thumbnail>https://2.bp.blogspot.com/-b4FUspgJ-Jg/V6b5RABxanI/AAAAAAAAASg/rBo7kURIjdQmRArXCYbd9lFJs4KOIrsJQCLcB/s1600/movistar-deporte-2.png </thumbnail>
 	</item>
 	
