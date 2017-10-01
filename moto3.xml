@@ -1,34 +1,37 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
 
-<item>
-<title>[B][COLOR deeppink]-------[/COLOR][/B][B][COLOR powderblue]CARRERAS 2017 MOTO 3[/COLOR][/B][B][COLOR deeppink]------[/COLOR][/B]</title>
-<link>http://ignoreme</link>
-</item>
 
-<item>
-<title>[COLOR deeppink]14 -> NUEVO [/COLOR][COLOR powderblue] 2017 - GP Aragón [/COLOR]</title>        
-<link>https://archive.org/download/Moto.3.Aragon.2017.Carrera.Movistar.EventosHQ/Moto.3.Aragon.2017.Carrera.Movistar.EventosHQ.mp4</link>
-<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
-</item>
-
-<item>
-<title>[COLOR deeppink]12 ->[/COLOR][COLOR powderblue] 2017 - GP Silverstone[/COLOR]</title>        
-<link>https://archive.org/download/Moto.3.Silverstone.2017.Carrera.Movistar.EventosHQ/Moto.3.Silverstone.2017.Carrera.Movistar.EventosHQ.mp4</link>
-<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
-</item>
-
-<item>
-<title>[COLOR deeppink]11 ->[/COLOR][COLOR powderblue] 2017 - GP Austria[/COLOR]</title>        
-<link>https://archive.org/download/Moto.3.Austria.2017.Carrera.Movistar.EventosHQ/Moto.3.Austria.2017.Carrera.Movistar.EventosHQ.mp4</link>
-<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
-</item>
-
-<item>
-<title>[COLOR deeppink]10 ->[/COLOR][COLOR powderblue] 2017 - GP Rep.Checa[/COLOR]</title>        
-<link>https://archive.org/download/Moto.3.Republica.Checa.2017.Carrera.Movistar.EventosHQ/Moto.3.Republica.Checa.2017.Carrera.Movistar.EventosHQ.mp4</link>
-<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
-</item>
+#EXTINF:-1,FR:TF1
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3059.ts
+#EXTINF:-1,FR: M6 HD
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3217.ts
+#EXTINF:-1,FR: FRANCE2 HD
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3214.ts
+#EXTINF:-1,FR: FRANCE3 HD
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3215.ts
+#EXTINF:-1,FR: FRANCE4 HD
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3216.ts
+#EXTINF:-1,FR: FranceO HD
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3218.ts
+#EXTINF:-1,FR:W9 iptvsource_com
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3062.ts
+#EXTINF:-1,FR:NT1
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3055.ts
+#EXTINF:-1,FR:AB1
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3041.ts
+#EXTINF:-1,FR:Action
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3043.ts
+#EXTINF:-1,FR:Animaux
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3044.ts
+#EXTINF:-1,FR:Chasse Peche
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3045.ts
+#EXTINF:-1,FR:Comedie
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3046.ts
+#EXTINF:-1,FR:HD1
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3048.ts
+#EXTINF:-1,FR:RTL9
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3056.ts
+#EXTINF:-1,FR:Ushuaja
+http://gigaiptv.pro:8000/live/mobilen/mobilen/3061.ts
+#EXTINF:-1,Canal Sport Fr
+http://gigaiptv.pro:8000/live/mobilen/mobilen/1306.ts
