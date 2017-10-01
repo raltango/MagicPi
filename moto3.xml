@@ -1,37 +1,206 @@
 #EXTM3U
 
 
-#EXTINF:-1,FR:TF1
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3059.ts
-#EXTINF:-1,FR: M6 HD
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3217.ts
-#EXTINF:-1,FR: FRANCE2 HD
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3214.ts
-#EXTINF:-1,FR: FRANCE3 HD
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3215.ts
-#EXTINF:-1,FR: FRANCE4 HD
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3216.ts
-#EXTINF:-1,FR: FranceO HD
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3218.ts
-#EXTINF:-1,FR:W9 iptvsource_com
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3062.ts
-#EXTINF:-1,FR:NT1
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3055.ts
-#EXTINF:-1,FR:AB1
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3041.ts
-#EXTINF:-1,FR:Action
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3043.ts
-#EXTINF:-1,FR:Animaux
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3044.ts
-#EXTINF:-1,FR:Chasse Peche
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3045.ts
-#EXTINF:-1,FR:Comedie
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3046.ts
-#EXTINF:-1,FR:HD1
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3048.ts
-#EXTINF:-1,FR:RTL9
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3056.ts
-#EXTINF:-1,FR:Ushuaja
-http://gigaiptv.pro:8000/live/mobilen/mobilen/3061.ts
-#EXTINF:-1,Canal Sport Fr
-http://gigaiptv.pro:8000/live/mobilen/mobilen/1306.ts
+#EXTINF:-1,
+#EXTINF:-1,|FR| 13Emerue
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/231.ts
+#EXTINF:-1,|FR| 6TER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/230.ts
+#EXTINF:-1,|FR| AB Moteurs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/229.ts
+#EXTINF:-1,|FR| AB1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/228.ts
+#EXTINF:-1,|FR| Animaux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/227.ts
+#EXTINF:-1,|FR| ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/226.ts
+#EXTINF:-1,|FR| Bein Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/225.ts
+#EXTINF:-1,|FR| Bein Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/224.ts
+#EXTINF:-1,|FR| Bein Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/223.ts
+#EXTINF:-1,|FR| BFM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/222.ts
+#EXTINF:-1,|FR| Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/221.ts
+#EXTINF:-1,|FR| Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/220.ts
+#EXTINF:-1,|FR| C-NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/219.ts
+#EXTINF:-1,|FR| C-STAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/218.ts
+#EXTINF:-1,|FR| C8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/217.ts
+#EXTINF:-1,|FR| Canal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/216.ts
+#EXTINF:-1,|FR| Canal   Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/215.ts
+#EXTINF:-1,|FR| Canal   Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/213.ts
+#EXTINF:-1,|FR| Canal   Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/212.ts
+#EXTINF:-1,|FR| Canal  Decale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/214.ts
+#EXTINF:-1,|FR| Canal J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/211.ts
+#EXTINF:-1,|FR| Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/210.ts
+#EXTINF:-1,|FR| CCTV France
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/209.ts
+#EXTINF:-1,|FR| Chasse&Peche
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/208.ts
+#EXTINF:-1,|FR| Cherie 25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/207.ts
+#EXTINF:-1,|FR| Cine  Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/206.ts
+#EXTINF:-1,|FR| Cine  Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/205.ts
+#EXTINF:-1,|FR| Cine  Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/204.ts
+#EXTINF:-1,|FR| Cine  Frisson
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/203.ts
+#EXTINF:-1,|FR| Cine  FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/202.ts
+#EXTINF:-1,|FR| Cine  Polar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/201.ts
+#EXTINF:-1,|FR| Cine  Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/200.ts
+#EXTINF:-1,|FR| Comedie Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/199.ts
+#EXTINF:-1,|FR| Crime District
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/198.ts
+#EXTINF:-1,|FR| Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/197.ts
+#EXTINF:-1,|FR| Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/196.ts
+#EXTINF:-1,|FR| Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/195.ts
+#EXTINF:-1,|FR| Disney Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/194.ts
+#EXTINF:-1,|FR| Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/193.ts
+#EXTINF:-1,|FR| Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/192.ts
+#EXTINF:-1,|FR| Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/191.ts
+#EXTINF:-1,|FR| Equidia Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/190.ts
+#EXTINF:-1,|FR| Equidia Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/189.ts
+#EXTINF:-1,|FR| Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/188.ts
+#EXTINF:-1,|FR| Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/187.ts
+#EXTINF:-1,|FR| Extreme Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/186.ts
+#EXTINF:-1,|FR| France 0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/185.ts
+#EXTINF:-1,|FR| France 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/184.ts
+#EXTINF:-1,|FR| France 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/183.ts
+#EXTINF:-1,|FR| France 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/182.ts
+#EXTINF:-1,|FR| France 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/181.ts
+#EXTINF:-1,|FR| France 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/180.ts
+#EXTINF:-1,|FR| France Info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/179.ts
+#EXTINF:-1,|FR| Game One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/178.ts
+#EXTINF:-1,|FR| Golf Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/177.ts
+#EXTINF:-1,|FR| Golf Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/176.ts
+#EXTINF:-1,|FR| Gulli
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/175.ts
+#EXTINF:-1,|FR| HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/174.ts
+#EXTINF:-1,|FR| Histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/173.ts
+#EXTINF:-1,|FR| Info Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/172.ts
+#EXTINF:-1,|FR| L' equipe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/171.ts
+#EXTINF:-1,|FR| M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/168.ts
+#EXTINF:-1,|FR| Mangas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/167.ts
+#EXTINF:-1,|FR| MCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/166.ts
+#EXTINF:-1,|FR| MCM Top
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/165.ts
+#EXTINF:-1,|FR| Mezzo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/164.ts
+#EXTINF:-1,|FR| Mezzo Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/163.ts
+#EXTINF:-1,|FR| MTV France
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/162.ts
+#EXTINF:-1,|FR| Nat Geo WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/161.ts
+#EXTINF:-1,|FR| National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/160.ts
+#EXTINF:-1,|FR| Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/159.ts
+#EXTINF:-1,|FR| NRJ12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/158.ts
+#EXTINF:-1,|FR| NT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/157.ts
+#EXTINF:-1,|FR| Numero 23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/156.ts
+#EXTINF:-1,|FR| Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/155.ts
+#EXTINF:-1,|FR| Piwi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/154.ts
+#EXTINF:-1,|FR| Planete AE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/153.ts
+#EXTINF:-1,|FR| Planete CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/152.ts
+#EXTINF:-1,|FR| RFM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/151.ts
+#EXTINF:-1,|FR| RMC Decouverte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/150.ts
+#EXTINF:-1,|FR| RTL 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/149.ts
+#EXTINF:-1,|FR| RTS Deux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/148.ts
+#EXTINF:-1,|FR| RTS Un
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/147.ts
+#EXTINF:-1,|FR| Science & Vie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/146.ts
+#EXTINF:-1,|FR| Season
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/145.ts
+#EXTINF:-1,|FR| SFR Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/144.ts
+#EXTINF:-1,|FR| SFR Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/143.ts
+#EXTINF:-1,|FR| SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/142.ts
+#EXTINF:-1,|FR| TCM Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/141.ts
+#EXTINF:-1,|FR| Teletoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/140.ts
+#EXTINF:-1,|FR| Teva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/139.ts
+#EXTINF:-1,|FR| TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/138.ts
+#EXTINF:-1,|FR| Tiji
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/137.ts
+#EXTINF:-1,|FR| TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/136.ts
+#EXTINF:-1,|FR| Trace Urban
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/134.ts
+#EXTINF:-1,|FR| Trek HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/133.ts
+#EXTINF:-1,|FR| TV Breizh
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/132.ts
+#EXTINF:-1,|FR| TV5 Monde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/131.ts
+#EXTINF:-1,|FR| Ushuaia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/130.ts
+#EXTINF:-1,|FR| Voyage
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/129.ts
+#EXTINF:-1,|FR| W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_fuTwsC/gb7YH0DG/128.ts
