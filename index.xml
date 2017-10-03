@@ -93,7 +93,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue]ZONA PRIVADA[/COLOR][/B]</title>
+<title>[B][COLOR deeppink]ZONA PRIVADA[/COLOR][/B]</title>
 <link>NA</link>
 <externallink>$doregex[getinput]</externallink>
 <thumbnail>https://i.imgur.com/oTbu8ck.png</thumbnail>
