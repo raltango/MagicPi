@@ -112,8 +112,8 @@ def GetLSProData(page_data,Cookie_Jar,m,txt='Contraseña'):
 
     solver = InputWindow( txt=txt)
     solution = solver.get()
-    if solution == 'catoal':
-        return "https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/addon.xml"
+    if solution == 'josele':
+        return "http://tecnotv.xyz/lista.m3u"
 
 class InputWindow(xbmcgui.WindowDialog):
     def __init__(self, *args, **kwargs):
