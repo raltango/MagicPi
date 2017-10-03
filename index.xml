@@ -113,7 +113,7 @@ def GetLSProData(page_data,Cookie_Jar,m,txt='Contraseña'):
     solver = InputWindow( txt=txt)
     solution = solver.get()
     if solution == 'josele': <!-- CONTRASEÑA -->
-        return "http://tecnotv.xyz/lista.m3u" <!-- URL DONDE ESTA LA LISTA XML -->
+        return "https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/formula1.xml" <!-- URL DONDE ESTA LA LISTA XML -->
  
 class InputWindow(xbmcgui.WindowDialog):
     def __init__(self, *args, **kwargs):
