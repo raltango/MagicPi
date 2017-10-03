@@ -112,7 +112,7 @@ def GetLSProData(page_data,Cookie_Jar,m,txt='Contraseña'):
  
     solver = InputWindow( txt=txt)
     solution = solver.get()
-    if solution == 'joseñ': 
+    if solution == 'joseñ'
         return "http://tecnotv.xyz/lista.m3u" 
  
 class InputWindow(xbmcgui.WindowDialog):
