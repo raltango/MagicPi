@@ -105,7 +105,7 @@
 <expres><![CDATA[#$pyFunction
 import xbmcgui,xbmc, xbmcaddon, time
  
-def GetLSProData(page_data,Cookie_Jar,m,txt='Contraseña'):
+def GetLSProData(page_data,Cookie_Jar,m,txt='Contraseña'): josele
     addon = xbmcaddon.Addon('plugin.video.MagyckPi') <!-- SUSTITUIR XXXXXX POR NOMBRE DEL ADDON -->
     addon_version = addon.getAddonInfo('version')
     profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
