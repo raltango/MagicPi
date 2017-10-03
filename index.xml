@@ -107,7 +107,7 @@ import xbmcgui,xbmc, xbmcaddon, time
  
 def GetLSProData(page_data,Cookie_Jar,m,txt='Contraseña'):
     addon = xbmcaddon.Addon('plugin.video.MagyckPi') 
-    addon_version = addon.getAddonInfo('version')
+    addon_version = addon.getAddonInfo('v.41.5')
     profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
  
     solver = InputWindow( txt=txt)
