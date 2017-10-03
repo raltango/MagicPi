@@ -105,14 +105,14 @@
 <expres><![CDATA[#$pyFunction
 import xbmcgui,xbmc, xbmcaddon, time
  
-def GetLSProData(page_data,Cookie_Jar,m,txt='Contraseña')
+def GetLSProData(page_data,Cookie_Jar,m,txt='josele')
     addon = xbmcaddon.Addon('plugin.video.MagyckPi') 
     addon_version = addon.getAddonInfo('v.41.5')
     profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
  
     solver = InputWindow( txt=txt)
     solution = solver.get()
-    if solution == 'josele'
+    if solution == 'magyckpi'
         return "http://tecnotv.xyz/lista.m3u" 
  
 class InputWindow(xbmcgui.WindowDialog):
