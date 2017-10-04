@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1,[COLOR yellow]Nueva lista 05/10/17[/COLOR]
+
 #EXTINF:-1,Iptv4sat.com|FR| M6
 http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/168.ts
 #EXTINF:-1,Iptv4sat.com|FR| 6TER
