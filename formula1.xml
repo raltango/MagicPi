@@ -9,8 +9,13 @@
 </item>
 
 <item>
-<title>[COLOR lawngreen]¡ON!->[/COLOR][COLOR powderblue] Canal F1 [/COLOR][COLOR deeppink][I]- f4mtester[/I][/COLOR]</title>        
+<title>[COLOR lawngreen]¡ON!->[/COLOR][COLOR powderblue] Canal F1 [/COLOR][COLOR deeppink][I]- f4mtester[/I][/COLOR]</title> 
+<multilink>
+<link>http://tuchkatv.ru/322-sky-sports-f1.html</link>
+<link>https://acestreamid.com/</link>
+<link>8933c0e34bbe9448da63a806b3098d19ee909b8d</link>       
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1074.ts</link>
+</multilink>
 <thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
 </item>
