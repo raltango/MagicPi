@@ -56,33 +56,6 @@
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/series.xml</externallink>
 </item>
 
-
-<item>
-<title>[COLOR skyblue]===== [/COLOR][COLOR deeppink]===== [/COLOR][COLOR yellow]===== [/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail>https://i.imgur.com/KWYMdyI.png</thumbnail>
-<fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[B][COLOR indianred]* TELEVISION (TDT) [/B][/COLOR]</title>
-<thumbnail>https://img.hdbox.ws/wp-content/uploads/2016/08/1402652350_m3u1.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/canales.xml</externallink>
-</item>
-
-
-<item>
-<title>[B][COLOR yellow]* IPTV [/B][/COLOR]</title>
-<thumbnail>https://img.hdbox.ws/wp-content/uploads/2016/08/1402652350_m3u1.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/addon.xml</externallink>
-</item>
-
 <item>
 <title>[B][COLOR deeppink]* ZONA PRIVADA[/COLOR][/B]</title>
 <link>NA</link>
@@ -131,6 +104,35 @@ class InputWindow(xbmcgui.WindowDialog):
 <page></page>
 </regex>
 </item>
+
+
+<item>
+<title>[COLOR skyblue]===== [/COLOR][COLOR deeppink]===== [/COLOR][COLOR yellow]===== [/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail>https://i.imgur.com/KWYMdyI.png</thumbnail>
+<fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[B][COLOR indianred]* TELEVISION (TDT) [/B][/COLOR]</title>
+<thumbnail>https://img.hdbox.ws/wp-content/uploads/2016/08/1402652350_m3u1.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/canales.xml</externallink>
+</item>
+
+
+<item>
+<title>[B][COLOR yellow]* IPTV [/B][/COLOR]</title>
+<thumbnail>https://img.hdbox.ws/wp-content/uploads/2016/08/1402652350_m3u1.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/addon.xml</externallink>
+</item>
+
+
 
 
 
