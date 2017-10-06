@@ -25,39 +25,8 @@
 </item>
 
 <item>
-		<title>[COLOR yellowgreen]   > LA QUE SE AVECINA[/COLOR]</title>
-		<link>$doregex[makelist]</link>
-		<regex>
-			<name>makelist</name>
-			<listrepeat><![CDATA[
-			<title>[makelist.param3]</title>
-			<link>$doregex[getUrl]</link>
-			<thumbnail>http://static.blogocio.net/series/p/o/974.jpg</thumbnail>
-<fanart>http://static.blogocio.net/series/p/o/974.jpg</fanart>
-			]]></listrepeat>
-			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-			<page>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/LQSA.xml</page>
-			<cookieJar></cookieJar>
-		</regex>
-		<regex>
-			<name>getUrl</name>
-			<expres>DownloadUrl":"([^"]+)<expres>
-			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-			<connection>keep-alive</connection>
-			<accept>*/*</accept>
-			<X-Req>XMLHttpRequest</X-Req>
-			<cookieJar></cookieJar>
-		</regex>
-		<regex>
-			<name>tok</name>
-			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-			<page>http://diskokosmiko.mx/[makelist.param2]</page>
-			<referer>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,100</referer>
-			<connection>keep-alive</connection>
-			<cookieJar></cookieJar>
-		</regex>
+<title>[COLOR yellowgreen]   > LA QUE SE AVECINA[/COLOR]</title>
+<link>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/LQSA.xml</link>		
 <thumbnail>http://static.blogocio.net/series/p/o/974.jpg</thumbnail>
 <fanart>http://static.blogocio.net/series/p/o/974.jpg</fanart>
 	</item>
