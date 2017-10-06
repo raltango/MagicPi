@@ -36,7 +36,7 @@
 <fanart>http://static.blogocio.net/series/p/o/974.jpg</fanart>
 			]]></listrepeat>
 			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-			<page>http://diskokosmiko.mx/Sphynx/la-que-se-avecina-40812/list,1,6</page>
+			<page>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/LQSA.xml</page>
 			<cookieJar></cookieJar>
 		</regex>
 		<regex>
