@@ -12,7 +12,7 @@
 <item>
 <title>[COLOR skyblue]===== [/COLOR][COLOR deeppink]===== [/COLOR][COLOR yellow]===== [/COLOR]</title>
 <link>http://ignoreme</link>
-<thumbnail>https://i.imgur.com/KWYMdyI.png</thumbnail>
+<thumbnail>https://i.imgur.com/7SB2F0u.png</thumbnail>
 <fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
 </item>
 
@@ -40,7 +40,7 @@
 <item>
 <title>[COLOR skyblue]===== [/COLOR][COLOR deeppink]===== [/COLOR][COLOR yellow]===== [/COLOR]</title>
 <link>http://ignoreme</link>
-<thumbnail>https://i.imgur.com/KWYMdyI.png</thumbnail>
+<thumbnail>https://i.imgur.com/7SB2F0u.png</thumbnail>
 <fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
 </item>
 
@@ -109,7 +109,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <item>
 <title>[COLOR skyblue]===== [/COLOR][COLOR deeppink]===== [/COLOR][COLOR yellow]===== [/COLOR]</title>
 <link>http://ignoreme</link>
-<thumbnail>https://i.imgur.com/KWYMdyI.png</thumbnail>
+<thumbnail>https://i.imgur.com/DY3JVVf.png</thumbnail>
 <fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
 </item>
 
@@ -129,7 +129,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <item>
 <title>[COLOR skyblue]===== [/COLOR][COLOR deeppink]===== [/COLOR][COLOR yellow]===== [/COLOR]</title>
 <link>http://ignoreme</link>
-<thumbnail>https://i.imgur.com/KWYMdyI.png</thumbnail>
+<thumbnail>https://i.imgur.com/DY3JVVf.png</thumbnail>
 <fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
 </item>
 
@@ -161,7 +161,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <item>
 <title>[COLOR skyblue]===== [/COLOR][COLOR deeppink]===== [/COLOR][COLOR yellow]===== [/COLOR]</title>
 <link>http://ignoreme</link>
-<thumbnail>https://i.imgur.com/KWYMdyI.png</thumbnail>
+<thumbnail>https://i.imgur.com/DY3JVVf.png</thumbnail>
 <fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
 </item>
 
