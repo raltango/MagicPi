@@ -1,61 +1,35 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
 
-
-
-<item>
-<title>[COLOR skyblue]===== [/COLOR][COLOR deeppink]===== [/COLOR][COLOR yellow]===== [/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail>https://i.imgur.com/KWYMdyI.png</thumbnail>
-<fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
-</item>
-
-<item>
-     <title>http://tutvgratis.tv/entretenimiento/ae</title>
-     <link>$doregex[max-cookie-referer]</link>
-     <regex>
-         <name>max-cookie-referer</name>
-         <expres>
-             <![CDATA[#$pyFunction
-            def GetLSProData(page_data,Cookie_Jar,m,url='$doregex[select_Url]'):
-             import re
-             import requests
-             headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
-             source = requests.get(url, headers=headers)
-             maxi = re.findall('(http.*)', source.text)[0]
-             clean=maxi.replace('|','%7C')
-             cookie2 = source.cookies['_g']
-             return clean + '|Referer=http://tutvgratis.tv/&Cookie=_g=' + cookie2
-
-            ]]>
-         </expres>
-         <page></page>
-     </regex>
-     <regex>
-         <name>select_Url</name>
-         <expres>file: "(.*?)"</expres>
-         <page>$pyFunction: unCaptcha.performCaptcha('http://tutvgratis.tv/embed/tutv?chid=194',Cookie_Jar,returnpage=True)</page>
-         <agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
-     </regex>
-</item>
-
-
-
-
-
-<item>
-<title>[COLOR skyblue]===== [/COLOR][COLOR deeppink]===== [/COLOR][COLOR yellow]===== [/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail>https://i.imgur.com/KWYMdyI.png</thumbnail>
-<fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
-</item>
-
-
-
-
-<item>
-<title>[COLOR skyblue]===== [/COLOR][COLOR deeppink]===== [/COLOR][COLOR yellow]===== [/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail>https://i.imgur.com/KWYMdyI.png</thumbnail>
-<fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
-</item>
-
+#EXTINF:-1,UN HEROE FUERA DEL AGUA 
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21671&authkey=AGL8EL0HeanVvBM
+#EXTINF:-1,BOLT
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21674&authkey=AK7kuf1ivnfUqi0
+#EXTINF:-1,LA ERA DE HIELO 5
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21664&authkey=AILOafEFpTqYy6g
+#EXTINF:-1,EL PRINCIPITO
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21610&authkey=AKb_WKn6k0Ny-6U
+#EXTINF:-1,LEGO LA PELICULA
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21607&authkey=AE5XgSAjd-NB47Q
+#EXTINF:-1,TORTUGAS NINJAS
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21616&authkey=AN7jrhcQPkM3ZJw
+#EXTINF:-1 ,EL LIBRO DE LA SELVA
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21569&authkey=AK-KFbxhCw5fK2w
+#EXTINF:-1 ,ANGRI BIRDS
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21541&authkey=AN5q-89rswzdXaE
+#EXTINF:-1 ,HOTEL TRANSILVANIA 2
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21511&authkey=AA6jEf_6UzSJFD4
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21173&authkey=ABYJMsGFQ24YtJE
+#EXTINF:-1 ,UN BUEN DINOSAURIO
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21184&authkey=ANpOzbENGGrApvI
+#EXTINF:-1 ,CHARLY BROW
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21168&authkey=AHdEYQfecA8iEAU
+#EXTINF:-1 ,ZOOTOPIA
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21133&authkey=AMwLPXWPbwowLKU
+#EXTINF:-1 ,MINIONS
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21126&authkey=AAwIa0bnhBUYEhs
+#EXTINF:-1 ,KUN FU PANDA 3
+https://onedrive.live.com/download?cid=07862A8CD98C2F1F&resid=7862A8CD98C2F1F%21128&authkey=ADYZsst6R-773tw
+#EXTINF:-1 ,INTENSEMANTE (DISNEY)
+https://onedrive.live.com/download.aspx?resid=309AEFC9B8832747!3361&authkey=!ACrim-IYrgwfLY8&ithint=video%2cmp4
+#EXTINF:-1 ,CORALINE (INFANTIL)
+https://onedrive.live.com/download.aspx?resid=309AEFC9B8832747!3404&authkey=!AKKSFp2emhmYfYQ&ithint=video%2cmp4
