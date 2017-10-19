@@ -77,7 +77,7 @@ def GetLSProData(page_data,Cookie_Jar,m,txt='Contraseña'):
     solver = InputWindow( txt=txt)
     solution = solver.get()
     if solution == 'magyckpi':
-        return "https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/peliculas2.xml"
+        return "https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/motogp.xml"
 
 class InputWindow(xbmcgui.WindowDialog):
     def __init__(self, *args, **kwargs):
