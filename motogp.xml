@@ -1,251 +1,34 @@
-#EXTM3U
-#EXTINF:-1,www.achoTV.com,#0 HD 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/198.ts
-#EXTINF:-1,www.achoTV.com,LA 1 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/210.ts
-#EXTINF:-1,www.achoTV.com,LA 2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/359.ts
-#EXTINF:-1,www.achoTV.com,ANTENA 3 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/216.ts
-#EXTINF:-1,www.achoTV.com,CUATRO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/212.ts
-#EXTINF:-1,www.achoTV.com,TELECINCO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/200.ts
-#EXTINF:-1,www.achoTV.com,LA SEXTA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/218.ts
-#EXTINF:-1,www.achoTV.com,FOX LIFE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/191.ts
-#EXTINF:-1,www.achoTV.com,FOX HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/219.ts
-#EXTINF:-1,www.achoTV.com,AXN WHITE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/214.ts
-#EXTINF:-1,www.achoTV.com,AXN HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/215.ts
-#EXTINF:-1,www.achoTV.com,HOLLYWOODHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/211.ts
-#EXTINF:-1,www.achoTV.com,M.ESTRENOSHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/203.ts
-#EXTINF:-1,www.achoTV.com,M.COMEDIA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/204.ts
-#EXTINF:-1,www.achoTV.com,M. XTRA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/205.ts
-#EXTINF:-1,www.achoTV.com,M. SeriesXtraHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/187.ts
-#EXTINF:-1,www.achoTV.com,M. SERIES HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/188.ts
-#EXTINF:-1,www.achoTV.com,M. DCINE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/208.ts
-#EXTINF:-1,www.achoTV.com,M. ACCI©N HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/209.ts
-#EXTINF:-1,www.achoTV.com,SYFY HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/201.ts
-#EXTINF:-1,www.achoTV.com,TNT HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/182.ts
-#EXTINF:-1,www.achoTV.com,TCM HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/183.ts
-#EXTINF:-1,www.achoTV.com,AMC HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/217.ts
-#EXTINF:-1,www.achoTV.com,FDF
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/381.ts
-#EXTINF:-1,www.achoTV.com,CLAN TVE
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/382.ts
-#EXTINF:-1,www.achoTV.com,NICKELODEONHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/184.ts
-#EXTINF:-1,www.achoTV.com,COSMO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/194.ts
-#EXTINF:-1,www.achoTV.com,COMEDYCENTRALHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/195.ts
-#EXTINF:-1,www.achoTV.com,CALLE 13 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/196.ts
-#EXTINF:-1,www.achoTV.com,MEZZO LIVE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/380.ts
-#EXTINF:-1,www.achoTV.com,BEIN SPORT HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/197.ts
-#EXTINF:-1,www.achoTV.com,BEIN LALIGA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/213.ts
-#EXTINF:-1,www.achoTV.com,LALIGA TV BAR HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/360.ts
-#EXTINF:-1,www.achoTV.com,MOVISTAR  PARTIDAZO LIVE SESSION
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/337.ts
-#EXTINF:-1,www.achoTV.com,M.MOTOGPHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/220.ts
-#EXTINF:-1,www.achoTV.com,M.FORMULA1HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/202.ts
-#EXTINF:-1,www.achoTV.com,M. GOLF HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/189.ts
-#EXTINF:-1,www.achoTV.com,M. F.TBOL HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/206.ts
-#EXTINF:-1,www.achoTV.com,M. DEP 2 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/207.ts
-#EXTINF:-1,www.achoTV.com,M. DEP 1 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/190.ts
-#EXTINF:-1,www.achoTV.com,GOL TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/357.ts
-#EXTINF:-1,www.achoTV.com,R. MADRID TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/242.ts
-#EXTINF:-1,www.achoTV.com,BARCA TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/259.ts
-#EXTINF:-1,www.achoTV.com,EUROSPORT1HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/192.ts
-#EXTINF:-1,www.achoTV.com,EUROSPORT 2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/355.ts
-#EXTINF:-1,www.achoTV.com,TOROS TV HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/379.ts
-#EXTINF:-1,www.achoTV.com,BEINLALIGA1
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/384.ts
-#EXTINF:-1,www.achoTV.com,BEINLALIGA2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/383.ts
-#EXTINF:-1,www.achoTV.com,BEIN MAX 1
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/386.ts
-#EXTINF:-1,www.achoTV.com,BEIN MAX 2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/385.ts
-#EXTINF:-1,www.achoTV.com,NG WILD HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/185.ts
-#EXTINF:-1,www.achoTV.com,VIAJAR HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/199.ts
-#EXTINF:-1,www.achoTV.com,NAT GEO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts
-#EXTINF:-1,www.achoTV.com,CAZA Y PESCA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/348.ts
-#EXTINF:-1,www.achoTV.com,BABY TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/260.ts
-#EXTINF:-1,www.achoTV.com,DISNEY CH HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/193.ts
-#EXTINF:-1,www.achoTV.com,24 HORAS
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/263.ts
-#EXTINF:-1,www.achoTV.com,NEOX
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/243.ts
-#EXTINF:-1,www.achoTV.com,M. Cine Espaæol
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/245.ts
-#EXTINF:-1,www.achoTV.com,LTC
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/246.ts
-#EXTINF:-1,www.achoTV.com,PARAMOUNT
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/375.ts
-#EXTINF:-1,www.achoTV.com,CANAL ODISEA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/345.ts
-#EXTINF:-1,www.achoTV.com,CANAL DECASA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/343.ts
-#EXTINF:-1,www.achoTV.com,NONSTOPEOPLE
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/373.ts
-#EXTINF:-1,www.achoTV.com,MTV ESPA¹A
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/244.ts
-#EXTINF:-1,www.achoTV.com,HISTORIA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/247.ts
-#EXTINF:-1,www.achoTV.com,DIVINITY
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/250.ts
-#EXTINF:-1,www.achoTV.com,DISNEY XD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/251.ts
-#EXTINF:-1,www.achoTV.com,DISCOVERY
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/252.ts
-#EXTINF:-1,www.achoTV.com,CRIMEN INVES
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/253.ts
-#EXTINF:-1,www.achoTV.com,CLASSICA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/254.ts
-#EXTINF:-1,www.achoTV.com,CANAL SUR A.
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/256.ts
-#EXTINF:-1,www.achoTV.com,CANAL PANDA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/257.ts
-#EXTINF:-1,www.achoTV.com,BOING
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/258.ts
-#EXTINF:-1,www.achoTV.com,ARAGON TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/261.ts
-#EXTINF:-1,www.achoTV.com,A&E
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/262.ts
-#EXTINF:-1,www.achoTV.com,C&I
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/341.ts
-#EXTINF:-1,www.achoTV.com,ENERGY
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/352.ts
-#EXTINF:-1,www.achoTV.com,SUNDANCE
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/393.ts
-#EXTINF:-1,www.achoTV.com,NIck JR
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/392.ts
-#EXTINF:-1,www.achoTV.com,M. deport
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/391.ts
-#EXTINF:-1,www.achoTV.com,FOX NEWS
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/389.ts
-#EXTINF:-1,www.achoTV.com,DISNEY PIXAR
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/390.ts
-#EXTINF:-1,www.achoTV.com,CANAL ORBE21
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/388.ts
-#EXTINF:-1,www.achoTV.com,CANAL COCINA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/387.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_1
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/86.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/87.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_3
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/88.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_4
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/89.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_5
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/90.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_6
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/91.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_7
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/92.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_8
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/93.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_9
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/94.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_10
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/95.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_11
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/96.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_12
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/97.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_13
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/98.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_14
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/99.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_15
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/100.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_16
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/101.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_17
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/102.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_18
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/103.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_19
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/104.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_20
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/105.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_21
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/106.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_22
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/107.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_23
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/108.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_24
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/109.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_25
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/110.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_26
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/111.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_27
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/112.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_28
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/113.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_29
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/114.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_30
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/115.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_31
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/116.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_32
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/117.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_33
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/118.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_34
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/119.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_35
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/120.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_36
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/121.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_37
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/122.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_38
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/123.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_39
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/124.ts
-#EXTINF:-1,www.achoTV.com,TAQUILLA_40
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
+<item>
+<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Las Aparencias Engañan[/COLOR]</title>
+<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/maxxcn/mizine-48961/list,1,1</link>
+<thumbnail>http://image.tmdb.org/t/p/w300/ysJ7q8WQR3oeeInBXoeOJZXPL5g.jpg</thumbnail>
+<fanart>http://estaticos1.nochedecine.com/wp-content/uploads/2016/08/nt_16_Las-apariencias-enga%C3%B1an-carrusel-650x435.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://diskokosmiko.mx/maxxcn/mizine-48961/list,1,1'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=48961', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.elotrocine.cl/wp-content/uploads/2016/08/NerudaAfiche1.jpg</thumbnail>
+<fanart>http://www.concierto.cl/files/2016/09/Neruda_afiches-GneccoGael.jpg</fanart>
+</item>
+
+
+
+LINEA 3  CAMBIAR : http://diskokosmiko.mx/elibertol/-49050/p,789474,list,1,3.avi
+LINEA 10 CAMBIAR : http://diskokosmiko.mx/elibertol/-49050/p,789474,list,1,3.avi
+LINEA 18 CAMBIAR : 789474
