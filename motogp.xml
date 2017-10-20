@@ -1,5 +1,5 @@
 <item>
-<title>[ [COLOR deeppink]MGCK[/COLOR][COLOR yellow]PI[/COLOR] ][COLOR lime] Tarzán[/COLOR]</title>
+<title>[ [COLOR deeppink]MGCK[/COLOR][COLOR lime]PI[/COLOR] ][COLOR lightblue] Tarzán[/COLOR]</title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/maxxcn/mizine-48961/list,1,1</link>
 <thumbnail>http://image.tmdb.org/t/p/w300/ysJ7q8WQR3oeeInBXoeOJZXPL5g.jpg</thumbnail>
 <fanart>http://estaticos1.nochedecine.com/wp-content/uploads/2016/08/nt_16_Las-apariencias-enga%C3%B1an-carrusel-650x435.jpg</fanart>
@@ -28,7 +28,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[ [COLOR deeppink]MGCK[/COLOR][COLOR yellow]PI[/COLOR] ][COLOR lime] El gato con botas [/COLOR]</title>
+<title>[ [COLOR deeppink]MGCK[/COLOR][COLOR lime]PI[/COLOR] ][COLOR lightblue] El gato con botas [/COLOR]</title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/Jeviathan/cine-animacion-23430/el-gato-con-botas-2011-animacion-accion-aventurasdvdripspa,128144.mp4</link>
 <thumbnail>http://image.tmdb.org/t/p/w300/ysJ7q8WQR3oeeInBXoeOJZXPL5g.jpg</thumbnail>
 <fanart>http://estaticos1.nochedecine.com/wp-content/uploads/2016/08/nt_16_Las-apariencias-enga%C3%B1an-carrusel-650x435.jpg</fanart>
@@ -57,7 +57,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[ [COLOR deeppink]MGCK[/COLOR][COLOR yellow]PI[/COLOR] ][COLOR lime] Brave [/COLOR]</title>
+<title>[ [COLOR deeppink]MGCK[/COLOR][COLOR lime]PI[/COLOR] ][COLOR lightblue] Brave [/COLOR]</title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/Jeviathan/cine-animacion-23430/indomable-brave2012-animacion-aventuras-comediadvdripspa,128135.mp4</link>
 <thumbnail>http://image.tmdb.org/t/p/w300/ysJ7q8WQR3oeeInBXoeOJZXPL5g.jpg</thumbnail>
 <fanart>http://estaticos1.nochedecine.com/wp-content/uploads/2016/08/nt_16_Las-apariencias-enga%C3%B1an-carrusel-650x435.jpg</fanart>
@@ -86,7 +86,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[ [COLOR deeppink]MGCK[/COLOR][COLOR yellow]PI[/COLOR] ][COLOR lime] La que se avecina [/COLOR]</title>
+<title>[ [COLOR deeppink]MGCK[/COLOR][COLOR lime]PI[/COLOR] ][COLOR lightblue] La que se avecina [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
