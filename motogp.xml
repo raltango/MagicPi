@@ -162,7 +162,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[ [COLOR deeppink]MGCK[/COLOR][COLOR lime]PI[/COLOR] ][COLOR lightblue] Malviviendo [/COLOR]</title>
+<title>[ [COLOR deeppink]MGCK[/COLOR][COLOR lime]PI[/COLOR] ][COLOR lightblue] Pruebas [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -173,7 +173,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/trivianita/malviviendo-completa-77859/list,1,2</page>
+<page>http://diskokosmiko.mx/trivianita</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -191,7 +191,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/trivianita/malviviendo-completa-77859/list,1,2</referer>
+<referer>http://diskokosmiko.mx/trivianita</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
