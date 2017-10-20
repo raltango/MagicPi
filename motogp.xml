@@ -1,5 +1,5 @@
 <item>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Las Aparencias Engañan[/COLOR]</title>
+<title>[ [COLOR deeppink]MGCK[/COLOR][COLOR yellow]PI[/COLOR] ][COLOR lime] Tarzán[/COLOR]</title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/maxxcn/mizine-48961/list,1,1</link>
 <thumbnail>http://image.tmdb.org/t/p/w300/ysJ7q8WQR3oeeInBXoeOJZXPL5g.jpg</thumbnail>
 <fanart>http://estaticos1.nochedecine.com/wp-content/uploads/2016/08/nt_16_Las-apariencias-enga%C3%B1an-carrusel-650x435.jpg</fanart>
@@ -16,6 +16,35 @@ def GetLSProData(page_data,Cookie_Jar,m):
  headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
  data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
  nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=48961', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.elotrocine.cl/wp-content/uploads/2016/08/NerudaAfiche1.jpg</thumbnail>
+<fanart>http://www.concierto.cl/files/2016/09/Neruda_afiches-GneccoGael.jpg</fanart>
+</item>
+
+<item>
+<title>[ [COLOR deeppink]MGCK[/COLOR][COLOR yellow]PI[/COLOR] ][COLOR lime] Dragon Ball ( Saga Magic Bu)[/COLOR]</title>
+<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/Animegoku18/dragon-ball-z-saga-de-majin-buu-14036</link>
+<thumbnail>http://image.tmdb.org/t/p/w300/ysJ7q8WQR3oeeInBXoeOJZXPL5g.jpg</thumbnail>
+<fanart>http://estaticos1.nochedecine.com/wp-content/uploads/2016/08/nt_16_Las-apariencias-enga%C3%B1an-carrusel-650x435.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://diskokosmiko.mx/Animegoku18/dragon-ball-z-saga-de-majin-buu-14036'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=14036', headers=headers, data=data_a).text
  movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
  print movie 
  return movie 
