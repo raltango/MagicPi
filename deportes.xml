@@ -1,888 +1,194 @@
-#EXTM3U
+<item>
+<title>[COLOR deeppink]-----------------[/COLOR][COLOR powderblue]15 ->  MONOLOGOS[/COLOR][COLOR deeppink]-----------------[/COLOR]</title>
+<link>http://ignoreme</link>
+</item>
+			  
+<item>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] Agustin Jimenez [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>$doregex[getUrl]</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/monologos-agustin-jimenezel-rockero-33689/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/monologos-agustin-jimenezel-rockero-33689/list,1,1</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
-#EXTINF:-1,[COLOR yellow]Nueva lista 05/10/17[/COLOR]
+<item>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] Dani Rovira [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>$doregex[getUrl]</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/monologos-dani-rovira-el-rockero-33741/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/monologos-dani-rovira-el-rockero-33741/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
-#EXTINF:-1,Iptv4sat.com FR:BEINSPORT 1 SD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/7380.ts
-#EXTINF:-1,Iptv4sat.com FR:BEINSPORT 1 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/115.ts
-#EXTINF:-1,Iptv4sat.com FR:BEINSPORT 2 SD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/7381.ts
-#EXTINF:-1,Iptv4sat.com FR:BEINSPORT 2 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/114.ts
-#EXTINF:-1,Iptv4sat.com FR:BEINSPORT 3 SD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/7382.ts
-#EXTINF:-1,Iptv4sat.com FR:BEINSPORT 3 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/113.ts
-#EXTINF:-1,Iptv4sat.com FR:FOOT+ 24 UHD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1022.ts
-#EXTINF:-1,Iptv4sat.com FR:EQUIDIA LIVE HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4595.ts
-#EXTINF:-1,Iptv4sat.com FR:L'EQUIPE21 SD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/7325.ts
-#EXTINF:-1,Iptv4sat.com FR:L EQUIPE 21 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/203.ts
-#EXTINF:-1,Iptv4sat.com FR:AB MOTEUR HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1272.ts
-#EXTINF:-1,Iptv4sat.com FR:INFO SPORT HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1021.ts
-#EXTINF:-1,Iptv4sat.com FR:EUROSPORT 1 UHD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/379.ts
-#EXTINF:-1,Iptv4sat.com FR:EUROSPORT 2 UHD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/378.ts
-#EXTINF:-1,Iptv4sat.com FR:SFR SPORT 1 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1729.ts
-#EXTINF:-1,Iptv4sat.com FR:SFR SPORT 2 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1728.ts
-#EXTINF:-1,Iptv4sat.com FR:SFR SPORT 3 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1739.ts
-#EXTINF:-1,Iptv4sat.com FR:BEINSPORT 4 MAX
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2118.ts
-#EXTINF:-1,Iptv4sat.com FR:BEINSPORT 5 MAX
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2119.ts
-#EXTINF:-1,Iptv4sat.com FR:BEINSPORT 6 MAX
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2120.ts
-#EXTINF:-1,Iptv4sat.com FR:BEINSPORT 7 MAX
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2121.ts
-#EXTINF:-1,Iptv4sat.com FR:BEINSPORTS MAX 8
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/7796.ts
-#EXTINF:-1,Iptv4sat.com FR:BEINSPORTS MAX 9
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/7797.ts
-#EXTINF:-1,Iptv4sat.com FR:BEINSPORTS MAX 10
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/7798.ts
-#EXTINF:-1,Iptv4sat.com NL: Ziggo Sport Voetbal
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1138.ts
-#EXTINF:-1,Iptv4sat.com NL: Ziggo Sport Golf
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4328.ts
-#EXTINF:-1,Iptv4sat.com NL: Ziggo Sport Racing
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4327.ts
-#EXTINF:-1,Iptv4sat.com NL: Ziggo Sport Select HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4326.ts
-#EXTINF:-1,Iptv4sat.com NL: Ziggo Sport eXtra 1
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4330.ts
-#EXTINF:-1,Iptv4sat.com NL: Ziggo Sport eXtra 2
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4329.ts
-#EXTINF:-1,Iptv4sat.com NL:FOX SPORTS 1 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/264.ts
-#EXTINF:-1,Iptv4sat.com NL:FOX SPORTS 2 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/265.ts
-#EXTINF:-1,Iptv4sat.com NL:FOX SPORTS 3 HD EREDIVISIE
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/266.ts
-#EXTINF:-1,Iptv4sat.com NL:FOX SPORTS 4 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/267.ts
-#EXTINF:-1,Iptv4sat.com NL:FOX SPORTS 5 HD EREDIVISIE HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/268.ts
-#EXTINF:-1,Iptv4sat.com NL: Fox Sports 6 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4331.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEINSPORTS NEWS ARABIC HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4821.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEIN SPORTS 1 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/3675.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEIN SPORTS 2 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/3676.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEIN SPORTS 3 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/3677.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEIN SPORTS 4 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/3678.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEIN SPORTS 5 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/3679.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEIN SPORTS 6 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/3680.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEIN SPORTS 7 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/3681.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEIN SPORTS 8 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/3682.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEIN SPORTS 9 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/3683.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEIN SPORTS 10 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/3684.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEIN SPORTS 11 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/3685.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEIN SPORTS 12 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/3686.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEIN SPORTS 13 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/3687.ts
-#EXTINF:-1,Iptv4sat.com (AR) BEIN SPORTS 14 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/3688.ts
-#EXTINF:-1,Iptv4sat.com ES: Movistar  Deportes 1 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4201.ts
-#EXTINF:-1,Iptv4sat.com ES: Movistar  Deportes 2 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4200.ts
-#EXTINF:-1,Iptv4sat.com ES: Movistar  Futbol HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4198.ts
-#EXTINF:-1,Iptv4sat.com ES: Movistar  Golf HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4197.ts
-#EXTINF:-1,Iptv4sat.com ES: Barca TV
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4265.ts
-#EXTINF:-1,Iptv4sat.com ES: Bein La Liga HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4264.ts
-#EXTINF:-1,Iptv4sat.com ES: BeIN Sports HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4263.ts
-#EXTINF:-1,Iptv4sat.com BG:NOVA SPORT HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4323.ts
-#EXTINF:-1,Iptv4sat.com BG: EURO SPORT 1
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/8475.ts
-#EXTINF:-1,Iptv4sat.com BG:EUROSPORT 2 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4320.ts
-#EXTINF:-1,Iptv4sat.com BG:DIEMA SPORT 1 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4324.ts
-#EXTINF:-1,Iptv4sat.com BG:DIEMA SPORT 2 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4325.ts
-#EXTINF:-1,Iptv4sat.com RO:Sport Klub 1
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2174.ts
-#EXTINF:-1,Iptv4sat.com RO:Sport Klub 2
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2173.ts
-#EXTINF:-1,Iptv4sat.com RO:Sport Klub 3
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2172.ts
-#EXTINF:-1,Iptv4sat.com RO:DIGI SPORT 1 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1334.ts
-#EXTINF:-1,Iptv4sat.com RO:DIGI SPORT 2 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1337.ts
-#EXTINF:-1,Iptv4sat.com RO:DIGI SPORT 3 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1335.ts
-#EXTINF:-1,Iptv4sat.com RO:DIGI SPORT 4 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1336.ts
-#EXTINF:-1,Iptv4sat.com RO:SPORT ROMANIA
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2164.ts
-#EXTINF:-1,Iptv4sat.com RO:Eurosport 2
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2161.ts
-#EXTINF:-1,Iptv4sat.com (DK) TV 2 SPORT SD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/6863.ts
-#EXTINF:-1,Iptv4sat.com (DK) TV2 SPORT HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/8029.ts
-#EXTINF:-1,Iptv4sat.com (DK)  TV3 SPORT 1 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/7099.ts
-#EXTINF:-1,Iptv4sat.com (DK)  TV3 SPORT 2
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/7098.ts
-#EXTINF:-1,Iptv4sat.com (DK) EUROSPORT 1 FHD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/8253.ts
-#EXTINF:-1,Iptv4sat.com (DK) EUROSPORT 1
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/8018.ts
-#EXTINF:-1,Iptv4sat.com (DK) EUROSPORT 2 FHD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/8254.ts
-#EXTINF:-1,Iptv4sat.com (DK) EUROSPORT 2
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/8001.ts
-#EXTINF:-1,Iptv4sat.com (DK) TV 3 SPORT 1 FHD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/6847.ts
-#EXTINF:-1,Iptv4sat.com (DK) TV 3 SPORT 2 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/6848.ts
-#EXTINF:-1,Iptv4sat.com AL:TRING SPORT 1 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2763.ts
-#EXTINF:-1,Iptv4sat.com AL:TRING SPORT 2 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2762.ts
-#EXTINF:-1,Iptv4sat.com AL:TRING SPORT 3 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2761.ts
-#EXTINF:-1,Iptv4sat.com AL:TRING SPORT 4 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2760.ts
-#EXTINF:-1,Iptv4sat.com ALB:Super Sport 1 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2225.ts
-#EXTINF:-1,Iptv4sat.com ALB:Super Sport 2 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2226.ts
-#EXTINF:-1,Iptv4sat.com ALB:Super Sport 3 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2227.ts
-#EXTINF:-1,Iptv4sat.com ALB:Super Sport 4 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2224.ts
-#EXTINF:-1,Iptv4sat.com AL: Super Sport 5 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/2771.ts
-#EXTINF:-1,Iptv4sat.com (IT) PREMIUM SPORT
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4925.ts
-#EXTINF:-1,Iptv4sat.com (IT) PREMIUM SPORT 2
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4923.ts
-#EXTINF:-1,Iptv4sat.com (IT) PREMIUM SPORT 2 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4922.ts
-#EXTINF:-1,Iptv4sat.com (IT) PREMIUM SPORT HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4924.ts
-#EXTINF:-1,Iptv4sat.com UK:BT SPORT 1
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4758.ts
-#EXTINF:-1,Iptv4sat.com UK:BT SPORT 2
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4759.ts
-#EXTINF:-1,Iptv4sat.com UK:BT SPORT 3
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/4760.ts
-#EXTINF:-1,Iptv4sat.com UK:BT SPORTS ESPN HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1512.ts
-#EXTINF:-1,Iptv4sat.com UK:SETANTA SPORTS HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1501.ts
-#EXTINF:-1,Iptv4sat.com UK:SKY CHELSEA TV HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1492.ts
-#EXTINF:-1,Iptv4sat.com UK:SKY SPORTS 1 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1016.ts
-#EXTINF:-1,Iptv4sat.com UK:SKY SPORTS 2 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1017.ts
-#EXTINF:-1,Iptv4sat.com UK:SKY SPORTS 3 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1018.ts
-#EXTINF:-1,Iptv4sat.com UK:SKY SPORTS 4 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1019.ts
-#EXTINF:-1,Iptv4sat.com UK:SKY SPORTS 5 HD
-http://uiptv.dyndns.tv:8000/live/Mohammed-Boumedien/prfw01aQ1G/1020.ts
-#EXTINF:-1,Iptv4sat.com B31N Sp0rts 1
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/215.ts
-#EXTINF:-1,Iptv4sat.com B31N Sp0rts 2
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/216.ts
-#EXTINF:-1,Iptv4sat.com B31N Sp0rts 3
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/217.ts
-#EXTINF:-1,Iptv4sat.com B31N Sp0rts 4
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/218.ts
-#EXTINF:-1,Iptv4sat.com B31N Sp0rts 5
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/219.ts
-#EXTINF:-1,Iptv4sat.com B31N Sp0rts 6
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/220.ts
-#EXTINF:-1,Iptv4sat.com B31N Sp0rts 7
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/221.ts
-#EXTINF:-1,Iptv4sat.com B31N Sp0rts 8
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/222.ts
-#EXTINF:-1,Iptv4sat.com B31N Sp0rts 9
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/223.ts
-#EXTINF:-1,Iptv4sat.com B31N Sp0rts 10
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/224.ts
-#EXTINF:-1,Iptv4sat.com B31N Sp0rts 11
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/225.ts
-#EXTINF:-1,Iptv4sat.com B31N Sp0rts 12
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/226.ts
-#EXTINF:-1,Iptv4sat.com UFC / FIGHTING
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/116.ts
-#EXTINF:-1,Iptv4sat.com UK: B0X N4t10n
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/173.ts
-#EXTINF:-1,Iptv4sat.com UK: BeTe Sp0rt 1
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/180.ts
-#EXTINF:-1,Iptv4sat.com UK: BeTe Sp0rt 2
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/181.ts
-#EXTINF:-1,Iptv4sat.com UK: BeTe Sp0rt 3
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/182.ts
-#EXTINF:-1,Iptv4sat.com UK: €ur0zport 1
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/170.ts
-#EXTINF:-1,Iptv4sat.com UK: €ur0zport 2
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/171.ts
-#EXTINF:-1,Iptv4sat.com 24/7: WWE 24/7 HD
-http://fullpremiumvip.com:8000/live/cristian/cristian1/835.ts
-#EXTINF:-1,Iptv4sat.com Sport Klub 1 HD
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/82.ts
-#EXTINF:-1,Iptv4sat.com Sport Klub 2 HD
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/83.ts
-#EXTINF:-1,Iptv4sat.com Sport Klub 3 HD
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/85.ts
-#EXTINF:-1,Iptv4sat.com Arena Sport 1 srb
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/52.ts
-#EXTINF:-1,Iptv4sat.com Arena Sport 2 srb
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/53.ts
-#EXTINF:-1,Iptv4sat.com Arena Sport 3 srb
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/54.ts
-#EXTINF:-1,Iptv4sat.com Arena Sport 4 srb
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/55.ts
-#EXTINF:-1,Iptv4sat.com Arena Sport 5 srb
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/56.ts
-#EXTINF:-1,Iptv4sat.com Arenasport 1 HD (Hr)
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/65.ts
-#EXTINF:-1,Iptv4sat.com Arenasport 2 HD (Hr)
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/66.ts
-#EXTINF:-1,Iptv4sat.com Arenasport 3 HD (HR)
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/67.ts
-#EXTINF:-1,Iptv4sat.com Arenasport 4 HD (Hr)
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/68.ts
-#EXTINF:-1,Iptv4sat.com Arenasport 5 HD (Hr)
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/69.ts
-#EXTINF:-1,Iptv4sat.com Sky Sport 1 HD de
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/311.ts
-#EXTINF:-1,Iptv4sat.com Sky Sport 2 HD de
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/310.ts
-#EXTINF:-1,Iptv4sat.com Sky Bundesliga 1 de
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/759.ts
-#EXTINF:-1,Iptv4sat.com Fox Sports 1 Eredivisie nl
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/47.ts
-#EXTINF:-1,Iptv4sat.com Fox Sports 2 Eredivisie nl
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/46.ts
-#EXTINF:-1,Iptv4sat.com Fox Sports 3 Eredivisie nl
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/45.ts
-#EXTINF:-1,Iptv4sat.com Fox Sports 4 Eredivisie nl
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/44.ts
-#EXTINF:-1,Iptv4sat.com Fox Sports 5 Eredivisie nl
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/43.ts
-#EXTINF:-1,Iptv4sat.com Fox Sports 6 Eredivisie nl
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/42.ts
-#EXTINF:-1,Iptv4sat.com Sky Sports 1 uk
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1057.ts
-#EXTINF:-1,Iptv4sat.com Sky Sports 2 uk
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1058.ts
-#EXTINF:-1,Iptv4sat.com Sky Sports 3 uk
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1059.ts
-#EXTINF:-1,Iptv4sat.com Sky Sports 4 uk
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1072.ts
-#EXTINF:-1,Iptv4sat.com Sky Sports 5 uk
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1073.ts
-#EXTINF:-1,Iptv4sat.com Sport TV 1 HD slo
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1467.ts
-#EXTINF:-1,Iptv4sat.com Sport TV 2 HD slo
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1468.ts
-#EXTINF:-1,Iptv4sat.com Ziggo Sport Voetbal nl
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/404.ts
-#EXTINF:-1,Iptv4sat.com Ziggo Sport Select 1 Hd nl
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/405.ts
-#EXTINF:-1,Iptv4sat.com Ziggo Sport Extra 2 nl
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/403.ts
-#EXTINF:-1,Iptv4sat.com Ziggo Sport Extra 1 nl
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/402.ts
-#EXTINF:-1,Iptv4sat.com Ziggo Sport Racing nl
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/945.ts
-#EXTINF:-1,Iptv4sat.com beinHD-SPORTS- News
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4173.ts
-#EXTINF:-1,Iptv4sat.com beinHD SPORTS HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4174.ts
-#EXTINF:-1,Iptv4sat.com beIN-SPORTS-1HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4176.ts
-#EXTINF:-1,Iptv4sat.com BeinHD-Sports-HD2
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4177.ts
-#EXTINF:-1,Iptv4sat.com beinHD-Sports-HD3
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4179.ts
-#EXTINF:-1,Iptv4sat.com beinHD-Sports-HD4
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4181.ts
-#EXTINF:-1,Iptv4sat.com beinHD-Sports-HD5
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4183.ts
-#EXTINF:-1,Iptv4sat.com beinHD-Sports-HD6
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4185.ts
-#EXTINF:-1,Iptv4sat.com beinHD-Sports-HD7
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4187.ts
-#EXTINF:-1,Iptv4sat.com beinHD-Sports-HD8
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4189.ts
-#EXTINF:-1,Iptv4sat.com beinHD-Sports-HD9
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4191.ts
-#EXTINF:-1,Iptv4sat.com beinHD-Sports-HD10
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4193.ts
-#EXTINF:-1,Iptv4sat.com beIN-SPORTS-11HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4196.ts
-#EXTINF:-1,Iptv4sat.com beinHD-Sports-HD11
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4195.ts
-#EXTINF:-1,Iptv4sat.com beinHD Sports HD12
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4197.ts
-#EXTINF:-1,Iptv4sat.com beIN SPORTS 12HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4198.ts
-#EXTINF:-1,Iptv4sat.com beinHD Sports HD13
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4199.ts
-#EXTINF:-1,Iptv4sat.com beinHD Sports HD14
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4200.ts
-#EXTINF:-1,Iptv4sat.com beinHD Sports HD15
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4201.ts
-#EXTINF:-1,Iptv4sat.com beinHD Sports HD16
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4202.ts
-#EXTINF:-1,Iptv4sat.com beinHD Sports HD17
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/4203.ts
-#EXTINF:-1,Iptv4sat.com ========|||-BEIN-SPORTS-|||========
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/401.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-1HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/24.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-2-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/717.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-3-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/26.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-4-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/27.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-5-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/28.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-6-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/29.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-7-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/818.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-8-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/31.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-9-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/32.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-10-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/33.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-11-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/34.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-12-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/35.ts
-#EXTINF:-1,Iptv4sat.com ========|||-ABU_DHABI_SPORT-|||========
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3139.ts
-#EXTINF:-1,Iptv4sat.com AR_Abu-Dhabi_Sports_1_HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3138.ts
-#EXTINF:-1,Iptv4sat.com AR_Abu-Dhabi_Sports_2_HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3137.ts
-#EXTINF:-1,Iptv4sat.com AR_Abu-Dhabi_Sports_3_HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3136.ts
-#EXTINF:-1,Iptv4sat.com AR_Abu-Dhabi_Sports_4_HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3135.ts
-#EXTINF:-1,Iptv4sat.com AR_Abu-Dhabi_Sports_5_HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3134.ts
-#EXTINF:-1,Iptv4sat.com AR:-MBC-PRO-SPORT-1
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3143.ts
-#EXTINF:-1,Iptv4sat.com AR:-MBC-PRO-SPORT-2
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3142.ts
-#EXTINF:-1,Iptv4sat.com AR:-MBC-PRO-SPORT-3
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3141.ts
-#EXTINF:-1,Iptv4sat.com FR:-BEINSPORT-1HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/330.ts
-#EXTINF:-1,Iptv4sat.com FR:-BEINSPORT-2HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/331.ts
-#EXTINF:-1,Iptv4sat.com FR:-BEINSPORT-3HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/332.ts
-#EXTINF:-1,Iptv4sat.com FR:_BeIN_SPORTS_MAX_4
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/2866.ts
-#EXTINF:-1,Iptv4sat.com FR:_BeIN_SPORTS_MAX_5
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3129.ts
-#EXTINF:-1,Iptv4sat.com FR:_BeIN_SPORTS_MAX_6
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/2867.ts
-#EXTINF:-1,Iptv4sat.com FR:_BeIN_SPORTS_MAX_7
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/2868.ts
-#EXTINF:-1,Iptv4sat.com FR:_BeIN_SPORTS_MAX_8
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/2869.ts
-#EXTINF:-1,Iptv4sat.com FR:-Sfr-Sport-1
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/2603.ts
-#EXTINF:-1,Iptv4sat.com FR:-Sfr-Sport-2
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1136.ts
-#EXTINF:-1,Iptv4sat.com FR:-Sfr-Sport-3
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1137.ts
-#EXTINF:-1,Iptv4sat.com SW:_SRF_1_HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/2804.ts
-#EXTINF:-1,Iptv4sat.com SW:_SRF_2_HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/2805.ts
-#EXTINF:-1,Iptv4sat.com SW:_SRF_Info
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/2806.ts
-#EXTINF:-1,Iptv4sat.com FR:-INFOSPORT
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1021.ts
-#EXTINF:-1,Iptv4sat.com FR:-FOOT
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1022.ts
-#EXTINF:-1,Iptv4sat.com FR:-L'EQUIPE21
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1020.ts
-#EXTINF:-1,Iptv4sat.com FR:-EQUIDIA-LIVE-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1001.ts
-#EXTINF:-1,Iptv4sat.com FR:-Canal+SPORT-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/152.ts
-#EXTINF:-1,Iptv4sat.com FR:-KOMBAT-SPORT
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3166.ts
-#EXTINF:-1,Iptv4sat.com FR:-Golf-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3165.ts
-#EXTINF:-1,Iptv4sat.com FR:-Canal-Sport-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/3163.ts
-#EXTINF:-1,Iptv4sat.com DE:-SKY-SPORT-NEWS
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1228.ts
-#EXTINF:-1,Iptv4sat.com DE:-SKY-SPORT-1-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/230.ts
-#EXTINF:-1,Iptv4sat.com DE:-SKY-SPORT-2-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/231.ts
-#EXTINF:-1,Iptv4sat.com DE:-Sky-Sport-3-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1243.ts
-#EXTINF:-1,Iptv4sat.com DE:-Sky-Sport-4-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1244.ts
-#EXTINF:-1,Iptv4sat.com DE:-Sky-Sport-5-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1245.ts
-#EXTINF:-1,Iptv4sat.com DE:-Sky-Sport-6-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1246.ts
-#EXTINF:-1,Iptv4sat.com DE:-Sky-Sport-7-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1247.ts
-#EXTINF:-1,Iptv4sat.com DE:-Sky-Sport-8-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1248.ts
-#EXTINF:-1,Iptv4sat.com DE:-Sky-Sport-9-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1249.ts
-#EXTINF:-1,Iptv4sat.com DE:-Sky-Sport-10-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1250.ts
-#EXTINF:-1,Iptv4sat.com DE:-Sky-Sport-11-HD
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1251.ts
-#EXTINF:-1,Iptv4sat.com ES:-BEIN-ESPANA
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/1701.ts
-#EXTINF:-1,Iptv4sat.com ES:-BEIN-LA-LIGA
-http://IPTV.Nador-Sat.Com:9300/live/ppp/ppp/712.ts
-#EXTINF:-1,Iptv4sat.com ES:_MOVISTAR_Deportes
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1481.ts
-#EXTINF:-1,Iptv4sat.com ES:_MOVISTAR_Deportes2
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1706.ts
-#EXTINF:-1,Iptv4sat.com ES:_MOVISTAR_MOTOGP
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/500.ts
-#EXTINF:-1,Iptv4sat.com ES:-Barca-TV
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/206.ts
-#EXTINF:-1,Iptv4sat.com ES:-REAL-MADRID
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/367.ts
-#EXTINF:-1,Iptv4sat.com ES:_Real_Madrid_TV_(English)
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3661.ts
-#EXTINF:-1,Iptv4sat.com ES:-BEIN-ESPANA
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1701.ts
-#EXTINF:-1,Iptv4sat.com ES:-BEIN-LA-LIGA
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/712.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-1HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/24.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-2-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/717.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-3-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/26.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-4-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/27.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-5-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/28.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-6-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/29.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-7-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/818.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-8-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/31.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-9-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/32.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-10-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/33.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-11-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/34.ts
-#EXTINF:-1,Iptv4sat.com AR:-BEIN-SPORTS-12-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/35.ts
-#EXTINF:-1,Iptv4sat.com FR:-BEINSPORT-1HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/330.ts
-#EXTINF:-1,Iptv4sat.com FR:-BEINSPORT-2HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/331.ts
-#EXTINF:-1,Iptv4sat.com FR:-BEINSPORT-3HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/332.ts
-#EXTINF:-1,Iptv4sat.com FR:_BeIN_SPORTS_MAX_4
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/2866.ts
-#EXTINF:-1,Iptv4sat.com FR:_BeIN_SPORTS_MAX_5
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/3129.ts
-#EXTINF:-1,Iptv4sat.com FR:_BeIN_SPORTS_MAX_6
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/2867.ts
-#EXTINF:-1,Iptv4sat.com FR:_BeIN_SPORTS_MAX_7
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/2868.ts
-#EXTINF:-1,Iptv4sat.com FR:_BeIN_SPORTS_MAX_8
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/2869.ts
-#EXTINF:-1,Iptv4sat.com FR:-Sfr-Sport-1
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/2603.ts
-#EXTINF:-1,Iptv4sat.com FR:-Sfr-Sport-2
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1136.ts
-#EXTINF:-1,Iptv4sat.com FR:-Sfr-Sport-3
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1137.ts
-#EXTINF:-1,Iptv4sat.com FR:-INFOSPORT
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1021.ts
-#EXTINF:-1,Iptv4sat.com FR:-FOOT
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1022.ts
-#EXTINF:-1,Iptv4sat.com FR:-L'EQUIPE21
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1020.ts
-#EXTINF:-1,Iptv4sat.com FR:-EQUIDIA-LIVE-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1001.ts
-#EXTINF:-1,Iptv4sat.com NL:-FOX-SPORTS-1
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/382.ts
-#EXTINF:-1,Iptv4sat.com NL:-FOX-SPORTS-2
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/383.ts
-#EXTINF:-1,Iptv4sat.com NL:-FOX-SPORTS-3
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/384.ts
-#EXTINF:-1,Iptv4sat.com NL:-Fox-Sports-4
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1517.ts
-#EXTINF:-1,Iptv4sat.com NL:-Fox-Sports-5
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1518.ts
-#EXTINF:-1,Iptv4sat.com NL:-Fox-Sports-6
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1519.ts
-#EXTINF:-1,Iptv4sat.com NL:_Ziggo_Sport
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/2621.ts
-#EXTINF:-1,Iptv4sat.com NL:-Ziggo-Sport-Select-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1524.ts
-#EXTINF:-1,Iptv4sat.com NL:_ZiggoSport_Voetbal
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/2622.ts
-#EXTINF:-1,Iptv4sat.com NL:-Ziggo-Sport-Extra1
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1520.ts
-#EXTINF:-1,Iptv4sat.com NL:-Ziggo-Sport-Extra2
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1521.ts
-#EXTINF:-1,Iptv4sat.com NL:-Ziggo-Sport-Golf
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1522.ts
-#EXTINF:-1,Iptv4sat.com NL:-Ziggo-Sport-Racing
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1523.ts
-#EXTINF:-1,Iptv4sat.com TR:_BEIN_SPORT_1HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/673.ts
-#EXTINF:-1,Iptv4sat.com TR:_BEIN_SPORT_2HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/674.ts
-#EXTINF:-1,Iptv4sat.com TR:-Lig-Tv-3HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/680.ts
-#EXTINF:-1,Iptv4sat.com TR:_BEIN_SPORT_4HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/681.ts
-#EXTINF:-1,Iptv4sat.com TR:-TIVIBU-SPOR-1
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/684.ts
-#EXTINF:-1,Iptv4sat.com TR:-TIVIBU-SPOR-2
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/887.ts
-#EXTINF:-1,Iptv4sat.com TR:-NTV-SPOR
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/672.ts
-#EXTINF:-1,Iptv4sat.com TR:-A-SPOR
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/671.ts
-#EXTINF:-1,Iptv4sat.com TR:-SPORTS-TV
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/810.ts
-#EXTINF:-1,Iptv4sat.com TR:-TRT-SPORT
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/815.ts
-#EXTINF:-1,Iptv4sat.com TR:_BJK_TV
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/4669.ts
-#EXTINF:-1,Iptv4sat.com TR:_GS_TV
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/4670.ts
-#EXTINF:-1,Iptv4sat.com UK:-Sky-Sports-F1
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1184.ts
-#EXTINF:-1,Iptv4sat.com UK:-SKY-SPORT-1-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1179.ts
-#EXTINF:-1,Iptv4sat.com UK:-Sky-SPORT-2-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1180.ts
-#EXTINF:-1,Iptv4sat.com UK:-Sky-Sport-3-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1181.ts
-#EXTINF:-1,Iptv4sat.com UK:-Sky-Sport-4-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1182.ts
-#EXTINF:-1,Iptv4sat.com UK:-Sky-SPORT-5-HD
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1183.ts
-#EXTINF:-1,Iptv4sat.com UK:-BT-Sports-2
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1190.ts
-#EXTINF:-1,Iptv4sat.com UK:-BT-Sport-1
-http://IPTV.Nador-Sat.Com:9300/live/zaka1/zaka1/1189.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-1HD
-http://213.32.6.176:8000/live/fati/fati/29.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-2HD
-http://213.32.6.176:8000/live/fati/fati/30.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-3HD
-http://213.32.6.176:8000/live/fati/fati/31.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-4HD
-http://213.32.6.176:8000/live/fati/fati/32.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-5HD
-http://213.32.6.176:8000/live/fati/fati/33.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-6HD
-http://213.32.6.176:8000/live/fati/fati/34.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-7HD
-http://213.32.6.176:8000/live/fati/fati/35.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-8HD
-http://213.32.6.176:8000/live/fati/fati/36.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-9HD
-http://213.32.6.176:8000/live/fati/fati/37.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-10HD
-http://213.32.6.176:8000/live/fati/fati/38.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-11HD
-http://213.32.6.176:8000/live/fati/fati/1033.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-12HD
-http://213.32.6.176:8000/live/fati/fati/1034.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-13HD
-http://213.32.6.176:8000/live/fati/fati/1035.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-14HD
-http://213.32.6.176:8000/live/fati/fati/1036.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-15HD
-http://213.32.6.176:8000/live/fati/fati/1037.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-16HD
-http://213.32.6.176:8000/live/fati/fati/1038.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-1SD
-http://213.32.6.176:8000/live/fati/fati/48.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-2SD
-http://213.32.6.176:8000/live/fati/fati/47.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-3SD
-http://213.32.6.176:8000/live/fati/fati/46.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-4SD
-http://213.32.6.176:8000/live/fati/fati/45.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-5SD
-http://213.32.6.176:8000/live/fati/fati/44.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-6SD
-http://213.32.6.176:8000/live/fati/fati/43.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-7SD
-http://213.32.6.176:8000/live/fati/fati/41.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-8SD
-http://213.32.6.176:8000/live/fati/fati/40.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-9SD
-http://213.32.6.176:8000/live/fati/fati/39.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-10SD
-http://213.32.6.176:8000/live/fati/fati/42.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-11SD
-http://213.32.6.176:8000/live/fati/fati/1064.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-12SD
-http://213.32.6.176:8000/live/fati/fati/1065.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-1-low
-http://213.32.6.176:8000/live/fati/fati/1070.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-2-low
-http://213.32.6.176:8000/live/fati/fati/1071.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-3-low
-http://213.32.6.176:8000/live/fati/fati/1072.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-4-low
-http://213.32.6.176:8000/live/fati/fati/1073.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-5-low
-http://213.32.6.176:8000/live/fati/fati/1074.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-6-low
-http://213.32.6.176:8000/live/fati/fati/1075.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-7-low
-http://213.32.6.176:8000/live/fati/fati/1076.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-8-low
-http://213.32.6.176:8000/live/fati/fati/1077.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-9-low
-http://213.32.6.176:8000/live/fati/fati/1078.ts
-#EXTINF:-1,Iptv4sat.com BeinSport-10-low
-http://213.32.6.176:8000/live/fati/fati/1079.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-1
-http://213.32.6.176:8000/live/fati/fati/1050.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-2
-http://213.32.6.176:8000/live/fati/fati/1051.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-3
-http://213.32.6.176:8000/live/fati/fati/1052.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-5
-http://213.32.6.176:8000/live/fati/fati/1054.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-6
-http://213.32.6.176:8000/live/fati/fati/1055.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-7
-http://213.32.6.176:8000/live/fati/fati/1056.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-8
-http://213.32.6.176:8000/live/fati/fati/1057.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-9
-http://213.32.6.176:8000/live/fati/fati/1058.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-10
-http://213.32.6.176:8000/live/fati/fati/1059.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-11
-http://213.32.6.176:8000/live/fati/fati/1060.ts
-#EXTINF:-1,Iptv4sat.com BEINSPORT-12
-http://213.32.6.176:8000/live/fati/fati/1061.ts
-#EXTINF:-1,Iptv4sat.com beIN_SPORTS_1HD
-http://213.32.6.176:8000/live/fati/fati/5051.ts
-#EXTINF:-1,Iptv4sat.com beIN_SPORTS_2HD
-http://213.32.6.176:8000/live/fati/fati/5050.ts
-#EXTINF:-1,Iptv4sat.com beIN_SPORTS_3HD
-http://213.32.6.176:8000/live/fati/fati/5049.ts
-#EXTINF:-1,Iptv4sat.com beIN_SPORTS_4HD
-http://213.32.6.176:8000/live/fati/fati/5048.ts
-#EXTINF:-1,Iptv4sat.com beIN_SPORTS_5HD
-http://213.32.6.176:8000/live/fati/fati/5047.ts
-#EXTINF:-1,Iptv4sat.com beIN_SPORTS_6HD
-http://213.32.6.176:8000/live/fati/fati/5046.ts
-#EXTINF:-1,Iptv4sat.com beIN_SPORTS_7HD
-http://213.32.6.176:8000/live/fati/fati/5045.ts
-#EXTINF:-1,Iptv4sat.com beIN_SPORTS_8HD
-http://213.32.6.176:8000/live/fati/fati/5044.ts
-#EXTINF:-1,Iptv4sat.com beIN_SPORTS_9HD
-http://213.32.6.176:8000/live/fati/fati/5043.ts
-#EXTINF:-1,Iptv4sat.com beIN_SPORTS_10HD
-http://213.32.6.176:8000/live/fati/fati/5042.ts
-#EXTINF:-1,Iptv4sat.com BEIN-NEWS-HD
-http://213.32.6.176:8000/live/fati/fati/1283.ts
-#EXTINF:-1,Iptv4sat.com beinsportsnews
-http://213.32.6.176:8000/live/fati/fati/3524.ts
-#EXTINF:-1,Iptv4sat.com beINSPORTSHD
-http://213.32.6.176:8000/live/fati/fati/3528.ts
-#EXTINF:-1,Iptv4sat.com Bein-MOVIES-1
-http://213.32.6.176:8000/live/fati/fati/1062.ts
-#EXTINF:-1,Iptv4sat.com Bein-MOVIES-2
-http://213.32.6.176:8000/live/fati/fati/1063.ts
-#EXTINF:-1,Iptv4sat.com Bein-MOVIES-3
-http://213.32.6.176:8000/live/fati/fati/4315.ts
-#EXTINF:-1,Iptv4sat.com Bein-MOVIES-4
-http://213.32.6.176:8000/live/fati/fati/4732.ts
-#EXTINF:-1,Iptv4sat.com AD_SPORT_1HD
-http://213.32.6.176:8000/live/fati/fati/4949.ts
-#EXTINF:-1,Iptv4sat.com AD_SPORT_2HD
-http://213.32.6.176:8000/live/fati/fati/4950.ts
-#EXTINF:-1,Iptv4sat.com AD_SPORT_3HD
-http://213.32.6.176:8000/live/fati/fati/4951.ts
-#EXTINF:-1,Iptv4sat.com AD_SPORT_4HD
-http://213.32.6.176:8000/live/fati/fati/4952.ts
-#EXTINF:-1,Iptv4sat.com AD_SPORT_5HD
-http://213.32.6.176:8000/live/fati/fati/4953.ts
-#EXTINF:-1,Iptv4sat.com OSN-Sports-1-HD
-http://213.32.6.176:8000/live/fati/fati/4741.ts
-#EXTINF:-1,Iptv4sat.com OSN-Sports-2-HD
-http://213.32.6.176:8000/live/fati/fati/4740.ts
-#EXTINF:-1,Iptv4sat.com OSN-Sports-3-HD
-http://213.32.6.176:8000/live/fati/fati/4739.ts
-#EXTINF:-1,Iptv4sat.com OSN-Sports-4-HD
-http://213.32.6.176:8000/live/fati/fati/4738.ts
-#EXTINF:-1,Iptv4sat.com SHOW_WWE
-http://213.32.6.176:8000/live/fati/fati/3999.ts
-#EXTINF:-1,Iptv4sat.com SHOW_KUNG.FU
-http://213.32.6.176:8000/live/fati/fati/4052.ts
-#EXTINF:-1,Iptv4sat.com DE:Sky_Sport_Austria_HD
-http://213.32.6.176:8000/live/fati/fati/7895.ts
-#EXTINF:-1,Iptv4sat.com DE:SKY_Sport_News_HD
-http://213.32.6.176:8000/live/fati/fati/7894.ts
-#EXTINF:-1,Iptv4sat.com DE:Sky_Sport_Plus_1_HD
-http://213.32.6.176:8000/live/fati/fati/7893.ts
-#EXTINF:-1,Iptv4sat.com UK::Boxnation
-http://213.32.6.176:8000/live/fati/fati/7634.ts
-#EXTINF:-1,Iptv4sat.com UK::BT SPORT 1
-http://213.32.6.176:8000/live/fati/fati/7691.ts
-#EXTINF:-1,Iptv4sat.com UK::BT SPORT 2
-http://213.32.6.176:8000/live/fati/fati/7690.ts
-#EXTINF:-1,Iptv4sat.com UK::BT SPORT 3
-http://213.32.6.176:8000/live/fati/fati/7689.ts
-#EXTINF:-1,Iptv4sat.com UK::BT Sport Extra 1
-http://213.32.6.176:8000/live/fati/fati/7629.ts
-#EXTINF:-1,Iptv4sat.com UK::BT Sport Extra 2
-http://213.32.6.176:8000/live/fati/fati/7628.ts
-#EXTINF:-1,Iptv4sat.com UK::BT Sport Extra 3
-http://213.32.6.176:8000/live/fati/fati/7627.ts
-#EXTINF:-1,Iptv4sat.com UK::BT Sport Extra 4
-http://213.32.6.176:8000/live/fati/fati/7626.ts
-#EXTINF:-1,Iptv4sat.com UK::BT Sport Extra 5
-http://213.32.6.176:8000/live/fati/fati/7625.ts
-#EXTINF:-1,Iptv4sat.com UK::BT Sport Extra 6
-http://213.32.6.176:8000/live/fati/fati/7624.ts
-#EXTINF:-1,Iptv4sat.com UK::BT SPORTS 1 HD
-http://213.32.6.176:8000/live/fati/fati/7615.ts
-#EXTINF:-1,Iptv4sat.com UK::BT SPORTS 2 HD
-http://213.32.6.176:8000/live/fati/fati/7614.ts
-#EXTINF:-1,Iptv4sat.com UK::BT SPORTS 3 HD
-http://213.32.6.176:8000/live/fati/fati/7613.ts
-#EXTINF:-1,Iptv4sat.com UK::BT Sports ESPN
-http://213.32.6.176:8000/live/fati/fati/7688.ts
-#EXTINF:-1,Iptv4sat.com UK::eir Sport 1
-http://213.32.6.176:8000/live/fati/fati/7620.ts
-#EXTINF:-1,Iptv4sat.com UK::eir Sport 2
-http://213.32.6.176:8000/live/fati/fati/7653.ts
-#EXTINF:-1,Iptv4sat.com UK::Eurosport 1
-http://213.32.6.176:8000/live/fati/fati/7644.ts
-#EXTINF:-1,Iptv4sat.com UK::Eurosport 1 HD
-http://213.32.6.176:8000/live/fati/fati/7602.ts
-#EXTINF:-1,Iptv4sat.com UK::Eurosport 2
-http://213.32.6.176:8000/live/fati/fati/7643.ts
-#EXTINF:-1,Iptv4sat.com UK::Eurosport 2 HD
-http://213.32.6.176:8000/live/fati/fati/7601.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sport Mix HD
-http://213.32.6.176:8000/live/fati/fati/7603.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Action
-http://213.32.6.176:8000/live/fati/fati/7698.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Action HD
-http://213.32.6.176:8000/live/fati/fati/7610.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Arena
-http://213.32.6.176:8000/live/fati/fati/7695.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Arena HD
-http://213.32.6.176:8000/live/fati/fati/7607.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Cricket
-http://213.32.6.176:8000/live/fati/fati/7699.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Cricket HD
-http://213.32.6.176:8000/live/fati/fati/7611.ts
-#EXTINF:-1,Iptv4sat.com UK::SKY SPORTS F1
-http://213.32.6.176:8000/live/fati/fati/7701.ts
-#EXTINF:-1,Iptv4sat.com UK::SKY SPORTS F1 HD
-http://213.32.6.176:8000/live/fati/fati/7605.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Football
-http://213.32.6.176:8000/live/fati/fati/7694.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Football HD
-http://213.32.6.176:8000/live/fati/fati/7606.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Golf
-http://213.32.6.176:8000/live/fati/fati/7697.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Golf HD
-http://213.32.6.176:8000/live/fati/fati/7609.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Main Event
-http://213.32.6.176:8000/live/fati/fati/7700.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Main Event HD
-http://213.32.6.176:8000/live/fati/fati/7612.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Mix
-http://213.32.6.176:8000/live/fati/fati/7693.ts
-#EXTINF:-1,Iptv4sat.com UK::SKY SPORTS NEWS
-http://213.32.6.176:8000/live/fati/fati/7692.ts
-#EXTINF:-1,Iptv4sat.com UK::SKY SPORTS NEWS HD
-http://213.32.6.176:8000/live/fati/fati/7604.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Premier League
-http://213.32.6.176:8000/live/fati/fati/7696.ts
-#EXTINF:-1,Iptv4sat.com UK::Sky Sports Premier League HD
-http://213.32.6.176:8000/live/fati/fati/7608.ts
-#EXTINF:-1,Iptv4sat.com FR: BEINSPORT1
-http://213.32.6.176:8000/live/fati/fati/5366.ts
-#EXTINF:-1,Iptv4sat.com FR: BEINSPORT2
-http://213.32.6.176:8000/live/fati/fati/5367.ts
-#EXTINF:-1,Iptv4sat.com FR: BEINSPORT3
-http://213.32.6.176:8000/live/fati/fati/5368.ts
-#EXTINF:-1,Iptv4sat.com AR:BEIN_SPORTS_1_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7767.ts
-#EXTINF:-1,Iptv4sat.com AR:BEIN_SPORTS_2_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7766.ts
-#EXTINF:-1,Iptv4sat.com AR:BEIN_SPORTS_3_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7765.ts
-#EXTINF:-1,Iptv4sat.com AR:BEIN_SPORTS_4_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7764.ts
-#EXTINF:-1,Iptv4sat.com AR:BEIN_SPORTS_5_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7763.ts
-#EXTINF:-1,Iptv4sat.com AR:BEIN_SPORTS_6_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7762.ts
-#EXTINF:-1,Iptv4sat.com AR:BEIN_SPORTS_7_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7761.ts
-#EXTINF:-1,Iptv4sat.com AR:BEIN_SPORTS_8_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7760.ts
-#EXTINF:-1,Iptv4sat.com AR:BEIN_SPORTS_9_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7759.ts
-#EXTINF:-1,Iptv4sat.com AR:BEIN_SPORTS_10_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7758.ts
-#EXTINF:-1,Iptv4sat.com |AR| BEIN SPORT HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12745.ts
-#EXTINF:-1,Iptv4sat.com AR:BEIN_NEWS_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7757.ts
+<item>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] Santi Rodriguez [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>$doregex[getUrl]</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/monologo-santi-rodriguez-el-rockero-33828/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/monologo-santi-rodriguez-el-rockero-33828/list,1,1</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] Eva Hache [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>$doregex[getUrl]</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/monologos-eva-h-el-rockero-33830/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/monologos-eva-h-el-rockero-33830/list,1,1</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] Goyo Jimenez [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>$doregex[getUrl]</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/monologos-goyo-jimenez-el-rockero-33807/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/monologos-goyo-jimenez-el-rockero-33807/list,1,1</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
