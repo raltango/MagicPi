@@ -37,8 +37,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/d8t7Cz4.jpg</thumbnail>
+<fanart>https://i.imgur.com/VS5Nqfo.jpg</fanart>
 </item>
 
 <item>
@@ -75,8 +75,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/d8t7Cz4.jpg</thumbnail>
+<fanart>https://i.imgur.com/VS5Nqfo.jpg</fanart>
 </item>
 
 <item>
@@ -113,8 +113,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/d8t7Cz4.jpg</thumbnail>
+<fanart>https://i.imgur.com/VS5Nqfo.jpg</fanart>
 </item>
 
 <item>
@@ -151,8 +151,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/d8t7Cz4.jpg</thumbnail>
+<fanart>https://i.imgur.com/VS5Nqfo.jpg</fanart>
 </item>
 
 <item>
@@ -189,6 +189,6 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/d8t7Cz4.jpg</thumbnail>
+<fanart>https://i.imgur.com/VS5Nqfo.jpg</fanart>
 </item>
