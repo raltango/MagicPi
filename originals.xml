@@ -34,7 +34,7 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/8oAoOwt.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -72,7 +72,7 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/E4UR0Kh.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -110,6 +110,6 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/hOZZI9e.jpg</thumbnail>
+<fanart>https://i.imgur.com/g2B0iJy.jpg</fanart>
 </item>
