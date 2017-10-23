@@ -16,8 +16,8 @@
 <item>
 <title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP EEUU -  CARRERA[/COLOR]</title>
 <multilink>
-<link>https://archive.org/download/Formula.1.GP.USA.Carrera.2017.MovistarF1.720p.EventosHQ/Formula.1.GP.USA.Carrera.2017.MovistarF1.720p.EventosHQ.mp4</link>
-<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-carreras-90233</link>
+<link>https://archive.org/download/Formula.1.GP.USA.Carrera.2017.MovistarF1.720p.EventosHQ/Formula.1.GP.USA.Carrera.2017.MovistarF1.720p.EventosHQ.mp4$$lsname=GP EEUU Opción 2</link>
+<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-carreras-90233$$lsname=GP EEUU Opción 1</link>
 <thumbnail>ttps://i.imgur.com/0FKXVhT.png</thumbnail>
 <fanart></fanart>
 <regex><name>getUrl</name>
