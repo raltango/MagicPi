@@ -7,38 +7,9 @@
 </item>
 
 <item>
-<title>[COLOR deeppink](NUEVO)16 ->[/COLOR][COLOR powderblue]----------------- 2017 GP EEUU : Circuito de las americas -----------------[/COLOR]</title>
+<title>[COLOR deeppink](NUEVO)17 ->[/COLOR][COLOR powderblue]----------------- 2017 GP EEUU : Circuito de las americas -----------------[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>https://i.imgur.com/0FKXVhT.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP EEUU -  CARRERA[/COLOR][COLOR yellow]( OPCIÓN 2 ) [/COLOR]</title>
-<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-carreras-90233</link>
-<thumbnail>ttps://i.imgur.com/0FKXVhT.png</thumbnail>
-<fanart></fanart>
-<regex><name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re , requests 
-def GetLSProData(page_data,Cookie_Jar,m):
- url='http://diskokosmiko.mx/josele89/f1-carreras-90233'
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
- r = requests.get(url, headers=headers).text
- vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
- #print data_a
- ref = url
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=90233', headers=headers, data=data_a).text
- movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
- print movie 
- return movie 
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>ttps://i.imgur.com/0FKXVhT.png</thumbnail>
 <fanart></fanart>
 </item>
 
