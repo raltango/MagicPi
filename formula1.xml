@@ -16,21 +16,7 @@
 <item>
 <title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP EEUU -  CARRERA[/COLOR]</title>
 <multilink>
-<link>$doregex[id3]</link>
-<regex>
-<name>id3</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-    import urlresolver
-    url = 'https://archive.org/details/Formula.1.GP.USA.Carrera.2017.MovistarF1.720p.EventosHQ'
-    try:
-        u = urlresolver.resolve(url)
-    except:
-        u = 'https://archive.org/download/Formula.1.GP.USA.Carrera.2017.MovistarF1.720p.EventosHQ/Formula.1.GP.USA.Carrera.2017.MovistarF1.720p.EventosHQ.mp4'
-    return u
-]]></expres>
-<page></page>
-</regex>
+<link>https://archive.org/download/Formula.1.GP.USA.Carrera.2017.MovistarF1.720p.EventosHQ/Formula.1.GP.USA.Carrera.2017.MovistarF1.720p.EventosHQ.mp4</link>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-carreras-90233</link>
 <thumbnail>ttps://i.imgur.com/0FKXVhT.png</thumbnail>
 <fanart></fanart>
