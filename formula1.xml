@@ -22,7 +22,7 @@
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
     import urlresolver
-    url = 'https://archive.org/download/Formula.1.GP.USA.Carrera.2017.MovistarF1.720p.EventosHQ/Formula.1.GP.USA.Carrera.2017.MovistarF1.720p.EventosHQ.mp4'
+    url = 'https://archive.org/details/Formula.1.GP.USA.Carrera.2017.MovistarF1.720p.EventosHQ'
     try:
         u = urlresolver.resolve(url)
     except:
