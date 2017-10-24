@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[UPPERCASE][COLOR deeppink]MOVISTAR ESTRENOS[/UPPERCASE][/COLOR]</title>
+<title>[UPPERCASE][COLOR white]MOVISTAR ESTRENOS[/UPPERCASE][/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -14,7 +14,7 @@
 </item>
 
 <item>
-		<title>[COLOR deeppink]MOVISTAR ACCION[/COLOR]</title>
+		<title>[COLOR white]MOVISTAR ACCION[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=accion&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/maccion</referer>
 <thumbnail>https://4.bp.blogspot.com/-fChv3dY38_w/V6b5Q2-yRWI/AAAAAAAAASU/IUWHNJk7VBMrAB0_H-YGoeyNjXa7n__fgCLcB/s1600/movista-accion.png</thumbnail>
@@ -22,7 +22,7 @@
 	
 	
 <item>
-		<title>[COLOR deeppink]MOVISTAR DCINE Ñ[/COLOR]</title>
+		<title>[COLOR white]MOVISTAR DCINE Ñ[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=dicneesp&width=100%&height=100%</sportsdevil>
 		<referer>http://telefivegb.com/animacion/ver-el-canal-dcine-n-en-vivo-y-gratis-online/</referer>	
 		<thumbnail>http://vercanalestv.com/imagenes/movistar-dcine-espanol.jpg</thumbnail> 
@@ -30,7 +30,7 @@
 
 	
 	<item>
-		<title>[COLOR deeppink]MOVISTAR DCINE[/COLOR]</title>
+		<title>[COLOR white]MOVISTAR DCINE[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=dicneesp&width=588&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/dcinen</referer>	
 		<thumbnail>https://2.bp.blogspot.com/-jmf0Zi7ACYw/V6b5REmQwXI/AAAAAAAAASY/9hSaAuCW-TE2Equ1bZTrai0DLqBavWWhQCLcB/s1600/movistar-dcine.png </thumbnail> 
@@ -40,7 +40,7 @@
 	
 	
 		<item>
-		<title>[COLOR deeppink]HOLLYWOOD[/COLOR]</title>
+		<title>[COLOR white]HOLLYWOOD[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=397&autoplay=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/hollywood</referer>
 		<thumbnail>https://lh3.googleusercontent.com/-NIKUf7DhHEo/V8tSUpFiA4I/AAAAAAAAAgs/RZHwibnrFW8kUm4lTKCOKd2IpXS_9yF7QCEw/h120/hollywood.png </thumbnail> 
@@ -48,7 +48,7 @@
 
 	
 		<item>
-		<title>[COLOR deeppink]TCM[/COLOR]</title>
+		<title>[COLOR white]TCM[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=tcmesp&width=650&height=397&autoplay=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/tcm</referer>
 		<thumbnail>http://verplusonline.com/wp-content/uploads/2015/09/tcm.png </thumbnail> 
@@ -56,21 +56,21 @@
 	
 	
 	<item>
-		<title>[COLOR deeppink]TNT[/COLOR]</title>
+		<title>[COLOR white]TNT[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=tntesp&width=650&height=397&autoplay=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/tnt</referer>
 		<thumbnail>https://lh3.googleusercontent.com/-P2MdC8V3lZk/V8tSVpYgdnI/AAAAAAAAAgs/M5CmdS95ZGsypwacQ6QO3TE30azw77VwgCEw/h120/tnt1.png </thumbnail> 
 	</item>
 	
 	<item>
-		<title>[COLOR deeppink]MOVISTAR SERIES[/COLOR]</title>
+		<title>[COLOR white]MOVISTAR SERIES[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=mseries&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/m_series</referer>	
 		<thumbnail>http://cinestrenostv.tv/img/series.png</thumbnail>
 	</item>
 	
 	<item>
-<title>[UPPERCASE][COLOR deeppink]  MOVISTAR SERIES XTRA[/UPPERCASE][/COLOR] </title>
+<title>[UPPERCASE][COLOR white]  MOVISTAR SERIES XTRA[/UPPERCASE][/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
@@ -82,7 +82,7 @@
 	
 	
 		<item>
-		<title>[COLOR deeppink]#0[/COLOR]</title>
+		<title>[COLOR white]#0[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=pluscero&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/movistar0</referer>
 		<thumbnail>https://3.bp.blogspot.com/-4Wt-_jiYlR8/V6cNwv_mqhI/AAAAAAAAATU/YZ-ULgcXaXodXW0wdLTG7gV2CdNzrH8iACLcB/s1600/movistar-0.png </thumbnail>
