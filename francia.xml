@@ -1,88 +1,55 @@
 #EXTM3U
-#EXTINF:-1,- ▼   FRENCH ▼ -
-#EXTINF:-1,FR: TF1
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5183.ts
-#EXTINF:-1,FR: France 2 HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5174.ts
-#EXTINF:-1,FR: France 3 HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5175.ts
-#EXTINF:-1,FR: France 5 HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5176.ts
-#EXTINF:-1,FR: 6TER
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5140.ts
-#EXTINF:-1,FR: BOING
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5144.ts
-#EXTINF:-1,FR: BOOMERANG
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5145.ts
-#EXTINF:-1,FR: Canal J
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5152.ts
-#EXTINF:-1,FR: Cartoon Network
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5153.ts
-#EXTINF:-1,FR: Cherie25 HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5154.ts
-#EXTINF:-1,FR: Cine Cassic HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5155.ts
-#EXTINF:-1,FR: Cine Emotion
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5156.ts
-#EXTINF:-1,FR: Cine Famiz
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5157.ts
-#EXTINF:-1,FR: Cine Frisson HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5158.ts
-#EXTINF:-1,FR: Cine FX
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5159.ts
-#EXTINF:-1,FR: Cine Polar
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5160.ts
-#EXTINF:-1,FR: Cine Premier HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5161.ts
-#EXTINF:-1,FR: Comedie HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5162.ts
-#EXTINF:-1,FR: BeinSport 1 HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5141.ts
-#EXTINF:-1,FR: BeinSport 2 HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5142.ts
-#EXTINF:-1,FR: BeinSport 3 HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5143.ts
-#EXTINF:-1,FR: EuroSport 1
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5172.ts
-#EXTINF:-1,FR: EuroSport 2
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5173.ts
-#EXTINF:-1,FR: Discovery HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5163.ts
-#EXTINF:-1,FR: Discovery Science HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5164.ts
-#EXTINF:-1,FR: Disney Channel
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5165.ts
-#EXTINF:-1,FR: Disney Channel  1 HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5166.ts
-#EXTINF:-1,FR: Disney Cinema
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5167.ts
-#EXTINF:-1,FR: Disney Junior
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5168.ts
-#EXTINF:-1,FR: Disney Xd HD
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5169.ts
-#EXTINF:-1,FR: E Entertainment
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5170.ts
-#EXTINF:-1,FR: Euronews
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5171.ts
-#EXTINF:-1,FR: HD1
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5177.ts
-#EXTINF:-1,FR: M6
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5178.ts
-#EXTINF:-1,FR: NRJ 12
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5179.ts
-#EXTINF:-1,FR: NT1
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5180.ts
-#EXTINF:-1,FR: PIWI
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5181.ts
-#EXTINF:-1,FR: RTL 9
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5182.ts
-#EXTINF:-1,FR: TIJI
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5184.ts
-#EXTINF:-1,FR: TMC
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5185.ts
-#EXTINF:-1,FR: TV BREIZH
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5186.ts
-#EXTINF:-1,FR: W9
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5187.ts
-#EXTINF:-1,FR: ZOUZOUS
-http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5188.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 10" tvg-logo="" group-title="FR",FR: Bein Sport Max 10
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56238.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 5" tvg-logo="" group-title="FR",FR: Bein Sport Max 5
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56239.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 6" tvg-logo="" group-title="FR",FR: Bein Sport Max 6
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56240.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 7" tvg-logo="" group-title="FR",FR: Bein Sport Max 7
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56241.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 8" tvg-logo="" group-title="FR",FR: Bein Sport Max 8
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56242.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 9" tvg-logo="" group-title="FR",FR: Bein Sport Max 9
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN SPORTS 1 HD (1080P)" tvg-logo="" group-title="FR",FR: BeIN SPORTS 1 HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56298.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 1 HD backup" tvg-logo="" group-title="FR",FR: Bein Sports 1 HD backup
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56275.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN SPORTS 2 HD (1080P)" tvg-logo="" group-title="FR",FR: BeIN SPORTS 2 HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56297.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN SPORTS 3 HD (1080P)" tvg-logo="" group-title="FR",FR: BeIN SPORTS 3 HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56296.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: beIN SPORTS 3HD" tvg-logo="" group-title="FR",FR: beIN SPORTS 3HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56149.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: beIN SPORTS1 HD" tvg-logo="" group-title="FR",FR: beIN SPORTS1 HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56150.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BFM SPORT" tvg-logo="" group-title="FR",FR: BFM SPORT
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Sport" tvg-logo="" group-title="FR",FR: Canal  Sport
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56231.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Sport HD (1080P)" tvg-logo="" group-title="FR",FR: Canal  Sport HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56294.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Eurosport 1" tvg-logo="" group-title="FR",FR: Eurosport 1
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56195.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Eurosport 2" tvg-logo="" group-title="FR",FR: Eurosport 2
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56196.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EUROSPORT2" tvg-logo="" group-title="FR",FR: EUROSPORT2
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56197.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: INFOSPORT" tvg-logo="" group-title="FR",FR: INFOSPORT
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56188.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Ma Chaine Sport HD" tvg-logo="" group-title="FR",FR: Ma Chaine Sport HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56182.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR SPORT 3 backup" tvg-logo="" group-title="FR",FR: SFR SPORT 3 backup
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56276.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR Sport 4 4K" tvg-logo="" group-title="FR",FR: SFR Sport 4 4K
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56131.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR sport 5" tvg-logo="" group-title="FR",FR: SFR sport 5
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56127.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR: Sport 1" tvg-logo="" group-title="FR",FR: SFR: Sport 1
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56147.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR: Sport 2" tvg-logo="" group-title="FR",FR: SFR: Sport 2
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56146.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR: Sport 3" tvg-logo="" group-title="FR",FR: SFR: Sport 3
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56145.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR2 SPORT HD (backup)" tvg-logo="" group-title="FR",FR: SFR2 SPORT HD (backup)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56277.ts
