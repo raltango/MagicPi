@@ -1,55 +1,325 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 10" tvg-logo="" group-title="FR",FR: Bein Sport Max 10
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56238.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 5" tvg-logo="" group-title="FR",FR: Bein Sport Max 5
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56239.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 6" tvg-logo="" group-title="FR",FR: Bein Sport Max 6
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56240.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 7" tvg-logo="" group-title="FR",FR: Bein Sport Max 7
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56241.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 8" tvg-logo="" group-title="FR",FR: Bein Sport Max 8
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56242.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 9" tvg-logo="" group-title="FR",FR: Bein Sport Max 9
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56243.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN SPORTS 1 HD (1080P)" tvg-logo="" group-title="FR",FR: BeIN SPORTS 1 HD (1080P)
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56298.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 1 HD backup" tvg-logo="" group-title="FR",FR: Bein Sports 1 HD backup
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56275.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN SPORTS 2 HD (1080P)" tvg-logo="" group-title="FR",FR: BeIN SPORTS 2 HD (1080P)
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56297.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN SPORTS 3 HD (1080P)" tvg-logo="" group-title="FR",FR: BeIN SPORTS 3 HD (1080P)
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56296.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: beIN SPORTS 3HD" tvg-logo="" group-title="FR",FR: beIN SPORTS 3HD
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56149.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: beIN SPORTS1 HD" tvg-logo="" group-title="FR",FR: beIN SPORTS1 HD
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56150.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BFM SPORT" tvg-logo="" group-title="FR",FR: BFM SPORT
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56112.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Sport" tvg-logo="" group-title="FR",FR: Canal  Sport
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56231.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Sport HD (1080P)" tvg-logo="" group-title="FR",FR: Canal  Sport HD (1080P)
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56294.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Eurosport 1" tvg-logo="" group-title="FR",FR: Eurosport 1
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56195.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Eurosport 2" tvg-logo="" group-title="FR",FR: Eurosport 2
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56196.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: EUROSPORT2" tvg-logo="" group-title="FR",FR: EUROSPORT2
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56197.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: INFOSPORT" tvg-logo="" group-title="FR",FR: INFOSPORT
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56188.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Ma Chaine Sport HD" tvg-logo="" group-title="FR",FR: Ma Chaine Sport HD
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56182.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR SPORT 3 backup" tvg-logo="" group-title="FR",FR: SFR SPORT 3 backup
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56276.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR Sport 4 4K" tvg-logo="" group-title="FR",FR: SFR Sport 4 4K
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56131.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR sport 5" tvg-logo="" group-title="FR",FR: SFR sport 5
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56127.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR: Sport 1" tvg-logo="" group-title="FR",FR: SFR: Sport 1
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56147.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR: Sport 2" tvg-logo="" group-title="FR",FR: SFR: Sport 2
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56146.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR: Sport 3" tvg-logo="" group-title="FR",FR: SFR: Sport 3
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56145.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR2 SPORT HD (backup)" tvg-logo="" group-title="FR",FR: SFR2 SPORT HD (backup)
-http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56277.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : Bein max 4" tvg-logo="" group-title="FR",FR : Bein max 4
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56269.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : EURONEWS" tvg-logo="" group-title="FR",FR : EURONEWS
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : FRANCE 3" tvg-logo="" group-title="FR",FR : FRANCE 3
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : RTL9" tvg-logo="" group-title="FR",FR : RTL9
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56266.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : TELETOON" tvg-logo="" group-title="FR",FR : TELETOON
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56265.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR : W9" tvg-logo="" group-title="FR",FR : W9
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56264.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  Cartoon Network HD" tvg-logo="" group-title="FR",FR:  Cartoon Network HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  Discovery Science HD" tvg-logo="" group-title="FR",FR:  Discovery Science HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56260.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  Disney Jr Fr" tvg-logo="" group-title="FR",FR:  Disney Jr Fr
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56259.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  Nat Geo HD" tvg-logo="" group-title="FR",FR:  Nat Geo HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56258.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  Nat Geo Wild  HD" tvg-logo="" group-title="FR",FR:  Nat Geo Wild  HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  NRJ12 HD" tvg-logo="" group-title="FR",FR:  NRJ12 HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: 13 EME RUE HD" tvg-logo="" group-title="FR",FR: 13 EME RUE HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: 6TER HD" tvg-logo="" group-title="FR",FR: 6TER HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56254.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 10" tvg-logo="" group-title="FR",FR: A LA CARTE 10
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 7" tvg-logo="" group-title="FR",FR: A LA CARTE 7
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56252.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 8" tvg-logo="" group-title="FR",FR: A LA CARTE 8
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56251.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 9" tvg-logo="" group-title="FR",FR: A LA CARTE 9
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56250.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: AB Moteur HD" tvg-logo="" group-title="FR",FR: AB Moteur HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56249.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: AB1" tvg-logo="" group-title="FR",FR: AB1
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56248.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: AB3" tvg-logo="" group-title="FR",FR: AB3
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56247.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: ACTION" tvg-logo="" group-title="FR",FR: ACTION
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56246.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: ANIMAUX" tvg-logo="" group-title="FR",FR: ANIMAUX
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56245.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: ARTE HD" tvg-logo="" group-title="FR",FR: ARTE HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BE CURIOUS TV HD (1080P)" tvg-logo="" group-title="FR",FR: BE CURIOUS TV HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56299.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: beINS PORTS 2HD" tvg-logo="" group-title="FR",FR: beINS PORTS 2HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56151.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BFM business" tvg-logo="" group-title="FR",FR: BFM business
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56279.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BFM TV" tvg-logo="" group-title="FR",FR: BFM TV
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56204.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Boing" tvg-logo="" group-title="FR",FR: Boing
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56262.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BOOMERANG HD" tvg-logo="" group-title="FR",FR: BOOMERANG HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: C8" tvg-logo="" group-title="FR",FR: C8
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56236.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Cinema" tvg-logo="" group-title="FR",FR: Canal  Cinema
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56235.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Decale" tvg-logo="" group-title="FR",FR: Canal  Decale
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56234.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Family" tvg-logo="" group-title="FR",FR: Canal  Family
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56233.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL  HD (1080P)" tvg-logo="" group-title="FR",FR: CANAL  HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56295.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Series" tvg-logo="" group-title="FR",FR: Canal  Series
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56232.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL CINEMA HD (1080P)" tvg-logo="" group-title="FR",FR: CANAL CINEMA HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56293.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL HD" tvg-logo="" group-title="FR",FR: CANAL HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56205.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL J" tvg-logo="" group-title="FR",FR: CANAL J
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56230.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 1" tvg-logo="" group-title="FR",FR: CANAL PLAY 1
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56229.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 2" tvg-logo="" group-title="FR",FR: CANAL PLAY 2
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56228.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 3" tvg-logo="" group-title="FR",FR: CANAL PLAY 3
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56227.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 4" tvg-logo="" group-title="FR",FR: CANAL PLAY 4
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56226.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 5" tvg-logo="" group-title="FR",FR: CANAL PLAY 5
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56225.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 6" tvg-logo="" group-title="FR",FR: CANAL PLAY 6
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56224.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 7" tvg-logo="" group-title="FR",FR: CANAL PLAY 7
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56223.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cartoon Network HD (1080P)" tvg-logo="" group-title="FR",FR: Cartoon Network HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56292.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Chasse et Peche" tvg-logo="" group-title="FR",FR: Chasse et Peche
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56222.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CHERIE 25 HD" tvg-logo="" group-title="FR",FR: CHERIE 25 HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56221.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE CLASSIC" tvg-logo="" group-title="FR",FR: CINE CLASSIC
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56220.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE CLASSIC HD" tvg-logo="" group-title="FR",FR: CINE CLASSIC HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56219.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE EMOTION" tvg-logo="" group-title="FR",FR: CINE EMOTION
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56218.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE EMOTION HD" tvg-logo="" group-title="FR",FR: CINE EMOTION HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56217.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE FAMIZ" tvg-logo="" group-title="FR",FR: CINE FAMIZ
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56216.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cine Famiz HD" tvg-logo="" group-title="FR",FR: Cine Famiz HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56215.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cine Famiz HD (1080P)" tvg-logo="" group-title="FR",FR: Cine Famiz HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56291.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE FRISSON" tvg-logo="" group-title="FR",FR: CINE FRISSON
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56214.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE FRISSON HD" tvg-logo="" group-title="FR",FR: CINE FRISSON HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cine Frisson HD (1080P)" tvg-logo="" group-title="FR",FR: Cine Frisson HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56290.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE FX" tvg-logo="" group-title="FR",FR: CINE FX
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56212.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE POLAR" tvg-logo="" group-title="FR",FR: CINE POLAR
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56211.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE PREMIER HD" tvg-logo="" group-title="FR",FR: CINE PREMIER HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56210.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cine Premier HD (1080P)" tvg-logo="" group-title="FR",FR: Cine Premier HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56289.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: COMEDIE  HD" tvg-logo="" group-title="FR",FR: COMEDIE  HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56209.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: COMEDIE Plus" tvg-logo="" group-title="FR",FR: COMEDIE Plus
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56208.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CRIME DISTRICT HD" tvg-logo="" group-title="FR",FR: CRIME DISTRICT HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56274.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CSTAR HD" tvg-logo="" group-title="FR",FR: CSTAR HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56207.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: D17" tvg-logo="" group-title="FR",FR: D17
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56206.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: D8" tvg-logo="" group-title="FR",FR: D8
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56237.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISCOVERY" tvg-logo="" group-title="FR",FR: DISCOVERY
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Discovery Investigation HD" tvg-logo="" group-title="FR",FR: Discovery Investigation HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56280.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY CHANNEL" tvg-logo="" group-title="FR",FR: DISNEY CHANNEL
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56191.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY CINEMA" tvg-logo="" group-title="FR",FR: DISNEY CINEMA
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56192.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY CINEMA HD (1080P)" tvg-logo="" group-title="FR",FR: DISNEY CINEMA HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56288.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY JUNIOR HD (1080P)" tvg-logo="" group-title="FR",FR: DISNEY JUNIOR HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56287.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Disney xd  HD" tvg-logo="" group-title="FR",FR: Disney xd  HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56193.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: E! Entertainment" tvg-logo="" group-title="FR",FR: E! Entertainment
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56278.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: ELLE GIRL HD 1080" tvg-logo="" group-title="FR",FR: ELLE GIRL HD 1080
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EQUIDIA LIFE" tvg-logo="" group-title="FR",FR: EQUIDIA LIFE
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56300.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EQUIDIA live" tvg-logo="" group-title="FR",FR: EQUIDIA live
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56194.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 02 HD (1080P)" tvg-logo="" group-title="FR",FR: France 02 HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56286.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 03 HD (1080P)" tvg-logo="" group-title="FR",FR: France 03 HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56285.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 2" tvg-logo="" group-title="FR",FR: FRANCE 2
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56198.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 4  HD" tvg-logo="" group-title="FR",FR: France 4  HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56199.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 5 HD" tvg-logo="" group-title="FR",FR: France 5 HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56200.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France O  HD" tvg-logo="" group-title="FR",FR: France O  HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56201.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: GAME ONE" tvg-logo="" group-title="FR",FR: GAME ONE
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56202.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: GOLF  HD" tvg-logo="" group-title="FR",FR: GOLF  HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: GULLI HD" tvg-logo="" group-title="FR",FR: GULLI HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56203.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: HD1" tvg-logo="" group-title="FR",FR: HD1
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56190.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: HD1 HD (1080P)" tvg-logo="" group-title="FR",FR: HD1 HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56284.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: i Tele" tvg-logo="" group-title="FR",FR: i Tele
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56189.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: L'EQUIPE 21" tvg-logo="" group-title="FR",FR: L'EQUIPE 21
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56187.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: La Deux" tvg-logo="" group-title="FR",FR: La Deux
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56186.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: La une BE" tvg-logo="" group-title="FR",FR: La une BE
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56185.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: LCI" tvg-logo="" group-title="FR",FR: LCI
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56184.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: M6" tvg-logo="" group-title="FR",FR: M6
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56183.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: M6 HD (1080P)" tvg-logo="" group-title="FR",FR: M6 HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56283.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Mangas" tvg-logo="" group-title="FR",FR: Mangas
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56181.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MCM" tvg-logo="" group-title="FR",FR: MCM
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MCM TOP" tvg-logo="" group-title="FR",FR: MCM TOP
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56272.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: National geo wild" tvg-logo="" group-title="FR",FR: National geo wild
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56180.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Nick Jr" tvg-logo="" group-title="FR",FR: Nick Jr
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56271.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NICKELODEON HD" tvg-logo="" group-title="FR",FR: NICKELODEON HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56128.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NICKELODEON JUNIOR" tvg-logo="" group-title="FR",FR: NICKELODEON JUNIOR
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56179.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NRJ Hits" tvg-logo="" group-title="FR",FR: NRJ Hits
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56178.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NUMERO 23 HD" tvg-logo="" group-title="FR",FR: NUMERO 23 HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56177.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS CHOC HD" tvg-logo="" group-title="FR",FR: OCS CHOC HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56176.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS CITY" tvg-logo="" group-title="FR",FR: OCS CITY
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56175.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS GEANT" tvg-logo="" group-title="FR",FR: OCS GEANT
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56174.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS MAX" tvg-logo="" group-title="FR",FR: OCS MAX
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56173.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: OLTV HD" tvg-logo="" group-title="FR",FR: OLTV HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56172.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Orange Cine horreur HD" tvg-logo="" group-title="FR",FR: Orange Cine horreur HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56171.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Orange enquete exclusive HD" tvg-logo="" group-title="FR",FR: Orange enquete exclusive HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56170.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-logo="" group-title="FR",FR: PARAMOUNT CHANNEL HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56169.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PARIS PREMIERE  HD" tvg-logo="" group-title="FR",FR: PARIS PREMIERE  HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56168.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="" group-title="FR",FR: PARIS PREMIERE HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56167.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PIWI HD" tvg-logo="" group-title="FR",FR: PIWI HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56166.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PLANETE  HD" tvg-logo="" group-title="FR",FR: PLANETE  HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56165.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PLANETE A&E HD" tvg-logo="" group-title="FR",FR: PLANETE A&E HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56164.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PLANETE CI HD" tvg-logo="" group-title="FR",FR: PLANETE CI HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56163.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: rmc decouverte" tvg-logo="" group-title="FR",FR: rmc decouverte
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56161.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RTL TVI" tvg-logo="" group-title="FR",FR: RTL TVI
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56160.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RTS Deux" tvg-logo="" group-title="FR",FR: RTS Deux
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56159.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RTS Un" tvg-logo="" group-title="FR",FR: RTS Un
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56158.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SCIENCE ET VIE HD" tvg-logo="" group-title="FR",FR: SCIENCE ET VIE HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56157.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SCIENCES & VIE" tvg-logo="" group-title="FR",FR: SCIENCES & VIE
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56156.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Seasons" tvg-logo="" group-title="FR",FR: Seasons
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56270.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SERIE CLUB" tvg-logo="" group-title="FR",FR: SERIE CLUB
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56155.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Series Club HD" tvg-logo="" group-title="FR",FR: Series Club HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56154.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR: CINE A LA DEMANDE 1" tvg-logo="" group-title="FR",FR: SFR: CINE A LA DEMANDE 1
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56153.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR: CINE A LA DEMANDE 2" tvg-logo="" group-title="FR",FR: SFR: CINE A LA DEMANDE 2
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56152.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR: CINE A LA DEMANDE 3" tvg-logo="" group-title="FR",FR: SFR: CINE A LA DEMANDE 3
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56148.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Syfy HD" tvg-logo="" group-title="FR",FR: Syfy HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56144.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Syfy HD (1080P)" tvg-logo="" group-title="FR",FR: Syfy HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56282.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Teva" tvg-logo="" group-title="FR",FR: Teva
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56143.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TF1 HD" tvg-logo="" group-title="FR",FR: TF1 HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56142.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TF1 HD (1080P)" tvg-logo="" group-title="FR",FR: TF1 HD (1080P)
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56281.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Tiji" tvg-logo="" group-title="FR",FR: Tiji
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56141.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TOUTE LHISTOIRE" tvg-logo="" group-title="FR",FR: TOUTE LHISTOIRE
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56140.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TRACE URBAN" tvg-logo="" group-title="FR",FR: TRACE URBAN
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56126.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TV BREIZH HD" tvg-logo="" group-title="FR",FR: TV BREIZH HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56139.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: USHUAIA  HD" tvg-logo="" group-title="FR",FR: USHUAIA  HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56138.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Zouzou TV LOCAL" tvg-logo="" group-title="FR",FR: Zouzou TV LOCAL
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56137.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:A LA CARTE 5" tvg-logo="" group-title="FR",FR:A LA CARTE 5
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56136.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:A la Carte 6" tvg-logo="" group-title="FR",FR:A la Carte 6
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56135.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:A.LA.CARTE.1" tvg-logo="" group-title="FR",FR:A.LA.CARTE.1
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56134.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:A.LA.CARTE.3" tvg-logo="" group-title="FR",FR:A.LA.CARTE.3
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56133.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:A.LA.CARTE.4" tvg-logo="" group-title="FR",FR:A.LA.CARTE.4
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56132.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:CINE PREMIER" tvg-logo="" group-title="FR",FR:CINE PREMIER
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56130.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:FRANCE 24" tvg-logo="" group-title="FR",FR:FRANCE 24
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56129.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:NT1" tvg-logo="" group-title="FR",FR:NT1
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:TCM CINEMA" tvg-logo="" group-title="FR",FR:TCM CINEMA
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56118.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:TEVA/TMC" tvg-logo="" group-title="FR",FR:TEVA/TMC
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:TREK HD" tvg-logo="" group-title="FR",FR:TREK HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56116.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:TV5 MONDE" tvg-logo="" group-title="FR",FR:TV5 MONDE
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56115.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR:VOYAGE HD" tvg-logo="" group-title="FR",FR:VOYAGE HD
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: ARTE HD ( 1080P )" tvg-logo="" group-title="FR",VIP FR: ARTE HD ( 1080P )
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56125.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: BRAVA HD ( 1080P )" tvg-logo="" group-title="FR",VIP FR: BRAVA HD ( 1080P )
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56124.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: DISNEY CH HD ( 1080P )" tvg-logo="" group-title="FR",VIP FR: DISNEY CH HD ( 1080P )
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56123.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: DISNEY CHANNEL FHD 1080" tvg-logo="" group-title="FR",VIP FR: DISNEY CHANNEL FHD 1080
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56121.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: TMC HD ( 1080P )" tvg-logo="" group-title="FR",VIP FR: TMC HD ( 1080P )
+http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/56122.ts
