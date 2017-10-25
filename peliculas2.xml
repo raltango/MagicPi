@@ -3,7 +3,7 @@
 </item>
 <item>
 <title>[COLOR lime]pruebas[/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://verdirectotv.com/category/digitales-gratis/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<link>$doregex[GetPageUrl]|Referer=http://verdirectotv.com/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
 <name>GetPageUrl</name><expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/tve1.php</page>
 <referer>http://verdirectotv.com/ver-canal-plus-deportes-online-gratis-en-directo-hd/</referer>
