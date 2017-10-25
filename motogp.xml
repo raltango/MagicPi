@@ -55,5 +55,16 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR lime][COLOR=cyan][B][I]MotoGP [/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/motogp.php</page>
+<referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 
 
