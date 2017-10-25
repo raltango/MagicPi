@@ -77,5 +77,16 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR lime][COLOR=cyan][B][I]MTV [/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-mtv-espana-online-en-directo-gratis-24h-por-internet/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/mtv.php</page>
+<referer>http://www.vercanalestv.com/ver-mtv-espana-online-en-directo-gratis-24h-por-internet//</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 
 
