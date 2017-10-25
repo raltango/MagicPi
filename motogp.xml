@@ -80,5 +80,16 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR lime][COLOR=cyan][B][I]Bein Sports[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-bein-sport-espanol-online-y-en-directo-las-24h-por-internet-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://www.rivolabets.club/t.php</page>
+<referer>http://www.vercanalestv.com/ver-bein-sport-espanol-online-y-en-directo-las-24h-por-internet-en-vivo/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 
 
