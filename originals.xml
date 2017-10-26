@@ -229,7 +229,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > CASADOS A PRIMERA VISTA ( 2 TEMP. )    [/COLOR]</title>
+<title>[COLOR lime]   > CASADOS A PRIMERA VISTA ( 3 TEMP. )    [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -240,7 +240,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/lokario1/casados-a-primera-vista-temporada-2-20691/list,1,1</page>
+<page>http://diskokosmiko.mx/chicho306/casados-a-primera-vista-t3-49191/list,1,1</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -258,7 +258,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/lokario1/casados-a-primera-vista-temporada-2-20691/list,1,1</referer>
+<referer>http://diskokosmiko.mx/chicho306/casados-a-primera-vista-t3-49191/list,1,1</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
