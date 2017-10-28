@@ -138,7 +138,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-carreras-90233/motogp-malasia-2017-clasificacion-espn-eventoshq,1567067,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart></fanart>
-<regex><name>getUrl</name>
+<regex><name>getUrl,select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    ret = dialog.select('Choose a movie', ['Opcion 1', 'Opcion 2'])
+    channels = ['https://archive.org/download/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ.mp4', 'http://diskokosmiko.mx/josele89/f1-carreras-90233/motogp-malasia-2017-clasificacion-espn-eventoshq,1567067,list,1,1.mp4']
+    return channels[ret]
+]]></expres>
 <expres><![CDATA[#$pyFunction
 import re , requests 
 def GetLSProData(page_data,Cookie_Jar,m):
@@ -154,15 +162,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
  movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
  print movie 
  return movie 
-]]></expres>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-    import xbmcgui
-    dialog = xbmcgui.Dialog()
-    ret = dialog.select('Choose a movie', ['Opcion 1', 'Opcion 2'])
-    channels = ['https://archive.org/download/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ.mp4', 'http://diskokosmiko.mx/josele89/f1-carreras-90233/motogp-malasia-2017-clasificacion-espn-eventoshq,1567067,list,1,1.mp4']
-    return channels[ret]
 ]]></expres>
 <page></page>
 <cookieJar></cookieJar>
