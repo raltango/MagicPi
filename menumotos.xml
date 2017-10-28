@@ -18,9 +18,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     ret = dialog.select('Escoge Opción', ['Opcion 1', 'Opcion 2'])
     channels = ['https://archive.org/download/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ.mp4', 'http://diskokosmiko.mx/josele89/f1-carreras-90233/motogp-malasia-2017-clasificacion-espn-eventoshq,1567067,list,1,1.mp4']
     return channels[ret]
-]]></expres>
 <page></page>
-</regex>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-carreras-90233/motogp-malasia-2017-clasificacion-espn-eventoshq,1567067,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart></fanart>
