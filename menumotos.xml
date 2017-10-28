@@ -13,10 +13,20 @@
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia - Clasificación (MOTOGP)[/COLOR] [COLOR yellow]- ESPN[/COLOR] </title>        
-<link>https://archive.org/download/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ.mp4</link>
-<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia -[COLOR yellow] Clasificación[/COLOR][/COLOR] </title>
+<link>$doregex[select]</link>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    ret = dialog.select('Clasificación GP Malasia', ['[COLOR yellow]MotoGP[/COLOR]', '[COLOR yellow]Moto2[/COLOR]', '[COLOR yellow]Moto3[/COLOR]])
+    channels = ['https://archive.org/download/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ.mp4', 'https://archive.org/download/Moto2.Malasia.2017.Clasificacion.MovistarF1.EventosHQ/Moto2.Malasia.2017.Clasificacion.MovistarF1.EventosHQ.mp4', 'https://archive.org/download/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ/Moto3.Malasia.2017.Clasificacion.MovistarF1.EventosHQ.mp4']
+    return channels[ret]
+]]></expres>
+<page></page>
+</regex>
 </item>
 
 <item>
@@ -50,19 +60,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
-<item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia - Clasificación (MOTO2) [/COLOR] </title>        
-<link>https://archive.org/download/Moto2.Malasia.2017.Clasificacion.MovistarF1.EventosHQ/Moto2.Malasia.2017.Clasificacion.MovistarF1.EventosHQ.mp4</link>
-<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
-</item>
-
-<item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia - Clasificación (MOTO3)[/COLOR] </title>        
-<link>https://archive.org/download/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ/Moto3.Malasia.2017.Clasificacion.MovistarF1.EventosHQ.mp4</link>
-<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
-</item>
 
 <item>
 <title>[COLOR deeppink]-----------------[/COLOR][COLOR powderblue]16 ->  GP AUSTRALIA (Phillip Island)[/COLOR][COLOR deeppink]-----------------[/COLOR]</title>
