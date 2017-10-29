@@ -7,23 +7,54 @@
 </item>
 
 <item>
-<title>[COLOR deeppink](NUEVO)18 ->[/COLOR][COLOR powderblue]----------------- 2017 GP Malasia : Sepang -----------------[/COLOR]</title>
+<title>[COLOR deeppink](NUEVO)18 ->[/COLOR][COLOR powderblue]----------------- 2017 GP Mexico : Autodromo Hnos. Rodriguez -----------------[/COLOR]</title>
 <link>http://ignoreme</link>
-<thumbnail>https://i.imgur.com/0FKXVhT.png</thumbnail>
+<thumbnail>https://i.imgur.com/WuJUMpT.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP Malasia -  CLASIFICACION [/COLOR][COLOR yellow] ( Opción 1 )[/COLOR]</title>
-<link>https://archive.org/download/Formula.1.GP.Mexico.Clasificacion.2017.MovistarF1.EventosHQ/Formula.1.GP.Mexico.Clasificacion.2017.MovistarF1.EventosHQ.mp4</link>
+<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP Mexico -  CARRERA [/COLOR][COLOR yellow] ( Opción 1 )[/COLOR]</title>
+<link>$doregex[getUrl]|Referer=</link>
+<thumbnail>https://i.imgur.com/WuJUMpT.png</thumbnail>
+<fanart></fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url=''
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1568898', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.imgur.com/WuJUMpT.png</thumbnail>
+<fanart></fanart>
 <thumbnail></thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
 </item>
 
 <item>
-<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP Malasia -  CLASIFICACION [/COLOR][COLOR yellow] ( Opción 2 )[/COLOR]</title>
+<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP Mexico -  CLASIFICACION [/COLOR][COLOR yellow] ( Opción 1 )[/COLOR]</title>
+<link>https://archive.org/download/Formula.1.GP.Mexico.Clasificacion.2017.MovistarF1.EventosHQ/Formula.1.GP.Mexico.Clasificacion.2017.MovistarF1.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/WuJUMpT.png</thumbnail>
+<fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
+</item>
+
+<item>
+<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP Mexico -  CLASIFICACION [/COLOR][COLOR yellow] ( Opción 2 )[/COLOR]</title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-carreras-90233/formula-1-gp-mexico-clasificacion-2017-movistarf1-eventoshq,1568898,list,1,1.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/WuJUMpT.png</thumbnail>
 <fanart></fanart>
 <regex><name>getUrl</name>
 <expres><![CDATA[#$pyFunction
@@ -45,9 +76,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/WuJUMpT.png</thumbnail>
 <fanart></fanart>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/WuJUMpT.png</thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
 </item>
 
