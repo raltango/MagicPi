@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR yellow]   > CRONICAS VAMPIRICAS ( 8 TEMPORADAS)    [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>$doregex[getUrl]</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/cronicas-vampiricascastellano-todas-tempo-41883/list,1,8</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/cronicas-vampiricascastellano-todas-tempo-41883/list,1,8</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>[COLOR yellow]   > DINOTREN ( INFANTIL)    [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -39,6 +78,44 @@
 </item>
 
 <item>
+<title>[COLOR yellow]   > UN PASO ADELANTE     [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>$doregex[getUrl]</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/un-paso-adelante-todas-temporadas-45595/list,1,4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/un-paso-adelante-todas-temporadas-45595/list,1,4</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR yellow]   > ELEMENTARY (TEMP. 1 2 3 4 5)    [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -72,7 +149,7 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>http://es.web.img1.acsta.net/pictures/14/03/18/09/36/485305.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -464,14 +541,6 @@
 <link>ignorame</link>
 <externallink>https://pastebin.com/raw/Ppxtkqn1</externallink>
 <thumbnail>http://www.abc.es/media/play/2017/01/25/13ReasonsWhy_SPA-0191-k0hG-U202323256675GAG-510x700@abc.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR indianred]   > ELEMENTARY[/COLOR]</title>
-<link>ignorame</link>
-<externallink>https://pastebin.com/raw/CzggzL1q</externallink>
-<thumbnail>http://es.web.img1.acsta.net/pictures/14/03/18/09/36/485305.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
