@@ -16,7 +16,7 @@
 <title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia -[COLOR yellow] Clasificación[/COLOR][/COLOR] </title>
 <link>$doregex[select]</link>
 <regex>
-<name>select</name>
+<name>getUrl</name>
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
     import xbmcgui
@@ -67,20 +67,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Australia - [COLOR yellow]Carrera (MotoGP,Moto2,Moto3)[/COLOR] [/COLOR] </title>
-<link>$doregex[select]</link>
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-    import xbmcgui
-    dialog = xbmcgui.Dialog()
-    ret = dialog.select('Clasificación GP Australia', ['MotoGP', 'Moto2', 'Moto3'])
-    channels = ['https://archive.org/download/MotoGP.Australia.2017.Carrera.MovistarF1.EventosHQ/MotoGP.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4', 'https://archive.org/download/Moto2.Australia.2017.Carrera.MovistarF1.EventosHQ/Moto2.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4', 'https://archive.org/download/Moto3.Australia.2017.Carrera.MovistarF1.EventosHQ/Moto3.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4']
-    return channels[ret]
-]]></expres>
-<page></page>
-</regex>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Australia - Carrera (MOTOGP) [/COLOR] </title>        
+<link>https://archive.org/download/MotoGP.Australia.2017.Carrera.MovistarF1.EventosHQ/MotoGP.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
@@ -91,44 +81,65 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Australia - Carrera (MOTO2)[/COLOR] </title>        
+<link>https://archive.org/download/Moto2.Australia.2017.Carrera.MovistarF1.EventosHQ/Moto2.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Australia - Carrera (MOTO3)[/COLOR] </title>        
+<link>https://archive.org/download/Moto3.Australia.2017.Carrera.MovistarF1.EventosHQ/Moto3.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
 <title>[COLOR deeppink]-----------------[/COLOR][COLOR powderblue]15 ->  GP JAPON (Motegi).[/COLOR][COLOR deeppink]-----------------[/COLOR]</title>
 <link>http://ignoreme</link>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - [COLOR yellow]Carrera (MotoGP,Moto2,Moto3)[/COLOR] [/COLOR] </title>
-<link>$doregex[select]</link>
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-    import xbmcgui
-    dialog = xbmcgui.Dialog()
-    ret = dialog.select('Carrera GP Japón', ['MotoGP', 'Moto2', 'Moto3'])
-    channels = ['https://archive.org/download/MotoGP.Japon.2017.Carrera.Movistar.EventosHQ_20171015/MotoGP.Japon.2017.Carrera.Movistar.EventosHQ.mp4', 'https://archive.org/download/Moto.2.Japon.2017.Carrera.Movistar.EventosHQ/Moto.2.Japon.2017.Carrera.Movistar.EventosHQ.mp4', 'https://archive.org/download/Moto.3.Japon.2017.Carrera.Movistar.EventosHQ/Moto.3.Japon.2017.Carrera.Movistar.EventosHQ.mp4']
-    return channels[ret]
-]]></expres>
-<page></page>
-</regex>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Carrera (MOTOGP) [/COLOR]`[COLOR yellow] ¡Corregido![/COLOR] </title>        
+<link>https://archive.org/download/MotoGP.Japon.2017.Carrera.Movistar.EventosHQ_20171015/MotoGP.Japon.2017.Carrera.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - [COLOR yellow]Clasificación (MotoGP,Moto2,Moto3)[/COLOR] [/COLOR] </title>
-<link>$doregex[select]</link>
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-    import xbmcgui
-    dialog = xbmcgui.Dialog()
-    ret = dialog.select('Clasificación GP Japón', ['MotoGP', 'Moto2', 'Moto3'])
-    channels = ['https://archive.org/download/MotoGP.Japon.2017.Clasificacion.Movistar.EventosHQ/MotoGP.Japon.2017.Clasificacion.Movistar.EventosHQ.mp4', 'https://archive.org/download/Moto.2.Japon.2017.Clasificacion.Movistar.EventosHQ/Moto.2.Japon.2017.Clasificacion.Movistar.EventosHQ.mp4', 'https://archive.org/download/Moto.3.Japon.2017.Clasificacion.Movistar.EveHQ/Moto.3.Japon.2017.Clasificacion.Movistar.EveHQ.mp4']
-    return channels[ret]
-]]></expres>
-<page></page>
-</regex>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Clasificación (MOTOGP) [/COLOR]</title>        
+<link>https://archive.org/download/MotoGP.Japon.2017.Clasificacion.Movistar.EventosHQ/MotoGP.Japon.2017.Clasificacion.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
+<item>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Carrera (MOTO2) [/COLOR]</title>        
+<link>https://archive.org/download/Moto.2.Japon.2017.Carrera.Movistar.EventosHQ/Moto.2.Japon.2017.Carrera.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Clasificación (MOTO2) [/COLOR]</title>        
+<link>https://archive.org/download/Moto.2.Japon.2017.Clasificacion.Movistar.EventosHQ/Moto.2.Japon.2017.Clasificacion.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Carrera (MOTO3) [/COLOR]</title>        
+<link>https://archive.org/download/Moto.3.Japon.2017.Carrera.Movistar.EventosHQ/Moto.3.Japon.2017.Carrera.Movistar.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
+
+<item>
+<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Clasificación (MOTO3) [/COLOR]</title>        
+<link>https://archive.org/download/Moto.3.Japon.2017.Clasificacion.Movistar.EveHQ/Moto.3.Japon.2017.Clasificacion.Movistar.EveHQ.mp4</link>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+</item>
 
 <item>
 <title>[COLOR deeppink]-----------------[/COLOR][COLOR powderblue]14 ->  GP ARAGON (Motorland).[/COLOR][COLOR deeppink]-----------------[/COLOR]</title>
