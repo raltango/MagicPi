@@ -21,7 +21,7 @@
 def GetLSProData(page_data,Cookie_Jar,m):
     import xbmcgui
     dialog = xbmcgui.Dialog()
-    ret = dialog.select('Clasificación GP Malasia', ['MotoGP', 'Moto2', 'Moto3')]
+    ret = dialog.select('Clasificación GP Malasia', ['MotoGP', 'Moto2', 'Moto3'])
     channels = ['https://archive.org/download/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ.mp4', 'https://archive.org/download/Moto2.Malasia.2017.Clasificacion.MovistarF1.EventosHQ/Moto2.Malasia.2017.Clasificacion.MovistarF1.EventosHQ.mp4', 'https://archive.org/download/MotoGP.Malasia.2017.Clasificacion.ESPN.EventosHQ/Moto3.Malasia.2017.Clasificacion.MovistarF1.EventosHQ.mp4']
     return channels[ret]
 ]]></expres>
