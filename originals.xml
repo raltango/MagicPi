@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime]   > APM!     [/COLOR]</title>
+<title>[COLOR springgreen]   > APM!     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > CUARTO MILENIO     [/COLOR]</title>
+<title>[COLOR springgreen]   > CUARTO MILENIO     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -77,7 +77,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > CAZADORES DE MITOS     [/COLOR]</title>
+<title>[COLOR springgreen]   > CAZADORES DE MITOS     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -115,7 +115,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > PESADILLA EN LA COCINA      [/COLOR]</title>
+<title>[COLOR springgreen]   > PESADILLA EN LA COCINA      [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -153,7 +153,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > 21 DIAS CON SAMANTA      [/COLOR]</title>
+<title>[COLOR springgreen]   > 21 DIAS CON SAMANTA      [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -191,7 +191,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > NINJA WARRIOR     [/COLOR]</title>
+<title>[COLOR springgreen]   > NINJA WARRIOR     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -229,7 +229,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > CRIMENES IMPERFECTOS     [/COLOR]</title>
+<title>[COLOR springgreen]   > CRIMENES IMPERFECTOS     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -267,7 +267,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > VAYA SEMANITA    [/COLOR]</title>
+<title>[COLOR springgreen]   > VAYA SEMANITA    [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -305,7 +305,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > LOS GIPSY KINGS     [/COLOR]</title>
+<title>[COLOR springgreen]   > LOS GIPSY KINGS     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -343,7 +343,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > POLICIAS EN ACCION      [/COLOR]</title>
+<title>[COLOR springgreen]   > POLICIAS EN ACCION      [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -381,7 +381,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > LOS REYES DEL EMPEÑO     [/COLOR]</title>
+<title>[COLOR springgreen]   > LOS REYES DEL EMPEÑO     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -419,7 +419,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > EL JEFE INFILTRADO     [/COLOR]</title>
+<title>[COLOR springgreen]   > EL JEFE INFILTRADO     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -457,7 +457,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > HUMOR AMARILLO     [/COLOR]</title>
+<title>[COLOR springgreen]   > HUMOR AMARILLO     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -495,7 +495,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > EN TIERRA HOSTIL     [/COLOR]</title>
+<title>[COLOR springgreen]   > EN TIERRA HOSTIL     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -533,7 +533,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]   > CASADOS A PRIMERA VISTA ( 3 TEMP. )    [/COLOR]</title>
+<title>[COLOR springgreen]   > CASADOS A PRIMERA VISTA ( 3 TEMP. )    [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>

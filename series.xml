@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR yellow]   > AIDA   [/COLOR]</title>
+<title>[COLOR springgreen]   > AIDA   [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > CALICO ELECTRONICO   [/COLOR]</title>
+<title>[COLOR springgreen]   > CALICO ELECTRONICO   [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -77,7 +77,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > LOS HOMBRES DE PACO   [/COLOR]</title>
+<title>[COLOR springgreen]   > LOS HOMBRES DE PACO   [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -115,7 +115,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > LOS SIMPSONS   [/COLOR]</title>
+<title>[COLOR springgreen]   > LOS SIMPSONS   [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -153,7 +153,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > LAS AVENTRURAS DE LADYBUG   [/COLOR]</title>
+<title>[COLOR springgreen]   > LAS AVENTRURAS DE LADYBUG   [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -191,7 +191,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > LA PATRULLA CANINA   [/COLOR]</title>
+<title>[COLOR springgreen]   > LA PATRULLA CANINA   [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -229,7 +229,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > SCRUBS    [/COLOR]</title>
+<title>[COLOR springgreen]   > SCRUBS    [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -268,7 +268,7 @@
 
 
 <item>
-<title>[COLOR yellow]   > CRONICAS VAMPIRICAS ( 8 TEMPORADAS)    [/COLOR]</title>
+<title>[COLOR springgreen]   > CRONICAS VAMPIRICAS ( 8 TEMPORADAS)    [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -307,7 +307,7 @@
 
 
 <item>
-<title>[COLOR yellow]   > DINOTREN ( INFANTIL)    [/COLOR]</title>
+<title>[COLOR springgreen]   > DINOTREN ( INFANTIL)    [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -345,7 +345,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > UN PASO ADELANTE     [/COLOR]</title>
+<title>[COLOR springgreen]   > UN PASO ADELANTE     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -383,7 +383,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > ELEMENTARY (TEMP. 1 2 3 4 5)    [/COLOR]</title>
+<title>[COLOR springgreen]   > ELEMENTARY (TEMP. 1 2 3 4 5)    [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -422,7 +422,7 @@
 
 
 <item>
-<title>[COLOR skyblue]   > SUPER[/COLOR][COLOR yellow] MARIO[/COLOR][COLOR red] BROS[/COLOR]</title>
+<title>[COLOR springgreen]   > SUPER[/COLOR][COLOR springgreen] MARIO[/COLOR][COLOR red] BROS[/COLOR]</title>
 <thumbnail>http://i.imgur.com/cDb3DTV.png</thumbnail>
 <fanart>http://i.imgur.com/XDgjUks.jpg</fanart>
 <link>http://ignoreme</link>
@@ -430,7 +430,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > VELVET COLLECTION     [/COLOR]</title>
+<title>[COLOR springgreen]   > VELVET COLLECTION     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -468,7 +468,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > HAWAI 5.0 ( T-7 )     [/COLOR]</title>
+<title>[COLOR springgreen]   > HAWAI 5.0 ( T-7 )     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -506,7 +506,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > PLATS BRUTS     [/COLOR]</title>
+<title>[COLOR springgreen]   > PLATS BRUTS     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -544,7 +544,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]   > LOS VERDADEROS CAZAFANTASMAS ( INFANTIL )   [/COLOR]</title>
+<title>[COLOR springgreen]   > LOS VERDADEROS CAZAFANTASMAS ( INFANTIL )   [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -582,7 +582,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]   > CUENTOS DEL GUARDIAN DE LA CRIPTA ( SERIE ANIMADA )    [/COLOR]</title>
+<title>[COLOR springgreen]   > CUENTOS DEL GUARDIAN DE LA CRIPTA ( SERIE ANIMADA )    [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -620,7 +620,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]   > HISTORIAS DE LA CRIPTA    [/COLOR]</title>
+<title>[COLOR springgreen]   > HISTORIAS DE LA CRIPTA    [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -658,7 +658,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]   > DRAGON BALL Z ( COMPLETA)    [/COLOR]</title>
+<title>[COLOR springgreen]   > DRAGON BALL Z ( COMPLETA)    [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -696,7 +696,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]   > EL PRINCIPE DE BEL-AIR    [/COLOR]</title>
+<title>[COLOR springgreen]   > EL PRINCIPE DE BEL-AIR    [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -734,7 +734,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > LAS REGLAS DEL JUEGO     [/COLOR]</title>
+<title>[COLOR springgreen]   > LAS REGLAS DEL JUEGO     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -780,7 +780,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > TOMAS FALSAS : LA QUE SE AVECINA     [/COLOR]</title>
+<title>[COLOR springgreen]   > TOMAS FALSAS : LA QUE SE AVECINA     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -818,7 +818,7 @@
 </item>
 
 <item>
-<title>[COLOR yellowgreen]   > LA QUE SE AVECINA[/COLOR]</title>
+<title>[COLOR springgreengreen]   > LA QUE SE AVECINA[/COLOR]</title>
 <thumbnail>https://i.imgur.com/TJGXhFB.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -826,7 +826,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > NARCOS  [/COLOR]</title>
+<title>[COLOR springgreen]   > NARCOS  [/COLOR]</title>
 <thumbnail>http://ayayay.tv/wp-content/uploads/2015/10/narcos.jpg</thumbnail>
 <fanart>https://okdiario.com/series/img/2016/09/07/narcos-12.jpg</fanart>
 <link>http://ignoreme</link>
@@ -834,7 +834,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]   > THE LAST KINGDOM      [/COLOR]</title>
+<title>[COLOR springgreen]   > THE LAST KINGDOM      [/COLOR]</title>
 <link>ignorame</link>
  <externallink>https://pastebin.com/raw/ddkLwHPa</externallink>
 <thumbnail>http://cdn-static.sidereel.com/tv_shows/58198/giant_2x/last_kingdom.jpg</thumbnail>
@@ -850,7 +850,7 @@
 </item>
 
 <item>
-<title>[COLOR yellowgreen]   > VIKINGS[/COLOR]</title>
+<title>[COLOR springgreengreen]   > VIKINGS[/COLOR]</title>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/GNi3A6qY</externallink>
 <thumbnail>http://solopormega.com/wp-content/uploads/2015/07/vikings.jpg</thumbnail>
@@ -858,7 +858,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > FEAR THE WALKING DEAD  [/COLOR]</title>
+<title>[COLOR springgreen]   > FEAR THE WALKING DEAD  [/COLOR]</title>
 <thumbnail>http://my-film.in/wp-content/uploads/2016/04/fear-the-walking-dead-second-season.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -866,7 +866,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]   > IRON FIRST     [/COLOR]</title>
+<title>[COLOR springgreen]   > IRON FIRST     [/COLOR]</title>
 <link>ignorame</link>
  <externallink>https://pastebin.com/raw/Cg1AWvEL</externallink>
 <thumbnail>http://solopormega.com/wp-content/uploads/2017/03/iron-fist.jpg</thumbnail>
@@ -950,7 +950,7 @@
 </item>
 
 <item>
-		<title>[COLOR yellowgreen]   > HOUSE[/COLOR]</title>
+		<title>[COLOR springgreengreen]   > HOUSE[/COLOR]</title>
 		<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
@@ -988,7 +988,7 @@
 	</item>
 	
 	<item>
-<title>[COLOR yellow]   > MODERN FAMILY[/COLOR]</title>
+<title>[COLOR springgreen]   > MODERN FAMILY[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1026,7 +1026,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]   > SHADOWHUNTERS     [/COLOR]</title>
+<title>[COLOR springgreen]   > SHADOWHUNTERS     [/COLOR]</title>
 <link>ignorame</link>
  <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/acestreams.xml</externallink>
 <thumbnail>https://s3.amazonaws.com/media.muckrack.com/profile/images/701960/shadowhuntersjpg.256x256_q100_crop-smart.jpg</thumbnail>
@@ -1080,7 +1080,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]   > PESADILLAS     [/COLOR]</title>
+<title>[COLOR springgreen]   > PESADILLAS     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
