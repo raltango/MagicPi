@@ -48,13 +48,13 @@
 </item>
 
 <item>
-<title>[COLOR lime][COLOR=cyan][B][I]Movistar Canal + Liga 123[/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-plus-liga-2-en-directo-partidos-de-2o-division-gratis/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<title>[COLOR lime][COLOR=cyan][B][I]Movistar Canal AXN[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-axn-gratis-online-en-directo-canal-axn-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
 <name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://verliga.net/live/verliga11.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-liga-2-en-directo-partidos-de-2o-division-gratis/</referer>
+<page>http://vergol.com/live/axn.php</page>
+<referer>http://www.vercanalestv.com/ver-axn-gratis-online-en-directo-canal-axn-en-vivo/</referer>
 </regex>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rwwwxv1441657735.png/medium</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
