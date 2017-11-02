@@ -14,7 +14,14 @@
 </item>
 
 <item>
-<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP Mexico -  CARRERA [/COLOR][COLOR yellow] ( Opción 1 )[/COLOR]</title>
+<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP Mexico -  CARRERA[/COLOR][COLOR yellow] ( Opción 1 )[/COLOR]</title>
+<link>https://archive.org/download/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4</link>
+<thumbnail>https://i.imgur.com/WuJUMpT.png</thumbnail>
+<fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
+</item>
+
+<item>
+<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP Mexico -  CARRERA [/COLOR][COLOR yellow] ( Opción 2 )[/COLOR]</title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-carreras-90233/formula-1-gp-mexico-carrera-2017-movistarf1-eventoshq,1574854,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/WuJUMpT.png</thumbnail>
 <fanart></fanart>
