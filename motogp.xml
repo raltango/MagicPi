@@ -135,4 +135,15 @@
 <fanart></fanart>
 </item>
 
-
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision.in/02</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>AV 2( ARENAVISION)</title>
+</item>
