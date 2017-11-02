@@ -9,19 +9,19 @@
 </item>
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR indianred] CANALES ARENAVISION [/B][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/arena.xml</externallink>
-</item>
-
-<item>
 <title>[B][COLOR orange]* [/COLOR][/B][B][COLOR deepskyblue] CANALES IPTV [/B][/COLOR][COLOR lime][I]- Canales Esp - Premium[/I][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/premium.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR indianred] CANALES ARENAVISION [/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/arena.xml</externallink>
 </item>
 
 
@@ -32,6 +32,18 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/francia.xml</externallink>
 </item>
+
+
+
+<item>
+<title>[COLOR powderblue]----------------- Canales Favoritos -----------------[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
 
 <item>
 <title>[COLOR lime][COLOR=cyan][B][I]Movistar Deportes 1[/I][/B][/COLOR]</title>
