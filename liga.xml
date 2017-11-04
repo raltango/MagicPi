@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR deeppink]->[/COLOR][COLOR powderblue]----------------- Jornada 10 -----------------[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Resumen de UD Las Palmas vs RC Deportivo (1-3)</title>        
 <urlsolve>http://www.youtube.com/embed/RND4bLRhJps?autoplay=1&controls=2&rel=0&showinfo=1</urlsolve>
 <thumbnail></thumbnail>
@@ -41,4 +48,32 @@
 <urlsolve>https://youtu.be/OgRXsrAJ47g</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>Resumen de Deportivo Alavés vs Valencia CF (1-2)</title>        
+<urlsolve>https://youtu.be/HE8IMwyTY9I</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Resumen de Sevilla FC vs CD Leganés (2-1)</title>        
+<urlsolve>https://youtu.be/y6yj0bBHML8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Resumen de Atlético de Madrid vs Villarreal CF (1-1)</title>        
+<urlsolve>https://youtu.be/GrfyV59syQ8</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]===== [/COLOR][COLOR deeppink]===== [/COLOR][COLOR yellow]===== [/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail>https://i.imgur.com/DY3JVVf.png</thumbnail>
+<fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
 </item>
