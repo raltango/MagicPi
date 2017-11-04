@@ -34,6 +34,14 @@
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/menumotos.xml</externallink>
 </item>
 
+<item>
+<title>[B][COLOR springgreen]* LA LIGA ( Resumenes ) [/B][/COLOR][COLOR yellow][I]-  Jornada 11[/I][/COLOR]</title>
+<thumbnail>https://i.imgur.com/3j2o9ao.png</thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/liga.xml</externallink>
+</item>
+
 
 
 
@@ -186,16 +194,6 @@ class InputWindow(xbmcgui.WindowDialog):
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/canales.xml</externallink>
 </item>
-
-<item>
-<title>[B][COLOR springgreen]* La Liga ( Resumenes ) [/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/3j2o9ao.png</thumbnail>
-<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/liga.xml</externallink>
-</item>
-
-
 
 
 
