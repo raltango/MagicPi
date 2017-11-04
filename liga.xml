@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR deeppink][/COLOR][COLOR powderblue]----------------- Jornada 11  (NUEVO) -----------------[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>???</title>        
+<urlsolve>rtmp://cdn.laliga.es:1935/vod/mp4:2017-11-03_23-30-07_res-santander-j11-viernes-ftp.mp4</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR skyblue]===== [/COLOR][COLOR deeppink]===== [/COLOR][COLOR yellow]===== [/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>https://i.imgur.com/DY3JVVf.png</thumbnail>
