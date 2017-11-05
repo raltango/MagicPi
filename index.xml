@@ -215,7 +215,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR gold] Avezy[/COLOR][/B][COLOR blue][I] Addon Avezy Necesario[/I][/COLOR]</title>
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR skyblue] Avezy[/COLOR][/B][COLOR blue][I] Addon Avezy Necesario[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.avezy/</jsonrpc>
 <thumbnail>http://dimitrology.com/wp-content/uploads/2017/08/icon-5.png</thumbnail>
@@ -225,7 +225,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR yellow] GAMESTARTER[/B] ( CONSOLAS RETRO)[/COLOR]
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR skyblue] GAMESTARTER[/B] ( CONSOLAS RETRO)[/COLOR]
 [COLOR blue][I] Addon Necesario,¡¡¡SOLO RASPBERRY!!![/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.gamestarter/</jsonrpc>
@@ -235,7 +235,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR yellow] ROM COLLECTION BROWSER[/B] ( CONSOLAS RETRO)[/COLOR]
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR skyblue] ROM COLLECTION BROWSER[/B] ( CONSOLAS RETRO)[/COLOR]
 [COLOR blue][I] Addon Necesario,PARA PC Y ANDROID!![/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.games.rom.collection.browser/</jsonrpc>
@@ -245,7 +245,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR yellow] INTERNET ARCHIVE ROM BROWSER[/B] ( CONSOLAS RETRO)[/COLOR]
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR skyblue] INTERNET ARCHIVE ROM BROWSER[/B] ( CONSOLAS RETRO)[/COLOR]
 [COLOR blue][I] Addon Necesario, RETROARCH NECESARIO.[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.program.iarl</jsonrpc>
