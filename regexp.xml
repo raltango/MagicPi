@@ -10,7 +10,7 @@
 def GetLSProData(page_data,Cookie_Jar,m):
     import xbmcgui
     dialog = xbmcgui.Dialog()
-    ret = dialog.select('GP Malasia', ['[COLOR yellow]MotoGP[/COLOR]', '[COLOR yellow]Moto2[/COLOR]', '[COLOR yellow]Moto3[/COLOR]'])
+    ret = dialog.select('[COLOR lime]GP Malasia[/COLOR]', ['[COLOR yellow]MotoGP[/COLOR]', '[COLOR yellow]Moto2[/COLOR]', '[COLOR yellow]Moto3[/COLOR]'])
     channels = ['https://archive.org/download/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4', 'https://archive.org/download/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4','https://archive.org/download/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4']
     return channels
 ]]></expres>
