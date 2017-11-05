@@ -144,6 +144,15 @@
 </item>
 
 <item>
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] TELEVISION (TDT) [/B][/COLOR]</title>
+<thumbnail>https://img.hdbox.ws/wp-content/uploads/2016/08/1402652350_m3u1.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/canales.xml</externallink>
+</item>
+
+
+<item>
 <title>[B][COLOR orange]* [/COLOR][/B][B][COLOR deeppink] ZONA PRIVADA[/COLOR][/B]</title>
 <link>NA</link>
 <externallink>$doregex[getinput]</externallink>
@@ -195,16 +204,6 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-<title>[B][COLOR springgreen]* TELEVISION (TDT) [/B][/COLOR]</title>
-<thumbnail>https://img.hdbox.ws/wp-content/uploads/2016/08/1402652350_m3u1.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/canales.xml</externallink>
-</item>
-
-
-
-<item>
 <title>[COLOR skyblue]========== [/COLOR][COLOR deeppink]========== [/COLOR][COLOR yellow]========== [/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>https://i.imgur.com/DY3JVVf.png</thumbnail>
@@ -216,39 +215,17 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-<title>[B][COLOR lime]* Avezy[/COLOR][/B][COLOR blue][I] Addon Avezy Necesario[/I][/COLOR]</title>
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR gold] Avezy[/COLOR][/B][COLOR blue][I] Addon Avezy Necesario[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.avezy/</jsonrpc>
 <thumbnail>http://dimitrology.com/wp-content/uploads/2017/08/icon-5.png</thumbnail>
 <fanart>http://www.androidaba.com/wp-content/uploads/2016/12/ar1.jpg</fanart>
 </item>
 
-<item>
-<title>[B][COLOR skyblue]* Palantir[/B][/COLOR][COLOR blue][I] Addon Palantir Necesario[/I][/COLOR]</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.palantir/</jsonrpc>
-<thumbnail>http://mundokodi.com/wp-content/uploads/2017/07/palantir.png?x86522</thumbnail>
-<fanart>https://i.ytimg.com/vi/-sEMxukeC3M/maxresdefault.jpg</fanart>
-</item>
-
-
-
-
 
 
 <item>
-<title>[COLOR skyblue]========== [/COLOR][COLOR deeppink]========== [/COLOR][COLOR yellow]========== [/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail>https://i.imgur.com/DY3JVVf.png</thumbnail>
-<fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
-</item>
-
-
-
-
-
-<item>
-<title>[B][COLOR yellow]* GAMESTARTER[/B] ( CONSOLAS RETRO)[/COLOR]
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR yellow] GAMESTARTER[/B] ( CONSOLAS RETRO)[/COLOR]
 [COLOR blue][I] Addon Necesario,¡¡¡SOLO RASPBERRY!!![/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.gamestarter/</jsonrpc>
@@ -256,8 +233,9 @@ class InputWindow(xbmcgui.WindowDialog):
 <fanart>https://cdn-images-1.medium.com/max/1400/1*vvrxNe4FPEeVmXLh5sDLDA.png</fanart>
 </item>
 
+
 <item>
-<title>[B][COLOR yellow]* ROM COLLECTION BROWSER[/B] ( CONSOLAS RETRO)[/COLOR]
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR yellow] ROM COLLECTION BROWSER[/B] ( CONSOLAS RETRO)[/COLOR]
 [COLOR blue][I] Addon Necesario,PARA PC Y ANDROID!![/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.games.rom.collection.browser/</jsonrpc>
@@ -265,40 +243,12 @@ class InputWindow(xbmcgui.WindowDialog):
 <fanart>http://gearburn.com/wp-content/uploads/2013/07/ROMS.jpeg</fanart>
 </item>
 
+
 <item>
-<title>[B][COLOR yellow]* INTERNET ARCHIVE ROM BROWSER[/B] ( CONSOLAS RETRO)[/COLOR]
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR yellow] INTERNET ARCHIVE ROM BROWSER[/B] ( CONSOLAS RETRO)[/COLOR]
 [COLOR blue][I] Addon Necesario, RETROARCH NECESARIO.[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.program.iarl</jsonrpc>
 <thumbnail>https://img08.deviantart.net/17b9/i/2007/087/c/9/snes_logo_by_orksovaj.png</thumbnail>
 <fanart>https://cdn-images-1.medium.com/max/1400/1*vvrxNe4FPEeVmXLh5sDLDA.png</fanart>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
