@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia - Carrera[/COLOR][COLOR yellow] (MOTOGP)(MOTO2)(MOTO3)[/COLOR]</title>
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia - Carrera[/COLOR][COLOR yellow] ( MOTOGP,MOTO2,MOTO3 )[/COLOR]</title>
 <link>$doregex[select]</link>
 <regex>
 <name>select</name>
