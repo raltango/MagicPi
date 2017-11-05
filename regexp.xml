@@ -12,7 +12,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     dialog = xbmcgui.Dialog()
     ret = dialog.select('[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] GP Malasia [/B][/COLOR]', ['[COLOR yellow]MotoGP[/COLOR]', '[COLOR yellow]Moto2[/COLOR]', '[COLOR yellow]Moto3[/COLOR]'])
     channels = ['https://archive.org/download/MotoGP.Australia.2017.Carrera.MovistarF1.EventosHQ/MotoGP.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4', 'https://archive.org/download/Moto2.Australia.2017.Carrera.MovistarF1.EventosHQ/Moto2.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4','https://archive.org/download/Moto3.Australia.2017.Carrera.MovistarF1.EventosHQ/Moto3.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4']
-    return channels
+    return channels [ret]
 ]]></expres>
 <page></page>
 </regex>
