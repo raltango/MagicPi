@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia - Carrera[/COLOR][COLOR yellow] ( MOTOGP,MOTO2,MOTO3 )[/COLOR]</title>
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Australia - Carrera[/COLOR][COLOR yellow] -> MotoGP - Moto2 - Moto3 [/COLOR]</title>
 <link>$doregex[select]</link>
 <regex>
 <name>select</name>
@@ -10,8 +10,8 @@
 def GetLSProData(page_data,Cookie_Jar,m):
     import xbmcgui
     dialog = xbmcgui.Dialog()
-    ret = dialog.select('[COLOR lime]GP Malasia[/COLOR]', ['[COLOR yellow]MotoGP[/COLOR]', '[COLOR yellow]Moto2[/COLOR]', '[COLOR yellow]Moto3[/COLOR]'])
-    channels = ['https://archive.org/download/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4', 'https://archive.org/download/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4','https://archive.org/download/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4']
+    ret = dialog.select('[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] GP Malasia [/B][/COLOR]', ['[COLOR yellow]MotoGP[/COLOR]', '[COLOR yellow]Moto2[/COLOR]', '[COLOR yellow]Moto3[/COLOR]'])
+    channels = ['https://archive.org/download/MotoGP.Australia.2017.Carrera.MovistarF1.EventosHQ/MotoGP.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4', 'https://archive.org/download/Moto2.Australia.2017.Carrera.MovistarF1.EventosHQ/Moto2.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4','https://archive.org/download/Moto3.Australia.2017.Carrera.MovistarF1.EventosHQ/Moto3.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4']
     return channels
 ]]></expres>
 <page></page>
