@@ -12,8 +12,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
     dialog = xbmcgui.Dialog()
     ret = dialog.select('[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] GP Malasia [/B][/COLOR]', ['[COLOR yellow]MotoGP[/COLOR]', '[COLOR yellow]Moto2[/COLOR]', '[COLOR yellow]Moto3[/COLOR]'])
     channels = ['https://archive.org/download/MotoGP.Australia.2017.Carrera.MovistarF1.EventosHQ/MotoGP.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4', 'https://archive.org/download/Moto2.Australia.2017.Carrera.MovistarF1.EventosHQ/Moto2.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4','https://archive.org/download/Moto3.Australia.2017.Carrera.MovistarF1.EventosHQ/Moto3.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4']
-    return channels [ret]
+    return channels 
 ]]></expres>
 <page></page>
 </regex>
+</item>
+
+<item>
+<title>CARRERA MEXICO</title>
+<link>plugin://plugin.video.quasar/play?uri=https://archive.org/download/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4_archive.torrent</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
 </item>
