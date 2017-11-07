@@ -33,7 +33,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>lista</name>
   <listrepeat><![CDATA[
          <SetViewMode>55</SetViewMode>
-         <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR lime]Mgck[/COLOR][COLOR deeppink]Pi[/COLOR]").replace(".avi", "  [COLOR lime]Mgck[/COLOR][COLOR deeppink]Pi[/COLOR]").replace(".mkv", "")</title>
+         <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]").replace(".avi", "  [COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]").replace(".mkv", "[COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]")</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://www.marchsoft.com/ccdata/images/imageMain_11_275.jpg</thumbnail>
         ]]></listrepeat>
@@ -57,7 +57,7 @@ import xbmcaddon
 import xbmcgui
 def GetLSProData(page_data,Cookie_Jar,m):
     dialog = xbmcgui.Dialog()
-    d = dialog.input('Buscar  serie: ejemplo: modern family', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    d = dialog.input('Buscador de peliculas y series:', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
     return d
 ]]></expres>
 <page></page>
