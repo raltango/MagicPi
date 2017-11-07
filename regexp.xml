@@ -35,7 +35,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
          <SetViewMode>55</SetViewMode>
          <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]").replace(".avi", "  [COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]").replace(".mkv", "[COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]")</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.marchsoft.com/ccdata/images/imageMain_11_275.jpg</thumbnail>
+        <thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
         ]]></listrepeat>
 <expres><![CDATA[href=\"(.*?,(.*?)\..*?)\".*?preview">(.*?mkv|.*?mp4|.*?avi)<]]><expres>
 <page>http://diskokosmiko.mx/action/SearchFiles?Phrase=MagyckPi&amp;Mode=List&amp;Type=Video&amp;SizeFromMB=0&amp;SizeToMB=0&amp;pageNumber=10</page>
@@ -96,5 +96,5 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  
-<thumbnail>http://www.marchsoft.com/ccdata/images/imageMain_11_275.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
 </item>
