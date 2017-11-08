@@ -12,7 +12,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     dialog = xbmcgui.Dialog()
     ret = dialog.select('[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] GP Malasia [/B][/COLOR]', ['[COLOR yellow]MotoGP[/COLOR]', '[COLOR yellow]Moto2[/COLOR]', '[COLOR yellow]Moto3[/COLOR]'])
     channels = ['https://archive.org/download/MotoGP.Australia.2017.Carrera.MovistarF1.EventosHQ/MotoGP.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4', 'https://archive.org/download/Moto2.Australia.2017.Carrera.MovistarF1.EventosHQ/Moto2.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4','https://archive.org/download/Moto3.Australia.2017.Carrera.MovistarF1.EventosHQ/Moto3.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4']
-    return channels 
+    return channels [ret]
 ]]></expres>
 <page></page>
 </regex>
@@ -92,6 +92,41 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx[lista.param1]</page>
 <referer>http://diskokosmiko.mx/trivianita</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
+</item>
+
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[lista.param1]</page>
+<referer>http://diskokosmiko.mx/naredo</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[lista.param1]</page>
+<rawpost>fileId=[lista.param2]&__RequestVerificationToken=$doregex[tok2]</rawpost>
+<referer>http://diskokosmiko.mx[lista.param1]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>tok2</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx[lista.param1]</page>
+<referer>http://diskokosmiko.mx/naredo</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
