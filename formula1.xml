@@ -91,21 +91,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR deeppink]17 ->[/COLOR][COLOR powderblue]----------------- 2017 GP EEUU : Circuito de las americas -----------------[/COLOR]</title>
+<title>[COLOR deeppink]17 ->[/COLOR][COLOR powderblue]----------------- 2017 GP USA : Circuito de las americas -----------------[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>https://i.imgur.com/0FKXVhT.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP EEUU -  CARRERA [/COLOR][COLOR yellow] ( Opción 1 )[/COLOR]</title>
+<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP USA -  CARRERA [/COLOR][COLOR yellow] ( Opción 1 )[/COLOR]</title>
 <link>https://archive.org/download/Formula.1.GP.USA.Carrera.2017.MovistarF1.720p.EventosHQ/Formula.1.GP.USA.Carrera.2017.MovistarF1.720p.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/0FKXVhT.png</thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
 </item>
 
 <item>
-<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP EEUU -  CARRERA [/COLOR][COLOR yellow] ( Opción 2 )[/COLOR]</title>
+<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP USA-  CARRERA [/COLOR][COLOR yellow] ( Opción 2 )[/COLOR]</title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-carreras-90233</link>
 <thumbnail>ttps://i.imgur.com/0FKXVhT.png</thumbnail>
 <fanart></fanart>
@@ -136,7 +136,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP EEUU -  CLASIFICACIÓN[/COLOR]</title>
+<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP USA -  CLASIFICACIÓN[/COLOR]</title>
 <link>https://archive.org/download/Formula.1.GP.USA.Clasificacion.2017.MovistarF1.720p.EventosHQ/Formula.1.GP.USA.Clasificacion.2017.MovistarF1.720p.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/0FKXVhT.png</thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
