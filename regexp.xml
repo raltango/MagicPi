@@ -32,8 +32,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>CARRERA MEXICO - torrent -</title>
-<link>plugin://plugin.video.quasar/play?uri=https://archive.org/download/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4_archive.torrent</link>
+<title>CARRERA MEXICO2 - torrent -</title>
+<link>plugin://plugin.video.torrenter/play?uri=https://archive.org/download/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4_archive.torrent</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
 </item>
