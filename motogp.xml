@@ -241,11 +241,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime][COLOR=cyan][B][I]Bein La liga [/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<title>[COLOR lime][COLOR=cyan][B][I]Canal La liga [/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-plus-liga-2-en-directo-partidos-de-2o-division-gratis/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
 <name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://xx.cast3d.info/live/ligarincon_cyy1j05/chunklist.m3u8?st=Tp6XYX-etSIbX6G0fNBuUQ&e=1510673101</page>
-<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</referer>
+<page>http://www.playerhd2.pw/embed.php?c=151&width=650&height=400&autostart=true&tk1=HGdb2pxmWED3kDicbzEWT4PLDEj%2BKJOrkeGcA44SEOw%3D&tk2=NQgjuVekFk5uonVE2O0R7W75Co6dfF1D8yyV2ck%2BR9o%3D&tk3=WskJw2I016bZlN%2FjHmJ0YN3bQo%2BAm2CEw2Y%2Fv5os68U%3D</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-liga-2-en-directo-partidos-de-2o-division-gratis/</referer>
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -259,6 +259,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/regexp.xml</externallink>
 </item>
+
+
 
 
 
