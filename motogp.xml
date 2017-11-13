@@ -252,7 +252,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>SBK (PRUEBAS) 2</title>        
+<title>SBK (PRUEBAS) 2</title> 
+<link>ignireme</link>       
 <page>https://mega.nz/#!g2oWSAzK!xk0zPOBuNYuVN_lTiRyjQXrsv7athYxA3x_iV6OaPMc</page>
 <thumbnail></thumbnail>
 <fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
