@@ -74,24 +74,6 @@
 </item>
 
 
-<item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] RESUMENES NBA  [/B][/COLOR][COLOR yellow][I]- Pruebas 3 [/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/watch?v=RjAOnc1xaLA&list=PLKOK9PD9MJYliV2PWBLgN45UhGGd2lZ2i</page>
-</regex>
-<thumbnail>https://i.imgur.com/OPy5lJ7.png</thumbnail>
-<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
-</item>
-
-
-
 
 <item>
 <title>[COLOR skyblue]========== [/COLOR][COLOR deeppink]========== [/COLOR][COLOR yellow]========== [/COLOR]</title>
