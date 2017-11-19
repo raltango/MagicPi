@@ -79,7 +79,7 @@
 <regex>
             <name>makelist</name>
             <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
+                        <title>[COLOR springgreen][makelist.param1][/COLOR]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
                         <thumbnail>https://i.imgur.com/OPy5lJ7.png</thumbnail>
 						<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
