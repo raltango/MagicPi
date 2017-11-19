@@ -74,7 +74,7 @@
 </item>
 
 
-<item><title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] RESUMENES NBA  [/B][/COLOR][COLOR yellow][I]- Pruebas 2 [/I][/COLOR]</title>
+<item>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] RESUMENES NBA  [/B][/COLOR][COLOR yellow][I]- Pruebas 2 [/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
