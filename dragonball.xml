@@ -78,41 +78,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[lista.param1]</page>
-<referer>http://diskokosmiko.mx/jorge-garcia-luis</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
- 
- 
- 
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[lista.param1]</page>
-<rawpost>fileId=[lista.param2]&__RequestVerificationToken=$doregex[tok2]</rawpost>
-<referer>http://diskokosmiko.mx[lista.param1]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
- 
-<regex>
-<name>tok2</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx[lista.param1]</page>
-<referer>http://diskokosmiko.mx/jorge-garcia-luis</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
- 
-<thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
-</item>
-
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[lista.param1]</page>
 <referer>http://diskokosmiko.mx/chinchetas</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
@@ -256,45 +221,94 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
+
+
 <item>
 <title>[COLOR lime]   > CANCIONES PELICULAS DISNEY    [/COLOR]</title>
-<link>$doregex[makelist]</link>
+<link>$doregex[makelist2]</link>
+
 <regex>
-<name>makelist</name>
+<name>makelist2</name>
 <listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[getUrl]</link>
-<fanart></fanart>
+<title>Página [makelist2.param1]</title>
+<link>$doregex[makelist3]</link>
+<referer></referer>
 <thumbnail></thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/jorge-garcia-luis/canciones-disney-76671/list,1,5</page>
+<expres> (.*?),</expres>
+<page>$doregex[get-number]</page>
 <cookieJar></cookieJar>
 </regex>
+
 <regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
+            <name>makelist3</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR deeppink] >>[/COLOR][COLOR powderblue][makelist3.param2][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist3.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>$doregex[get-source-page]</page>
+             <cookieJar></cookieJar>
 </regex>
+
 <regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/jorge-garcia-luis/canciones-disney-76671/list,1,5</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
+<name>get-number</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):            
+
+ import requests
+ import re
+ url='https://www.youtube.com/playlist?list=PLjn-ZEBNFTy-iEuRU6JtBXtFmMnAQ-o25'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Accept-Language': 'en-US'}
+
+ rr = requests.get(url, headers=headers)
+ number = re.findall('</a></li><li>(.*?) vid', rr.text)[0]
+ #number = number.encode('unicode-escape')
+ number = number.replace(',', '')
+ real = int(float(number)) / 100
+ real2 = real + 3
+
+ liste = list(range(real2))
+ return liste
+]]></expres>
+<page></page>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+
+<regex>
+<name>get-source-page</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+
+ import requests
+ import re
+ import json
+
+ pageUrl='https://www.youtube.com/playlist?list=PLjn-ZEBNFTy-iEuRU6JtBXtFmMnAQ-o25'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+ r1 = requests.get(pageUrl, headers = headers)
+ source = r1.text
+ page = [makelist2.param1]
+ N = int(float(page))
+ pre = 'https://www.youtube.com'
+ if (N > 1):
+
+   for itr in range (1,N):
+    continuex = re.findall('data-uix-load-more-href="(.*?)"', source)[0]
+    continuationx = pre + continuex
+    r = requests.get(continuationx, headers = headers)
+    source = r.text
+    jdata = json.loads(source)
+    source = jdata["load_more_widget_html"]
+    page = jdata["content_html"]
+   return page
+    
+ else:
+
+  return source
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-Byzrt0KhvYY/VmhwLtPjRYI/AAAAAAAABOg/jYV8oXmOT28/s400/posadas%2B001.jpg</thumbnail>
+<fanart>https://www.euroresidentes.com/navidad/img_09/navidades_01.jpg</fanart>
 </item>
-
-
-
-
-
