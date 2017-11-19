@@ -52,6 +52,8 @@
 <item>
 <title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] CAMPEONATO DTM [/B][/COLOR][COLOR yellow][I]- Ultimo GP : Alemania (Hockenheim)[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
+<thumbnail>https://i.imgur.com/WQ84t3A.jpg</thumbnail>
+<fanart>https://i.imgur.com/pjOFqX7.jpg</fanart>
 <regex>
             <name>makelist</name>
             <listrepeat><![CDATA[
