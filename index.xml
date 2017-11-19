@@ -51,10 +51,20 @@
 
 <item>
 <title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] CAMPEONATO DTM [/B][/COLOR][COLOR yellow][I]- Ultimo GP : Alemania (Hockenheim)[/I][/COLOR]</title>
-<thumbnail>https://i.imgur.com/WQ84t3A.jpg</thumbnail>
-<fanart>https://i.imgur.com/pjOFqX7.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/dtm.xml</externallink>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR deeppink] ->  [/COLOR][COLOR white][makelist.param1][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.imgur.com/WQ84t3A.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pjOFqX7.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=v9SLXyzCfnE&amp;list=PLrjmhNF7Jz1zbPUzq1V2qCllB_TXex1SY</page>
+             <cookieJar></cookieJar>
+</regex>
+
 </item>
 
 <item>
@@ -90,6 +100,8 @@
 </regex>
 
 </item>
+
+
 
 
 
