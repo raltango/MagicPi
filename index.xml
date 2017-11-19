@@ -73,6 +73,24 @@
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/liga.xml</externallink>
 </item>
 
+<item>
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] NBA ( Resumenes ) [/B][/COLOR][COLOR yellow][I] -  [/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.imgur.com/OPy5lJ7.png</thumbnail>
+						<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=RjAOnc1xaLA&amp;list=PLKOK9PD9MJYliV2PWBLgN45UhGGd2lZ2i</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
 
 
 <item>
