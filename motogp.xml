@@ -253,9 +253,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR skyblue]=============== [/COLOR][COLOR deeppink]============== [/COLOR][COLOR yellow]============== [/COLOR]
-       [COLOR skyblue]=============== [/COLOR][COLOR deeppink]============== [/COLOR][COLOR yellow]============== [/COLOR]
-       [COLOR skyblue]=============== [/COLOR][COLOR deeppink]============== [/COLOR][COLOR yellow]============== [/COLOR]
-       [COLOR skyblue]=============== [/COLOR][COLOR deeppink]============== [/COLOR][COLOR yellow]============== [/COLOR]</title>
+     [COLOR skyblue]=============== [/COLOR][COLOR deeppink]============== [/COLOR][COLOR yellow]============== [/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>https://i.imgur.com/7SB2F0u.png</thumbnail>
 <fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
@@ -270,6 +268,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/regexp.xml</externallink>
+</item>
+
+<item>
+<title>          [COLOR deeppink] >>[/COLOR][COLOR powderblue] WRC - Rally Gran Bretaña [/COLOR][COLOR yellow] Resumen[/COLOR]</title>        
+<urlsolve>http://www.rtve.es/alacarta/videos/wrc-mundial-de-rallies/wrc-campeonato-del-mundo-rally-gran-bretana-resumen/4281059/</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 
