@@ -252,26 +252,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime][COLOR=cyan][B][I]Canal La liga [/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-plus-liga-2-en-directo-partidos-de-2o-division-gratis/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://verliga.net/live/verliga11.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-liga-2-en-directo-partidos-de-2o-division-gratis/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR skyblue]=============== [/COLOR][COLOR deeppink]============== [/COLOR][COLOR yellow]============== [/COLOR]</title>
+<title>[COLOR skyblue]=============== [/COLOR][COLOR deeppink]============== [/COLOR][COLOR yellow]============== [/COLOR]</title>
+<title>[COLOR skyblue]=============== [/COLOR][COLOR deeppink]============== [/COLOR][COLOR yellow]============== [/COLOR]</title>
+<title>[COLOR skyblue]=============== [/COLOR][COLOR deeppink]============== [/COLOR][COLOR yellow]============== [/COLOR]</title>
+<title>[COLOR skyblue]=============== [/COLOR][COLOR deeppink]============== [/COLOR][COLOR yellow]============== [/COLOR]</title>
+<title>[COLOR skyblue]=============== [/COLOR][COLOR deeppink]============== [/COLOR][COLOR yellow]============== [/COLOR]</title>
+<title>[COLOR skyblue]=============== [/COLOR][COLOR deeppink]============== [/COLOR][COLOR yellow]============== [/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail>https://i.imgur.com/7SB2F0u.png</thumbnail>
+<fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I]Canal Partidazo [/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-plus-partidazo-online-y-directo-gratis/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://www.vercanalestv.com/tv/deportes/stream/verliga1.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-partidazo-online-y-directo-gratis/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
 
 
 <item>
@@ -282,12 +275,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/regexp.xml</externallink>
 </item>
 
-<item>
-<title>[COLOR white][COLOR red]• [/COLOR]pruebas nba 3[/COLOR]</title>
-<link>https://openload.co/stream/D6fz_P563GA~1510906943~37.133.0.0~eDxVDo1-?mime=true</link>
-<thumbnail><thumbnail>
-<info></info> 
-</item>
 
 
 
