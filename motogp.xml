@@ -271,8 +271,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>          [COLOR deeppink] >>[/COLOR][COLOR powderblue] pruebas [/COLOR][COLOR yellow] Resumen[/COLOR]</title>        
-<urlsolve>http://www.alluc.ee/l/Emoji-TC1080p-LAT-mkv-mp4/8gplw7ek</urlsolve>
+<title>          [COLOR deeppink] >>[/COLOR][COLOR powderblue] pruebas [/COLOR]</title>        
+<link>http://www.alluc.ee/l/Emoji-TC1080p-LAT-mkv-mp4/8gplw7ek</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
