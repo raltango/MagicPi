@@ -15,14 +15,14 @@
 <title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTOGP) - Opción 1[/COLOR] </title>        
 <link>https://archive.org/download/MotoGP.Valencia.2017.Carrera.MovistarF1.EventosHQ/MotoGP.Valencia.2017.Carrera.MovistarF1.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 <item>
 <title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTOGP)- Opción 2[/COLOR] </title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/motogp-valencia-2017-carrera-movistarf1-eventoshq,1633855,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 <regex><name>getUrl</name>
 <expres><![CDATA[#$pyFunction
 import re , requests 
@@ -46,21 +46,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
 <fanart></fanart>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 <item>
 <title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTO2) - Opción 1[/COLOR] </title>        
 <link>https://archive.org/download/MotoGP.Valencia.2017.Carrera.MovistarF1.EventosHQ/Moto2.Valencia.2017.Carrera.MovistarF1.EventoHQ.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 <item>
 <title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTO2)- Opción 2[/COLOR] </title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/moto2-valencia-2017-carrera-movistarf1-eventohq,1633841,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 <regex><name>getUrl</name>
 <expres><![CDATA[#$pyFunction
 import re , requests 
@@ -84,21 +84,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
 <fanart></fanart>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 <item>
 <title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTO3) - Opción 1[/COLOR] </title>        
 <link>https://archive.org/download/Moto3.Valencia.2017.Carrera.MovistarF1.EventoHQ/Moto3.Valencia.2017.Carrera.MovistarF1.EventoHQ.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 <item>
 <title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTO3)- Opción 2[/COLOR] </title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/moto3-valencia-2017-carrera-movistarf1-eventohq,1633577,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 <regex><name>getUrl</name>
 <expres><![CDATA[#$pyFunction
 import re , requests 
@@ -122,7 +122,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
 <fanart></fanart>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 
@@ -155,14 +155,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
 <fanart></fanart>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 <item>
 <title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Clasificación[/COLOR][COLOR yellow] (MOTO2)[/COLOR] </title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/moto2-valencia-2017-clasificacion-movistarf1-eventoshq,1631186,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
-<fanart></fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 <regex><name>getUrl</name>
 <expres><![CDATA[#$pyFunction
 import re , requests 
@@ -186,7 +186,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
 <fanart></fanart>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 
@@ -225,7 +225,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart></fanart>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 <item>
@@ -256,7 +256,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart></fanart>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 <item>
@@ -287,7 +287,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart></fanart>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 <item>
@@ -335,7 +335,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart></fanart>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
-<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 
