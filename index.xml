@@ -70,6 +70,26 @@
 </item>
 
 <item>
+<title>[B][COLOR yellow]* [/COLOR][/B][B][COLOR lawngreen] WORLD SERIES KARTING [/B][/COLOR][COLOR hotpink][I]- Cup Series[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://i.imgur.com/rmqQihz.png</thumbnail>
+<fanart>https://i.imgur.com/HPlvXgj.jpg</fanart>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR deeppink] ->  [/COLOR][COLOR white][makelist.param1][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.imgur.com/rmqQihz.png</thumbnail>
+						<fanart>https://i.imgur.com/HPlvXgj.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=jgszGpfZn4k&amp;list=PLOHWG_RxFNvBcUkd_2GMtY3aeEzgQXyXl</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
 <title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] INDYCAR [/B][/COLOR][COLOR yellow][I]- Ultimo GP : Detroit [/I][/COLOR]</title>
 <thumbnail>https://i.imgur.com/TA7hHAY.jpg</thumbnail>
 <fanart>https://i.imgur.com/hOQkDYz.jpg</fanart>
