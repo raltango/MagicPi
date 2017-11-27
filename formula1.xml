@@ -37,7 +37,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  ref = url
  headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
  data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1691920', headers=headers, data=data_a).text
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1698892', headers=headers, data=data_a).text
  movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
  print movie 
  return movie 
