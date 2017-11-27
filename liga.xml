@@ -46,22 +46,36 @@
 </item>
 
 <item>
-<title></title>        
-<urlsolve></urlsolve>
+<title>Resumen Las Palmas - Real Sociedad (2-2)</title>        
+<link>rtmp://cdn.laliga.es:1935/vod/mp4:2017-11-26_23-33-31_rso---las-palmas.mp4</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>Resumen villareal - Sevilla (2-3)</title>        
+<link>rtmp://cdn.laliga.es:1935/vod/mp4:2017-11-26_23-33-32_villarreal---sevilla.mp4</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>Resumen Valencia - F.C.Barcelona (1-1)</title>        
+<link>http://www.laliga.es/video/resumen-partido-valencia-vs-barcelona-j13-laliga-santander-2017-2018</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>Resumen Deportivo - Atletic (2-2)</title>        
+<link>rtmp://cdn.laliga.es:1935/vod/mp4:2017-11-26_23-33-36_d--por---athletic.mp4</link>
 <thumbnail></thumbnail>
 <fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
 </item>
 
 <item>
 <title></title>        
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
-</item>
-
-<item>
-<title></title>        
-<urlsolve></urlsolve>
+<link></link>
 <thumbnail></thumbnail>
 <fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
 </item>
