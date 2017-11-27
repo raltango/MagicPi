@@ -21,6 +21,37 @@
 </item>
 
 <item>
+<title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP Abu dabi -  CARRERA [/COLOR][COLOR yellow] ( Opción 2 ) [/COLOR]</title>
+<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/formula-1-gp-abu-dhabi-carrera-2017-movistarf1-1080p-eventoshq,1698892,gallery,1,1.mp4</link>
+<thumbnail>https://i.imgur.com/LdqsVhY.png</thumbnail>
+<fanart></fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/formula-1-gp-abu-dhabi-carrera-2017-movistarf1-1080p-eventoshq,1698892,gallery,1,1.mp4'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1691920', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.imgur.com/LdqsVhY.png</thumbnail>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LdqsVhY.png</thumbnail>
+<fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
+</item>
+
+<item>
 <title>               [COLOR deeppink] >>[/COLOR][COLOR powderblue] GP Abu Dabi -  CLASIFICACION [/COLOR][COLOR yellow] ( Opción 1 )[/COLOR]</title>
 <link>https://archive.org/download/Formula.1.GP.Abu.Dhabi.Clasificacion.2017.MovistarF1.720p.EventosHQ/Formula.1.GP.Abu.Dhabi.Clasificacion.2017.MovistarF1.720p.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/LdqsVhY.png</thumbnail>
