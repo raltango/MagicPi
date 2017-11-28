@@ -396,7 +396,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/jorge-garcia-luis/patrulla-canina-temporas-completas-77880/list,1,4</page>
+<page>http://diskokosmiko.mx/SeriesHD/patrulla-canina-t3-43450/list,1,1</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -414,7 +414,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/jorge-garcia-luis/patrulla-canina-temporas-completas-77880/list,1,4</referer>
+<referer>http://diskokosmiko.mx/SeriesHD/patrulla-canina-t3-43450/list,1,1</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
