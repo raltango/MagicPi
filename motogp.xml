@@ -262,7 +262,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>pruebas 6</title>
+<title>pruebas 7</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/pruebas.xml$$LSProEncKey=keycode$$</externallink>
 <thumbnail></thumbnail>
@@ -275,7 +275,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR yellow]1. ->[/COLOR][COLOR white] MERCEDES GP : - LEWIS HAMILTON
-                                                       - VALTTERI BOTTAS[/COLOR]</title>
+                                             - VALTTERI BOTTAS[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>https://i.imgur.com/LdqsVhY.png</thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
