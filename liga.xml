@@ -1,12 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR yellow]----------------- Jornada 14  (NUEVO) -----------------[/COLOR]</title>
+<urlsolve>http://ignoreme</urlsolve>
+<thumbnail>https://i.imgur.com/3j2o9ao.png</thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
 
+<item>
+<title>Resumen de Athletic Club vs Real Madrid (0-0)</title>        
+<urlsolve>https://youtu.be/3AhGp3ELXUM</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>Resumen de Sevilla FC vs RC Deportivo (2-0)</title>        
+<urlsolve>https://youtu.be/_YNc5gywxWc</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>Resumen de Atlético de Madrid vs Real Sociedad (2-1)</title>        
+<urlsolve>https://youtu.be/9r8OziiULoM</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>Resumen de Málaga CF vs Levante UD (0-0)</title>        
+<urlsolve>https://youtu.be/IpwW4ZNsDG0</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>Resumen de FC Barcelona vs RC Celta (2-2)</title>        
+<urlsolve>https://youtu.be/_0fBx2v8p_M</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
 
 
 <item>
-<title>[COLOR yellow]----------------- Jornada 13  (NUEVO) -----------------[/COLOR]</title>
+<title>[COLOR yellow]----------------- Jornada 13   -----------------[/COLOR]</title>
 <urlsolve>http://ignoreme</urlsolve>
 <thumbnail>https://i.imgur.com/3j2o9ao.png</thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>Resumen de RCD Espanyol vs Getafe CF (1-0)</title>        
+<urlsolve>https://youtu.be/yRX3ebafV-U</urlsolve>
+<thumbnail></thumbnail>
 <fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
 </item>
 
