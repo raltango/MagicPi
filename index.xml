@@ -199,9 +199,9 @@
 
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR lime] ZONA PRIVADA[/COLOR][/B]</title>
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR red] ZONA PRIVADA[/COLOR][/B]</title>
 <link>NA</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/encrypt.xml</externallink>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/encrypt.xml$$LSProEncKey= $$</externallink>
 <thumbnail>https://i.imgur.com/oTbu8ck.png</thumbnail>
 <fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
 </item>
