@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
 <item>
-<title>[COLOR yellow]----------------- Jornada 14  (NUEVO) -----------------[/COLOR]</title>
+<title>[COLOR yellow]----------------- Jornada 15 (NUEVO) -----------------[/COLOR]</title>
+<urlsolve>http://ignoreme</urlsolve>
+<thumbnail>https://i.imgur.com/3j2o9ao.png</thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>Resumen de Getafe CF vs SD Eibar (0-0)</title>        
+<urlsolve>https://youtu.be/fU_vQxAY2IU</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>Resumen de Valencia CF vs RC Celta (2-1)</title>        
+<urlsolve>https://youtu.be/KKtoX1pXOs0</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>Resumen de Real Madrid vs Sevilla FC (5-0)</title>        
+<urlsolve>https://youtu.be/x6LKJjIhUEs</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>Resumen de RC Deportivo vs CD Leganés (1-0)</title>        
+<urlsolve>https://youtu.be/QyJYiwCze3M</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>Resumen de Deportivo Alavés vs UD Las Palmas (2-0)</title>        
+<urlsolve>https://youtu.be/OGSpzzmkmlU</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title></title>        
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]----------------- Jornada 14 -----------------[/COLOR]</title>
 <urlsolve>http://ignoreme</urlsolve>
 <thumbnail>https://i.imgur.com/3j2o9ao.png</thumbnail>
 <fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
