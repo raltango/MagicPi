@@ -534,6 +534,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>[COLOR springgreen]   > CONTROL DE ADUANAS  [/COLOR]</title>
+<thumbnail>https://i.imgur.com/NJ5RQIy.jpg</thumbnail>
+<fanart>https://i.imgur.com/lKNiq5A.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/controladu.xml</externallink>
+</item>
+
+<item>
 <title>[COLOR springgreen]   > CRIMENES IMPERFECTOS     [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
