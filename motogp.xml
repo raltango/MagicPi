@@ -269,18 +269,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                   [B][COLOR deeppink][/COLOR][/B][B][COLOR yellow]EQUIPOS 2018[/COLOR][/B]</title>
-<link>http://ignoreme</link>
-</item>
-
-<item>
-<title>[COLOR yellow]1. ->[/COLOR][COLOR white] MERCEDES GP : - LEWIS HAMILTON
-                                            - VALTTERI BOTTAS[/COLOR]</title>
-<link>http://ignoreme</link>
+<title>pruebas programa</title>
+<link>http://es.dplay.com/dmax/control-de-fronteras-espana/temporada-3-episodio-16/</link>
 <thumbnail>https://i.imgur.com/LdqsVhY.png</thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/formula1.xml</externallink>
 </item>
+
 
 
 
