@@ -269,8 +269,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>pruebas programa</title>
-<link>http://es.dplay.com/dmax/control-de-fronteras-espana/temporada-3-episodio-16/</link>
+<title>pruebas programa 3</title>
+<urlsolve>http://es.dplay.com/dmax/control-de-fronteras-espana/temporada-3-episodio-16/</urlsolve>
 <thumbnail>https://i.imgur.com/LdqsVhY.png</thumbnail>
 <fanart>http://eskipaper.com/images/f1-wallpaper-1.jpg</fanart>
 </item>
