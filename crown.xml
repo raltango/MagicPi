@@ -9,8 +9,8 @@
 <listrepeat><![CDATA[
 <title>[makelist.param3]</title>
 <link>$doregex[getUrl]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ztiiP8U.jpg</fanart>
+<thumbnail>https://i.imgur.com/aJTYP18.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/SeriesHD/the-crown-t1-49244/list,1,1</page>
@@ -35,7 +35,7 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/aJTYP18.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -47,8 +47,8 @@
 <listrepeat><![CDATA[
 <title>[makelist.param3]</title>
 <link>$doregex[getUrl]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ztiiP8U.jpg</fanart>
+<thumbnail>https://i.imgur.com/aJTYP18.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/SeriesHD/the-crown-t2-96831/list,1,1</page>
@@ -73,6 +73,6 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/aJTYP18.jpg</thumbnail>
 <fanart></fanart>
 </item>
