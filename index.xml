@@ -16,7 +16,7 @@
 
 
 <item>
-<title>[COLOR skyblue]Busca en el Addon[/COLOR][COLOR yellow](Click Aquí))[/COLOR] </title>
+<title>[COLOR skyblue]Busca en el Addon[/COLOR][COLOR yellow](Click Aquí)[/COLOR] </title>
 <link>$doregex[lista]</link>
  
 <regex>
