@@ -47,7 +47,7 @@ import xbmcaddon
 import xbmcgui
 def GetLSProData(page_data,Cookie_Jar,m):
     dialog = xbmcgui.Dialog()
-    d = dialog.input('Buscador de peliculas y series:', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    d = dialog.input('Busca en Magyckpi:', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
     return d
 ]]></expres>
 <page></page>
