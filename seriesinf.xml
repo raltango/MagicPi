@@ -463,7 +463,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://www.pocoyo.com/_site_v6/assets/images/html/aside-login.png</thumbnail>
 <fanart></fanart>
 </item>
 
