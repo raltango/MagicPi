@@ -268,12 +268,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-                <title>pruebas e</title>
+                <title>pruebas ikjjje</title>
                 <link>$doregex[makelist]</link>
                 <regex>
                 <name>makelist</name>
                 <listrepeat><![CDATA[
-    <title>[makelist.param2] [makelist.param3]</title>
+    <title>[makelist.param2] </title>
     <link>NA</link>
     <thumbnail>NA</thumbnail>
 ]]></listrepeat>
@@ -286,12 +286,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-                <title>pruebas 94</title>
+                <title>pruebas 97</title>
                 <link>$doregex[makelist]</link>
                 <regex>
                 <name>makelist</name>
                 <listrepeat><![CDATA[
-    <title>[makelist.param2] [makelist.param3]</title>
+    <title>[makelist.param2] </title>
     <link>NA</link>
     <thumbnail>NA</thumbnail>
 ]]></listrepeat>
