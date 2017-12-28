@@ -267,6 +267,41 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
 </item>
 
+<item>
+                <title>pruebas</title>
+                <link>$doregex[makelist]</link>
+                <regex>
+                <name>makelist</name>
+                <listrepeat><![CDATA[
+    <title>[makelist.param2] [makelist.param3]</title>
+    <link>NA</link>
+    <thumbnail>NA</thumbnail>
+]]></listrepeat>
+ <expres><![CDATA[a href="([^"]+)">([^<]+)<\/a>\(VF([^<]+)<br]]></expres>
+
+<page>https://archive.org/details/YoKaiWatch01LosYoKaiExistenElCruceFantasmalAudioEspaolTvRipanimexSeries.com</page>
+<referer></referer>
+</regex>
+</item>
+
+
+<item>
+                <title>pruebas 4</title>
+                <link>$doregex[makelist]</link>
+                <regex>
+                <name>makelist</name>
+                <listrepeat><![CDATA[
+    <title>[makelist.param2] [makelist.param3]</title>
+    <link>NA</link>
+    <thumbnail>NA</thumbnail>
+]]></listrepeat>
+ <expres><![CDATA[a href="([^"]+)">([^<]+)<\/a>\(VF([^<]+)<br]]></expres>
+
+<page>http://es.dplay.com/dmax/enigmas-de-nuestra-historia/episodios/temporada-1/</page>
+<referer></referer>
+</regex>
+</item>
+
 
 
 
