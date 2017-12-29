@@ -393,6 +393,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://www.publico.es/uploads/2017/12/03/5a23e374a00c3.jpg</fanart>
 </item>
 
+
 <item>
 <title>[COLOR springgreen]   > LOS SIMPSONS   [/COLOR]</title>
 <link>$doregex[makelist]</link>
