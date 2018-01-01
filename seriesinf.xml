@@ -172,7 +172,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[makelist.param3]</title>
 <link>$doregex[getUrl]</link>
 <fanart>https://s2-ssl.dmcdn.net/fLG_P.jpg</fanart>
-<thumbnail>https://pics.filmaffinity.com/dinosaurs_tv_series-235642500-large.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/rfJKRqM.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/garroteca/dinosaurios-de-jim-henson-91522/list,1,3</page>
@@ -197,7 +197,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://pics.filmaffinity.com/dinosaurs_tv_series-235642500-large.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/rfJKRqM.jpg</thumbnail>
 <fanart>https://s2-ssl.dmcdn.net/fLG_P.jpg</fanart>
 </item>
 
