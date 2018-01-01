@@ -85,6 +85,45 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>[COLOR springgreen]   > ART ATTACK  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>$doregex[getUrl]</link>
+<fanart>https://imageresizer.static9.net.au/jOwEZn8Wbs_BUb3stoi0EZ4OqCs=/600x0/smart/https%3A%2F%2Fs3-ap-southeast-2.amazonaws.com%2Fnine-tvmg-images-prod%2F39%2F73%2F37%2F397337_374871_Art_Attack_ARTA_L_T2_t1_.jpg</fanart>
+<thumbnail>https://thewonderfuldisneyworld.files.wordpress.com/2010/07/artattack1.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/art-attack-77713/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/art-attack-77713/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://thewonderfuldisneyworld.files.wordpress.com/2010/07/artattack1.jpg</thumbnail>
+<fanart>https://imageresizer.static9.net.au/jOwEZn8Wbs_BUb3stoi0EZ4OqCs=/600x0/smart/https%3A%2F%2Fs3-ap-southeast-2.amazonaws.com%2Fnine-tvmg-images-prod%2F39%2F73%2F37%2F397337_374871_Art_Attack_ARTA_L_T2_t1_.jpg</fanart>
+</item>
+
+
 
 <item>
 <title>[COLOR springgreen]   > CHUGGINGTON   [/COLOR]</title>
@@ -160,6 +199,44 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://i.imgur.com/VoPYzVi.jpg</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR springgreen]   > DOCTORA JUGUETES  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>$doregex[getUrl]</link>
+<fanart>https://a.dilcdn.com/bl/wp-content/uploads/sites/27/2016/07/b-cartaaladoctorajuguetes-732x412-728x412.png</fanart>
+<thumbnail>https://imagenes.lacelebracion.com/Fiestas%20Infantiles/Doctora%20Juguetes/fiesta%20doctora%20juguetes%2098.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/doctora-juguetes-87828/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/doctora-juguetes-87828/list,1,1</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://imagenes.lacelebracion.com/Fiestas%20Infantiles/Doctora%20Juguetes/fiesta%20doctora%20juguetes%2098.jpg</thumbnail>
+<fanart>https://a.dilcdn.com/bl/wp-content/uploads/sites/27/2016/07/b-cartaaladoctorajuguetes-732x412-728x412.png</fanart>
 </item>
 
 <item>

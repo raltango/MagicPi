@@ -256,6 +256,44 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>[COLOR springgreen]   > EL CHIRINGUITO DE PEPE  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>$doregex[getUrl]</link>
+<fanart>https://imagizer.prod.carbyne.ps.ooyala.com/1800x635/https://s3-eu-west-1.amazonaws.com/ingest-mediaset-production.carbyne.ps.ooyala.com/x37cvs8dq8b8_masthead-el-chiringuito-de-pepe.jpg</fanart>
+<thumbnail>http://www.formulatv.com/images/series/posters/800/833/1_m3.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/el-chiringuito-de-pepe-78247/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/el-chiringuito-de-pepe-78247/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.formulatv.com/images/series/posters/800/833/1_m3.jpg</thumbnail>
+<fanart>https://imagizer.prod.carbyne.ps.ooyala.com/1800x635/https://s3-eu-west-1.amazonaws.com/ingest-mediaset-production.carbyne.ps.ooyala.com/x37cvs8dq8b8_masthead-el-chiringuito-de-pepe.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR springgreen]   > MERLÍ [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
