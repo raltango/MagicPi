@@ -255,40 +255,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-                <title>liste </title>
-                <link>$doregex[makelist]</link>
-                <regex>
-                <name>makelist</name>
-                <listrepeat><![CDATA[
-    <title>[makelist.param2] [makelist.param3]</title>
-    <link>NA</link>
-    <thumbnail>NA</thumbnail>
-]]></listrepeat>
- <expres><![CDATA[a href="([^"]+)">([^<]+)<\/a>\(VF([^<]+)<br]]></expres>
-
-<page>http://www.series-en-streaming.com/liste-streaming-serie.html</page>
-<referer></referer>
-</regex>
-</item>
-
-
-<item>
-                <title>pruebas</title>
-                <link>$doregex[makelist]</link>
-                <regex>
-                <name>makelist</name>
-                <listrepeat><![CDATA[
-    <title>[makelist.param2] [makelist.param3]</title>
-    <link>NA</link>
-    <thumbnail>NA</thumbnail>
-]]></listrepeat>
- <expres><![CDATA[a href="([^"]+)">([^<]+)<\/a>\(VF([^<]+)<br]]></expres>
-
-<page>https://archive.org/details/EHD946346CDPLAYSPAIN41080pAac124kbits</page>
-<referer></referer>
-</regex>
-</item>
+<?php
+ 
+$url = "http://smartiptvspain1.mine.nu:8000/live/josemagicpi/PgeONWVYIT/53494.ts";
+ 
+$regex = '~(?P<key>ud+)=(?P<value>[^&]+)~';
+ 
+preg_match_all($regex, $url, $matches, PREG_SET_ORDER);
+print_r($matches);
+?>
 
 
 
