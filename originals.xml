@@ -647,43 +647,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR springgreen]   > JOYAS SOBRE RUEDAS - ( TEMP.-> 1,2,3 )     [/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[getUrl]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/jorge-garcia-luis/joyas-sobre-ruedas-87552/list,1,1</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/jorge-garcia-luis/joyas-sobre-ruedas-87552/list,1,1</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://i.blogs.es/44dfd3/wheelerdealerstitlecard/450_1000.jpg</thumbnail>
-<fanart>http://s2.dmcdn.net/MrWOy/1280x720--jJ.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLOR springgreen]   > TU CARA ME SUENA     [/COLOR]</title>
@@ -721,6 +685,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>http://www.formulatv.com/images/noticias/62000/62070/5_d7804ec8d9.jpg</thumbnail>
 <fanart>http://www.dentrotele.com/wp-content/uploads/maxresdefault33.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR springgreen]   > JOYAS SOBRE RUEDAS ( TEMP. - 12 )  [/COLOR]</title>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/af/18/35/af183559c310a25460ad7b9caf2cf251.jpg</thumbnail>
+<fanart>https://i.imgur.com/ASkRBmu.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/joyas.xml</externallink>
 </item>
 
 
