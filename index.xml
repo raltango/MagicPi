@@ -398,3 +398,31 @@ def GetLSProData(page_data,Cookie_Jar,m):
       <cookiejar></cookiejar>
 </regex>	
 </item>
+
+<item>
+   <title>pruebas archive 4</title>
+   <thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>fast[makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>https://archive.org/details/%40josecp89?&sort=-publicdate&page=2</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>https://archive.org/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>https://archive.org</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
