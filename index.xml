@@ -372,7 +372,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-   <title>pruebas archive</title>
+   <title>pruebas archive 2</title>
    <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/46/Empire_season_1,_dvd_cover.jpg</thumbnail>
 <fanart>http://static.lakana.com/media.fox32chicago.com/photo/2015/08/25/EMPIRE___Season_2__Game_On__VIDEO__0_123541_ver1.0_640_360.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -385,7 +385,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
    <fanart>http://static.lakana.com/media.fox32chicago.com/photo/2015/08/25/EMPIRE___Season_2__Game_On__VIDEO__0_123541_ver1.0_640_360.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>https://archive.org/details/EHD100182FDPLAYSPAIN41080pAac124kbits</page>
+      <page>https://archive.org/compress/EHD100182FDPLAYSPAIN41080pAac124kbits/formats=MPEG4&file=/EHD100182FDPLAYSPAIN41080pAac124kbits.zip</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
