@@ -203,7 +203,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime]   > ONE PIECE ( CATALAN )   [/COLOR]</title>
+<title>[COLOR teal]   > ONE PIECE ( CATALAN )   [/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
