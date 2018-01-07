@@ -688,7 +688,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR springgreen]   > JOYAS SOBRE RUEDAS ( TEMP. - 12 )  [/COLOR]</title>
+<title>[COLOR yellow]   > JOYAS SOBRE RUEDAS ( TEMP. - 12 )  [/COLOR]</title>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/af/18/35/af183559c310a25460ad7b9caf2cf251.jpg</thumbnail>
 <fanart>https://i.imgur.com/ASkRBmu.jpg</fanart>
 <link>http://ignoreme</link>
@@ -698,7 +698,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR springgreen]   > CONTROL DE ADUANAS  [/COLOR]</title>
+<title>[COLOR yellow]   > CONTROL DE ADUANAS  [/COLOR]</title>
 <thumbnail>https://i.imgur.com/NJ5RQIy.jpg</thumbnail>
 <fanart>https://i.imgur.com/lKNiq5A.jpg</fanart>
 <link>http://ignoreme</link>
@@ -706,7 +706,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR springgreen]   > CONTROL DE ADUANAS : NUEVA ZELANDA [/COLOR]</title>
+<title>[COLOR yellow]   > CONTROL DE ADUANAS : NUEVA ZELANDA [/COLOR]</title>
 <thumbnail>https://i.imgur.com/apU2VHY.png</thumbnail>
 <fanart>https://i.imgur.com/CQ40sDF.jpg</fanart>
 <link>http://ignoreme</link>
@@ -714,7 +714,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR springgreen]   > ACUARIOS XXL [/COLOR]</title>
+<title>[COLOR yellow]   > ACUARIOS XXL [/COLOR]</title>
 <thumbnail>https://i.imgur.com/KlSxmIG.jpg</thumbnail>
 <fanart>https://imgur.com/Q0JRu98</fanart>
 <link>http://ignoreme</link>
@@ -722,7 +722,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR springgreen]   > AVENTURA EN PELOTAS [/COLOR]</title>
+<title>[COLOR yellow]   > AVENTURA EN PELOTAS [/COLOR]</title>
 <thumbnail>https://i.imgur.com/vEn8wTc.jpg</thumbnail>
 <fanart>https://i.imgur.com/n9z2bvG.jpg</fanart>
 <link>http://ignoreme</link>
@@ -730,7 +730,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR springgreen]   > AVENTURA EN PELOTAS XL[/COLOR]</title>
+<title>[COLOR yellow]   > AVENTURA EN PELOTAS XL[/COLOR]</title>
 <thumbnail>https://i.imgur.com/ycFBh7l.png</thumbnail>
 <fanart>https://i.imgur.com/wd3R14Y.jpg</fanart>
 <link>http://ignoreme</link>
