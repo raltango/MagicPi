@@ -371,4 +371,30 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
+<item>
+   <title>pruebas archive</title>
+   <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/46/Empire_season_1,_dvd_cover.jpg</thumbnail>
+<fanart>http://static.lakana.com/media.fox32chicago.com/photo/2015/08/25/EMPIRE___Season_2__Game_On__VIDEO__0_123541_ver1.0_640_360.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>fast[makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+   <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/46/Empire_season_1,_dvd_cover.jpg</thumbnail>
+   <fanart>http://static.lakana.com/media.fox32chicago.com/photo/2015/08/25/EMPIRE___Season_2__Game_On__VIDEO__0_123541_ver1.0_640_360.jpg</fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>https://archive.org/details/EHD100182FDPLAYSPAIN41080pAac124kbits</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>https://archive.org/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>https://archive.org</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
