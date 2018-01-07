@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+												#color springgreen es diskokosmiko
+												#color teal es kbagi
+												#color yellow es archive
 <item>
 <title>[COLOR lime]Busca tu serie infantil[/COLOR][COLOR deeppink](...) [/COLOR] </title>
 <link>$doregex[lista]</link>
