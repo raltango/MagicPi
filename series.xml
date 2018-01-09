@@ -1535,6 +1535,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://www.pbs.org/wgbh/masterpiece/wp-content/uploads/2017/02/vic-s1-series-sell-icon.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR deeppink]   > VICTORIA ( TEMPORADA 2 )     [/COLOR]</title>
+<link>ignorame</link>
+ <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/victoria2.xml</externallink>
+<thumbnail>https://www.tvseriesonline.tv/wp-content/uploads/2016/08/Victoria.jpg</thumbnail>
+<fanart>http://www.pbs.org/wgbh/masterpiece/wp-content/uploads/2017/02/vic-s1-series-sell-icon.jpg</fanart>
+</item>
+
 	
 	
 
