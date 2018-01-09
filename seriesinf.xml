@@ -205,7 +205,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR teal]   > ONE PIECE ( CATALAN )   [/COLOR]</title>
+<title>[COLOR turquoise]   > ONE PIECE ( CATALAN )   [/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -371,6 +371,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://i.imgur.com/Cq1rwXY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR deeppink]   > LA GUARDIA DEL LEON (2 TEMPORADA)    [/COLOR]</title>
+<link>ignorame</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/leon.xml</externallink>
+<thumbnail>https://i.imgur.com/kgibfnn.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -759,7 +767,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR yellow]   > LA PATRULLA CANINA TEMPORADA 1     [/COLOR]</title>
+<title>[COLOR yellow]   > LA PATRULLA CANINA TEMPORADA 1 Y 2    [/COLOR]</title>
 <link>ignorame</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/patrulla.xml</externallink>
 <thumbnail>https://i.imgur.com/WEGJ2CV.jpg</thumbnail>
