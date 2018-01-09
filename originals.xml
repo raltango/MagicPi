@@ -328,13 +328,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR white]+- [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
+        <title>[COLOR white]+-  [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://2.bp.blogspot.com/-mGwhWU_40bQ/UVmYz2Au1GI/AAAAAAAAAic/rSj75HGaX_Q/s400/paranormal-witness-paranormal-witness-31042407-380-286.jpg</thumbnail>
         <fanart>http://www.imfranetx.com/wp-content/uploads/2016/08/Paranormal-Witness-5x01-Online.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://kbagi.com/Josele89/mas-617811/list,1,1</page>
+<page>http://kbagi.com/Josele89/mas-617811/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
  
