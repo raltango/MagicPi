@@ -225,7 +225,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
         <fanart>http://www.imfranetx.com/wp-content/uploads/2016/08/Paranormal-Witness-5x01-Online.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://kbagi.com/Josele89/mas-617811/list,1,2</page>
+<page>http://kbagi.com/Josele89/paranormal-witness-617811/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
  
