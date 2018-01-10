@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>          [B][COLOR orange]* [/COLOR][/B][B][COLOR lime] TODO TORRENT [/B][/COLOR]</title>
+<title>                                       [B][COLOR lime] TODO TORRENT [/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail><thumbnail>
 </item>
@@ -17,7 +17,7 @@
 
 
 <item>
-<title>       [B][COLOR orange]* [/COLOR][/B][B][COLOR teal] BUSCADOR TORRENT[/B][/COLOR]</title>
+<title>      [B][COLOR yellow]* [/COLOR][/B][B][COLOR teal] BUSCADOR TORRENT[/B][/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 
