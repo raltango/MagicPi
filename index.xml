@@ -333,13 +333,101 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://cdn-images-1.medium.com/max/1400/1*vvrxNe4FPEeVmXLh5sDLDA.png</fanart>
 </item>
 
-/download/EHD100182FDPLAYSPAIN41080pAac124kbits/EHD100182FDPLAYSPAIN41080pAac124kbits_archive.torrent
+
 
 <item>
-<title>								TEMPORADA  </title>
-<link>plugin://plugin.video.quasar/play?uri=http://archive.org/download/EHD100182FDPLAYSPAIN41080pAac124kbits/EHD100182FDPLAYSPAIN41080pAac124kbits_archive.torrent</link>
-<fanart></fanart>
+<title>[COLOR lime][B][  ][/B][/COLOR]    [COLOR lightgreen][B]BUSCAR SERIE[/B] [/COLOR][COLOR lightslategray]SERIES HD[/COLOR]</title>
+<link>$doregex[makelist1]</link>
+
+
+
+
+
+
+<regex>
+<name>makelist1</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightblue][makelist1.param1]   [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<thumbnail>http://www.seriespapaya.com/uploads/[makelist1.param2]</thumbnail>
+<fanart>http://www.seriespapaya.com/uploads/[makelist1.param2]</fanart>
+]]></listrepeat>
+<expres><![CDATA[titulo\":\"(.*?)\".*?uploads\\/(.*?)\".*?serie\\\/(.*?)\"]]></expres>
+<page>https://serieshd.me/buscar.php?term=$doregex[search]</page>
+</regex>
+
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Buscar Serie: ejemplo: flash o the walking dead', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightblue][makelist1.param1] [makelist2.param2]     [/COLOR]</title>
+<link>$doregex[makelist3]</link>
+<thumbnail>https://serieshd.me/[makelist1.param1]</thumbnail>
+<fanart>https://serieshd.me/[makelist1.param1]</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)".*?nbsp\;(.*?)<]]></expres>
+<page>https://serieshd.me/lista-de-series/[makelist1.param3]</page>
+</regex>
+
+
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightblue][makelist1.param1] [makelist2.param2] | [COLOR lightgreen]Idioma:[B][makelist3.param1][/B][/COLOR]  [COLOR lightblue]Calidad:[B][makelist3.param5][/B][/COLOR]  [COLOR aquamarine]Server:[B][makelist3.param3][/B][/COLOR]        [/COLOR]</title>
+<link>$doregex[id3]</link>
+<thumbnail>https://serieshd.me/[makelist1.param1]</thumbnail>
+<fanart>https://serieshd.me/[makelist1.param1]</fanart>
+]]></listrepeat>
+<expres><![CDATA[idioma[\w\W\s]{0,17}images\/(.*?)\.p[\w\W\s]{0,30}fecha\"\>\n(.*?)<[\w\W\s]{0,117}(Streama.*?|Gamo.*?|Vidoz.*?|Openlo.*?|Kingv.*?)<[\w\W\s]{0,37}href="(.*?)"[\w\W\s]{0,87}calidad">\n(.*?)<]]></expres>
+<page>https://serieshd.me/[makelist2.param1]</page>
+</regex>
+
+
+
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import urlresolver
+    url = '$doregex[link]'
+    try:
+        u = urlresolver.resolve(url)
+    except:
+        u = 'http://adryanlist.org/error.mp4'
+    return u
+]]></expres>
+<page></page>
+</regex>
+
+<regex>
+<name>link</name>
+<expres>location\.href=\'(.*?)\'</expres>
+<page>[makelist3.param4]</page>[makelist3.param2]
+</regex>
+
+
 <thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 
