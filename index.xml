@@ -336,7 +336,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime][B][  ][/B][/COLOR]    [COLOR lightgreen][B]BUSCAR SERIE[/B] [/COLOR][COLOR lightslategray]SERIES HD[/COLOR]</title>
+<title>[COLOR deeppink][B][  ][/B][/COLOR]    [COLOR lightgreen][B]BUSCAR SERIE[/B] [/COLOR][COLOR lightslategray]SERIES HD[/COLOR]</title>
 <link>$doregex[makelist1]</link>
 
 
@@ -384,7 +384,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://serieshd.me/[makelist1.param1]</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="(.*?)".*?nbsp\;(.*?)<]]></expres>
-<page>https://serieshd.me/lista-de-series/[makelist1.param3]</page>
+<page>https://serieshd.me/lista-de-series/L/[makelist1.param3]</page>
 </regex>
 
 
