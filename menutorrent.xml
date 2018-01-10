@@ -10,7 +10,7 @@
 <item>
 <title>[B][COLOR orange]* [/COLOR][/B][B][COLOR yellow] NECESARIO QUASAR [/B][/COLOR][COLOR lime][I] - Instala Aqui [/I][/COLOR]</title>
 <link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.ProyeckMotors/</jsonrpc>
+<jsonrpc>plugin://plugin.video.quasar</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -27,37 +27,25 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/pelistorrent.xml</externallink>
 </item>
 
-<item>
-<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR hotpink] SERIES INFANTILES[/COLOR][/B]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
+
 
 <item>
 <title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR hotpink] SERIES [/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/seriestorrent.xml</externallink>
 </item>
 
-<item>
-<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR hotpink] PROGRAMAS TV[/COLOR][/B]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
+
 
 <item>
 <title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR hotpink] CARRERAS F1 Y MOTOGP[/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/carrerastorrent.xml</externallink>
 </item>
