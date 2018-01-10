@@ -377,3 +377,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+<title>1 pelicula </title>
+<link>plugin://plugin.video.quasar/play?uri=https://archive.org/download/03PiscoSanJuanDeMarconaVelocidadATope/03PiscoSanJuanDeMarconaVelocidadATope_archive.torrent</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>torrent</title>
+<link>plugin://plugin.video.quasar/play?uri=https://archive.org/compress/EHD100182FDPLAYSPAIN41080pAac124kbits/formats=MPEG4&file=/EHD100182FDPLAYSPAIN41080pAac124kbits.zip</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
