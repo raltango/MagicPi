@@ -252,43 +252,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#082;&#101;&#116;&#114;&#111;&#066;&#108;&#111;&#103;&#080;&#105;/&#077;&#097;&#103;&#105;&#099;&#080;&#105;/&#109;&#097;&#115;&#116;&#101;&#114;/&#100;&#114;&#097;&#103;&#111;&#110;&#098;&#097;&#108;&#108;&#046;&#120;&#109;&#108;</externallink>
 </item>
 
-<item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] VIDEOCLIPS 2017[/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[getUrl]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/trivianita/videoclip-2017-el-rockero-72075/list,3,9</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/trivianita/videoclip-2017-el-rockero-72075/list,3,9</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://i.imgur.com/9Xyj7Hj.png</thumbnail>
-<fanart></fanart>
-</item>
+
 
 
 
@@ -369,25 +333,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://cdn-images-1.medium.com/max/1400/1*vvrxNe4FPEeVmXLh5sDLDA.png</fanart>
 </item>
 
-
-
 <item>
-<title>1 pelicula torrent</title>
-<link>plugin://plugin.video.quasar/play?uri=http://www.mejortorrent.com/uploads/torrents/series/the-grand-tour-temporada-2-hdtv-720p-ac3-51.torrent</link>
+<title>1 pelicula</title>
+<link>plugin://plugin.video.quasar/play?uri=http://archive.org/download/03PiscoSanJuanDeMarconaVelocidadATope/03PiscoSanJuanDeMarconaVelocidadATope_archive.torrent</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>1 pelicula </title>
-<link>plugin://plugin.video.quasar/play?uri=https://archive.org/download/03PiscoSanJuanDeMarconaVelocidadATope/03PiscoSanJuanDeMarconaVelocidadATope_archive.torrent</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>torrent</title>
-<link>plugin://plugin.video.quasar/play?uri=https://archive.org/compress/EHD100182FDPLAYSPAIN41080pAac124kbits/formats=MPEG4&file=/EHD100182FDPLAYSPAIN41080pAac124kbits.zip</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-</item>
+
+
