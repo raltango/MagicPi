@@ -120,7 +120,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR deeppink]   > TOP GEAR: Ambitious But Rubbish (TEMP.1)[/COLOR]</title>
+<title>[B][COLOR deeppink][  ] - [/COLOR][/B][B][COLOR deepskyblue] TOP GEAR: AMBITIOUS BUT RUBBISH (TEMP.1)[/COLOR][/B]</title>
 <thumbnail>http://www.seriespapaya.com/uploads/Top-Gear-Ambitious-But-Rubbish20.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/81x7hR3mhlL._RI_.jpg</fanart>
 <link>http://ignoreme</link>
@@ -128,7 +128,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR deeppink]   > TOP GEAR: (TEMP.22)[/COLOR]</title>
+<title>[B][COLOR deeppink][  ] - [/COLOR][/B][B][COLOR deepskyblue] TOP GEAR (TEMP.22)[/COLOR][/B]</title>
 <thumbnail>http://lide.uhk.cz/fim/student/hulidya1/img/top_gear.jpg</thumbnail>
 <fanart>http://www.digitalmx.net/wp-content/uploads/2017/08/top-gear-1.jpg</fanart>
 <link>http://ignoreme</link>
@@ -137,7 +137,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime]   > BUSCADORES DE FANTASMAS     [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] BUSCADORES DE FANTASMAS[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -175,7 +175,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime]   > HERMANO MAYOR     [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] HERMANO MAYOR[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -213,7 +213,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR deeppink]   > PARANORMAL WITNESS     [/COLOR]</title>
+<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR deepskyblue] PARANORMAL WITNESS[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -269,7 +269,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime]   > PLANETA CALLEJA     [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] PLANETA CALLEJA[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -306,47 +306,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://www.jesuscalleja.es/archivos/expediciones_v2/Planeta%20Calleja%20T4/Jorge%20Javier/Glaer%C3%ADa%20JJ/IMG_3110%20copia.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR lime]   > SECRETOS DEL UNIVERSO CON MORGAN FREEMAN      [/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lime][makelist.param3][/COLOR]</title>
-<link>$doregex[getUrl]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/moipera/secretos-del-universo-t1-morgan-freeman-80792/list,1,1</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/moipera/secretos-del-universo-t1-morgan-freeman-80792/list,1,1</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://i.imgur.com/auJqefc.jpg</thumbnail>
-<fanart></fanart>
-</item>
 
 
 <item>
-<title>[COLOR lime]   > GRAND PRIX     [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] GRAND PRIX[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -384,7 +347,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime]   > CUARTO MILENIO     [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] CUARTO MILENIO[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -422,7 +385,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime]   > CAZADORES DE MITOS     [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] CAZADORES DE MITOS[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -460,7 +423,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime]   > PESADILLA EN LA COCINA      [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] PESADILLA EN LA COCINA[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -498,7 +461,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime]   > 21 DIAS CON SAMANTA      [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] 21 DIAS CON SAMANTA[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -536,7 +499,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime]   > NINJA WARRIOR     [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] NINJA WARRIOR[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -576,7 +539,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime]   > TU CARA ME SUENA     [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] TU CARA ME SUENA[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -614,7 +577,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR yellow]   > JOYAS SOBRE RUEDAS ( TEMP. - 12 )  [/COLOR]</title>
+<title>[B][COLOR red][  ] - [/COLOR][/B][B][COLOR deepskyblue] JOYAS SOBRE RUEDAS[/COLOR][/B]</title>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/af/18/35/af183559c310a25460ad7b9caf2cf251.jpg</thumbnail>
 <fanart>https://i.imgur.com/ASkRBmu.jpg</fanart>
 <link>http://ignoreme</link>
@@ -622,7 +585,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR yellow]   > FAST AND LOUD ( GAS MONKEYS )  [/COLOR]</title>
+<title>[B][COLOR red][  ] - [/COLOR][/B][B][COLOR deepskyblue] FAST AND LOUD (GASMONKEYS)[/COLOR][/B]</title>
 <thumbnail>http://www.dmax.marca.com/content/dam/discovery/seur/es/dmax/2015/01/fast_loudficha.jpg</thumbnail>
 <fanart>https://mms.businesswire.com/media/20160901005412/en/542162/5/RichardRawlingsDickies.jpg</fanart>
 <link>http://ignoreme</link>
@@ -632,7 +595,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]   > CONTROL DE ADUANAS  [/COLOR]</title>
+<title>[B][COLOR red][  ] - [/COLOR][/B][B][COLOR deepskyblue] CONTROL DE ADUANAS[/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/NJ5RQIy.jpg</thumbnail>
 <fanart>https://i.imgur.com/lKNiq5A.jpg</fanart>
 <link>http://ignoreme</link>
@@ -640,7 +603,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR yellow]   > CONTROL DE ADUANAS : NUEVA ZELANDA [/COLOR]</title>
+<title>[B][COLOR red][  ] - [/COLOR][/B][B][COLOR deepskyblue] CONTROL DE ADUANAS: NUEVA ZELANDA[/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/apU2VHY.png</thumbnail>
 <fanart>https://i.imgur.com/CQ40sDF.jpg</fanart>
 <link>http://ignoreme</link>
@@ -648,7 +611,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR yellow]   > ACUARIOS XXL [/COLOR]</title>
+<title>[B][COLOR red][  ] - [/COLOR][/B][B][COLOR deepskyblue] AQUARIOS XXL[/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/KlSxmIG.jpg</thumbnail>
 <fanart>https://imgur.com/Q0JRu98</fanart>
 <link>http://ignoreme</link>
@@ -656,7 +619,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR yellow]   > AVENTURA EN PELOTAS [/COLOR]</title>
+<title>[B][COLOR red][  ] - [/COLOR][/B][B][COLOR deepskyblue] AVENTURA EN PELOTAS[/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/vEn8wTc.jpg</thumbnail>
 <fanart>https://i.imgur.com/n9z2bvG.jpg</fanart>
 <link>http://ignoreme</link>
@@ -664,7 +627,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR yellow]   > AVENTURA EN PELOTAS XL[/COLOR]</title>
+<title>[B][COLOR red][  ] - [/COLOR][/B][B][COLOR deepskyblue] AVENTURA EN PELOTAS XXL[/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/ycFBh7l.png</thumbnail>
 <fanart>https://i.imgur.com/wd3R14Y.jpg</fanart>
 <link>http://ignoreme</link>
@@ -673,7 +636,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime]   > LOS GIPSY KINGS     [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] LOS GIPSY KINGS[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -711,7 +674,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime]   > POLICIAS EN ACCION      [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] POLICIAS EN ACCION[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -749,7 +712,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime]   > LOS REYES DEL EMPEÑO     [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] LOS REYES DEL EMPEÑO[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -787,7 +750,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime]   > EL JEFE INFILTRADO     [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] EL JEFE INFILTRADO[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -826,7 +789,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime]   > EN TIERRA HOSTIL     [/COLOR]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] EN TIERRA HOSTIL[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -863,41 +826,5 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR lime]   > CASADOS A PRIMERA VISTA ( 3 TEMP. )    [/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[getUrl]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chicho306/casados-a-primera-vista-t3-49191/list,1,1</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/chicho306/casados-a-primera-vista-t3-49191/list,1,1</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://i.imgur.com/d1fuJkt.jpg</thumbnail>
-<fanart></fanart>
-</item>
+
 
