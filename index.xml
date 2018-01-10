@@ -128,7 +128,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR skyblue]========== [/COLOR][COLOR deeppink]========== [/COLOR][COLOR yellow]========== [/COLOR]</title>
+<title>[COLOR skyblue]////////////////////// [/COLOR][COLOR deeppink]////////////////////// [/COLOR][COLOR yellow]////////////////////// [/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>https://i.imgur.com/7SB2F0u.png</thumbnail>
 <fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
@@ -137,7 +137,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
   
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] FANATICS F1 [/B][/COLOR][COLOR yellow][I]-  Ultimo GP : Abu Dabi (Circuito Yas Marina)[/I][/COLOR]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] FANATICS F1 [/B][/COLOR][COLOR yellow][I]-  Ultimo GP : Abu Dabi (Circuito Yas Marina)[/I][/COLOR]</title>
 <thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
 <fanart>http://www.f1fanatic.co.uk/wp-content/uploads/2017/04/XPB_868129_HiRes-e1491629335234.jpg</fanart>
 <link>http://ignoreme</link>
@@ -145,7 +145,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] FANATICS MOTOGP [/B][/COLOR][COLOR yellow][I]- Ultimo GP : Valencia (Ricardo Tormo)[/I][/COLOR]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] FANATICS MOTOGP [/B][/COLOR][COLOR yellow][I]- Ultimo GP : Valencia (Ricardo Tormo)[/I][/COLOR]</title>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 <link>http://ignoreme</link>
@@ -153,7 +153,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] PARA MAS MOTOR,[/COLOR] [COLOR deeppink] Proyeck[/COLOR][COLOR lime]Motors[/COLOR][/B][COLOR yellow][I] - CLICK AQUI[/I][/COLOR]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] PARA MAS MOTOR,[/COLOR] [COLOR deeppink] Proyeck[/COLOR][COLOR lime]Motors[/COLOR][/B][COLOR yellow][I] - CLICK AQUI[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.ProyeckMotors/</jsonrpc>
 <thumbnail>https://i.imgur.com/cVeLiM3.png</thumbnail>
@@ -169,7 +169,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] LA LIGA ( Resumenes ) [/B][/COLOR][COLOR yellow][I]-  Jornada 18[/I][/COLOR]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] LA LIGA ( Resumenes ) [/B][/COLOR][COLOR yellow][I]-  Jornada 18[/I][/COLOR]</title>
 <thumbnail>https://i.imgur.com/3j2o9ao.png</thumbnail>
 <fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
 <link>http://ignoreme</link>
@@ -177,14 +177,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] NBA ( Resumenes ) [/B][/COLOR][COLOR yellow][I] -  [/I][/COLOR]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] NBA ( Resumenes ) [/B][/COLOR][COLOR yellow][I] -  [/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/OPy5lJ7.png</thumbnail>
 <fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
 <regex>
             <name>makelist</name>
             <listrepeat><![CDATA[
-                        <title>[COLOR springgreen][makelist.param1][/COLOR]</title>
+                        <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
                         <thumbnail>https://i.imgur.com/OPy5lJ7.png</thumbnail>
 						<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
@@ -209,7 +209,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] DRAGON BALL SUPER ( Sub.Esp)[/COLOR][/B][COLOR yellow][I] - Ultimo cap.122 [/I][/COLOR]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] DRAGON BALL SUPER ( Sub.Esp)[/COLOR][/B][COLOR yellow][I] - Ultimo cap.122 [/I][/COLOR]</title>
 <thumbnail>https://i.imgur.com/HmXfSgj.jpg</thumbnail>
 <fanart>https://i.imgur.com/DGQusQh.jpg</fanart>
 <link>http://ignoreme</link>
@@ -221,7 +221,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] SERIES[/COLOR][/B]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] SERIES[/COLOR][/B]</title>
 <thumbnail>https://pbs.twimg.com/profile_images/3121099081/435e06fa0cdb34f2fc4a1b045993a030.png</thumbnail>
 <fanart>https://kingstraining.com/wp-content/uploads/2016/07/1jwwo6.jpg</fanart>
 <link>http://ignoreme</link>
@@ -229,7 +229,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] SERIES INFANTILES[/COLOR][/B]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] SERIES INFANTILES[/COLOR][/B]</title>
 <thumbnail>http://imagenpng.com/wp-content/uploads/2017/11/divertida-escena-de-invierno-con-ninos-y-perros-ilustracion-vectorial-de-dibujos-animados_1196-507-256x256.jpg</thumbnail>
 <fanart>http://www.dibujoswiki.com/Uploads/dibujoswiki.com/Resoluciones/89-1920x1080.jpg</fanart>
 <link>http://ignoreme</link>
@@ -237,7 +237,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] PROGRAMAS TV[/COLOR][/B]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] PROGRAMAS TV[/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/9Xyj7Hj.png</thumbnail>
 <fanart>https://i.imgur.com/yW46dLE.jpg</fanart>
 <link>http://ignoreme</link>
@@ -245,7 +245,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] PELICULAS[/COLOR][/B]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] PELICULAS[/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/2fuOslb.png</thumbnail>
 <fanart>https://i.imgur.com/ELZbaPi.jpg</fanart>
 <link>http://ignoreme</link>
@@ -265,7 +265,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] TELEVISION (TDT) [/B][/COLOR]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] TELEVISION (TDT) [/B][/COLOR]</title>
 <thumbnail>https://img.hdbox.ws/wp-content/uploads/2016/08/1402652350_m3u1.png</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
 <link>http://ignoreme</link>
@@ -274,7 +274,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR yellow] ZONA PRIVADA[/COLOR][/B]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR yellow] ZONA PRIVADA[/COLOR][/B]</title>
 <link>NA</link>
 <externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#082;&#101;&#116;&#114;&#111;&#066;&#108;&#111;&#103;&#080;&#105;/&#077;&#097;&#103;&#105;&#099;&#080;&#105;/&#109;&#097;&#115;&#116;&#101;&#114;/&#101;&#110;&#099;&#114;&#121;&#112;&#116;&#046;&#120;&#109;&#108;$$&#076;&#083;&#080;&#114;&#111;&#069;&#110;&#099;&#075;&#101;&#121;=&#032;$$</externallink>
 <thumbnail>https://i.imgur.com/oTbu8ck.png</thumbnail>
@@ -295,7 +295,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR skyblue] Avezy[/COLOR][/B][COLOR blue][I] Addon Avezy Necesario[/I][/COLOR]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR skyblue] Avezy[/COLOR][/B][COLOR blue][I] Addon Avezy Necesario[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.avezy/</jsonrpc>
 <thumbnail>http://dimitrology.com/wp-content/uploads/2017/08/icon-5.png</thumbnail>
@@ -305,7 +305,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR skyblue] GAMESTARTER[/B] ( CONSOLAS RETRO)[/COLOR]
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR skyblue] GAMESTARTER[/B] ( CONSOLAS RETRO)[/COLOR]
 [COLOR blue][I] Addon Necesario,¡¡¡SOLO RASPBERRY!!![/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.gamestarter/</jsonrpc>
@@ -315,7 +315,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR skyblue] ROM COLLECTION BROWSER[/B] ( CONSOLAS RETRO)[/COLOR]
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR skyblue] ROM COLLECTION BROWSER[/B] ( CONSOLAS RETRO)[/COLOR]
 [COLOR blue][I] Addon Necesario,PARA PC Y ANDROID!![/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.games.rom.collection.browser/</jsonrpc>
@@ -325,7 +325,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR skyblue] INTERNET ARCHIVE ROM BROWSER[/B] ( CONSOLAS RETRO)[/COLOR]
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR skyblue] INTERNET ARCHIVE ROM BROWSER[/B] ( CONSOLAS RETRO)[/COLOR]
 [COLOR blue][I] Addon Necesario, RETROARCH NECESARIO.[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.program.iarl</jsonrpc>
