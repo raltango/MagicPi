@@ -336,7 +336,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 /download/EHD100182FDPLAYSPAIN41080pAac124kbits/EHD100182FDPLAYSPAIN41080pAac124kbits_archive.torrent
 
 <item>
-<title>TEMPORADA</title>
+<title>								TEMPORADA  </title>
 <link>plugin://plugin.video.quasar/play?uri=http://archive.org/download/EHD100182FDPLAYSPAIN41080pAac124kbits/EHD100182FDPLAYSPAIN41080pAac124kbits_archive.torrent</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
