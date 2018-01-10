@@ -139,7 +139,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] FANATICS F1 [/B][/COLOR][B][COLOR yellow][I]-  Ultimo GP : Abu Dabi (Circuito Yas Marina)[/I][/COLOR][/B]</title>
 <thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
-<fanart>http://www.f1fanatic.co.uk/wp-content/uploads/2017/04/XPB_868129_HiRes-e1491629335234.jpg</fanart>
+<fanart>http://www.essentiallysports.com/wp-content/uploads/start-lewis-hamilton-mercedes-amg-f1-w08-leads-sebastian-vettel-ferrari-sf70h-kimi-raikkonen-ferrari-sf70h-felipe-massa-williams-fw40.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#082;&#101;&#116;&#114;&#111;&#066;&#108;&#111;&#103;&#080;&#105;/&#077;&#097;&#103;&#105;&#099;&#080;&#105;/&#109;&#097;&#115;&#116;&#101;&#114;/&#109;&#101;&#110;&#117;&#102;&#049;&#046;&#120;&#109;&#108;</externallink>
 </item>
@@ -147,7 +147,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] FANATICS MOTOGP [/B][/COLOR][B][COLOR yellow][I]- Ultimo GP : Valencia (Ricardo Tormo)[/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
-<fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
+<fanart>http://www.wallpapers-web.com/data/out/146/5060565-motogp-3-wallpapers.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#082;&#101;&#116;&#114;&#111;&#066;&#108;&#111;&#103;&#080;&#105;/&#077;&#097;&#103;&#105;&#099;&#080;&#105;/&#109;&#097;&#115;&#116;&#101;&#114;/&#109;&#101;&#110;&#117;&#109;&#111;&#116;&#111;&#115;&#046;&#120;&#109;&#108;</externallink>
 </item>
@@ -171,7 +171,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[B][COLOR yellow][  ] [/COLOR][/B][B][COLOR deepskyblue] LA LIGA ( Resumenes ) [/B][/COLOR][B][COLOR lime][I]-  Jornada 18[/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/3j2o9ao.png</thumbnail>
-<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+<fanart>https://www.unievents360.com/wp-content/uploads/2016/12/la-liga.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#082;&#101;&#116;&#114;&#111;&#066;&#108;&#111;&#103;&#080;&#105;/&#077;&#097;&#103;&#105;&#099;&#080;&#105;/&#109;&#097;&#115;&#116;&#101;&#114;/&#108;&#105;&#103;&#097;&#046;&#120;&#109;&#108;</externallink>
 </item>
@@ -179,14 +179,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[B][COLOR yellow][  ] [/COLOR][/B][B][COLOR deepskyblue] NBA ( Resumenes ) [/B][/COLOR][COLOR lime][I] -  [/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
-<thumbnail>https://i.imgur.com/OPy5lJ7.png</thumbnail>
+<thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
 <fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
 <regex>
             <name>makelist</name>
             <listrepeat><![CDATA[
                         <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/OPy5lJ7.png</thumbnail>
+                        <thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
 						<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -223,15 +223,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR deepskyblue] SERIES[/COLOR][/B]</title>
 <thumbnail>https://pbs.twimg.com/profile_images/3121099081/435e06fa0cdb34f2fc4a1b045993a030.png</thumbnail>
-<fanart>https://kingstraining.com/wp-content/uploads/2016/07/1jwwo6.jpg</fanart>
+<fanart>https://es.best-wallpaper.net/wallpaper/1920x1080/1304/The-Vampire-Diaries-TV-series-season-4-HD_1920x1080.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#082;&#101;&#116;&#114;&#111;&#066;&#108;&#111;&#103;&#080;&#105;/&#077;&#097;&#103;&#105;&#099;&#080;&#105;/&#109;&#097;&#115;&#116;&#101;&#114;/&#115;&#101;&#114;&#105;&#101;&#115;&#046;&#120;&#109;&#108;</externallink>
 </item>
 
 <item>
 <title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR deepskyblue] SERIES INFANTILES[/COLOR][/B]</title>
-<thumbnail>http://imagenpng.com/wp-content/uploads/2017/11/divertida-escena-de-invierno-con-ninos-y-perros-ilustracion-vectorial-de-dibujos-animados_1196-507-256x256.jpg</thumbnail>
-<fanart>http://www.dibujoswiki.com/Uploads/dibujoswiki.com/Resoluciones/89-1920x1080.jpg</fanart>
+<thumbnail>http://a613.phobos.apple.com/us/r30/Purple4/v4/c5/ea/a8/c5eaa8d0-e517-467f-0e95-fa77f024a871/mzl.jyeprsyu.256x256-75.png</thumbnail>
+<fanart>http://www.centralmutante.com/wp-content/uploads/2016/07/13735733_10153971125418621_7657564384248839642_o.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#082;&#101;&#116;&#114;&#111;&#066;&#108;&#111;&#103;&#080;&#105;/&#077;&#097;&#103;&#105;&#099;&#080;&#105;/&#109;&#097;&#115;&#116;&#101;&#114;/&#115;&#101;&#114;&#105;&#101;&#115;&#105;&#110;&#102;&#046;&#120;&#109;&#108;</externallink>
 </item>
