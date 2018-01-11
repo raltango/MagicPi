@@ -82,7 +82,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR hotpink] PELICULAS[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR yellow] PELICULAS[/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -92,7 +92,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR hotpink] SERIES [/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR yellow] SERIES [/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -102,7 +102,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR hotpink] CARRERAS F1 Y MOTOGP[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR yellow] CARRERAS F1 Y MOTOGP[/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
