@@ -215,57 +215,6 @@
 
 
 
-<item>
-                <title>prueba dmax</title>
-                <link>$doregex[makelist]</link>
-                <regex>
-                <name>makelist</name>
-                <listrepeat><![CDATA[
-    <title>[makelist.param2] [makelist.param3]</title>
-    <link>NA</link>
-    <thumbnail>NA</thumbnail>
-]]></listrepeat>
- <expres><![CDATA[a href="([^"]+)">([^<]+)<\/a>\(VF([^<]+)<br]]></expres>
-
-<page>http://es.dplay.com/dmax/la-historia-del-universo/</page>
-<referer>http://es.dplay.com/dmax/la-historia-del-universo/temporada-4-episodio-6-fuerzas-de-construccion-masiva</referer>
-</regex>
-</item>
-
-
-<item>
-                <title>prueba dmax2</title>
-                <link>$doregex[makelist]</link>
-                <regex>
-                <name>makelist</name>
-                <listrepeat><![CDATA[
-    <title>[makelist.param2] [makelist.param3]</title>
-    <link>NA</link>
-    <thumbnail>NA</thumbnail>
-]]></listrepeat>
- <expres><![CDATA[a href="([^"]+)">([^<]+)<\/a>\(VF([^<]+)<br]]></expres>
-
-<page>http://es.dplay.com/dmax/la-historia-del-universo/temporada-4-episodio-6-fuerzas-de-construccion-masiva/</page>
-<referer>http://www.imrworldwide.com/w3c/p3p.xml</referer>
-</regex>
-</item>
-
-<item>
-                <title>prueba dmax3</title>
-                <link>$doregex[makelist]</link>
-                <regex>
-                <name>makelist</name>
-                <listrepeat><![CDATA[
-    <title>[makelist.param2] [makelist.param3]</title>
-    <link>NA</link>
-    <thumbnail>NA</thumbnail>
-]]></listrepeat>
- <expres><![CDATA[a href="([^"]+)">([^<]+)<\/a>\(VF([^<]+)<br]]></expres>
-
-<page>http://es.dplay.com/dmax/la-historia-del-universo/</page>
-<referer>http://es.dplay.com/dmax/la-historia-del-universo/temporada-4-episodio-6-fuerzas-de-construccion-masiva</referer>
-</regex>
-</item>
 
 
 
