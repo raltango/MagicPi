@@ -18,20 +18,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 </item>
 
-<item>
-<title>MUNDO Nereo</title> 
-<link>$doregex[makelist]</link> 
-<regex>
-<name>makelist</name> 
-<listrepeat><![CDATA[ <title>[makelist.param1]</title> 
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
- <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail> ]]>
- </listrepeat> 
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&]</expres> 
-<page>https://www.youtube.com/channel/UCH4cb8IIJmqnRTiz06l60RA</page> 
-</regex> 
-<thumbnail></thumbnail> 
-</item>
 
 
 
