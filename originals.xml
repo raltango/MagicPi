@@ -142,7 +142,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[B][COLOR orange]* [/COLOR][/B][B][COLOR deepskyblue][makelist.param2][/COLOR]</title>
+        <title>[B][COLOR orange]* [/COLOR][/B][B][COLOR deepskyblue][makelist.param2][/COLOR][/B]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>https://pics.filmaffinity.com/how_the_universe_works-438401315-large.jpg</thumbnail>
         <fanart>http://lemurianawakening.com/wp-content/uploads/2015/08/Letter-39-1-1024x600.jpg</fanart>
