@@ -3,10 +3,10 @@
 
 <item>
 <title>[B][COLOR orange]* [/COLOR][/B][B][COLOR deepskyblue] GETAFE-MALAGA[/B][/COLOR][COLOR lime][I]- En Directo[/I][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://verdirectotv.tv/ver-bein-la-liga-gratis-en-directo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-online/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
 <name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://verliga.net/live/verliga12.php</page>
-<referer>http://verdirectotv.tv/ver-bein-la-liga-gratis-en-directo/</referer>
+<page>http://www.vercanalestv.com/tv/deportes/stream/verliga1.php</page>
+<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-online/</referer>
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
