@@ -174,7 +174,7 @@
 
 
 <item>
-<title>[COLOR deeppink] >>[/COLOR][COLOR powderblue] GP Mexico  -  CARRERA[/COLOR][COLOR yellow] carrera - clasificacion[/COLOR]</title>
+<title>[COLOR deeppink] >>[/COLOR][COLOR powderblue] GP Mexico99  -  CARRERA[/COLOR][COLOR yellow] carrera - clasificacion[/COLOR]</title>
 <link>$doregex[select]</link>
 <regex>
 <name>select</name>
@@ -184,7 +184,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
     dialog = xbmcgui.Dialog()
     ret = dialog.select('GP Mexico', ['[COLOR yellow]opcion 1[/COLOR]', '[COLOR yellow]opcion 2[/COLOR]'])
     channels = ['https://archive.org/download/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4', 'https://archive.org/download/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ/Formula.1.GP.Mexico.Carrera.2017.MovistarF1.EventosHQ.mp4']
-    return page
 ]]></expres>
 <page></page>
 </regex>
