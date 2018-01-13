@@ -122,10 +122,10 @@
         <title>[COLOR white]+- [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail></thumbnail>
-        <fanart></fanart>
+        <fanart>https://i.imgur.com/ELZbaPi.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://kbagi.com/danielsan081/pelis-hd-580121/list,1,11</page>
+<page>&#104;&#116;&#116;&#112;://&#107;&#098;&#097;&#103;&#105;&#046;&#099;&#111;&#109;/&#100;&#097;&#110;&#105;&#101;&#108;&#115;&#097;&#110;&#048;&#056;&#049;/&#112;&#101;&#108;&#105;&#115;&#045;&#104;&#100;&#045;&#053;&#056;&#048;&#049;&#050;&#049;/&#108;&#105;&#115;&#116;,&#049;,&#049;&#049;</page>
 <cookieJar></cookieJar>
 </regex>
  
@@ -162,8 +162,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/2fuOslb.png</thumbnail>
+<fanart>https://i.imgur.com/ELZbaPi.jpg</fanart>
 </item>
 
 <item>
