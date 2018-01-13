@@ -272,14 +272,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>pruebas multilink</title>
-<multilink>
-<link>https://archive.org/download/06ArequipaLaPazVelocidadATope/06%20-%20Arequipa%20-%20La%20Paz%20VelocidadATope.mp4$$lsname=Etapa 6</link>
-<link>plugin://plugin.video.quasar/play?uri=https://archive.org/download/05SanJuanDeMarconaArequipaVelocidadATope/05SanJuanDeMarconaArequipaVelocidadATope_archive.torrent$$lsname=Etapa 5</link>
-<urlsolve>http://streamcloud.eu/kuerg101y4wb$$lsname=capitulo</urlsolve>
-</multilink>
-</item>
+
 
 
 
