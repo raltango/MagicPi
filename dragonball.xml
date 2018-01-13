@@ -177,7 +177,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR crimson][  ] [/COLOR][/B][B][COLOR yellow] CANCIONES PELICULAS DISNEY[/COLOR][/B]</title>
+<title>[B][COLOR crimson][  ] [/COLOR][/B][B][COLOR yellow] CANCIONES PELICULAS DISEY[/COLOR][/B]</title>
 <link>$doregex[makelist2]</link>
 
 <regex>
