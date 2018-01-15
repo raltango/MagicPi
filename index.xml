@@ -15,6 +15,14 @@
 </item>
 
 
+
+<item>
+<title>                           [B][COLOR lime]* [/COLOR][/B][B][COLOR gold]          -------------------[/COLOR][/B]</title>
+<fanart></fanart>
+<link>http://ignoreme</link>
+</item>
+
+
   
 <item>
 <title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] FANATICS F1 [/B][/COLOR][B][COLOR yellow][I]-  Ultimo GP : Abu Dabi (Circuito Yas Marina)[/I][/COLOR][/B]</title>
@@ -72,7 +80,7 @@
 
 
 <item>
-<title>                           [B][COLOR lime]* [/COLOR][/B][B][COLOR gold]▁ ▂ ▄ ▅ ▆☆--ENTRETENIMIENTO--☆▆ ▅ ▄ ▂ ▁ [/COLOR][/B]</title>
+<title>                           [B][COLOR lime]* [/COLOR][/B][B][COLOR gold]          -------------------[/COLOR][/B]</title>
 <fanart></fanart>
 <link>http://ignoreme</link>
 </item>
@@ -179,6 +187,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>                           [B][COLOR lime]* [/COLOR][/B][B][COLOR gold]          -------------------[/COLOR][/B]</title>
+<fanart></fanart>
+<link>http://ignoreme</link>
+</item>
+
+
 
 <item>
 <title>[B][COLOR lime][  ] [/COLOR][/B][B][COLOR deepskyblue] TELEVISION (TDT) [/B][/COLOR]</title>
@@ -206,6 +221,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://media.betazeta.com/fayerwayer/2016/02/Pirata-Torrents-Sparrow.jpg</fanart>
 </item>
 
+
+
+
+
+<item>
+<title>                           [B][COLOR lime]* [/COLOR][/B][B][COLOR gold]          -------------------[/COLOR][/B]</title>
+<fanart></fanart>
+<link>http://ignoreme</link>
+</item>
 
 
 
