@@ -17,7 +17,7 @@
 
 
 <item>
-<title>                 [B][COLOR lime]-------------------          -------------------          -------------------[/COLOR][/B]
+<title>                     [B][COLOR lime]-------------------          -------------------          -------------------[/COLOR][/B]
                         [B][COLOR deeppink]-------------------          -------------------          -------------------[/COLOR][/B]</title>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -81,7 +81,8 @@
 
 
 <item>
-<title>                 [B][COLOR gold]-------------------          -------------------          -------------------[/COLOR][/B]</title>
+<title>                     [B][COLOR lime]-------------------          -------------------          -------------------[/COLOR][/B]
+                        [B][COLOR deeppink]-------------------          -------------------          -------------------[/COLOR][/B]</title>
 <fanart></fanart>
 <link>http://ignoreme</link>
 </item>
@@ -189,7 +190,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>                 [B][COLOR gold]-------------------          -------------------          -------------------[/COLOR][/B]</title>
+<title>                     [B][COLOR lime]-------------------          -------------------          -------------------[/COLOR][/B]
+                        [B][COLOR deeppink]-------------------          -------------------          -------------------[/COLOR][/B]</title>
 <fanart></fanart>
 <link>http://ignoreme</link>
 </item>
@@ -227,7 +229,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>                 [B][COLOR gold]-------------------          -------------------          -------------------[/COLOR][/B]</title>
+<title>                     [B][COLOR lime]-------------------          -------------------          -------------------[/COLOR][/B]
+                        [B][COLOR deeppink]-------------------          -------------------          -------------------[/COLOR][/B]</title>
 <fanart></fanart>
 <link>http://ignoreme</link>
 </item>
