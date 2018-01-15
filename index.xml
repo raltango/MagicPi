@@ -229,8 +229,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>                     [B][COLOR deeppink]-------------------                -------------------              -------------------[/COLOR][/B]
-                     [B][COLOR lime]-------------------          ADDONS          -------------------[/COLOR][/B]</title>
+<title>                     [B][COLOR lime]-------------------          -------------------          -------------------[/COLOR][/B]
+                     [B][COLOR deeppink]-------------------                ADDONS                 -------------------[/COLOR][/B]</title>
 <fanart></fanart>
 <link>http://ignoreme</link>
 </item>
