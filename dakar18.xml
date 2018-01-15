@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>                                     [B][COLOR springgreen]RALLY DAKAR 2018[/COLOR][/B]</title>
+<link>http://ignoreme</link>
+</item>
+
+
+<item>
+<title>      [B][COLOR lime]SIGUELO EN DIRECTO AQUI :[/COLOR][/B]</title>
+<link>http://ignoreme</link>
+</item>
+
+<item>
+<title>[B][COLOR yellow]* [/COLOR][/B][COLOR lime][COLOR=orange][B][I]TDP ( Teledeporte) [/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-teledeporte-online-y-directo-gratis-y-fuera-de-espana/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/teledeporte.php</page>
+<referer>http://www.vercanalestv.com/ver-teledeporte-online-y-directo-gratis-y-fuera-de-espana/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/3564339354/5c797a1d6d44aeceaaa657bd3f01f3c5.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR lime]====================== [/COLOR][COLOR deeppink]====================== [/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail>https://i.imgur.com/cVeLiM3.png</thumbnail>
+<fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
+</item>
+
+<item>
+<title>                                [B][COLOR lime]RESUMEN ETAPAS :[/COLOR][/B]</title>
+<link>http://ignoreme</link>
+</item>
+
+<item>
+<title>       [COLOR lime] >>[/COLOR][COLOR skyblue] Rally Dakar 2018 - Previa   [/COLOR][COLOR orange] - 6/1/18 [/COLOR]</title>        
+<link>https://archive.org/download/00PREVIOVelocidadATope/00%20-%20PREVIO_VelocidadATope.mp4</link>
+<thumbnail>https://i.imgur.com/G2y17Iy.jpg</thumbnail>
+<fanart>https://i.imgur.com/MhT0W3L.jpg</fanart>
+</item>
+
+
+<item>
+<title>       [COLOR lime] >>[/COLOR][COLOR skyblue] Rally Dakar 2018 - 1ª etapa   [/COLOR][COLOR orange] - Lima-Pisco [/COLOR]</title>        
+<link>https://archive.org/download/01LimaPiscoVelocidadATope/01%20-%20Lima%20-%20Pisco%20VelocidadATope.mp4</link>
+<thumbnail>https://i.imgur.com/G2y17Iy.jpg</thumbnail>
+<fanart>https://i.imgur.com/MhT0W3L.jpg</fanart>
+</item>
+
+<item>
+<title>       [COLOR lime] >>[/COLOR][COLOR skyblue] Rally Dakar 2018 - 2ª etapa   [/COLOR][COLOR orange] - Pisco-Pisco [/COLOR]</title>        
+<link>https://archive.org/download/02PiscoPiscoVelocidadATope/02%20-%20Pisco%20-%20Pisco%20VelocidadATope.mp4</link>
+<thumbnail>https://i.imgur.com/G2y17Iy.jpg</thumbnail>
+<fanart>https://i.imgur.com/MhT0W3L.jpg</fanart>
+</item>
+
+<item>
+<title>       [COLOR lime] >>[/COLOR][COLOR skyblue] Rally Dakar 2018 - 3ª etapa   [/COLOR][COLOR orange] - Pisco-San Juan de Marcona [/COLOR]</title>        
+<link>https://archive.org/download/03PiscoSanJuanDeMarconaVelocidadATope/03%20-%20Pisco%20-%20San%20Juan%20de%20Marcona%20VelocidadATope.mp4</link>
+<thumbnail>https://i.imgur.com/G2y17Iy.jpg</thumbnail>
+<fanart>https://i.imgur.com/MhT0W3L.jpg</fanart>
+</item>
+
+<item>
+<title>       [COLOR lime] >>[/COLOR][COLOR skyblue] Rally Dakar 2018 - 4ª etapa   [/COLOR][COLOR orange] - San Juan de Marcona-San Juan de Marcona [/COLOR]</title>        
+<link>https://archive.org/download/04SanJuanDeMarconaSanJuanDeMarconaVelocidadATope/04%20-San%20Juan%20de%20Marcona%20-%20San%20Juan%20de%20Marcona%20VelocidadATope.mp4</link>
+<thumbnail>https://i.imgur.com/G2y17Iy.jpg</thumbnail>
+<fanart>https://i.imgur.com/MhT0W3L.jpg</fanart>
+</item>
+
+<item>
+<title>       [COLOR lime] >>[/COLOR][COLOR skyblue] Rally Dakar 2018 - 5ª etapa   [/COLOR][COLOR orange] - San Juan de Marcona-Arequipa [/COLOR]</title>        
+<link>https://archive.org/download/05SanJuanDeMarconaArequipaVelocidadATope/05%20-%20San%20Juan%20de%20Marcona%20-%20Arequipa%20VelocidadATope.mp4</link>
+<thumbnail>https://i.imgur.com/G2y17Iy.jpg</thumbnail>
+<fanart>https://i.imgur.com/MhT0W3L.jpg</fanart>
+</item>
+
+<item>
+<title>       [COLOR lime] >>[/COLOR][COLOR skyblue] Rally Dakar 2018 - 6ª etapa   [/COLOR][COLOR orange] - Arequipa - La Paz[/COLOR]</title>        
+<link>https://archive.org/download/06ArequipaLaPazVelocidadATope/06%20-%20Arequipa%20-%20La%20Paz%20VelocidadATope.mp4</link>
+<thumbnail>https://i.imgur.com/G2y17Iy.jpg</thumbnail>
+<fanart>https://i.imgur.com/MhT0W3L.jpg</fanart>
+</item>
+
+<item>
+<title>       [COLOR lime] >>[/COLOR][COLOR skyblue] Rally Dakar 2018 - Jornada de descanso   [/COLOR][COLOR orange] - La Paz[/COLOR]</title>        
+<link>https://archive.org/download/06.1JornadaDescansoVelocidadATope/06.1%20Jornada%20descanso%20VelocidadATope.mp4</link>
+<thumbnail>https://i.imgur.com/G2y17Iy.jpg</thumbnail>
+<fanart>https://i.imgur.com/MhT0W3L.jpg</fanart>
+</item>
+
+<item>
+<title>       [COLOR lime] >>[/COLOR][COLOR skyblue] Rally Dakar 2018 - 7ª etapa   [/COLOR][COLOR orange] - La Paz - Uyuni[/COLOR]</title>        
+<link>https://archive.org/download/07LaPazUyuniVelocidadATope/07%20-%20La%20Paz%20-%20Uyuni%20VelocidadATope.mp4</link>
+<thumbnail>https://i.imgur.com/G2y17Iy.jpg</thumbnail>
+<fanart>https://i.imgur.com/MhT0W3L.jpg</fanart>
+</item>
+
+<item>
+<title>       [COLOR lime] >>[/COLOR][COLOR skyblue] Rally Dakar 2018 - 8ª etapa   [/COLOR][COLOR orange] - Uyuni - Tupiza[/COLOR]</title>        
+<link>https://archive.org/download/RallyDakar20188EtapaUyuniTupiza/Rally%20Dakar%202018%20-%208%C2%AA%20Etapa_%20Uyuni%20-%20Tupiza.mp4</link>
+<thumbnail>https://i.imgur.com/G2y17Iy.jpg</thumbnail>
+<fanart>https://i.imgur.com/MhT0W3L.jpg</fanart>
+</item>
+
+<item>
+<title>       [COLOR lime] >>[/COLOR][COLOR skyblue] Rally Dakar 2018 - 9ª etapa   [/COLOR][COLOR red] - SUSPENDIDA[/COLOR]</title>        
+<link>http://ignoreme</link>
+<thumbnail>https://i.imgur.com/G2y17Iy.jpg</thumbnail>
+<fanart>https://i.imgur.com/MhT0W3L.jpg</fanart>
+</item>
+
+
+
