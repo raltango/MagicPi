@@ -403,6 +403,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>[B][COLOR deeppink][  ] - [/COLOR][/B][B][COLOR deepskyblue] EMPEÑOS A LO BESTIA[/COLOR][/B]</title>
+<thumbnail>https://portadas.seriesgato.com/empenos-a-lo-bestia-183831-p-200x294.jpg</thumbnail>
+<fanart>http://fotografias.mega.atresmedia.com/clipping/cmsimages02/2016/05/18/4BFE5F1E-0B1D-4A1B-BA83-52F30152B818/57.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/empenos.xml</externallink>
+</item>
+
+<item>
 <title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] CUARTO MILENIO[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
