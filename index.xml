@@ -26,7 +26,7 @@
 
   
 <item>
-<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] FANATICS F1 [/B][/COLOR][B][COLOR yellow][I]-  Ultimo GP : Abu Dabi (Circuito Yas Marina)[/I][/COLOR][/B]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] Fanatics F1 [/B][/COLOR][B][COLOR yellow][I]-  Ultimo GP : Abu Dabi (Circuito Yas Marina)[/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/QN0IzJw.jpg</thumbnail>
 <fanart>http://www.essentiallysports.com/wp-content/uploads/start-lewis-hamilton-mercedes-amg-f1-w08-leads-sebastian-vettel-ferrari-sf70h-kimi-raikkonen-ferrari-sf70h-felipe-massa-williams-fw40.jpg</fanart>
 <link>http://ignoreme</link>
@@ -34,7 +34,7 @@
 </item>
 
 <item>
-<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] FANATICS MOTOGP [/B][/COLOR][B][COLOR yellow][I]- Ultimo GP : Valencia (Ricardo Tormo)[/I][/COLOR][/B]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] Fanatics MotoGP [/B][/COLOR][B][COLOR yellow][I]- Ultimo GP : Valencia (Ricardo Tormo)[/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/Q7lxrF2.png</thumbnail>
 <fanart>https://i.imgur.com/OuBA8Wn.jpg</fanart>
 <link>http://ignoreme</link>
@@ -51,7 +51,7 @@
 
 
 <item>
-<title>[B][COLOR yellow][  ] [/COLOR][/B][B][COLOR deepskyblue] LA LIGA ( Resumenes ) [/B][/COLOR][B][COLOR lime][I]-  Jornada 19[/I][/COLOR][/B]</title>
+<title>[B][COLOR yellow][  ] [/COLOR][/B][B][COLOR deepskyblue] La Liga ( Resumenes ) [/B][/COLOR][B][COLOR lime][I]-  Jornada 19[/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/pk3X2wZ.png</thumbnail>
 <fanart>https://www.unievents360.com/wp-content/uploads/2016/12/la-liga.jpg</fanart>
 <link>http://ignoreme</link>
@@ -59,7 +59,7 @@
 </item>
 
 <item>
-<title>[B][COLOR yellow][  ] [/COLOR][/B][B][COLOR deepskyblue] NBA ( Resumenes ) [/B][/COLOR][COLOR lime][I] -  [/I][/COLOR]</title>
+<title>[B][COLOR yellow][  ] [/COLOR][/B][B][COLOR deepskyblue] Nba ( Resumenes ) [/B][/COLOR][COLOR lime][I] -  [/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
 <fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
@@ -91,7 +91,7 @@
 
 
 <item>
-<title>[B][COLOR yellow][  ] [/COLOR][/B][B][COLOR deepskyblue] DRAGON BALL SUPER ( Sub.Esp)[/COLOR][/B][B][COLOR lime][I] - Ultimo cap.123 [/I][/COLOR][/B]</title>
+<title>[B][COLOR yellow][  ] [/COLOR][/B][B][COLOR deepskyblue] Dragon Ball Super ( Sub.Esp)[/COLOR][/B][B][COLOR lime][I] - Ultimo cap.123 [/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/HmXfSgj.jpg</thumbnail>
 <fanart>https://i.imgur.com/DGQusQh.jpg</fanart>
 <link>http://ignoreme</link>
@@ -103,7 +103,7 @@
 
 
 <item>
-<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR deepskyblue] SERIES[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR deepskyblue] Series[/COLOR][/B]</title>
 <thumbnail>https://pbs.twimg.com/profile_images/3121099081/435e06fa0cdb34f2fc4a1b045993a030.png</thumbnail>
 <fanart>https://es.best-wallpaper.net/wallpaper/1920x1080/1304/The-Vampire-Diaries-TV-series-season-4-HD_1920x1080.jpg</fanart>
 <link>http://ignoreme</link>
@@ -111,7 +111,7 @@
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR deepskyblue] SERIES INFANTILES[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR deepskyblue] Series Infantiles[/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/NelV522.png</thumbnail>
 <fanart>http://www.centralmutante.com/wp-content/uploads/2016/07/13735733_10153971125418621_7657564384248839642_o.jpg</fanart>
 <link>http://ignoreme</link>
@@ -119,7 +119,7 @@
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR deepskyblue] PROGRAMAS TV[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR deepskyblue] Programas TV[/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/Nd0oTUE.png</thumbnail>
 <fanart>https://i.imgur.com/OKAQMVa.png</fanart>
 <link>http://ignoreme</link>
@@ -127,7 +127,7 @@
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR deepskyblue] PELICULAS HD[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR deepskyblue] Peliculas HD[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -181,7 +181,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR deepskyblue] PELICULAS INFANTILES[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] [/COLOR][/B][B][COLOR deepskyblue] Peliculas Infantiles[/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/WZmP1kf.png</thumbnail>
 <fanart>https://i.imgur.com/1jmxU8W.jpg</fanart>
 <link>http://ignoreme</link>
@@ -199,7 +199,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR lime][  ] [/COLOR][/B][B][COLOR deepskyblue] TELEVISION (TDT) [/B][/COLOR]</title>
+<title>[B][COLOR lime][  ] [/COLOR][/B][B][COLOR deepskyblue] Television (TDT) [/B][/COLOR]</title>
 <thumbnail>https://img.hdbox.ws/wp-content/uploads/2016/08/1402652350_m3u1.png</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
 <link>http://ignoreme</link>
@@ -208,7 +208,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR lime][  ] [/COLOR][/B][B][COLOR yellow] ZONA PRIVADA[/COLOR][/B]</title>
+<title>[B][COLOR lime][  ] [/COLOR][/B][B][COLOR yellow] Zona Privada[/COLOR][/B]</title>
 <link>NA</link>
 <externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#082;&#101;&#116;&#114;&#111;&#066;&#108;&#111;&#103;&#080;&#105;/&#077;&#097;&#103;&#105;&#099;&#080;&#105;/&#109;&#097;&#115;&#116;&#101;&#114;/&#101;&#110;&#099;&#114;&#121;&#112;&#116;&#046;&#120;&#109;&#108;$$&#076;&#083;&#080;&#114;&#111;&#069;&#110;&#099;&#075;&#101;&#121;=&#032;$$</externallink>
 <thumbnail>https://i.imgur.com/oTbu8ck.png</thumbnail>
@@ -217,7 +217,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR yellow][  ] [/COLOR][/B][B][COLOR lime] ZONA TORRENT[/COLOR][/B]</title>
+<title>[B][COLOR yellow][  ] [/COLOR][/B][B][COLOR lime] Zona Torrent[/COLOR][/B]</title>
 <link>NA</link>
 <externallink>&#104;&#116;&#116;&#112;://&#098;&#105;&#116;&#046;&#108;&#121;/&#050;&#065;&#090;&#116;&#101;&#112;&#057;</externallink>
 <thumbnail>https://pbs.twimg.com/profile_images/829704669064753152/tlCQlPMP.jpg</thumbnail>
@@ -250,7 +250,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR skyblue] GAMESTARTER[/B] ( CONSOLAS RETRO)[/COLOR]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR skyblue] Gamestarter[/B] ( CONSOLAS RETRO)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.gamestarter/</jsonrpc>
 <thumbnail>https://img08.deviantart.net/17b9/i/2007/087/c/9/snes_logo_by_orksovaj.png</thumbnail>
@@ -258,7 +258,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR skyblue] INTERNET ARCHIVE ROM LAUNCHER[/B] ( CONSOLAS RETRO)[/COLOR]</title>
+<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR skyblue] Internet Archive Rom Launcher[/B] ( CONSOLAS RETRO)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.program.iarl</jsonrpc>
 <thumbnail></thumbnail>
