@@ -6,31 +6,6 @@
 </item>
 
 
-<item>
-<title>      [B][COLOR lime]SIGUELO EN DIRECTO AQUI :[/COLOR][/B]</title>
-<link>http://ignoreme</link>
-</item>
-
-<item>
-<title>[B][COLOR yellow]* [/COLOR][/B][COLOR lime][COLOR=orange][B][I]TDP ( Teledeporte) [/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-teledeporte-online-y-directo-gratis-y-fuera-de-espana/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/teledeporte.php</page>
-<referer>http://www.vercanalestv.com/ver-teledeporte-online-y-directo-gratis-y-fuera-de-espana/</referer>
-</regex>
-<thumbnail>https://pbs.twimg.com/profile_images/3564339354/5c797a1d6d44aeceaaa657bd3f01f3c5.png</thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-
-<item>
-<title>[COLOR lime]====================== [/COLOR][COLOR deeppink]====================== [/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail>https://i.imgur.com/cVeLiM3.png</thumbnail>
-<fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
-</item>
 
 <item>
 <title>                                [B][COLOR lime]RESUMEN ETAPAS :[/COLOR][/B]</title>
