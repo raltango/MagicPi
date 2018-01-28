@@ -1,8 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
 <item>
-<title>[COLOR yellow]----------------- Jornada 20 (NUEVO) -----------------[/COLOR]</title>
+<title>[COLOR yellow]----------------- Jornada 21 (NUEVO) -----------------[/COLOR]</title>
+<urlsolve>http://ignoreme</urlsolve>
+<thumbnail>https://i.imgur.com/3j2o9ao.png</thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Resumen de Málaga CF vs Girona FC (0-0)[/COLOR]</title>        
+<urlsolve>https://youtu.be/REIrdRvs5H4</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Resumen de RC Deportivo vs Levante UD (2-2)[/COLOR]</title>        
+<urlsolve>https://youtu.be/yyw3yrHAHoc</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Resumen de Valencia CF vs Real Madrid (1-4)[/COLOR]</title>        
+<urlsolve>https://youtu.be/SyN_I3kRbl0</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Resumen de Athletic Club vs SD Eibar (1-1)[/COLOR]</title>        
+<urlsolve>https://youtu.be/HjRP2sGtR4U</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Resumen de Villarreal CF vs Real Sociedad (4-2)[/COLOR]</title>        
+<urlsolve>https://youtu.be/rz_CSKrGLQw</urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][/COLOR]</title>        
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]----------------- Jornada 20  -----------------[/COLOR]</title>
 <urlsolve>http://ignoreme</urlsolve>
 <thumbnail>https://i.imgur.com/3j2o9ao.png</thumbnail>
 <fanart>https://i.imgur.com/ZeR8UW1.jpg</fanart>
