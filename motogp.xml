@@ -4,7 +4,7 @@
 
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR deepskyblue] AGENDA  [/B][/COLOR][COLOR lime][I] ArenaVision  [/I][/COLOR]</title>
+<title>[B][COLOR orange][X] [/COLOR][/B][B][COLOR deepskyblue] AGENDA  [/B][/COLOR][COLOR lime][I] ArenaVision  [/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -15,8 +15,8 @@
 			<regex>
 			<name>hash</name>
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.in/$doregex[canal]</page>
-			<referer>http://www.arenavision.in</referer>
+			<page>http://arenavision.in/$doregex[canal]</page>
+			<referer>http://arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 				<regex>
@@ -27,9 +27,9 @@
 			<thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
-<page>http://www.arenavision.in/iguide</page>
+<page>http://arenavision.in/e-guide</page>
 <Agent>Mozilla</Agent>
-<referer>http://www.arenavision.in</referer>
+<referer>http://arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
  </regex>
 <thumbnail></thumbnail>
