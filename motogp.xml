@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet tipo = "text / css" href = "greeting.css"?> 
 
-
+<item>
+<title1>[B][COLOR blue][X] [/COLOR][/B][B][COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR][COLOR lime]</title1>
+<link>$doregex[makelist]</link>
+</item>
 
 
 <item>
-<title>[B][COLOR blue][X] [/COLOR][/B][B][COLOR deepskyblue] AGENDA  [/B][/COLOR][COLOR lime][I] ArenaVision  [/I][/COLOR]</title>
+<title>[B][COLOR blue][X] [/COLOR][/B][B][COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR][COLOR lime][I] ArenaVision  [/I][/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
