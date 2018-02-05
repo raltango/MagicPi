@@ -17,7 +17,7 @@
 
   
 <item>
-<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] Fanatics F1 [/B][/COLOR][B][COLOR yellow][I]-  Ultimo GP : Abu Dabi (Circuito Yas Marina)[/I][/COLOR][/B]</title>
+<title>[B][COLOR deeppink][ O ] [/COLOR][/B][B][COLOR deepskyblue] Fanatics F1 [/B][/COLOR][B][COLOR yellow][I]-  Ultimo GP : Abu Dabi (Circuito Yas Marina)[/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/QN0IzJw.jpg</thumbnail>
 <fanart>http://www.essentiallysports.com/wp-content/uploads/start-lewis-hamilton-mercedes-amg-f1-w08-leads-sebastian-vettel-ferrari-sf70h-kimi-raikkonen-ferrari-sf70h-felipe-massa-williams-fw40.jpg</fanart>
 <link>http://ignoreme</link>
@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] Fanatics MotoGP [/B][/COLOR][B][COLOR yellow][I]- Ultimo GP : Valencia (Ricardo Tormo)[/I][/COLOR][/B]</title>
+<title>[B][COLOR deeppink][ O ] [/COLOR][/B][B][COLOR deepskyblue] Fanatics MotoGP [/B][/COLOR][B][COLOR yellow][I]- Ultimo GP : Valencia (Ricardo Tormo)[/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/Q7lxrF2.png</thumbnail>
 <fanart>https://i.imgur.com/OuBA8Wn.jpg</fanart>
 <link>http://ignoreme</link>
@@ -33,7 +33,7 @@
 </item>
 
 <item>
-<title>[B][COLOR deeppink][  ] [/COLOR][/B][B][COLOR deepskyblue] Dakar 2018 [/B][/COLOR][B][COLOR yellow][I]- Ultima Etapa - Etapa 14ª[/I][/COLOR][/B]</title>
+<title>[B][COLOR deeppink][ O ] [/COLOR][/B][B][COLOR deepskyblue] Dakar 2018 [/B][/COLOR][B][COLOR yellow][I]- Ultima Etapa - Etapa 14ª[/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/G2y17Iy.jpg</thumbnail> 
 <fanart>https://i.imgur.com/MhT0W3L.jpg</fanart>
 <link>http://ignoreme</link>
@@ -41,7 +41,7 @@
 </item>
 
 <item>
-<title>[B][COLOR deeppink][  ] [COLOR deeppink] Proyeck[/COLOR][COLOR lime]Motors[/COLOR][/B]</title>
+<title>[B][COLOR deeppink][ O ] [COLOR deeppink] Proyeck[/COLOR][COLOR lime]Motors[/COLOR][/B]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.ProyeckMotors/</jsonrpc>
 <thumbnail>https://i.imgur.com/cVeLiM3.png</thumbnail>
@@ -50,7 +50,7 @@
 
 
 <item>
-<title>[B][COLOR yellow][  ] [/COLOR][/B][B][COLOR deepskyblue] La Liga ( Resumenes ) [/B][/COLOR][B][COLOR lime][I]- Jornada 22[/I][/COLOR][/B]</title>
+<title>[B][COLOR yellow][ O ] [/COLOR][/B][B][COLOR deepskyblue] La Liga ( Resumenes ) [/B][/COLOR][B][COLOR lime][I]- Jornada 22[/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/pk3X2wZ.png</thumbnail>
 <fanart>https://www.unievents360.com/wp-content/uploads/2016/12/la-liga.jpg</fanart>
 <link>http://ignoreme</link>
@@ -58,7 +58,7 @@
 </item>
 
 <item>
-<title>[B][COLOR yellow][  ] [/COLOR][/B][B][COLOR deepskyblue] Nba ( Resumenes ) [/B][/COLOR][COLOR lime][I] -  [/I][/COLOR]</title>
+<title>[B][COLOR yellow][ O ] [/COLOR][/B][B][COLOR deepskyblue] Nba ( Resumenes ) [/B][/COLOR][COLOR lime][I] -  [/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
 <fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
