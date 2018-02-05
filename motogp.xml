@@ -2,7 +2,7 @@
 <?xml-stylesheet tipo = "text / css" href = "greeting.css"?> 
 
 <item>
-<title1>[B][COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR][COLOR lime]</title1>
+<title>[B][COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR][COLOR lime]</title>
 <link>$doregex[makelist]</link>
 </item>
 
