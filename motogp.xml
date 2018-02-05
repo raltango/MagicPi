@@ -4,12 +4,12 @@
 
 
 <item>
-<title>[B][COLOR orange][X] [/COLOR][/B][B][COLOR deepskyblue] AGENDA  [/B][/COLOR][COLOR lime][I] ArenaVision  [/I][/COLOR]</title>
+<title>[B][COLOR green][X] [/COLOR][/B][B][COLOR deepskyblue] AGENDA  [/B][/COLOR][COLOR lime][I] ArenaVision  [/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<SetViewMode>55</SetViewMode>
+<SetViewMode>35</SetViewMode>
 <title>[COLOR orange][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR][COLOR lime][makelist.param3] [/COLOR] [COLOR yellow][B][makelist.param5] [/B] [/COLOR][COLOR pink] [makelist.param6] [/COLOR]  [COLOR red][[makelist.param4]] [/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LReylist+[makelist.param5]+Arenavision</link>
 			<regex>
