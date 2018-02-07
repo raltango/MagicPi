@@ -3,11 +3,8 @@
 
 
 <item>
-<title>      [COLOR yellow] >>[/COLOR][COLOR white] CALENDARIO[/COLOR][COLOR yellow] Fecha y Horarios[/COLOR]</title> 
-<multilink>       
-<link>https://i.imgur.com/BWTf3VM.jpg</link>
-<link>http://www.ligadeportivahn.com/images/F1-CALENDARIO-2018.jpg</link>
-</multilink>
+<title>      [COLOR yellow] >>[/COLOR][COLOR white] CALENDARIO[/COLOR][COLOR yellow] Fecha y Horarios[/COLOR]</title>        
+<urlsolve>https://i.imgur.com/BWTf3VM.jpg</urlsolve>
 <thumbnail>https://i.imgur.com/MZMkbo5.jpg</thumbnail>
 <fanart>https://i.imgur.com/3jtaeIi.jpg</fanart>
 </item>
