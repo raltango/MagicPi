@@ -19,13 +19,13 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR white]+- [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
+        <title>[B][COLOR orange]* [/COLOR][/B][B][COLOR deepskyblue][makelist.param2][/COLOR][/B]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail></thumbnail>
         <fanart></fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://kbagi.com/Josele89/resumenes-champions-626249/list,1,1</page>
+<page>http://kbagi.com/Josele89/resumenes-champions-626249/list,2,1</page>
 <cookieJar></cookieJar>
 </regex>
  
