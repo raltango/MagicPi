@@ -122,43 +122,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-<item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Anclados[/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[getUrl]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chicho306/anclados-23104/list,1,1</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/chicho306/anclados-23104/list,1,1</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://www.formulatv.com/images/series/posters/1000/1024/1_m3.jpg</thumbnail>
-<fanart>http://www.antonchu.com/wp-content/uploads/2015/10/1047_Anclados_Posados-D-1-214b.jpg</fanart>
-</item>
+
 
 <item>
 <title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR deepskyblue] Aqui No Hay Quien Viva[/COLOR][/B]</title>
@@ -215,13 +179,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Aqui No Hay Quien Viva[/COLOR][/B]</title>
-<thumbnail>https://i.imgur.com/rxj9pIv.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/aqui.xml</externallink>
-</item>
 
 <item>
 <title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR deepskyblue] Cuerpo de élite[/COLOR][/B]</title>
@@ -340,44 +297,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
-<item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Compañeros[/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[getUrl]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/jorge-garcia-luis/companeros-92054/list,1,6</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/jorge-garcia-luis/companeros-92054/list,1,6</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://i.imgur.com/4x8AhsJ.jpg</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR deepskyblue] Las Chicas del Cable (Temporada 1 y 2)[/COLOR][/B]</title>
@@ -1498,13 +1417,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-<item>
-<title>[B][COLOR yellow][  ] - [/COLOR][/B][B][COLOR deepskyblue] Como Conoci a Vuestra Madre[/COLOR][/B]</title>
-<link>ignorame</link>
- <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/menucomo.xml</externallink>
-<thumbnail>https://i.imgur.com/8vZ70u6.png</thumbnail>
-<fanart>https://i.imgur.com/OxQhRzm.jpg</fanart>
-</item>
+
 
 <item>
 <title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Halt And Catch Fire[/COLOR][/B]</title>
