@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
   
 <item>
-<title>[COLOR skyblue]Unete a Telegram :[/COLOR][COLOR red][/COLOR][COLOR yellow]     
-            https://t.me/MagyckPi[/COLOR]</title>
+<title>[B][COLOR skyblue]Unete a Telegram :[/COLOR][COLOR red][/COLOR][COLOR yellow]     
+            https://t.me/MagyckPi[/COLOR][/B]</title>
 <fanart>https://i.ytimg.com/vi/pP2vFUh4lXc/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
 </item>
 
 
-<item>
-<title>                     [B][COLOR yellow]-------------------          -------------------          -------------------[/COLOR][/B]]</title>
-<fanart></fanart>
-<link>http://ignoreme</link>
-</item>
+
 
 
   
@@ -87,11 +83,7 @@
 
 
 
-<item>
-<title>                     [B][COLOR lime]-------------------          -------------------          -------------------[/COLOR][/B]</title>
-<fanart></fanart>
-<link>http://ignoreme</link>
-</item>
+
 
 
 
@@ -195,11 +187,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>                     [B][COLOR red]-------------------          -------------------          -------------------[/COLOR][/B]</title>
-<fanart></fanart>
-<link>http://ignoreme</link>
-</item>
 
 
 
@@ -233,11 +220,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>                     [B][COLOR orange]-------------------          -------------------          -------------------[/COLOR][/B]</title>
-<fanart></fanart>
-<link>http://ignoreme</link>
-</item>
 
 
 
