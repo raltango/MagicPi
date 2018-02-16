@@ -300,44 +300,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Leo El Pequeño Camion[/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[getUrl]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/jorge-garcia-luis/leo-el-pequeno-camion-84144/list,1,2</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/jorge-garcia-luis/leo-el-pequeno-camion-84144/list,1,2</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://i.imgur.com/VoPYzVi.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR deepskyblue] Leo El Pequeño Camion[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
@@ -391,43 +353,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-<item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Sam El Bombero[/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[getUrl]</link>
-<fanart>https://i.ytimg.com/vi/FNqBg_abNzs/maxresdefault.jpg</fanart>
-<thumbnail>http://samelbombero.net/wp-content/uploads/2016/06/mu%C3%B1ecos-3-copia.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/jorge-garcia-luis/sam-el-bombero-93289/list,1,2</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/jorge-garcia-luis/sam-el-bombero-93289/list,1,2</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://samelbombero.net/wp-content/uploads/2016/06/mu%C3%B1ecos-3-copia.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/FNqBg_abNzs/maxresdefault.jpg</fanart>
-</item>
+
 
 <item>
 <title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR deepskyblue] Sam El Bombero[/COLOR][/B]</title>
@@ -668,6 +594,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.pinimg.com/736x/b1/87/8b/b1878b35161b4a5c758ae3deb143e003.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+----por aquí
 
 <item>
 <title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] La Vuelta Al Mundo De Willy Fog (Temporada 2)[/COLOR][/B]</title>
