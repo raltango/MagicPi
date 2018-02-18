@@ -8,7 +8,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue][ + ] [/COLOR][COLOR white] Busca tu serie o peli [/COLOR][COLOR deeppink](...) [/COLOR][/B] </title>
+<title>[B][COLOR white][ + ] [/COLOR][COLOR white] Busca tu serie o peli [/COLOR][COLOR deeppink](...) [/COLOR][/B] </title>
 <link>$doregex[lista]</link>
  
 <regex>
@@ -84,7 +84,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR blue][ + ] [/COLOR][COLOR white] Buscador Torrent[/COLOR][COLOR deeppink](...) [/COLOR][/B]</title>
+<title>[B][COLOR white][ + ] [/COLOR][COLOR white] Buscador Torrent[/COLOR][COLOR deeppink](...) [/COLOR][/B][COLOR yellow][I]-  Necesario Quasar[/I][/COLOR][/B]</title>
 <link>$doregex[makelist2]</link>
 
 
