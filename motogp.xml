@@ -300,19 +300,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR blue]REGEX PARA APRENDER[/COLOR]</title>
  <link>$doregex[magyck]</link> <!-- PONGO $doregex[y aqui dentro lo que quiera y cierro con] -->
  
-<regex> <!-- EMPIEZA EL REGEX -->
-  <name>magyck</name>  <!-- MANTENGO EL NOMBRE QUE ELEGI EN LINK Y LO SIGO EN TODA LA ESTRUCTURA-->
-  <listrepeat><![CDATA[  <!-- ABRO CON LISTREPEAT QUE ME VA A RASTREAR TODA LA WEB -->
-       <title>[magyck.param1]</title> <!-- EL TITULO LO SAQUE EN EL PRIMER PARAMETRO POR ESO "param1" -->
-       <link>[magyck.param2]</link>  <!-- AQUI EL LINK QUE E SACADO DE LA WEB -->
-  ]]></listrepeat> <!--CIERRA LA BUSQUEDA EN LA WEB -->
-<expres>"titulo":"(.*?)","enlace":"(.*?)"</expres>  <!-- AQUI BUSCO LAS EXPRESIONES REGULARES DE LA WEB, CADA EXPRESION ES UNA "param" -->
-<page>https://pastebin.com/raw/D7nfMS02</page> <!-- PAGINA A LA QUE SE LE ESTA HACIENDO EL REGEX -->
-<cookieJar></cookieJar> <!-- SI TIENE COOKIES LA WEN -->
-</regex> <!-- TERMINA EL REGEX -->
+<regex> 
+  <name>magyck</name>  
+  <listrepeat><![CDATA[  
+       <title>[magyck.param1]</title> 
+       <link>[magyck.param2]</link>  
+  ]]></listrepeat> 
+<expres>"titulo":"(.*?)","enlace":"(.*?)"</expres> 
+<page>https://pastebin.com/raw/D7nfMS02</page> 
+<cookieJar></cookieJar> 
+</regex>
  
-<thumbnail>IMAGEN EXTERIOR PEQUEÑA.PNG O .JPG</thumbnail>
- </item>
+<thumbnail></thumbnail>
+</item>
  
  
  
