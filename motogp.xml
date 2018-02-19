@@ -331,9 +331,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar> 
 </regex> 
  
-<thumbnail>IMAGEN EXTERIOR PEQUEÑA.PNG O .JPG</thumbnail>
+<thumbnail></thumbnail>
  </item>
 
+ 
+ 
+ 
+ 
  
  
 <item>
@@ -356,10 +360,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
  
- 
- 
- 
- 
+  
  
  
 <item>
