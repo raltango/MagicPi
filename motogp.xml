@@ -320,7 +320,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR blue]REGEX PARA APRENDER[/COLOR]</title>
  <link>$doregex[pongoloquequiero]</link> 
  
-<regex> <!-- EMPIEZA EL REGEX -->
+<regex> 
   <name>pongoloquequiero</name>  
   <listrepeat><![CDATA[  
        <title>[pongoloquequiero.param1]</title>
