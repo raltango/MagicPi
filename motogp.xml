@@ -297,7 +297,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue]REGEX PARA APRENDER[/COLOR]</title>
+<title>[COLOR white]REGEX PARA APRENDER[/COLOR]</title>
 <link>$doregex[magyck]</link> <!-- PONGO $doregex[y aqui dentro lo que quiera y cierro con] -->
  
 <regex> 
