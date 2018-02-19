@@ -322,7 +322,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title>[COLOR yellow]listas españa PRUEBA PARA JOSE 2[/COLOR]</title>
+<title>[COLOR yellow]listas españa PRUEBA PARA JOSE 3[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -331,7 +331,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2].ts&amp;name=picapau - [makelist.param1]</link>
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
-<expres>#EXTINF: .*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
+<expres>#EXTINF: -1 .*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
 <page>https://pastebin.com/raw/QxnXTEiJ</page>
 <cookieJar></cookieJar>
 </regex>
