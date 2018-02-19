@@ -297,7 +297,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white]REGEX PARA APRENDER[/COLOR]</title>
+<title>[COLOR white]REGEX PARA APRENDER 3[/COLOR]</title>
 <link>$doregex[magyck]</link> 
  
 <regex> 
@@ -307,7 +307,28 @@ def GetLSProData(page_data,Cookie_Jar,m):
        <link>[magyck.param2]</link>  
   ]]></listrepeat> 
 <expres>"titulo":"(.*?)","enlace":"(.*?)"</expres> 
-<page>https://pastebin.com/raw/D7nfMS02</page> 
+<page>http://www.velocidadatope.com/viewtopic.php?f=6&t=25</page> 
+<cookieJar></cookieJar> 
+</regex>
+ 
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white]REGEX PARA APRENDER 7[/COLOR]</title>
+<link>$doregex[magyck]</link> 
+ 
+<regex> 
+  <name>magyck</name>  
+  <listrepeat><![CDATA[  
+       <title>[magyck.param1]</title> 
+       <link>[magyck.param2]</link>  
+  ]]></listrepeat> 
+<expres>"href":"(.*?)","href":"(.*?)"</expres> 
+<page>http://www.velocidadatope.com/viewtopic.php?f=6&t=25</page> 
 <cookieJar></cookieJar> 
 </regex>
  
