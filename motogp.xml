@@ -316,64 +316,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
   
-<item>
-<title>[COLOR blue]REGEX PARA APRENDER[/COLOR]</title>
- <link>$doregex[pongoloquequiero]</link> 
- 
-<regex> 
-  <name>pongoloquequiero</name>  
-  <listrepeat><![CDATA[  
-       <title>[pongoloquequiero.param1]</title>
-       <link>[pongoloquequiero.param2]</link>  
-  ]]></listrepeat> 
-<expres>"titulo":"(.*?)","enlace":"(.*?)"</expres>  
-<page>https://pastebin.com/raw/D7nfMS02</page> 
-<cookieJar></cookieJar> 
-</regex> 
- 
-<thumbnail></thumbnail>
- </item>
 
- 
- 
- 
- 
- 
- 
-<item>
-<title>[COLOR white]REGEX PARA APRENDER 5[/COLOR]</title>
- <link>$doregex[magyck]</link> 
- 
-<regex> 
-  <name>magyck</name>  
-  <listrepeat><![CDATA[  
-       <title>[magyck.param1]</title> 
-       <link>[magyck.param2]</link>  
-  ]]></listrepeat> 
-<expres>"Name":"(.*?)","Last modified":"(.*?)"</expres> 
-<page>http://condor1726.dedicatedpanel.com/series/</page> 
-<cookieJar></cookieJar> 
-</regex>
- 
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>[COLOR yellow]listas españa PRUEBA PARA JOSE[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR white][makelist.param1][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2].ts&amp;name=picapau - [makelist.param1]</link>
-<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>#EXTINF: .*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>https://pastebin.com/raw/QxnXTEiJ</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
+
  
  
 <item>
@@ -391,28 +336,32 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
 </item> 
+
+
+
+<item>
+<title>[COLOR orange]AGENDA ARENAVISION EVENTOS EN CASTELLANO(AVEZY)[/COLOR]</title>
+<link>$doregex[magyck]</link>
+<regex>
+<name>magyck</name>
+<listrepeat><![CDATA[
+<title>[COLOR orange][magyck.param1][/COLOR] [COLOR yellow][magyck.param2]H.[/COLOR][COLOR goldenrod][magyck.param4][/COLOR] [COLOR white][magyck.param5][/COLOR][COLOR red] ([magyck.param7])[/COLOR]</title>
+<thumbnail>https://avezy.xyz/[magyck.param3]</thumbnail>
+<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
+<link>plugin://program.plexus/?url=[magyck.param8]&amp;mode=1&amp;name=magyck</link>
+</item>
+]]></listrepeat>
+<expres><![CDATA[(?s)center'>([^<]+).*?br>([^<]+).*? src="(.*?)".*? title='([^']+).*?br>([^<]+).*?spa([^']+).*?AV([^<]+).*?acestream://(.*?)".*?]]></expres>
+<page>https://avezy.xyz/</page>
+</regex>
+<thumbnail>https://1.bp.blogspot.com/-XWS-ula5dok/WDLAzEh8apI/AAAAAAAADGo/3B6jDpUfBGwYNXd0jx9zzJV2BrHsvrJOACPcB/s640/arenavision3.PNG</thumbnail>
+<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
+</item>
  
  
   
  
  
-<item>
-<title>[COLOR blue]REGEX PARA APRENDER[/COLOR]</title>
- <link>$doregex[pongoloquequiero]</link> <!-- PONGO $doregex[y aqui dentro lo que quiera y cierro con] -->
- 
-<regex> <!-- EMPIEZA EL REGEX -->
-  <name>pongoloquequiero</name>  <!-- MANTENGO EL NOMBRE QUE ELEGI EN LINK Y LO SIGO EN TODA LA ESTRUCTURA-->
-  <listrepeat><![CDATA[  <!-- ABRO CON LISTREPEAT QUE ME VA A RASTREAR TODA LA WEB -->
-       <title>[pongoloquequiero.param1]</title> <!-- EL TITULO LO SAQUE EN EL PRIMER PARAMETRO POR ESO "param1" -->
-       <link>[pongoloquequiero.param2]</link>  <!-- AQUI EL LINK QUE E SACADO DE LA WEB -->
-  ]]></listrepeat> <!--CIERRA LA BUSQUEDA EN LA WEB -->
-<expres>"titulo":"(.*?)","enlace":"(.*?)"</expres>  <!-- AQUI BUSCO LAS EXPRESIONES REGULARES DE LA WEB, CADA EXPRESION ES UNA "param" -->
-<page>https://pastebin.com/raw/D7nfMS02</page> <!-- PAGINA A LA QUE SE LE ESTA HACIENDO EL REGEX -->
-<cookieJar></cookieJar> <!-- SI TIENE COOKIES LA WEN -->
-</regex> <!-- TERMINA EL REGEX -->
- 
-<thumbnail>IMAGEN EXTERIOR PEQUEÑA.PNG O .JPG</thumbnail>
- </item>
 
 
 
