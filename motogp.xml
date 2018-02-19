@@ -315,6 +315,26 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
+  
+<item>
+<title>[COLOR blue]REGEX PARA APRENDER[/COLOR]</title>
+ <link>$doregex[pongoloquequiero]</link> 
+ 
+<regex> <!-- EMPIEZA EL REGEX -->
+  <name>pongoloquequiero</name>  
+  <listrepeat><![CDATA[  
+       <title>[pongoloquequiero.param1]</title>
+       <link>[pongoloquequiero.param2]</link>  
+  ]]></listrepeat> 
+<expres>"titulo":"(.*?)","enlace":"(.*?)"</expres>  
+<page>https://pastebin.com/raw/D7nfMS02</page> 
+<cookieJar></cookieJar> 
+</regex> 
+ 
+<thumbnail>IMAGEN EXTERIOR PEQUEÑA.PNG O .JPG</thumbnail>
+ </item>
+
+ 
  
 <item>
 <title>[COLOR white]REGEX PARA APRENDER 3[/COLOR]</title>
