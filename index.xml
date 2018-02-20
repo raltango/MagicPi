@@ -8,7 +8,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white][ + ] [/COLOR][COLOR white] Busca tu serie o peli [/COLOR][COLOR deeppink](...) [/COLOR][/B] </title>
+<title>[B][COLOR white][ + ] [/COLOR][COLOR yellow] Busca tu serie o peli [/COLOR][COLOR deeppink](...) [/COLOR][/B] </title>
 <link>$doregex[lista]</link>
  
 <regex>
@@ -84,7 +84,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR white][ + ] [/COLOR][COLOR white] Buscador Torrent[/COLOR][COLOR deeppink](...) [/COLOR][/B][COLOR yellow][I]-  Necesario Quasar[/I][/COLOR]</title>
+<title>[B][COLOR white][ + ] [/COLOR][COLOR yellow] Buscador Torrent[/COLOR][COLOR deeppink](...) [/COLOR][/B][COLOR yellow][I]-  Necesario Quasar[/I][/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 
@@ -147,7 +147,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
   
 <item>
-<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR deepskyblue] Fanatics F1 [/B][/COLOR][B][COLOR yellow][I]-  Ultimo GP : Abu Dabi (Circuito Yas Marina)[/I][/COLOR][/B]</title>
+<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR white] Fanatics F1 [/B][/COLOR][B][COLOR yellow][I]-  Ultimo GP : Abu Dabi (Circuito Yas Marina)[/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/QN0IzJw.jpg</thumbnail>
 <fanart>http://www.essentiallysports.com/wp-content/uploads/start-lewis-hamilton-mercedes-amg-f1-w08-leads-sebastian-vettel-ferrari-sf70h-kimi-raikkonen-ferrari-sf70h-felipe-massa-williams-fw40.jpg</fanart>
 <link>http://ignoreme</link>
@@ -155,7 +155,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR deepskyblue] Fanatics MotoGP [/B][/COLOR][B][COLOR yellow][I]- Ultimo GP : Valencia (Ricardo Tormo)[/I][/COLOR][/B]</title>
+<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR white] Fanatics MotoGP [/B][/COLOR][B][COLOR yellow][I]- Ultimo GP : Valencia (Ricardo Tormo)[/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/Q7lxrF2.png</thumbnail>
 <fanart>https://i.imgur.com/OuBA8Wn.jpg</fanart>
 <link>http://ignoreme</link>
@@ -163,7 +163,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR deeppink][ + ] - [/COLOR][/B][B][COLOR deepskyblue] Grand Prix Driver (Temporada 1)[/COLOR][/B]</title>
+<title>[B][COLOR deeppink][ + ] - [/COLOR][/B][B][COLOR white] Grand Prix Driver (Temporada 1)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -226,7 +226,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR deepskyblue] La Liga ( Resumenes ) [/B][/COLOR][B][COLOR lime][I]- Jornada 24[/I][/COLOR][/B]</title>
+<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR white] La Liga ( Resumenes ) [/B][/COLOR][B][COLOR lime][I]- Jornada 24[/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/pk3X2wZ.png</thumbnail>
 <fanart>https://www.unievents360.com/wp-content/uploads/2016/12/la-liga.jpg</fanart>
 <link>http://ignoreme</link>
@@ -234,7 +234,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR deepskyblue] Zona Champions ( Resumenes ) [/B][/COLOR][B][COLOR lime][I]- Nueva Sección[/I][/COLOR][/B]</title>
+<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR white] Zona Champions ( Resumenes ) [/B][/COLOR][B][COLOR lime][I]- Nueva Sección[/I][/COLOR][/B]</title>
 <thumbnail>http://www.diesl.com/wp-content/uploads/2014/08/champions-league-logo.jpg</thumbnail>
 <fanart>http://as01.epimg.net/futbol/imagenes/2016/12/09/champions/1481308091_125984_1481308449_noticia_normal.jpg</fanart>
 <link>http://ignoreme</link>
@@ -242,7 +242,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR deepskyblue] Nba ( Resumenes ) [/B][/COLOR][COLOR lime][I] -  [/I][/COLOR]</title>
+<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR white] Nba ( Resumenes ) [/B][/COLOR][COLOR lime][I] -  [/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
 <fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
@@ -269,7 +269,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR deepskyblue] Dragon Ball Super ( Sub.Esp)[/COLOR][/B][B][COLOR lime][I] - Ultimo cap.128 [/I][/COLOR][/B]</title>
+<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR white] Dragon Ball Super ( Sub.Esp)[/COLOR][/B][B][COLOR lime][I] - Ultimo cap.128 [/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/HmXfSgj.jpg</thumbnail>
 <fanart>https://i.imgur.com/DGQusQh.jpg</fanart>
 <link>http://ignoreme</link>
@@ -281,7 +281,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange][ + ] [/COLOR][/B][B][COLOR deepskyblue] Series[/COLOR][/B]</title>
+<title>[B][COLOR orange][ + ] [/COLOR][/B][B][COLOR white] Series[/COLOR][/B]</title>
 <thumbnail>https://pbs.twimg.com/profile_images/3121099081/435e06fa0cdb34f2fc4a1b045993a030.png</thumbnail>
 <fanart>https://es.best-wallpaper.net/wallpaper/1920x1080/1304/The-Vampire-Diaries-TV-series-season-4-HD_1920x1080.jpg</fanart>
 <link>http://ignoreme</link>
@@ -289,7 +289,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][ + ] [/COLOR][/B][B][COLOR deepskyblue] Series Infantiles[/COLOR][/B]</title>
+<title>[B][COLOR orange][ + ] [/COLOR][/B][B][COLOR white] Series Infantiles[/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/NelV522.png</thumbnail>
 <fanart>http://www.centralmutante.com/wp-content/uploads/2016/07/13735733_10153971125418621_7657564384248839642_o.jpg</fanart>
 <link>http://ignoreme</link>
@@ -297,7 +297,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][ + ] [/COLOR][/B][B][COLOR deepskyblue] Programas TV[/COLOR][/B]</title>
+<title>[B][COLOR orange][ + ] [/COLOR][/B][B][COLOR white] Programas TV[/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/Nd0oTUE.png</thumbnail>
 <fanart>https://i.imgur.com/OKAQMVa.png</fanart>
 <link>http://ignoreme</link>
@@ -307,7 +307,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR lime][ + ] [/COLOR][/B][B][COLOR deepskyblue] Television (TDT) [/B][/COLOR]</title>
+<title>[B][COLOR lime][ + ] [/COLOR][/B][B][COLOR white] Television (TDT) [/B][/COLOR]</title>
 <thumbnail>https://img.hdbox.ws/wp-content/uploads/2016/08/1402652350_m3u1.png</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y5-p8ps9HMA/VkpIVXOy2XI/AAAAAAABxeQ/LF76Wi5r1xk/s1600/maxresdefaulta1.jpg</fanart>
 <link>http://ignoreme</link>
