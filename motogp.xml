@@ -318,13 +318,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>Android Studio curso</title>
-<link>$doregex[makelist2]</link>
+<link>$doregex[magyck2]</link>
 
 <regex>
-<name>makelist2</name>
+<name>magyck2</name>
 <listrepeat><![CDATA[
-<title>Página [makelist2.param1]</title>
-<link>$doregex[makelist3]</link>
+<title>Página [magyck2.param1]</title>
+<link>$doregex[magyck3]</link>
 <referer></referer>
 <thumbnail></thumbnail>
 ]]></listrepeat>
@@ -334,11 +334,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 
 <regex>
-            <name>makelist3</name>
+            <name>magyck3</name>
             <listrepeat><![CDATA[
-                        <title>[makelist3.param2]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
-                        <thumbnail>https://i.ytimg.com/vi/[makelist3.param1]/hqdefault.jpg</thumbnail>
+                        <title>[magyck3.param2]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[magyck3.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[magyck3.param1]/hqdefault.jpg</thumbnail>
             ]]></listrepeat>
             <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
             <page>$doregex[get-source-page]</page>
@@ -381,7 +381,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
  r1 = requests.get(pageUrl, headers = headers)
  source = r1.text
- page = [makelist2.param1]
+ page = [magyck2.param1]
  N = int(float(page))
  pre = 'https://www.youtube.com'
  if (N > 1):
@@ -414,16 +414,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title>[COLOR yellow]listas españa PRUEBA PARA JOSE 7[/COLOR]</title>
-<link>$doregex[makelist]</link>
+<title>[COLOR yellow]listas españa PRUEBA PARA JOSE 8[/COLOR]</title>
+<link>$doregex[magyck]</link>
 <regex>
-<name>makelist</name>
+<name>magyck</name>
 <listrepeat><![CDATA[
-<title>[COLOR white][makelist.param2]  [makelist.param1][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2].ts&amp;name=picapau - [makelist.param1]</link>
+<title>[COLOR white][magyck.param1]  [magyck.param2][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[magyck.param2].ts&amp;name=magyck - [magyck.param1]</link>
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
-<expres>#EXTINF: -1 .*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
+<expres>#EXTINF: .*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
 <page>https://pastebin.com/raw/2VCZRvR8</page>
 <cookieJar></cookieJar>
 </regex>
