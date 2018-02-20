@@ -88,7 +88,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Art Attack[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Art Attack[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -126,7 +126,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR deepskyblue] Chuggington[/COLOR][/B]</title>
+<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR white] Chuggington[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -182,7 +182,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Dinosaurios (De Jim Henson)[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Dinosaurios (De Jim Henson)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -221,7 +221,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR deepskyblue] One Piece (Catalan)[/COLOR][/B]</title>
+<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR white] One Piece (Catalan)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -276,7 +276,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Pingu[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Pingu[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -316,7 +316,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR deepskyblue] Leo El Pequeño Camion[/COLOR][/B]</title>
+<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR white] Leo El Pequeño Camion[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -372,7 +372,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR deepskyblue] Sam El Bombero[/COLOR][/B]</title>
+<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR white] Sam El Bombero[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -426,13 +426,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR deepskyblue] Super Wings[/COLOR][/B]</title>
+<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR white] Super Wings[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[B][COLOR orange] [/COLOR][/B][B][COLOR deepskyblue][makelist.param2][/COLOR][/B]</title>
+        <title>[B][COLOR orange] [/COLOR][/B][B][COLOR white][makelist.param2][/COLOR][/B]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>https://shop.funtastic.com.au/pub/media/brand/image/o/i/oie_transparent.png</thumbnail>
         <fanart>https://m.media-amazon.com/images/S/aplus-media/vc/be3593c8-8110-42dd-af58-c8ade41968df.jpg</fanart>
@@ -482,7 +482,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR deepskyblue] Mickey Mouse Moderno[/COLOR][/B]</title>
+<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR white] Mickey Mouse Moderno[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -536,7 +536,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Gargolas[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Gargolas[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -574,7 +574,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] La Princesa Sofia[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] La Princesa Sofia[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -614,7 +614,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ----por aquí
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] La Vuelta Al Mundo De Willy Fog (Temporada 2)[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] La Vuelta Al Mundo De Willy Fog (Temporada 2)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -652,7 +652,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR deepskyblue] Rick y Morty (Temporadas 1 y 3)[/COLOR][/B]</title>
+<title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR white] Rick y Morty (Temporadas 1 y 3)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -706,7 +706,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Digimon (Temporada 1)[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Digimon (Temporada 1)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -744,7 +744,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Doctora Juguetes[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Doctora Juguetes[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -782,7 +782,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] La Casa De Mickey Mouse[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] La Casa De Mickey Mouse[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -820,7 +820,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR deeppink][  ] - [/COLOR][/B][B][COLOR deepskyblue] La Guardia Del Leon (Hd)[/COLOR][/B]</title>
+<title>[B][COLOR deeppink][  ] - [/COLOR][/B][B][COLOR white] La Guardia Del Leon (Hd)[/COLOR][/B]</title>
 <link>ignorame</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/leon.xml</externallink>
 <thumbnail>https://i.imgur.com/kgibfnn.jpg</thumbnail>
@@ -829,7 +829,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] La Guardia Del Leon[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] La Guardia Del Leon[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -867,7 +867,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Elena De Avalor[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Elena De Avalor[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -905,7 +905,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Oliver Y Benji[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Oliver Y Benji[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -943,7 +943,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Los Osos Amorosos[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Los Osos Amorosos[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -983,7 +983,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Dr.Slump[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Dr.Slump[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1021,7 +1021,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Musculman (Catala)[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Musculman (Catala)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1059,7 +1059,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Mazinger Z[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Mazinger Z[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1098,7 +1098,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Los Simpsons[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Los Simpsons[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1136,7 +1136,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Los Fruitis[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Los Fruitis[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1174,7 +1174,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Las Aventuras De Ladybug[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Las Aventuras De Ladybug[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1212,7 +1212,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR deeppink][  ] - [/COLOR][/B][B][COLOR deepskyblue] La Patrulla Canina (Temporada 1 Y 2)[/COLOR][/B]</title>
+<title>[B][COLOR deeppink][  ] - [/COLOR][/B][B][COLOR white] La Patrulla Canina (Temporada 1 Y 2)[/COLOR][/B]</title>
 <link>ignorame</link>
 <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/patrulla.xml</externallink>
 <thumbnail>https://i.imgur.com/WEGJ2CV.jpg</thumbnail>
@@ -1220,7 +1220,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] La Patrulla Canina (Temporada 3)[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] La Patrulla Canina (Temporada 3)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1258,7 +1258,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] El Pato Donald[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] El Pato Donald[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1296,7 +1296,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Dinotren[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Dinotren[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1334,7 +1334,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Pocoyo[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Pocoyo[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1372,7 +1372,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR yellow][  ] - [/COLOR][/B][B][COLOR deepskyblue] Super Mario Bros[/COLOR][/B]</title>
+<title>[B][COLOR yellow][  ] - [/COLOR][/B][B][COLOR white] Super Mario Bros[/COLOR][/B]</title>
 <thumbnail>http://i.imgur.com/cDb3DTV.png</thumbnail>
 <fanart>http://i.imgur.com/XDgjUks.jpg</fanart>
 <link>http://ignoreme</link>
@@ -1380,7 +1380,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Los Verdaderos Cazafantasmas[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Los Verdaderos Cazafantasmas[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1418,7 +1418,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Los Cuentos Del Guardian De La Cripta[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Los Cuentos Del Guardian De La Cripta[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1456,7 +1456,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Dragon Ball Z[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Dragon Ball Z[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1494,7 +1494,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR deepskyblue] Yokai Watch[/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Yokai Watch[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
