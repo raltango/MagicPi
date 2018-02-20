@@ -322,7 +322,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title>[COLOR yellow]listas españa PRUEBA PARA JOSE 3[/COLOR]</title>
+<title>[COLOR yellow]listas españa PRUEBA PARA JOSE 7[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -332,7 +332,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF: -1 .*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>https://pastebin.com/raw/QxnXTEiJ</page>
+<page>https://pastebin.com/raw/2VCZRvR8</page>
 <cookieJar></cookieJar>
 </regex>
 </item> 
