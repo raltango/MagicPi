@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
   
 <item>
-<title>[B][COLOR skyblue]Unete a Telegram :[/COLOR][COLOR red][/COLOR][COLOR yellow]     
+<title>[B][COLOR white]Unete a Telegram :[/COLOR][COLOR red]     
             https://t.me/MagyckPi[/COLOR][/B]</title>
 <fanart>https://i.ytimg.com/vi/pP2vFUh4lXc/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
@@ -84,7 +84,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR white][ + ] [/COLOR][COLOR yellow] Buscador Torrent[/COLOR][COLOR deeppink](...) [/COLOR][/B][COLOR yellow][I]-  Necesario Quasar[/I][/COLOR]</title>
+<title>[B][COLOR white][ + ] [/COLOR][COLOR yellow] Buscador Torrent[/COLOR][COLOR deeppink](...) [/COLOR][/B][COLOR lime][I]-  Necesario Quasar[/I][/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 
@@ -147,7 +147,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
   
 <item>
-<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR white] Fanatics F1 [/B][/COLOR][B][COLOR yellow][I]-  Ultimo GP : Abu Dabi (Circuito Yas Marina)[/I][/COLOR][/B]</title>
+<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR white] Fanatics F1 [/B][/COLOR][B][COLOR lime][I]-  Ultimo GP : Abu Dabi (Circuito Yas Marina)[/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/QN0IzJw.jpg</thumbnail>
 <fanart>http://www.essentiallysports.com/wp-content/uploads/start-lewis-hamilton-mercedes-amg-f1-w08-leads-sebastian-vettel-ferrari-sf70h-kimi-raikkonen-ferrari-sf70h-felipe-massa-williams-fw40.jpg</fanart>
 <link>http://ignoreme</link>
@@ -155,7 +155,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR white] Fanatics MotoGP [/B][/COLOR][B][COLOR yellow][I]- Ultimo GP : Valencia (Ricardo Tormo)[/I][/COLOR][/B]</title>
+<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR white] Fanatics MotoGP [/B][/COLOR][B][COLOR lime][I]- Ultimo GP : Valencia (Ricardo Tormo)[/I][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/Q7lxrF2.png</thumbnail>
 <fanart>https://i.imgur.com/OuBA8Wn.jpg</fanart>
 <link>http://ignoreme</link>
@@ -327,7 +327,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR skyblue] Avezy[/COLOR][/B][COLOR blue][I] Addon Avezy Necesario[/I][/COLOR]</title>
+<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR white] Avezy[/COLOR][/B][COLOR lime][I] Addon Avezy Necesario[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.avezy/</jsonrpc>
 <thumbnail>http://dimitrology.com/wp-content/uploads/2017/08/icon-5.png</thumbnail>
@@ -337,7 +337,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR skyblue] EmulationStation[/B] (Solo Raspberry,)[/COLOR]</title>
+<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR white] EmulationStation[/B] (Solo Raspberry,)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://game.emulationstation</jsonrpc>
 <thumbnail>https://img08.deviantart.net/17b9/i/2007/087/c/9/snes_logo_by_orksovaj.png</thumbnail>
@@ -345,7 +345,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR skyblue] Retroarch[/B] ( CONSOLAS RETRO)[/COLOR]</title>
+<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR white] Retroarch[/B] ( CONSOLAS RETRO)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://game.retroarch</jsonrpc>
 <thumbnail></thumbnail>
