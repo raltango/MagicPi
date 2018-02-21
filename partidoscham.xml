@@ -40,8 +40,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.atresplayer.com/clipping/2018/02/13/00125/703.jpg</thumbnail>
-<fanart>http://www.atresplayer.com/clipping/2017/11/21/00074/705.jpg</fanart>
+<thumbnail>http://www.atresplayer.com/clipping/2018/02/20/00136/703.jpg</thumbnail>
+<fanart>http://www.atresplayer.com/clipping/2018/02/20/00135/705.jpg</fanart>
 </item>
 
 
