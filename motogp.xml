@@ -297,17 +297,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white]REGEX PARA APRENDER[/COLOR]</title>
+<title>[COLOR white]REGEX PARA APRENDER motor tdp[/COLOR]</title>
  <link>$doregex[magyck]</link> 
  
 <regex> 
   <name>magyck</name>  
   <listrepeat><![CDATA[  
-       <title>[magyck.param1]</title> 
-       <link>[magyck.param2]</link>  
+       <title>[magyck.param2]</title> 
+       <link>[magyck.param1]</link>  
   ]]></listrepeat> 
-<expres>"titulo":"(.*?)","enlace":"(.*?)"</expres> 
-<page>https://pastebin.com/raw/D7nfMS02</page> 
+<expres>(?s)href="([^"]+).*?title="(.*?)"</expres> 
+<page>http://www.rtve.es/deportes/motor/</page> 
 <cookieJar></cookieJar> 
 </regex>
  
