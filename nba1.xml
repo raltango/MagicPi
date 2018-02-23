@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<item>
+<title>[B][COLOR orange]*[/COLOR][/B][B][COLOR white] Nba ( Resumenes ) [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
+<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR lime][makelist.param1][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
+						<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=RjAOnc1xaLA&amp;list=PLKOK9PD9MJYliV2PWBLgN45UhGGd2lZ2i</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+
+<item>
+<title>[B][COLOR orange]*[/COLR][COLOR white] Concurso de triples 2018[/COLOR][/B]</title>
+<urlsolve>https://youtu.be/QvSR6bQ0fJE</urlsolve>
+<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
+<thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR orange]*[/COLR][COLOR white] Concurso de mates 2018[/COLOR][/B]</title>
+<urlsolve>https://youtu.be/m_6C4fskYbs</urlsolve>
+<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
+<thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
+</item> 
