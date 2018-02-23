@@ -83,6 +83,64 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
 </item>
 
+<item>
+<title>[B][COLOR white][ + ] [/COLOR][COLOR yellow] Buscador Torrent[/COLOR][COLOR deeppink](...) [/COLOR][/B][COLOR lime][I]-  Necesario Torrenter[/I][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>[COLOR orange][makelist2.param2][/COLOR] [COLOR blue][makelist2.param3][/COLOR]  </title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
+<info>
+</info>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[peli-descargar-torrent-(.*?)-.*?darkblue\'>(.*?)<.*?gray\;\'>(.*?)<]]></expres>
+<page>http://www.mejortorrent.com/secciones.php?sec=buscador&amp;valor=$doregex[search]</page>
+</regex>
+
+
+
+
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Buscardor de peliculas y series torrent:', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR yellow]Reproducir [B][makelist2.param2][/B] [/COLOR]</title>
+
+    <link>plugin://plugin.video.torrenter/play?uri=http://www.mejortorrent.com[makelist.param2]</link>
+<thumbnail></thumbnail>
+<info></info>
+]]></listrepeat>
+<expres>href=\'(.*?torrent)\'</expres>
+<page>http://www.mejortorrent.com/secciones.php?sec=descargas&amp;ap=contar&amp;tabla=peliculas&amp;id=[makelist2.param1]&amp;link_bajar=1</page>
+</regex>
+
+
+<thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
+<info></info>
+</item>
+
 
 <item>
 <title>[B][COLOR white][ + ] [/COLOR][COLOR yellow] Buscador Torrent[/COLOR][COLOR deeppink](...) [/COLOR][/B][COLOR lime][I]-  Necesario Quasar[/I][/COLOR]</title>
