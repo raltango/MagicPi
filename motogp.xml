@@ -141,11 +141,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime][COLOR=cyan][B][I] Canal OdiseaOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-odisea-gratis-online-y-directo-por-internet//&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<title>[COLOR lime][COLOR=cyan][B][I] Canal Odisea[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://telefivegb.com/tv-spain/ver-odisea-en-directo-y-online-las-24h-en-vivo//&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
 <name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=odiseatelef&width=650&height=400</page>
-<referer>http://www.vercanalestv.com/ver-canal-odisea-gratis-online-y-directo-por-internet/</referer>
+<page>http://livesports.pw/embedna.php?file=odiseatelef&width=100%&height=400</page>
+<referer>http://telefivegb.com/tv-spain/ver-odisea-en-directo-y-online-las-24h-en-vivo/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR=cyan][B][I] Canal Odisea[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://telefivegb.com/tv-spain/ver-odisea-en-directo-y-online-las-24h-en-vivo//&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=odiseatelef&width=100%&height=400</page>
+<referer>http://livesports.pw/embedna.php?file=odiseatelef&width=100%&height=400</referer>
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
