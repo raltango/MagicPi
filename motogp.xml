@@ -156,7 +156,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR lime][COLOR=cyan][B][I] Canal AXN[/I][/B][/COLOR]</title>
 <link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-axn-gratis-online-en-directo-canal-axn-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/axn.php</page>
 <referer>http://www.vercanalestv.com/ver-axn-gratis-online-en-directo-canal-axn-en-vivo/</referer>
 </regex>
