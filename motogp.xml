@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR deepskyblue] CANALES IPTV [/B][/COLOR][COLOR lime][I]- Canales Esp - sportsdevil[/I][/COLOR]</title>
+<title>[B][COLOR lime][ + ] [/COLOR][/B][B][COLOR white] CANALES IPTV [/B][/COLOR][I]- Canales Esp - sportsdevil[/I][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR lime] DIGITAL DEPORTES[/B][/COLOR]</title>
+<title>[B][COLOR lime][ + ] [/COLOR][/B][B][COLOR white] DIGITAL DEPORTES[/B][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -19,7 +19,216 @@
 
 
 <item>
-<title>[B][COLOR deepskyblue] Coco [BluRay 720p X264 MKV][AC3 5.1 Castellano-Ingles-Subs][2018] [/B][/COLOR]</title>
+<title>[B][COLOR red][ + ] [/COLOR][/B][B][COLOR indianred] CANALES ARENAVISION [/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/arena.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR white] Deportes a la carta[/COLOR][/B][COLOR lime][I] Addon Necesario[/I][/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.deportesalacarta/</jsonrpc>
+<thumbnail>https://3.bp.blogspot.com/-Rdy6rRljpvI/WGrtGgwLX1I/AAAAAAAAId8/T0gOrEinxHwIlp9cqkqY014JL_YTCdB_QCLcB/s1600/deportesalacarta-pachinn-addon-kodi.png</thumbnail>
+<fanart>https://ep01.epimg.net/deportes/imagenes/2017/10/09/actualidad/1507543985_231527_1507544252_noticia_normal.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR powderblue][B]----------------- Canales Favoritos -----------------[/COLOR][/B]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white][B][I]Movistar Deportes 1[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/plusdeportes1.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwwwxv1441657735.png/medium</thumbnail>
+<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B][I]Movistar Deportes 2[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/plusdeportes2.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwwwxv1441657735.png/medium</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B][I] Canal Odisea[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://telefivegb.com/tv-spain/ver-odisea-en-directo-y-online-las-24h-en-vivo//&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=odiseatelef&width=100%&height=400</page>
+<referer>http://telefivegb.com/tv-spain/ver-odisea-en-directo-y-online-las-24h-en-vivo/?file=odiseatelef&width=100%&height=400</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B][I] Canal AXN[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-axn-gratis-online-en-directo-canal-axn-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/axn.php</page>
+<referer>http://www.vercanalestv.com/ver-axn-gratis-online-en-directo-canal-axn-en-vivo/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B][I] Canal COCINA[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-cocina-online-gratis-las-24h-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/cocina.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-cocina-online-gratis-las-24h-en-vivo/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B][I] Canal Fox[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-fox-en-directo-y-online-las-24h-por-internet/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/fox.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-fox-en-directo-y-online-las-24h-por-internet/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B][I]Movistar  F1[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/formula1.php</page>
+<referer>http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B][I]MotoGP [/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/motogp.php</page>
+<referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B][I]Movistar Disney [/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-movistar-disney-en-directo-y-online-las-24h/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plusdisney.php</page>
+<referer>http://www.vercanalestv.com/ver-movistar-disney-en-directo-y-online-las-24h/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B][I]MTV [/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-mtv-espana-online-en-directo-gratis-24h-por-internet/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/mtv.php</page>
+<referer>http://www.vercanalestv.com/ver-mtv-espana-online-en-directo-gratis-24h-por-internet//</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B][I]Bein Sports[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-bein-sport-espanol-online-y-en-directo-las-24h-por-internet-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/beinsport.php</page>
+<referer>http://www.vercanalestv.com/ver-bein-sport-espanol-online-y-en-directo-las-24h-por-internet-en-vivo/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B][I]Eurosport [/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-eurosport-en-directo-y-online-gratis/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/eurosport.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-eurosport-en-directo-y-online-gratis/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B][I]Eurosport 2 [/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-eurosport-2-online-y-en-vivo-gratis-las-24-horas/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/eurosport2.php</page>
+<referer>http://www.vercanalestv.com/ver-eurosport-2-online-y-en-vivo-gratis-las-24-horas/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B][I]Movistar Estrenos [/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plusestrenos.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B][I]Canal Historia [/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-historia-en-directo-y-gratis-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/historia.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-historia-en-directo-y-gratis-en-vivo/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]=============== [/COLOR][COLOR deeppink]============== [/COLOR][COLOR yellow]============== [/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail>https://i.imgur.com/7SB2F0u.png</thumbnail>
+<fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR white] Coco [BluRay 720p X264 MKV][AC3 5.1 Castellano-Ingles-Subs][2018] [/B][/COLOR]</title>
 <link>$doregex[getUrl]</link>
  
 <regex>
@@ -58,503 +267,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://pics.filmaffinity.com/coco-155051069-large.jpg</thumbnail>
 <fanart>https://cdn.vox-cdn.com/thumbor/RXE84lZ64cH674wjQLhIfzrVcdI=/0x0:4096x2304/1200x800/filters:focal(2026x904:2680x1558)/cdn.vox-cdn.com/uploads/chorus_image/image/57687029/cococover.0.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-<item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR indianred] CANALES ARENAVISION [/B][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/arena.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]BUSCADOR[/COLOR][COLOR deeppink](...) [/COLOR] </title>
-<link>$doregex[lista]</link>
- 
-<regex>
-<name>lista</name>
-  <listrepeat><![CDATA[
-         <SetViewMode>55</SetViewMode>
-         <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]").replace(".avi", "  [COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]").replace(".mkv", "[COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]")</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
-        ]]></listrepeat>
-<expres><![CDATA[href=\"(.*?,(.*?)\..*?)\".*?preview">(.*?mkv|.*?mp4|.*?avi)<]]><expres>
-<page>http://diskokosmiko.mx/action/SearchFiles?Phrase=MagyckPi&amp;Mode=List&amp;Type=Video&amp;SizeFromMB=0&amp;SizeToMB=0&amp;pageNumber=10</page>
-<rawpost>Phrase=$doregex[search]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/action/SearchFiles</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar>d248aa4e1e697a53b195098a52759e8d21507325199</cookieJar>
-</regex>
- 
- 
- 
-<regex>
-<name>search</name>
-<expres><![CDATA[#$pyFunction
-import xbmc
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    dialog = xbmcgui.Dialog()
-    d = dialog.input('Buscador de peliculas y series:', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
-    return d
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
- 
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[lista.param1]</page>
-<referer>http://diskokosmiko.mx/jorge-garcia-luis</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
- 
- 
- 
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[lista.param1]</page>
-<rawpost>fileId=[lista.param2]&__RequestVerificationToken=$doregex[tok2]</rawpost>
-<referer>http://diskokosmiko.mx[lista.param1]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
- 
-<regex>
-<name>tok2</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx[lista.param1]</page>
-<referer>http://diskokosmiko.mx/jorge-garcia-luis</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
- 
-<thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[COLOR powderblue]----------------- Canales Favoritos -----------------[/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I]Movistar Deportes 1[/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/plusdeportes1.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</referer>
-</regex>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rwwwxv1441657735.png/medium</thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I]Movistar Deportes 2[/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/plusdeportes2.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</referer>
-</regex>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rwwwxv1441657735.png/medium</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I] Canal Odisea[/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://telefivegb.com/tv-spain/ver-odisea-en-directo-y-online-las-24h-en-vivo//&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=odiseatelef&width=100%&height=400</page>
-<referer>http://telefivegb.com/tv-spain/ver-odisea-en-directo-y-online-las-24h-en-vivo/?file=odiseatelef&width=100%&height=400</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I] Canal AXN[/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-axn-gratis-online-en-directo-canal-axn-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/axn.php</page>
-<referer>http://www.vercanalestv.com/ver-axn-gratis-online-en-directo-canal-axn-en-vivo/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I] Canal COCINA[/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-cocina-online-gratis-las-24h-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/cocina.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-cocina-online-gratis-las-24h-en-vivo/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I] Canal Fox[/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-fox-en-directo-y-online-las-24h-por-internet/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/fox.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-fox-en-directo-y-online-las-24h-por-internet/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I]Movistar  F1[/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/formula1.php</page>
-<referer>http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I]MotoGP [/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/motogp.php</page>
-<referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I]Movistar Disney [/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-movistar-disney-en-directo-y-online-las-24h/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plusdisney.php</page>
-<referer>http://www.vercanalestv.com/ver-movistar-disney-en-directo-y-online-las-24h/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I]MTV [/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-mtv-espana-online-en-directo-gratis-24h-por-internet/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/mtv.php</page>
-<referer>http://www.vercanalestv.com/ver-mtv-espana-online-en-directo-gratis-24h-por-internet//</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I]Bein Sports[/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-bein-sport-espanol-online-y-en-directo-las-24h-por-internet-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/beinsport.php</page>
-<referer>http://www.vercanalestv.com/ver-bein-sport-espanol-online-y-en-directo-las-24h-por-internet-en-vivo/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I]Eurosport [/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-eurosport-en-directo-y-online-gratis/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/eurosport.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-eurosport-en-directo-y-online-gratis/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I]Eurosport 2 [/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-eurosport-2-online-y-en-vivo-gratis-las-24-horas/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/eurosport2.php</page>
-<referer>http://www.vercanalestv.com/ver-eurosport-2-online-y-en-vivo-gratis-las-24-horas/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I]Movistar Estrenos [/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plusestrenos.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR=cyan][B][I]Canal Historia [/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-canal-historia-en-directo-y-gratis-en-vivo/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
-<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/historia.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-historia-en-directo-y-gratis-en-vivo/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR skyblue]=============== [/COLOR][COLOR deeppink]============== [/COLOR][COLOR yellow]============== [/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail>https://i.imgur.com/7SB2F0u.png</thumbnail>
-<fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-<item>
-<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR lime] Ma[/COLOR][COLOR deeppink]gyck[/COLOR][COLOR lime]Pi[/COLOR][/B]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/indexpruebas.xml</externallink>
-</item>
-
-
-<item>
-<title>[COLOR white]REGEX PARA APRENDER motor tdp[/COLOR]</title>
- <link>$doregex[magyck]</link> 
- 
-<regex> 
-  <name>magyck</name>  
-  <listrepeat><![CDATA[  
-       <title>[magyck.param2]</title> 
-       <link>[magyck.param1]</link>  
-  ]]></listrepeat> 
-<expres>(?s)href="([^"]+).*?title="(.*?)"</expres> 
-<page>http://www.rtve.es/deportes/motor/</page> 
-<cookieJar></cookieJar> 
-</regex>
- 
-<thumbnail></thumbnail>
-</item>
-
-
-
-<item>
-<title>Android Studio curso</title>
-<link>$doregex[magyck2]</link>
-
-<regex>
-<name>magyck2</name>
-<listrepeat><![CDATA[
-<title>Página [magyck2.param1]</title>
-<link>$doregex[magyck3]</link>
-<referer></referer>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres> (.*?),</expres>
-<page>$doregex[get-number]</page>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-            <name>magyck3</name>
-            <listrepeat><![CDATA[
-                        <title>[magyck3.param2]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[magyck3.param1]</link>
-                        <thumbnail>https://i.ytimg.com/vi/[magyck3.param1]/hqdefault.jpg</thumbnail>
-            ]]></listrepeat>
-            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
-            <page>$doregex[get-source-page]</page>
-             <cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>get-number</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):            
-
- import requests
- import re
- url='https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P'
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Accept-Language': 'en-US'}
-
- rr = requests.get(url, headers=headers)
- number = re.findall('</a></li><li>(.*?) vid', rr.text)[0]
- #number = number.encode('unicode-escape')
- number = number.replace(',', '')
- real = int(float(number)) / 100
- real2 = real + 3
-
- liste = list(range(real2))
- return liste
-]]></expres>
-<page></page>
-</regex>
-
-<regex>
-<name>get-source-page</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-
- import requests
- import re
- import json
-
- pageUrl='https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P'
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
- r1 = requests.get(pageUrl, headers = headers)
- source = r1.text
- page = [magyck2.param1]
- N = int(float(page))
- pre = 'https://www.youtube.com'
- if (N > 1):
-
-   for itr in range (1,N):
-    continuex = re.findall('data-uix-load-more-href="(.*?)"', source)[0]
-    continuationx = pre + continuex
-    r = requests.get(continuationx, headers = headers)
-    source = r.text
-    jdata = json.loads(source)
-    source = jdata["load_more_widget_html"]
-    page = jdata["content_html"]
-   return page
-    
- else:
-
-  return source
-]]></expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
- 
- 
-  
-
-
-
- 
- 
-<item>
-<title>[COLOR yellow]listas españa PRUEBA PARA JOSE 8[/COLOR]</title>
-<link>$doregex[magyck]</link>
-<regex>
-<name>magyck</name>
-<listrepeat><![CDATA[
-<title>[COLOR white][magyck.param1]  [magyck.param2][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[magyck.param2].ts&amp;name=magyck - [magyck.param1]</link>
-<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>#EXTINF: .*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>https://pastebin.com/raw/2VCZRvR8</page>
-<cookieJar></cookieJar>
-</regex>
-</item> 
-
-
-
-<item>
-<title>[COLOR orange]AGENDA ARENAVISION EVENTOS EN CASTELLANO(AVEZY)[/COLOR]</title>
-<link>$doregex[magyck]</link>
-<regex>
-<name>magyck</name>
-<listrepeat><![CDATA[
-<title>[COLOR orange][magyck.param1][/COLOR] [COLOR yellow][magyck.param2]H.[/COLOR][COLOR goldenrod][magyck.param4][/COLOR] [COLOR white][magyck.param5][/COLOR][COLOR red] ([magyck.param7])[/COLOR]</title>
-<thumbnail>https://avezy.xyz/[magyck.param3]</thumbnail>
-<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
-<link>plugin://program.plexus/?url=[magyck.param8]&amp;mode=1&amp;name=magyck</link>
-</item>
-]]></listrepeat>
-<expres><![CDATA[(?s)center'>([^<]+).*?br>([^<]+).*? src="(.*?)".*? title='([^']+).*?br>([^<]+).*?spa([^']+).*?AV([^<]+).*?acestream://(.*?)".*?]]></expres>
-<page>https://avezy.xyz/</page>
-</regex>
-<thumbnail>https://1.bp.blogspot.com/-XWS-ula5dok/WDLAzEh8apI/AAAAAAAADGo/3B6jDpUfBGwYNXd0jx9zzJV2BrHsvrJOACPcB/s640/arenavision3.PNG</thumbnail>
-<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
-</item>
-
-
-
-
-
-<item>
-<title>[COLOR orange]AGENDA ARENAVISION (AVEZY)[/COLOR]</title>
-<link>$doregex[picapau]</link>
- 
-<regex>
-<name>picapau</name>
-<listrepeat><![CDATA[
-<title>[COLOR white][picapau.param1] [/COLOR][COLOR orange]-Nº Eventos [/COLOR][COLOR yellow]([picapau.param2]) [/COLOR]</title>
-<thumbnail>https://1.bp.blogspot.com/-XWS-ula5dok/WDLAzEh8apI/AAAAAAAADGo/3B6jDpUfBGwYNXd0jx9zzJV2BrHsvrJOACPcB/s640/arenavision3.PNG</thumbnail>
-<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
-<link>$doregex[picapau2]</link>
-]]></listrepeat>
-<expres>categoria":"(.*?)","items":"(.*?)"</expres>
-<page>https://avezy.xyz/json.php</page>
-</regex>
- 
-<regex>
-<name>picapau2</name>
-<listrepeat><![CDATA[
-<SetwatchMode>55</SetwatchMode>
-<title>[COLOR yellow][picapau2.param2] [/COLOR] [COLOR orange][picapau2.param3] [/COLOR] [COLOR white] [picapau2.param5][/COLOR]</title>
-<thumbnail>https://1.bp.blogspot.com/-XWS-ula5dok/WDLAzEh8apI/AAAAAAAADGo/3B6jDpUfBGwYNXd0jx9zzJV2BrHsvrJOACPcB/s640/arenavision3.PNG</thumbnail>
-<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
-<link>$doregex[picapauresolucion]</link>
-]]></listrepeat>
-<expres>"id":"(.*?)","fecha":"(.*?)","hora":"(.*?)","categoria":"(.*?)","titulo":"(.*?)"</expres>
-<page>https://avezy.xyz/json.php?action=listado_eventos&amp;cat=[picapau.param1]</page>
-</regex>
- 
-<regex>
-<name>picapauresolucion</name>
-<listrepeat><![CDATA[
-<title>[COLOR orange][picapauresolucion.param3] [/COLOR][COLOR white][picapau2.param5][/COLOR] [COLOR red]([picapauresolucion.param1]) [/COLOR]</title>
-<thumbnail>https://1.bp.blogspot.com/-XWS-ula5dok/WDLAzEh8apI/AAAAAAAADGo/3B6jDpUfBGwYNXd0jx9zzJV2BrHsvrJOACPcB/s640/arenavision3.PNG</thumbnail>
-<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
-<link>plugin://program.plexus/?url=[picapauresolucion.param2]&amp;mode=1&amp;name=picapau</link>
-</item>
-]]></listrepeat>
-<expres>canal":"(.+?)".*?acestream:\\\/\\\/(.*?)".*?idioma":"(.*?)"</expres>
-<page>https://avezy.xyz/json.php?action=listado_canales&amp;evento=[picapau2.param1]</page>
-</regex>
- 
-<thumbnail>https://1.bp.blogspot.com/-XWS-ula5dok/WDLAzEh8apI/AAAAAAAADGo/3B6jDpUfBGwYNXd0jx9zzJV2BrHsvrJOACPcB/s640/arenavision3.PNG</thumbnail>
-<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
 </item>
  
  
