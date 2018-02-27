@@ -68,8 +68,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  </multilink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/02/26/15196338334235.jpg</thumbnail>
+<fanart>https://as01.epimg.net/motor/imagenes/2018/02/26/formula_1/1519628525_652775_1519646476_noticia_normal.jpg</fanart>
 </item>
 
 
