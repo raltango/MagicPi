@@ -47,8 +47,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 </link>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/f1-2018-hora-f1-260218-27d,1978502,list,1,1.mp4$$lsname=[COLOR lime] - Opcion 2 [/COLOR]</link>
-<thumbnail>https://i.imgur.com/LdqsVhY.png</thumbnail>
-<fanart></fanart>
 <regex><name>getUrl</name>
 <expres><![CDATA[#$pyFunction
 import re , requests 
