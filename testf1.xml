@@ -7,7 +7,7 @@
 
 
 <item>
-<title>[B][COLOR orange][01] - [/COLOR][/B][B][COLOR deepskyblue] Test pretemporada [/COLOR][COLOR yellow] -  Día 1[/COLOR][/B]</title>        
+<title>[B][COLOR orange][ ] - [/COLOR][/B][B][COLOR deepskyblue] Test pretemporada [/COLOR][COLOR yellow] -  Día 1[/COLOR][/B]</title>        
 <multilink>
 <link>$doregex[getUrl]$$lsname=[COLOR yellow] - Opcion 1 [/COLOR]</link>
  
