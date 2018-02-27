@@ -12,14 +12,14 @@
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTOGP) - Opción 1[/COLOR] </title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTOGP) - Opción 1[/COLOR] </title>        
 <link>https://archive.org/download/MotoGP.Valencia.2017.Carrera.MovistarF1.EventosHQ/MotoGP.Valencia.2017.Carrera.MovistarF1.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
 <fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTOGP)- Opción 2[/COLOR] </title>
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTOGP)- Opción 2[/COLOR] </title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/motogp-valencia-2017-carrera-movistarf1-eventoshq,1633855,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
 <fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
@@ -50,14 +50,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTO2) - Opción 1[/COLOR] </title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTO2) - Opción 1[/COLOR] </title>        
 <link>https://archive.org/download/MotoGP.Valencia.2017.Carrera.MovistarF1.EventosHQ/Moto2.Valencia.2017.Carrera.MovistarF1.EventoHQ.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
 <fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTO2)- Opción 2[/COLOR] </title>
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTO2)- Opción 2[/COLOR] </title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/moto2-valencia-2017-carrera-movistarf1-eventohq,1633841,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
 <fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
@@ -88,14 +88,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTO3) - Opción 1[/COLOR] </title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTO3) - Opción 1[/COLOR] </title>        
 <link>https://archive.org/download/Moto3.Valencia.2017.Carrera.MovistarF1.EventoHQ/Moto3.Valencia.2017.Carrera.MovistarF1.EventoHQ.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
 <fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTO3)- Opción 2[/COLOR] </title>
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Carrera [/COLOR][COLOR yellow] (MOTO3)- Opción 2[/COLOR] </title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/moto3-valencia-2017-carrera-movistarf1-eventohq,1633577,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
 <fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
@@ -128,7 +128,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Clasificación[/COLOR][COLOR yellow] (MOTOGP)[/COLOR] </title>
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Clasificación[/COLOR][COLOR yellow] (MOTOGP)[/COLOR] </title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/motogp-valencia-2017-clasificacion-movistarf1-eventoshq,1631104,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
 <fanart></fanart>
@@ -159,7 +159,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Clasificación[/COLOR][COLOR yellow] (MOTO2)[/COLOR] </title>
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Valencia - Clasificación[/COLOR][COLOR yellow] (MOTO2)[/COLOR] </title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/moto2-valencia-2017-clasificacion-movistarf1-eventoshq,1631186,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/3kQljNO.png</thumbnail>
 <fanart>https://i.imgur.com/kBDTuqu.jpg</fanart>
@@ -198,7 +198,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia - Carrera[/COLOR][COLOR yellow] (MOTOGP)[/COLOR] </title>
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia - Carrera[/COLOR][COLOR yellow] (MOTOGP)[/COLOR] </title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-carreras-90233/motogp-malasia-2017-carrera-movistarf1-eventoshq,1570558,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart></fanart>
@@ -229,7 +229,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia - Carrera[/COLOR][COLOR yellow] (MOTO2)[/COLOR] </title>
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia - Carrera[/COLOR][COLOR yellow] (MOTO2)[/COLOR] </title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-carreras-90233/moto2-malasia-2017-carrera-movistarf1-eventoshq,1570522,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart></fanart>
@@ -260,7 +260,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia - Carrera[/COLOR][COLOR yellow] (MOTO3)[/COLOR]</title>
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia - Carrera[/COLOR][COLOR yellow] (MOTO3)[/COLOR]</title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-carreras-90233/moto3-malasia-2017-carrera-movistarf1-eventoshq,1570526,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart></fanart>
@@ -291,7 +291,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia -[COLOR yellow] Clasificación[/COLOR][/COLOR] </title>
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia -[COLOR yellow] Clasificación[/COLOR][/COLOR] </title>
 <link>$doregex[select]</link>
 <regex>
 <name>select</name>
@@ -308,7 +308,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia - Clasificación (MOTOGP)[/COLOR] [COLOR yellow]- Opción 2[/COLOR]</title>
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Malasia - Clasificación (MOTOGP)[/COLOR] [COLOR yellow]- Opción 2[/COLOR]</title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-carreras-90233/motogp-malasia-2017-clasificacion-espn-eventoshq,1567067,list,1,1.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart></fanart>
@@ -345,28 +345,28 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Australia - Carrera (MOTOGP) [/COLOR] </title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Australia - Carrera (MOTOGP) [/COLOR] </title>        
 <link>https://archive.org/download/MotoGP.Australia.2017.Carrera.MovistarF1.EventosHQ/MotoGP.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Australia - Clasificación (MOTOGP) [/COLOR][COLOR yellow] (ESPN)[/COLOR] </title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Australia - Clasificación (MOTOGP) [/COLOR][COLOR yellow] (ESPN)[/COLOR] </title>        
 <link>https://archive.org/download/MotoGP.Australia.2017.Clasificacion.ESPN.EventosHQ/MotoGP.Australia.2017.Clasificacion.ESPN.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Australia - Carrera (MOTO2)[/COLOR] </title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Australia - Carrera (MOTO2)[/COLOR] </title>        
 <link>https://archive.org/download/Moto2.Australia.2017.Carrera.MovistarF1.EventosHQ/Moto2.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Australia - Carrera (MOTO3)[/COLOR] </title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Australia - Carrera (MOTO3)[/COLOR] </title>        
 <link>https://archive.org/download/Moto3.Australia.2017.Carrera.MovistarF1.EventosHQ/Moto3.Australia.2017.Carrera.MovistarF1.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
@@ -378,42 +378,42 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Carrera (MOTOGP) [/COLOR]`[COLOR yellow] ¡Corregido![/COLOR] </title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Carrera (MOTOGP) [/COLOR]`[COLOR yellow] ¡Corregido![/COLOR] </title>        
 <link>https://archive.org/download/MotoGP.Japon.2017.Carrera.Movistar.EventosHQ_20171015/MotoGP.Japon.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Clasificación (MOTOGP) [/COLOR]</title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Clasificación (MOTOGP) [/COLOR]</title>        
 <link>https://archive.org/download/MotoGP.Japon.2017.Clasificacion.Movistar.EventosHQ/MotoGP.Japon.2017.Clasificacion.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Carrera (MOTO2) [/COLOR]</title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Carrera (MOTO2) [/COLOR]</title>        
 <link>https://archive.org/download/Moto.2.Japon.2017.Carrera.Movistar.EventosHQ/Moto.2.Japon.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Clasificación (MOTO2) [/COLOR]</title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Clasificación (MOTO2) [/COLOR]</title>        
 <link>https://archive.org/download/Moto.2.Japon.2017.Clasificacion.Movistar.EventosHQ/Moto.2.Japon.2017.Clasificacion.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Carrera (MOTO3) [/COLOR]</title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Carrera (MOTO3) [/COLOR]</title>        
 <link>https://archive.org/download/Moto.3.Japon.2017.Carrera.Movistar.EventosHQ/Moto.3.Japon.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Clasificación (MOTO3) [/COLOR]</title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Japón - Clasificación (MOTO3) [/COLOR]</title>        
 <link>https://archive.org/download/Moto.3.Japon.2017.Clasificacion.Movistar.EveHQ/Moto.3.Japon.2017.Clasificacion.Movistar.EveHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
@@ -425,21 +425,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Aragón (MOTOGP) [/COLOR]</title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Aragón (MOTOGP) [/COLOR]</title>        
 <link>https://archive.org/download/MotoGP.Aragon.2017.Carrera.Movistar.EventosHQ/MotoGP.Aragon.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Aragón (MOTO2) [/COLOR]</title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Aragón (MOTO2) [/COLOR]</title>        
 <link>https://archive.org/download/Moto.2.Aragon.2017.Carrera.Movistar.EventosHQ/Moto.2.Aragon.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Aragón (MOTO3)[/COLOR]</title>        
+<title>[COLOR deeppink] ->  [/COLOR][COLOR white] 2017 - GP Aragón (MOTO3)[/COLOR]</title>        
 <link>https://archive.org/download/Moto.3.Aragon.2017.Carrera.Movistar.EventosHQ/Moto.3.Aragon.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
@@ -452,21 +452,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>              [COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP San Marino (MOTOGP)[/COLOR]</title>        
+<title>[COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP San Marino (MOTOGP)[/COLOR]</title>        
 <link>https://archive.org/download/MotoGP.San.Marino.2017.Carrera.Movistar.EventosHQ/MotoGP.San.Marino.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP San Marino (MOTO2)[/COLOR]</title>        
+<title>[COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP San Marino (MOTO2)[/COLOR]</title>        
 <link>https://archive.org/download/Moto.2.San.Marino.2017.Carrera.Movistar.EventosHQ_201709/Moto.2.San.Marino.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP San Marino (MOTO3)[/COLOR]</title>        
+<title>[COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP San Marino (MOTO3)[/COLOR]</title>        
 <link>https://archive.org/download/Moto3.San.Marino.2017.Carrera.Movistar.EventosHQ/Moto3.San.Marino.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
@@ -478,21 +478,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Silverstone (MOTOGP)[/COLOR]</title>        
+<title>[COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Silverstone (MOTOGP)[/COLOR]</title>        
 <link>https://archive.org/download/MotoGP.Silverstone.2017.Carrera.Movistar.EventosHQ/MotoGP.Silverstone.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Silverstone (MOTO2)[/COLOR]</title>        
+<title>[COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Silverstone (MOTO2)[/COLOR]</title>        
 <link>https://archive.org/download/Moto.2.Silverstone.2017.Carrera.Movistar.EventosHQ/Moto.2.Silverstone.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Silverstone (MOTO3)[/COLOR]</title>        
+<title>[COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Silverstone (MOTO3)[/COLOR]</title>        
 <link>https://archive.org/download/Moto.3.Silverstone.2017.Carrera.Movistar.EventosHQ/Moto.3.Silverstone.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
@@ -505,21 +505,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>              [COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Austria (MOTOGP)[/COLOR]</title>        
+<title>[COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Austria (MOTOGP)[/COLOR]</title>        
 <link>https://archive.org/download/MotoGP.Austria.2017.Carrera.Movistar.EventosHQ/MotoGP.Austria.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Austria (MOTO2)[/COLOR]</title>        
+<title>[COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Austria (MOTO2)[/COLOR]</title>        
 <link>https://archive.org/download/Moto.2.Austria.2017.Carrera.Movistar.EventosHQ/Moto.2.Austria.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Austria (MOTO3)[/COLOR]</title>        
+<title>[COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Austria (MOTO3)[/COLOR]</title>        
 <link>https://archive.org/download/Moto.3.Austria.2017.Carrera.Movistar.EventosHQ/Moto.3.Austria.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
@@ -533,21 +533,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>              [COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Rep.Checa (MOTOGP)[/COLOR]</title>        
+<title>[COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Rep.Checa (MOTOGP)[/COLOR]</title>        
 <link>https://archive.org/download/Moto.GP.Republica.Checa.2017.Carrera.Movistar.EventosHQ/Moto.GP.Republica.Checa.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Rep.Checa (MOTO2)[/COLOR]</title>        
+<title>[COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Rep.Checa (MOTO2)[/COLOR]</title>        
 <link>https://archive.org/download/Moto.2.Republica.Checa.2017.Carrera.Movistar.EventosHQ/Moto.2.Republica.Checa.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
 </item>
 
 <item>
-<title>              [COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Rep.Checa (MOTO3)[/COLOR]</title>        
+<title>[COLOR deeppink] ->[/COLOR][COLOR white] 2017 - GP Rep.Checa (MOTO3)[/COLOR]</title>        
 <link>https://archive.org/download/Moto.3.Republica.Checa.2017.Carrera.Movistar.EventosHQ/Moto.3.Republica.Checa.2017.Carrera.Movistar.EventosHQ.mp4</link>
 <thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
 <fanart>https://i.imgur.com/UlIfR3z.png</fanart>
