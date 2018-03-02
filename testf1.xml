@@ -19,7 +19,7 @@ import re , requests ,json
 def GetLSProData(page_data,Cookie_Jar,m):
  
  ref = 'http://kbagi.com/'
- url='http://kbagi.com/Josele89/motor-618870/f1-2018-hora-f1-010318-24d,5653141,list,1,1.mp4'
+ url='http://kbagi.com/Josele89/motor-618870/test-f1-dia-4,5653141,list,1,1.mp4'
  headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
             'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
  session = requests.Session()
