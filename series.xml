@@ -45,7 +45,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[lista.param1]</page>
-<referer>http://diskokosmiko.mx/SeriesHD</referer>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -68,7 +68,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>tok2</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx[lista.param1]</page>
-<referer>http://diskokosmiko.mx/SeriesHD</referer>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -77,12 +77,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>[COLOR skyblue]========== [/COLOR][COLOR deeppink]========== [/COLOR][COLOR yellow]========== [/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail>https://i.imgur.com/7SB2F0u.png</thumbnail>
-<fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
-</item>
+
 
 <item>
 <title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Aida[/COLOR][/B]</title>

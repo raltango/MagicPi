@@ -44,7 +44,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[lista.param1]</page>
-<referer>http://diskokosmiko.mx/chinchetas</referer>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -67,7 +67,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>tok2</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx[lista.param1]</page>
-<referer>http://diskokosmiko.mx/chinchetas</referer>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
