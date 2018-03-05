@@ -735,16 +735,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-<item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Los Tudor ( 4 Temporadas)[/COLOR][/B]</title>
-<thumbnail>https://pics.filmaffinity.com/the_tudors_tv_series-993576419-large.jpg</thumbnail>
-<fanart>http://www.ashtoncampion.com/blog/wp-content/uploads/2014/07/fond_tudors3_1920x1200-1024x640.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/tudor.xml</externallink>
-</item>
-
-
-
 
 
 <item>
