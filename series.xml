@@ -234,13 +234,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://www.formulatv.com/images/noticias/75700/75711/1_4f0feaf1bc.jpg</fanart>
 </item>
 
-<item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] The Crown[/COLOR][/B]</title>
-<thumbnail>https://i.imgur.com/aJTYP18.jpg</thumbnail>
-<fanart>https://i.imgur.com/ztiiP8U.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/crown.xml</externallink>
-</item>
 
 <item>
 <title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR white] The Crown[/COLOR][/B]</title>
@@ -437,7 +430,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
   <listrepeat><![CDATA[
         <title>[COLOR white]+-  [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>https://pics.filmaffinity.com/six-836147140-large.jpg</thumbnail>
+        <thumbnail>http://www.formulatv.com/images/series/posters/1200/1258/1_m3.jpg</thumbnail>
         <fanart>http://www.formulatv.com/images/fgaleria/54700/54795_protagonistas-six-hbo.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
@@ -478,7 +471,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://pics.filmaffinity.com/six-836147140-large.jpg</thumbnail>
+<thumbnail>http://www.formulatv.com/images/series/posters/1200/1258/1_m3.jpg</thumbnail>
 <fanart>http://www.formulatv.com/images/fgaleria/54700/54795_protagonistas-six-hbo.jpg</fanart>
 </item>
 
