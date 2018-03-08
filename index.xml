@@ -166,7 +166,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR deeppink][ + ] - [/COLOR][/B][B][COLOR white] Grand Prix Driver (Temporada 1)[/COLOR][/B]</title>
+<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR white] Grand Prix Driver (Temporada 1)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -217,6 +217,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://i.imgur.com/A3ani8m.jpg</thumbnail>
 <fanart>https://i.imgur.com/GI7uYp6.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR pink][ + ] [/COLOR][/B][B][COLOR white] European Poker Tour [/B][/COLOR][B][COLOR lime][I]- PCA9 Bahamas[/I][/COLOR][/B]</title>
+<thumbnail>http://www.atresplayer.com/clipping/2013/06/24/00715/705.jpg</thumbnail>
+<fanart>http://www.atresplayer.com/clipping/2013/06/24/00715/705.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>&#104;&#116;&#116;&#112;://&#098;&#105;&#116;&#046;&#108;&#121;/&#050;&#070;&#067;&#051;&#066;&#082;&#122;</externallink>
 </item>
 
 <item>

@@ -15,7 +15,7 @@
         <fanart>http://www.atresplayer.com/clipping/2013/06/24/00715/705.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://kbagi.com/Josele89/grand-prix-drivers-1-temporada-628157/list,1,1</page>
+<page>http://kbagi.com/Josele89/european-poker-tour-bahamas-634493/list,1,1</page>
 <cookieJar></cookieJar>
 </regex>
  
