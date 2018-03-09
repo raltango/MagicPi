@@ -172,7 +172,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR white]+ [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
+        <title>[COLOR orange]*[/COLOR][COLOR white][makelist.param2][/COLOR]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>https://i.ytimg.com/vi/dsAQp4X2xDM/hqdefault.jpg</thumbnail>
         <fanart>http://media.ufc.tv/generated_images_sorted/FrontPageFeature/222-Talking-Points-UFC/222-Talking-Points-UFC_651250_FrontPageFeatureNarrow.jpg</fanart>
