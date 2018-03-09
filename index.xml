@@ -166,7 +166,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR white] Grand Prix Driver (Temporada 1)[/COLOR][/B]</title>
+<title>[B][COLOR greenyellow][ + ] [/COLOR][/B][B][COLOR white] UFC[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -174,11 +174,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
   <listrepeat><![CDATA[
         <title>[COLOR white]+ [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>https://i.imgur.com/A3ani8m.jpg</thumbnail>
-        <fanart>https://i.imgur.com/GI7uYp6.jpg</fanart>
+        <thumbnail>https://i.ytimg.com/vi/dsAQp4X2xDM/hqdefault.jpg</thumbnail>
+        <fanart>http://media.ufc.tv/generated_images_sorted/FrontPageFeature/222-Talking-Points-UFC/222-Talking-Points-UFC_651250_FrontPageFeatureNarrow.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://kbagi.com/Josele89/grand-prix-drivers-1-temporada-628157/list,1,1</page>
+<page>http://kbagi.com/Josele89/ufc-634783/list,1,1</page>
 <cookieJar></cookieJar>
 </regex>
  
@@ -215,12 +215,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://i.imgur.com/A3ani8m.jpg</thumbnail>
-<fanart>https://i.imgur.com/GI7uYp6.jpg</fanart>
+<thumbnail>https://i.ytimg.com/vi/dsAQp4X2xDM/hqdefault.jpg</thumbnail>
+<fanart>http://media.ufc.tv/generated_images_sorted/FrontPageFeature/222-Talking-Points-UFC/222-Talking-Points-UFC_651250_FrontPageFeatureNarrow.jpg</fanart>
 </item>
 
 <item>
-<title>[B][COLOR pink][ + ] [/COLOR][/B][B][COLOR white] European Poker Tour [/B][/COLOR][B][COLOR lime][I]- PCA9 Bahamas[/I][/COLOR][/B]</title>
+<title>[B][COLOR greenyellow][ + ] [/COLOR][/B][B][COLOR white] European Poker Tour [/B][/COLOR][B][COLOR lime][I]- PCA9 Bahamas[/I][/COLOR][/B]</title>
 <thumbnail>http://www.atresplayer.com/clipping/2013/06/24/00715/705.jpg</thumbnail>
 <fanart>http://www.atresplayer.com/clipping/2013/06/24/00715/705.jpg</fanart>
 <link>http://ignoreme</link>
