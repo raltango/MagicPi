@@ -248,6 +248,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
+<title>[B][COLOR greenyellow][f4m] - [/COLOR][/B][B][COLOR white] Fariña [/COLOR][/B]</title>
+<link>ignorame</link>
+<thumbnail>http://www.atresplayer.com/clipping/2018/02/28/00009/705.jpg</thumbnail>
+<fanart>http://www.atresplayer.com/clipping/2018/02/28/00009/705.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/farina.xml</externallink>
+</item>
+
+
+<item>
 <title>[B][COLOR lime][  ] - [/COLOR][/B][B][COLOR white] Fariña[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
