@@ -175,7 +175,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR greenyellow][F] - [/COLOR][/B][B][COLOR white] Aqui no hay quien viva [/COLOR][/B]</title>
+<title>[B][COLOR gold][F] - [/COLOR][/B][B][COLOR white] Aqui no hay quien viva [/COLOR][/B]</title>
 <link>ignorame</link>
 <thumbnail>https://i.imgur.com/rxj9pIv.jpg</thumbnail>
 <fanart>http://www.atresplayer.com/clipping/2013/06/18/00624/705.jpg</fanart>
@@ -183,7 +183,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR greenyellow][F] - [/COLOR][/B][B][COLOR white] Cuerpo de élite [/COLOR][/B]</title>
+<title>[B][COLOR gold][F] - [/COLOR][/B][B][COLOR white] Cuerpo de élite [/COLOR][/B]</title>
 <link>ignorame</link>
 <thumbnail>http://www.formulatv.com/images/series/posters/1400/1499/1_m3.jpg</thumbnail>
 <fanart>http://www.formulatv.com/images/noticias/75700/75711/1_4f0feaf1bc.jpg</fanart>
@@ -248,7 +248,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR greenyellow][F] - [/COLOR][/B][B][COLOR white] Fariña [/COLOR][/B]</title>
+<title>[B][COLOR gold][F] - [/COLOR][/B][B][COLOR white] Fariña [/COLOR][/B]</title>
 <link>ignorame</link>
 <thumbnail>http://www.atresplayer.com/clipping/2018/02/28/00009/705.jpg</thumbnail>
 <fanart>http://www.atresplayer.com/clipping/2018/02/28/00009/705.jpg</fanart>
