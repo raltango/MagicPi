@@ -338,6 +338,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+<item>
+<title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR white] IARL[/B] (Internet Archive Rom Launcher)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.program.iarl</jsonrpc>
+<thumbnail>https://img08.deviantart.net/17b9/i/2007/087/c/9/snes_logo_by_orksovaj.png</thumbnail>
+<fanart>https://cdn-images-1.medium.com/max/1400/1*vvrxNe4FPEeVmXLh5sDLDA.png</fanart>
+</item>
+
+
 <item>
 <title>[B][COLOR deeppink][ + ] [/COLOR][/B][B][COLOR white] EmulationStation[/B] (Solo Raspberry,)[/COLOR]</title>
 <link>http://Ignoreme</link>
