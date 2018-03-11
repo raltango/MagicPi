@@ -183,7 +183,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR darkblue][  ] - [/COLOR][/B][B][COLOR white] Cuerpo de élite [/COLOR][COLOR darkblue][I]- F4mTester[/B][/I][/COLOR][/B]</title>
+<title>[B][COLOR darkblue][  ] - [/COLOR][/B][B][COLOR white] Cuerpo de élite [/COLOR][COLOR darkblue][I]- F4mTester[/B][/I][/COLOR]</title>
 <link>ignorame</link>
 <thumbnail>http://www.formulatv.com/images/series/posters/1400/1499/1_m3.jpg</thumbnail>
 <fanart>http://www.formulatv.com/images/noticias/75700/75711/1_4f0feaf1bc.jpg</fanart>
@@ -248,7 +248,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR darkblue][  ] - [/COLOR][/B][B][COLOR white] Fariña [/COLOR][COLOR darkblue][I]- F4mTester[/B][/I][/COLOR][/B]</title>
+<title>[B][COLOR darkblue][  ] - [/COLOR][/B][B][COLOR white] Fariña [/COLOR][COLOR darkblue][I]- F4mTester[/B][/I][/COLOR]</title>
 <link>ignorame</link>
 <thumbnail>http://www.atresplayer.com/clipping/2018/02/28/00009/705.jpg</thumbnail>
 <fanart>http://www.atresplayer.com/clipping/2018/02/28/00009/705.jpg</fanart>
