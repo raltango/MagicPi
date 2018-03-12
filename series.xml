@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[COLOR lime]Busca tu serie[/COLOR][COLOR deeppink](...) [/COLOR] </title>
+<title>[B][COLOR lime]Busca tu serie[/COLOR][COLOR deeppink](...) [/COLOR][/B]</title>
 <link>$doregex[lista]</link>
  
 <regex>
