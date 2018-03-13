@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+
+ 
+<item>
+    <title>[B][COLOR red][01] :[/COLOR][COLOR greenyellow] Gran Premio Qatar Losail [/COLOR][/B]</title>
+    <link>http://ignorame</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+ 
+ 
+<item>
+    <title>            [B][I][COLOR greenyellow] · CARRERA  [/COLOR][/B][/I]</title>
+    <link>http://ignorame</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+ 
+ 
+ <item>
+    <title>[B][COLOR white]  - MotoGP[/B][/COLOR]</title>
+    <multilink>
+        <link>$$lsname= Opcion 1</link>
+        <link>$$lsname= Opcion 2</link>
+    </multilink>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+ </item>
+ 
+  <item>
+    <title>[B][COLOR white]  - Moto2[/B][/COLOR]</title>
+    <multilink>
+        <link>$$lsname= Opcion 1</link>
+        <link>$$lsname= Opcion 2</link>
+    </multilink>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+ </item>
+ 
+  <item>
+    <title>[B][COLOR white]  - Moto3[/B][/COLOR]</title>
+    <multilink>
+        <link>$$lsname= Opcion 1</link>
+        <link>$$lsname= Opcion 2</link>
+    </multilink>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+ </item>
+ 
+ 
+<item>
+    <title>            [B][I][COLOR greenyellow] · CLASIFICACIÓN  [/COLOR][/B][/I]</title>
+    <link>http://ignorame</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+ 
+ <item>
+    <title>[B][COLOR white]  - MotoGP[/B][/COLOR]</title>
+    <multilink>
+        <link>$$lsname= Opcion 1</link>
+        <link>$$lsname= Opcion 2</link>
+    </multilink>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+ </item>
+ 
+  <item>
+    <title>[B][COLOR white]  - Moto2[/B][/COLOR]</title>
+    <multilink>
+        <link>$$lsname= Opcion 1</link>
+        <link>$$lsname= Opcion 2</link>
+    </multilink>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+ </item>
+ 
+  <item>
+    <title>[B][COLOR white]  - Moto3[/B][/COLOR]</title>
+    <multilink>
+        <link>$$lsname= Opcion 1</link>
+        <link>$$lsname= Opcion 2</link>
+    </multilink>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+ </item>
