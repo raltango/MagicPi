@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+    <title>[B][COLOR red][01][/COLOR][COLOR white] Gran Premio Australia[/COLOR][COLOR greenyellow] - Merlbourne[/COLOR][/B] </title>
+    <link>http://ignorame</link>
+    <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
+    <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
+</item>
+ 
+ 
+<item>
+    <title>[B]   [COLOR greenyellow] - Libres[/COLOR][/B] </title>
+    <multilink>
+        <link>http://</link>
+        <link>http://</link>
+    </multilink>
+    <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
+    <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
+</item>
+ 
+ 
+<item>
+    <title>[B]   [COLOR greenyellow] - Clasificación[/COLOR][/B] </title>
+    <multilink>
+        <link>http://</link>
+        <link>http://</link>
+    </multilink>
+    <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
+    <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
+</item>
+ 
+ 
+<item>
+    <title>[B]   [COLOR greenyellow] - Carrera[/COLOR][/B] </title>
+    <multilink>
+        <link>http://</link>
+        <link>http://</link>
+    </multilink>
+    <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
+    <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
+</item>
