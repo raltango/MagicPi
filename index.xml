@@ -228,50 +228,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR deeppink][ + ] [COLOR deeppink] Proyeck[/COLOR][COLOR lime]Motors[/COLOR][/B]</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.ProyeckMotors/</jsonrpc>
-<thumbnail>https://i.imgur.com/cVeLiM3.png</thumbnail>
-<fanart>https://i.imgur.com/XRCiH0O.jpg</fanart>
-</item>
-
-
-<item>
-<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR white] La Liga ( Resumenes ) [/B][/COLOR][B][COLOR lime][I]- Jornada 28[/I][/COLOR][/B]</title>
-<thumbnail>https://i.imgur.com/pk3X2wZ.png</thumbnail>
-<fanart>https://www.unievents360.com/wp-content/uploads/2016/12/la-liga.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>&#104;&#116;&#116;&#112;://&#098;&#105;&#116;&#046;&#108;&#121;/&#050;&#068;&#119;&#088;&#055;&#081;&#122;</externallink>
-</item>
-
-<item>
-<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR white] Zona Champions ( Resumenes ) [/B][/COLOR][B][COLOR lime][I]- Nueva Sección[/I][/COLOR][/B]</title>
-<thumbnail>http://www.diesl.com/wp-content/uploads/2014/08/champions-league-logo.jpg</thumbnail>
-<fanart>http://as01.epimg.net/futbol/imagenes/2016/12/09/champions/1481308091_125984_1481308449_noticia_normal.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>&#104;&#116;&#116;&#112;://&#098;&#105;&#116;&#046;&#108;&#121;/&#050;&#070;&#090;&#082;&#082;&#086;&#065;</externallink>
-</item>
-
-<item>
-<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR white] Nba ( Resumenes ) [/B][/COLOR][COLOR lime][I] - Nuevo contenido!  [/I][/COLOR]</title>
-<thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
-<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>&#104;&#116;&#116;&#112;://&#098;&#105;&#116;&#046;&#108;&#121;/&#050;&#111;&#114;&#120;&#065;&#082;&#068;</externallink>
-</item>
-
-
-
-<item>
-<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR white] Dragon Ball Super ( Sub.Esp)[/COLOR][/B][B][COLOR lime][I] - Ultimo cap.129 [/I][/COLOR][/B]</title>
-<thumbnail>https://i.imgur.com/HmXfSgj.jpg</thumbnail>
-<fanart>https://i.imgur.com/DGQusQh.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>&#104;&#116;&#116;&#112;://&#098;&#105;&#116;&#046;&#108;&#121;/&#050;&#068;&#100;&#053;&#116;&#051;&#097;</externallink>
-</item>
-
-<item>
-<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR white] Fama ¡A Bailar![/COLOR][/B][B][COLOR lime][I] - Nuevo! Temporada 6[/I][/COLOR][/B]</title>
+<title>[B][COLOR greenyellow][ + ] [/COLOR][/B][B][COLOR white] Fama ¡A Bailar![/COLOR][/B][B][COLOR lime][I] - Nuevo! Temporada 6[/I][/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -324,7 +281,48 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/6gotE6N.jpg</fanart>
 </item>
 
+<item>
+<title>[B][COLOR deeppink][ + ] [COLOR deeppink] Proyeck[/COLOR][COLOR lime]Motors[/COLOR][/B]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.ProyeckMotors/</jsonrpc>
+<thumbnail>https://i.imgur.com/cVeLiM3.png</thumbnail>
+<fanart>https://i.imgur.com/XRCiH0O.jpg</fanart>
+</item>
 
+
+<item>
+<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR white] La Liga ( Resumenes ) [/B][/COLOR][B][COLOR lime][I]- Jornada 28[/I][/COLOR][/B]</title>
+<thumbnail>https://i.imgur.com/pk3X2wZ.png</thumbnail>
+<fanart>https://www.unievents360.com/wp-content/uploads/2016/12/la-liga.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>&#104;&#116;&#116;&#112;://&#098;&#105;&#116;&#046;&#108;&#121;/&#050;&#068;&#119;&#088;&#055;&#081;&#122;</externallink>
+</item>
+
+<item>
+<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR white] Zona Champions ( Resumenes ) [/B][/COLOR][B][COLOR lime][I]- Nueva Sección[/I][/COLOR][/B]</title>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2014/08/champions-league-logo.jpg</thumbnail>
+<fanart>http://as01.epimg.net/futbol/imagenes/2016/12/09/champions/1481308091_125984_1481308449_noticia_normal.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>&#104;&#116;&#116;&#112;://&#098;&#105;&#116;&#046;&#108;&#121;/&#050;&#070;&#090;&#082;&#082;&#086;&#065;</externallink>
+</item>
+
+<item>
+<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR white] Nba ( Resumenes ) [/B][/COLOR][COLOR lime][I] - Nuevo contenido!  [/I][/COLOR]</title>
+<thumbnail>http://a1933.phobos.apple.com/us/r30/Purple4/v4/12/bc/9b/12bc9bd1-f479-1125-95bd-20f83c53c579/mzl.edkriezg.256x256-75.png</thumbnail>
+<fanart>https://i.imgur.com/GFbc9Bp.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>&#104;&#116;&#116;&#112;://&#098;&#105;&#116;&#046;&#108;&#121;/&#050;&#111;&#114;&#120;&#065;&#082;&#068;</externallink>
+</item>
+
+
+
+<item>
+<title>[B][COLOR yellow][ + ] [/COLOR][/B][B][COLOR white] Dragon Ball Super ( Sub.Esp)[/COLOR][/B][B][COLOR lime][I] - Ultimo cap.129 [/I][/COLOR][/B]</title>
+<thumbnail>https://i.imgur.com/HmXfSgj.jpg</thumbnail>
+<fanart>https://i.imgur.com/DGQusQh.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>&#104;&#116;&#116;&#112;://&#098;&#105;&#116;&#046;&#108;&#121;/&#050;&#068;&#100;&#053;&#116;&#051;&#097;</externallink>
+</item>
 
 
 
