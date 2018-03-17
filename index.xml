@@ -9,6 +9,52 @@
 </item>
 
 <item>
+
+<title>[B][COLOR greenyellow]-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_[/COLOR][/B]</title>
+
+<link>http://ignorame</link>
+
+<thumbnail><thumbnail>
+
+<fanart></fanart>
+
+<externallink>http://bit.ly/Bypicapau$doregex[search]privado</externallink>
+
+</regex>
+
+ 
+
+<regex>
+
+<name>search</name>
+
+<expres><![CDATA[#$pyFunction
+
+import xbmc
+
+import xbmcaddon
+
+import xbmcgui
+
+def GetLSProData(page_data,Cookie_Jar,m):
+
+    dialog = xbmcgui.Dialog()
+
+    d = dialog.input('contraseña privada: pedir a jose', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+
+    return d
+
+]]></expres>
+
+<page></page>
+
+<cookieJar></cookieJar>
+
+</regex>
+
+ </item>
+
+<item>
 <title>[B][COLOR white][ + ] [/COLOR][COLOR yellow] Busca tu serie o peli [/COLOR][COLOR deeppink](...) [/COLOR][/B] </title>
 <link>$doregex[lista]</link>
  
@@ -359,16 +405,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignoreme</link>
 <externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#082;&#101;&#116;&#114;&#111;&#066;&#108;&#111;&#103;&#080;&#105;/&#077;&#097;&#103;&#105;&#099;&#080;&#105;/&#109;&#097;&#115;&#116;&#101;&#114;/&#099;&#097;&#110;&#097;&#108;&#101;&#115;&#046;&#120;&#109;&#108;</externallink>
 </item>
-
-
-<item>
-<title>[B][COLOR lime][ + ] [/COLOR][/B][B][COLOR yellow] Zona Privada[/COLOR][/B]</title>
-<link>NA</link>
-<externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#082;&#101;&#116;&#114;&#111;&#066;&#108;&#111;&#103;&#080;&#105;/&#077;&#097;&#103;&#105;&#099;&#080;&#105;/&#109;&#097;&#115;&#116;&#101;&#114;/&#101;&#110;&#099;&#114;&#121;&#112;&#116;&#046;&#120;&#109;&#108;$$&#076;&#083;&#080;&#114;&#111;&#069;&#110;&#099;&#075;&#101;&#121;=&#032;$$</externallink>
-<thumbnail>https://i.imgur.com/oTbu8ck.png</thumbnail>
-<fanart>https://i.imgur.com/92qo7XB.jpg</fanart>
-</item>
-
 
 
 
