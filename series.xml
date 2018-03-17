@@ -255,7 +255,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR pink][  ] - [/COLOR][/B][B][COLOR white] Deception [/COLOR][COLOR pink][I]- Streamcloud[/B][/I][/COLOR]</title>
+<title>[B][COLOR pink][  ] - [/COLOR][/B][B][COLOR white] Deception  [/COLOR][COLOR pink][I][/B][/I][/COLOR]</title>
 <link>ignorame</link>
 <fanart>https://image.tmdb.org/t/p/original/cMJc077XOR5I08ECNTEx7oL8jxm.jpg</fanart>
 <thumbnail>https://aflamnat.com/wp-content/uploads/2018/03/tt6461812.jpg</thumbnail>
@@ -263,7 +263,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Deception [/COLOR][/B]</title>
+<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Deception  [/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
