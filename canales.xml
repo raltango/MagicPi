@@ -5,25 +5,25 @@
 
 
 <item>
-		<title>[COLOR gold]..LA 1[/COLOR]</title>
+		<title>[B][COLOR gold]LA 1[/COLOR][/B]</title>
 		<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/tve1.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]LA 2[/COLOR]</title>
+		<title>[B][COLOR gold]LA 2[/COLOR][/B]</title>
 		<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/tve2.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]ANTENA 3[/COLOR]</title>
+		<title>[B][COLOR gold]ANTENA 3[/COLOR][/B]</title>
 		<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/antena3.png</thumbnail>
 	</item>
 	
 		<item>
-		<title>[COLOR gold]8 Mediterranea[/COLOR]</title>
+		<title>[B][COLOR gold]8 Mediterranea[/COLOR][/B]</title>
 		<link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live.smil/.m3u8</link>
 		<thumbnail>http://photocall.tv/images/la8m.png</thumbnail>
 	</item>
@@ -31,28 +31,28 @@
 
 
     <item>
-<title>[COLOR gold].CUATRO[/COLOR]</title>
+<title>[B][COLOR gold].CUATRO[/COLOR][/B]</title>
 <sportsdevil>http://vergol.com/live1/cuatro.php</sportsdevil>
 <referer>http://vercanalestv.com/tv/nacionales/cuatro.html</referer>
 <thumbnail>https://mdsrwdassets-a.akamaihd.net//parrillas/2017/03/30/ad652ff9bd30eadc5cea3ef2f24e12571490869627.jpg</thumbnail>
     </item>
 		
 <item>
-<title>[COLOR gold]TELECINCO[/COLOR]</title>
+<title>[B][COLOR gold]TELECINCO[/COLOR][/B]</title>
 <sportsdevil>http://livesports.pw/embedn.php?file=telecinco&width=650&height=397</sportsdevil>
 <referer>http://verplusonline.com/ver-tele-5-online-y-en-directo-las-24h-en-vivo-y-gratis/</referer>
 <thumbnail>http://cinestrenostv.tv/img/telecinco.png</thumbnail>
 	</item>
 	
 	<item>
-<title>[COLOR gold]TELECINCO CORREGIDO[/COLOR]</title>
+<title>[B][COLOR gold]TELECINCO CORREGIDO[/COLOR][/B]</title>
 <sportsdevil>http://vergol.com/live1/telecinco.php</sportsdevil>
 <referer>http://www.vercanalestv.com/ver-telecinco-online-y-directo-gratis-fuera-de-espana/</referer>
 <thumbnail>http://cinestrenostv.tv/img/telecinco.png</thumbnail>
 	</item>
 	
 	 <item>
-        <title>[COLOR gold]TELECINCO OPCION 3[/COLOR]</title>
+        <title>[B][COLOR gold]TELECINCO OPCION 3[/COLOR][/B]</title>
         <link>http://peto21.pedromo.online/live/telecinco/index.m3u8?token=a9E5YHPz8GEDlxtTXYYiyQ&expires=1510353881</link>
         <thumbnail>http://cinestrenostv.tv/img/telecinco.png</thumbnail>
     </item>
@@ -62,46 +62,46 @@
 
 	
     <item>
-        <title>[COLOR gold]LA SEXTA[/COLOR]</title>
+        <title>[B][COLOR gold]LA SEXTA[/COLOR][/B]</title>
         <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
         <thumbnail>http://cinestrenostv.tv/img/sexta.png</thumbnail>
     </item>
 	
 	<item>
-		<title>[COLOR gold]DIVINITY.[/COLOR]</title>
+		<title>[B][COLOR gold]DIVINITY.[/COLOR][/B]</title>
 		<link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/IybDNyYTE6j7PZaKerX9iKFSCuctjf5B/cn/95d3fccb2d6f4ad6b09d23e7c67d3acf_3.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/divinity.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]DIVINITY CORREGIDO[/COLOR]</title>
+		<title>[B][COLOR gold]DIVINITY CORREGIDO[/COLOR][/B]</title>
 		 <sportsdevil>http://vergol.com/live/divinity.php</sportsdevil>
         <referer>http://www.vercanalestv.com/ver-divinity-en-directo-y-online-las-24h/</referer>
 	<thumbnail>http://cinestrenostv.tv/img/divinity.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]CANAL GRAN HERMANO 24[/COLOR]</title>
+		<title>[B][COLOR gold]CANAL GRAN HERMANO 24[/COLOR][/B]</title>
 		<link>http://mediasetooyala-lh.akamaihd.net/i/reality_model4_geo_delivery@458346/index_2500_av-b.m3u8</link>
         <thumbnail></thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]ENERGY[/COLOR]</title>
+		<title>[B][COLOR gold]ENERGY[/COLOR][/B]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=energy&width=650&height=397</sportsdevil>
 		<referer>http://verplusonline.com/energy/</referer>
 		<thumbnail>http://cinestrenostv.tv/img/energy.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]FDF[/COLOR]</title>
+		<title>[B][COLOR gold]FDF[/COLOR][/B]</title>
 		<sportsdevil>http://vergol.com/live/fdf.php</sportsdevil>
 <referer>http://www.vercanalestv.com/ver-fdf-en-directo-gratis-on-line-24-horas-en-vivo/</referer>
 		<thumbnail>http://cinestrenostv.tv/img/fdf.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]DISCOVERY MAX[/COLOR]</title>
+		<title>[B][COLOR gold]DISCOVERY MAX[/COLOR][/B]</title>
 		<sportsdevil>http://cinestrenostv.tv/canales/documentales/discoverymax.php</sportsdevil>
 		<referer>http://cinestrenostv.tv/canales/envivo/max.html</referer>
 		<thumbnail>http://cinestrenostv.tv/img/fdf.png</thumbnail>
@@ -109,25 +109,25 @@
 	
 	
 	<item>
-		<title>[COLOR gold]NOVA[/COLOR]</title>
+		<title>[B][COLOR gold]NOVA[/COLOR][/B]</title>
 		<link>http://a3live-lh.akamaihd.net/i/geonova_1@379404/master.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/nova.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]NEOX[/COLOR]</title>
+		<title>[B][COLOR gold]NEOX[/COLOR][/B]</title>
 		<link>http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/master.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/neox.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]A3SERIES[/COLOR]</title>
+		<title>[B][COLOR gold]A3SERIES[/COLOR][/B]</title>
 		<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
 	<thumbnail>http://laguiatv.abc.es/Media/201511/10/atreseries-logo--644x362.jpg</thumbnail>
 	</item>
 	
 			item>
-		<title>[COLOR gold]TEN-off[/COLOR]</title>
+		<title>[B][COLOR gold]TEN-off[/COLOR][/B]</title>
 		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/ten.php</sportsdevil>
 		<referer>http://cinestrenostv.tv/</referer>
 	<thumbnail>http://cinestrenostv.tv/img/ten.png</thumbnail>
@@ -137,25 +137,25 @@
 	
 	
 	item>
-		<title>[COLOR gold]DKISS-[/COLOR]</title>
+		<title>[B][COLOR gold]DKISS-[/COLOR][/B]</title>
 		<link></link>
 		<thumbnail>http://cinestrenostv.tv/img/dkiss.png</thumbnail>
 	</item>
 	
 	item>
-		<title>[COLOR gold]BE MAD-off[/COLOR]</title>
+		<title>[B][COLOR gold]BE MAD-off[/COLOR][/B]</title>
 		<link>http://mediasethls-lh.akamaihd.net/i/mitele/bemad_g@320708/index_500_av-p.m3u8</link>
 		<thumbnail>http://cinestrenostv.tv/img/bemad.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]MEGA[/COLOR]</title>
+		<title>[B][COLOR gold]MEGA[/COLOR][/B]</title>
 		<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
 	<thumbnail>http://cinestrenostv.tv/img/mega.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]24H[/COLOR]</title>
+		<title>[B][COLOR gold]24H[/COLOR][/B]</title>
 		<link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-p.m3u8?sd=10&rebase=on</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2000px-Logo_TVE-24h.svg.png</thumbnail>
 	</item>
@@ -164,113 +164,113 @@
 	
 
 	<item>
-		<title>[COLOR gold]BOING[/COLOR]</title>
+		<title>[B][COLOR gold]BOING[/COLOR][/B]</title>
 		<link>http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZvOXRpODE6c__EQ05epWGBX6530x-EhS/cn/ddf752ff80af43709eabdf84e1d65366_1.m3u8</link>
 	<thumbnail>http://www.boing.es/sites/boinges/themes/boing_theme/logo-es.png</thumbnail>
 	</item>
 	
 	item>
-		<title>[COLOR gold]CLAN TVE[/COLOR]</title>
+		<title>[B][COLOR gold]CLAN TVE[/COLOR][/B]</title>
 		<link>http://edge15.livesports.pw/live/verclan12857b2fcd59414ea6/index.m3u8</link>
 	<thumbnail></thumbnail>
 	</item>
 
 	
 	<item>
-		<title>[COLOR gold]TELEMADRID[/COLOR]</title>
+		<title>[B][COLOR gold]TELEMADRID[/COLOR][/B]</title>
 		<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
 	<thumbnail>http://cinestrenostv.tv/img/telemadrid.png</thumbnail>
 	</item>	
 
 	<item>
-		<title>[COLOR gold]LAOTRA[/COLOR]</title>
+		<title>[B][COLOR gold]LAOTRA[/COLOR][/B]</title>
 		<link>http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8?SAT_TOTAL</link>
 	<thumbnail></thumbnail>
 	</item>	
 	
 		<item>
-		<title>[COLOR gold]CASTILLA LA MANCHA[/COLOR]</title>
+		<title>[B][COLOR gold]CASTILLA LA MANCHA[/COLOR][/B]</title>
 		<link>http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8</link>
 	<thumbnail>http://www.brandemia.org/sites/default/files/sites/default/files/logo_cm_antes.jpg</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]CASTILLA Y LEON[/COLOR]</title>
+		<title>[B][COLOR gold]CASTILLA Y LEON[/COLOR][/B]</title>
 		<link>http://cdn.s4.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/master.m3u8</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Grupo_Castilla_y_Le%C3%B3n_Televisi%C3%B3n.svg/305px-Logo_Grupo_Castilla_y_Le%C3%B3n_Televisi%C3%B3n.svg.png</thumbnail>
 	</item>	
 	
 	<item>
-		<title>[COLOR gold]8 TV[/COLOR]</title>
+		<title>[B][COLOR gold]8 TV[/COLOR][/B]</title>
 		<link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8</link>
 	<thumbnail>http://media.tvalacarta.info/canales/256x256/ochotv.png</thumbnail>
 	</item>		
 
 	<item>
-		<title>[COLOR gold]13TV[/COLOR]</title>
+		<title>[B][COLOR gold]13TV[/COLOR][/B]</title>
 		<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
 	<thumbnail>http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/3d9b2446cf61598e01b296c7b6b8a7ad_XL.jpg</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]CANAL EXTREMADURA[/COLOR]</title>
+		<title>[B][COLOR gold]CANAL EXTREMADURA[/COLOR][/B]</title>
 		<link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8</link>
 	<thumbnail>https://www.diariodeberrocalejo.es/index_htm_files/canalextremadura.jpg</thumbnail>
 	</item>		
 
 	<item>
-		<title>[COLOR gold]CANAL SUR[/COLOR]</title>
+		<title>[B][COLOR gold]CANAL SUR[/COLOR][/B]</title>
 		<sportsdevil>http://ct.ligatus.com/css/p9403-c7677-1498642823.php</sportsdevil>
 		<referer>http://www.canalsur.es/tv_directo-1193.html</referer>
 	<thumbnail>http://s.libertaddigital.com/fotos/noticias/canalsur-mjg.jpg</thumbnail>
 	</item>
 
 	<item>
-<title>[COLOR gold]CANAL SUR[/COLOR]</title>
+<title>[B][COLOR gold]CANAL SUR[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MtCY1q7mzF8</link>
 <thumbnail>http://s.libertaddigital.com/fotos/noticias/canalsur-mjg.jpg</thumbnail>
 </item>
 	
 	
 	<item>
-		<title>[COLOR gold]GALICIA TV[/COLOR]</title>
+		<title>[B][COLOR gold]GALICIA TV[/COLOR][/B]</title>
 		<link>http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8</link>
 	<thumbnail>http://photos1.blogger.com/blogger/3125/3533/1600/Logo%20TVG.jpg</thumbnail>
 	</item>
 
 	<item>
-		<title>[COLOR gold]ETB[/COLOR]</title>
+		<title>[B][COLOR gold]ETB[/COLOR][/B]</title>
 		<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
 	<thumbnail>https://i.blogs.es/fe1e17/etb2/original.jpg</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]TV3[/COLOR]</title>
+		<title>[B][COLOR gold]TV3[/COLOR][/B]</title>
 		<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
 	<thumbnail>https://osgarmar.files.wordpress.com/2012/03/images21.jpg</thumbnail>
 	</item>	
 
 	<item>
-		<title>[COLOR gold]3/24[/COLOR]</title>
+		<title>[B][COLOR gold]3/24[/COLOR][/B]</title>
 		<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8</link>
 	<thumbnail>http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg</thumbnail>
 	</item>
 
 
 	<item>
-		<title>[COLOR gold]ARAGON TV[/COLOR]</title>
+		<title>[B][COLOR gold]ARAGON TV[/COLOR][/B]</title>
 		<link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
 	<thumbnail>https://yt3.ggpht.com/-5O9sh0HrJP4/AAAAAAAAAAI/AAAAAAAAAAA/1o4lLkhqYI0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 	</item>	
 
 	<item>
-		<title>[COLOR gold]TPA[/COLOR]</title>
+		<title>[B][COLOR gold]TPA[/COLOR][/B]</title>
 		<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
 	<thumbnail>https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAArOAAAAJGUyMGFhMmI1LWIzYjUtNDIzZC1hYjZmLWJiNTljZWUzOTg0Zg.png</thumbnail>
 	</item>	
 	
 	<item>
-		<title>[COLOR gold]TV CANARIA[/COLOR]</title>
+		<title>[B][COLOR gold]TV CANARIA[/COLOR][/B]</title>
 		<link>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w1256186728_b480000_sles.m3u8</link>
 	<thumbnail>http://1.bp.blogspot.com/_VvLoQXtu9Mg/SM66SU6zpRI/AAAAAAAAA5U/iXuw3YFQ6Q8/s400/tv_canaria.jpg</thumbnail>
 	</item>	
@@ -279,21 +279,21 @@
 
 
 <item>
-		<title>[COLOR gold]GOL[/COLOR]</title>
+		<title>[B][COLOR gold]GOL[/COLOR][/B]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=goltvesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/goltv</referer>
 	<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
 	</item>
 	
 	<item>
-		<title>[COLOR gold]TELEDEPORTE[/COLOR]</title>
+		<title>[B][COLOR gold]TELEDEPORTE[/COLOR][/B]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/deporte/teledeporte</referer>
 	<thumbnail>http://cinestrenostv.tv/img/teledeporte.png</thumbnail>
 	</item>
 	
 		<item>
-		<title>[COLOR gold]R.MADRID TV[/COLOR]</title>
+		<title>[B][COLOR gold]R.MADRID TV[/COLOR][/B]</title>
 		<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
 	<thumbnail>http://cinestrenostv.tv/img/realmadrid.png</thumbnail>
 	</item>
@@ -301,7 +301,7 @@
 			
 	
 	<item>
-		<title>[COLOR gold]BARCA TV[/COLOR]</title>
+		<title>[B][COLOR gold]BARCA TV[/COLOR][/B]</title>
 		 <sportsdevil>http://vergol.com/live/barca.php</sportsdevil>
         <referer>http://www.vercanalestv.com/ver-barca-tv-en-directo-y-online/</referer>
 	<thumbnail>http://cinestrenostv.tv/img/barcatv.png</thumbnail>
