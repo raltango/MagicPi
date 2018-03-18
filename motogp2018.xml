@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
+ 
 
+
+ 
+ ----------------------------------------------------
+ 
+ 
  
 <item>
     <title>[B][COLOR red][01] :[/COLOR][COLOR greenyellow] Gran Premio Qatar Losail [/COLOR][/B]</title>
@@ -18,11 +24,11 @@
 </item>
  
  
- <item>
-    <title>[B][COLOR white]  - MotoGP[/B][/COLOR]</title>
-    <multilink>
-        <link>$$lsname=[B][COLOR red] NO DISPONIBLE AUN[/COLOR][/B]</link>
-        <link>$doregex[getUrl]$$lsname=[B][COLOR lime] NO DISPONIBLE AUN[/COLOR][/B]</link>
+<item>
+<title>[B][COLOR yellow]  - MotoGP[/B][/COLOR]</title>
+<multilink>
+<link>https://archive.org/download/MotoGP.2018.Qatar.Carrera.HDTV.720p.Movistar.EventosHQ/MotoGP.2018.Qatar.Carrera.HDTV.720p.Movistar.EventosHQ.mp4$$lsname=[B][COLOR royalblue] Opcion 1[/COLOR][/B]</link>
+<link>$doregex[getUrl]$$lsname=[B][COLOR lime] Opcion 2[/COLOR][/B]</link>
  
 <regex>
 <name>getUrl</name>
@@ -31,7 +37,7 @@ import re , requests ,json
 def GetLSProData(page_data,Cookie_Jar,m):
  
  ref = 'http://kbagi.com/'
- url=''
+ url='http://kbagi.com/Josele89/motor-618870/motogp-2018-qatar-carrera-hdtv-720p-movistar-eventoshq,5735303,list,1,1.mp4'
  headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
             'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
  session = requests.Session()
@@ -58,16 +64,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-    </multilink>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
- </item>
+</multilink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
  
-  <item>
-    <title>[B][COLOR white]  - Moto2[/B][/COLOR]</title>
-    <multilink>
-        <link>$$lsname=[B][COLOR red] NO DISPONIBLE AUN[/COLOR][/B]</link>
-        <link>$doregex[getUrl]$$lsname=[B][COLOR lime] Opcion 2[/COLOR][/B]</link>
+<item>
+<title>[B][COLOR yellow]  - Moto2[/B][/COLOR]</title>
+<link>$doregex[getUrl]</link>
  
 <regex>
 <name>getUrl</name>
@@ -103,16 +107,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-    </multilink>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
- </item>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
  
-  <item>
-    <title>[B][COLOR white]  - Moto3[/B][/COLOR]</title>
-    <multilink>
-        <link>$$lsname=[B][COLOR red] NO DISPONIBLE AUN[/COLOR][/B]</link>
-        <link>$doregex[getUrl]$$lsname=[B][COLOR lime] Opcion 2[/COLOR][/B]</link>
+<item>
+<title>[B][COLOR yellow]  - Moto3[/B][/COLOR]</title>
+<link>$doregex[getUrl]</link>
  
 <regex>
 <name>getUrl</name>
@@ -148,10 +149,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-    </multilink>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
- </item>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
  
  
 <item>
@@ -355,3 +355,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
     <thumbnail></thumbnail>
     <fanart></fanart>
  </item>
+ 
+ 
+ 
