@@ -71,7 +71,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>[B][COLOR yellow]  - Moto2[/B][/COLOR]</title>
-<link>$doregex[getUrl]</link>
+<multilink>
+<link>https://archive.org/download/Moto.2.2018.Qatar.Carrera.HDTV.720p.Movistar.EventosHQ/Moto.2.2018.Qatar.Carrera.HDTV.720p.Movistar.EventosHQ.mp4$$lsname=[B][COLOR royalblue] Opcion 1[/COLOR][/B]</link>
+<link>$doregex[getUrl]$$lsname=[B][COLOR lime] Opcion 2[/COLOR][/B]</link>
  
 <regex>
 <name>getUrl</name>
@@ -107,13 +109,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
+</multilink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
 <title>[B][COLOR yellow]  - Moto3[/B][/COLOR]</title>
-<link>$doregex[getUrl]</link>
+<multilink>
+<link>https://archive.org/download/Moto.3.2018.Qatar.Carrera.HDTV.720p.Movistar.EventosHQ/Moto.3.2018.Qatar.Carrera.HDTV.720p.Movistar.EventosHQ.mp4$$lsname=[B][COLOR royalblue] Opcion 1[/COLOR][/B]</link>
+<link>$doregex[getUrl]$$lsname=[B][COLOR lime] Opcion 2[/COLOR][/B]</link>
  
 <regex>
 <name>getUrl</name>
@@ -149,6 +154,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
+</multilink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
