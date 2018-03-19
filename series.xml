@@ -733,6 +733,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>[B][COLOR royalblue][  ] - [/COLOR][/B][B][COLOR white] Compañeros [/COLOR][COLOR royalblue][I]- F4mTester[/B][/I][/COLOR]</title>
+<link>ignorame</link>
+<thumbnail>http://www.atresplayer.com/clipping/2013/06/28/00743/705.jpg</thumbnail>
+<fanart>http://www.atresplayer.com/clipping/2013/06/28/00743/705.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/com.xml</externallink>
+</item>
+
+<item>
 <title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Compañeros[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -740,8 +748,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <listrepeat><![CDATA[
 <title>[makelist.param3]</title>
 <link>$doregex[getUrl]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://www.atresplayer.com/clipping/2013/06/28/00743/705.jpg</fanart>
+<thumbnail>http://www.atresplayer.com/clipping/2013/06/28/00743/705.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/jorge-garcia-luis/companeros-92054/list,1,6</page>
