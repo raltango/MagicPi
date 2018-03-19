@@ -275,6 +275,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>[B][COLOR greenyellow][ + ] [/COLOR][/B][B][COLOR white] El Club de la Comedia [/COLOR][COLOR royalblue][I]- F4mTester[/B][/I][/COLOR]</title>
+<link>ignorame</link>
+<thumbnail>http://www.atresplayer.com/clipping/2016/11/05/01228/705.jpg</thumbnail>
+<fanart>http://www.atresplayer.com/clipping/2016/11/05/01228/705.jpg</fanart>
+<externallink>&#104;&#116;&#116;&#112;://&#098;&#105;&#116;&#046;&#108;&#121;/&#050;&#070;&#075;&#110;&#074;&#066;&#084;</externallink>
+</item>
+
+<item>
 <title>[B][COLOR greenyellow][ + ] [/COLOR][/B][B][COLOR white] Fama ¡A Bailar![/COLOR][/B][B][COLOR lime][I] - Nuevo! Temporada 6[/I][/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
  
