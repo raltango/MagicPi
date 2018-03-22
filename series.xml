@@ -336,7 +336,7 @@ Elenco: Jack Cutmore-Scott, Ilfenesh Hadera, Lenora Crichlow, Amaury Nolasco, Ju
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR white]+-  [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
+        <title>[B][COLOR white]*  [/COLOR][COLOR yellow][makelist.param2][/COLOR][/B]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://www.atresplayer.com/clipping/2018/02/28/00009/705.jpg</thumbnail>
         <fanart>http://www.atresplayer.com/clipping/2018/02/28/00009/705.jpg</fanart>
