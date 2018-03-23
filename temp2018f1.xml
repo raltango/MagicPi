@@ -2,7 +2,75 @@
 
 
 <item>
-    <title>[B][COLOR red][01][/COLOR][COLOR white] Gran Premio Australia[/COLOR][COLOR greenyellow] - Merlbourne[/COLOR][/B] </title>
+<title>[B][COLOR yellow][  ] [/COLOR][/B][B][COLOR white] Instalate la ultima versión de SportDevil Aquí[  ] [/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil</jsonrpc>
+<thumbnail>https://www.kodivpn.co/wp-content/uploads/2017/05/sportsdevil_kodi.png</thumbnail>
+<fanart>https://how-to.watch/wp-content/uploads/2018/02/install-sports-devil-kodi-Addons.png</fanart>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision2018.tk/40?iusxkasjukxaszxc</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>[COLOR greenyellow]F1 - (ArenaVision.in)[/COLOR][COLOR yellow] Solo Evento[/COLOR][COLOR red] [ESP][/COLOR]</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision2018.tk/39?iusxkasjukxaszxc</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>[COLOR greenyellow]F1 - (ArenaVision.in)[/COLOR][COLOR yellow] Solo Evento[/COLOR][COLOR red] [ESP2][/COLOR]</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision2018.tk/22?sayjhasukjbsac</page>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>[COLOR greenyellow]F1 - (ArenaVision.in)[/COLOR][COLOR yellow] Solo Evento[/COLOR][COLOR red] [ENG][/COLOR]</title>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow][B][I]Canal F1[/I][/B][/COLOR][B][COLOR greenyellow] - En Directo![/COLOR][/B]</title>
+<link>$doregex[GetPageUrl]|Referer=http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/formula1.php</page>
+<referer>http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/3oivrMQ.jpg</thumbnail>
+</item>
+
+
+<item>
+	<title>[COLOR yellow][B][I]F1[/I][/B][/COLOR][B][COLOR greenyellow] - En Directo! opción 2[/COLOR][/B]</title>
+	<link>http://orangesports.win/hls/stream4.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+
+-------------------------------------------------
+
+<item>
+    <title>[B][COLOR greenyellow][01][/COLOR][COLOR white] Gran Premio Australia[/COLOR][COLOR greenyellow] - Merlbourne[/COLOR][/B] </title>
     <link>http://ignorame</link>
     <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
     <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
@@ -10,33 +78,62 @@
  
  
 <item>
-    <title>[B]   [COLOR greenyellow] - Libres[/COLOR][/B] </title>
-    <multilink>
-        <link>http://</link>
-        <link>http://</link>
-    </multilink>
+    <title>[B]   [COLOR greenyellow] - Libres1[/COLOR][COLOR white][/COLOR][/B] </title>
+	<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/formula-1-gp-australia-2018-libres-1-movf1-hdtv-720p-eventoshq,2086775,list,1,1.mp4</link>
     <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
     <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/formula-1-gp-australia-2018-libres-1-movf1-hdtv-720p-eventoshq,2086775,list,1,1.mp4'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=2086775', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
+<fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
 </item>
- 
- 
+
 <item>
-    <title>[B]   [COLOR greenyellow] - Clasificación[/COLOR][/B] </title>
-    <multilink>
-        <link>http://</link>
-        <link>http://</link>
-    </multilink>
+    <title>[B]   [COLOR greenyellow] - Libres2[/COLOR][COLOR white][/COLOR][/B] </title>
+	<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/formula-1-gp-australia-2018-libres-2-movf1-hdtv-720p-eventoshq,2089114,list,1,1.mp4</link>
     <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
     <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests 
+def GetLSProData(page_data,Cookie_Jar,m):
+ url='http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/formula-1-gp-australia-2018-libres-2-movf1-hdtv-720p-eventoshq,2089114,list,1,1.mp4'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
+ r = requests.get(url, headers=headers).text
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
+ #print data_a
+ ref = url
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=2089114', headers=headers, data=data_a).text
+ movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
+ print movie 
+ return movie 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
+<fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
 </item>
+
  
  
-<item>
-    <title>[B]   [COLOR greenyellow] - Carrera[/COLOR][/B] </title>
-    <multilink>
-        <link>http://</link>
-        <link>http://</link>
-    </multilink>
-    <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
-    <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
-</item>
