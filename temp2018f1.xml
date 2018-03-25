@@ -13,7 +13,7 @@
 </item>
 
 <item>
-    <title>[B][I]   [COLOR greenyellow] - Carrera[/COLOR][COLOR deeppink] - [720p][/COLOR][/B][/I] </title>
+    <title>[B][I]   [COLOR greenyellow] - Carrera[/COLOR][/I][COLOR deeppink] - [720p][/COLOR][/B] </title>
 	<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/formula-1-gp-australia-2018-carrera-movf1-hdtv-720p-eventoshq,2097098,list,1,1.mp4</link>
     <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
     <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
@@ -42,14 +42,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][I]   [COLOR greenyellow] - Carrera[/COLOR][COLOR deeppink] - [SD][/COLOR][/B][/I] </title>
+<title>[B][I]   [COLOR greenyellow] - Carrera[/COLOR][/I][COLOR deeppink] - [SD][/COLOR][/B] </title>
 <urlsolve>http://streamcloud.eu/9o5pejekcpal</urlsolve>
 <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
 <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
 </item>
 
 <item>
-    <title>[B][I]   [COLOR greenyellow] - Clasificación[/COLOR][COLOR deeppink] - [720p][/COLOR][/B][/I] </title>
+    <title>[B][I]   [COLOR greenyellow] - Clasificación[/COLOR][/I][COLOR deeppink] - [720p][/COLOR][/B] </title>
 	<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/formula-1-gp-australia-2018-pole-movf1-hdtv-720p-eventoshq,2094055,list,1,1.mp4</link>
     <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
     <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
@@ -80,7 +80,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][I]   [COLOR greenyellow] - Clasificación[/COLOR][COLOR deeppink] - [SD][/COLOR][/B][/I] </title>
+<title>[B][I]   [COLOR greenyellow] - Clasificación[/COLOR][/I][COLOR deeppink] - [SD][/COLOR][/B] </title>
 <urlsolve>http://streamcloud.eu/iroau3w2su0e</urlsolve>
 <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
 <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
@@ -89,7 +89,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <item>
-<title>[B][I]   [COLOR greenyellow] - Libres3[/COLOR][COLOR deeppink] - [SD][/COLOR][/B][/I] </title>
+<title>[B][I]   [COLOR greenyellow] - Libres3[/COLOR][/I][COLOR deeppink] - [SD][/COLOR][/B] </title>
 <urlsolve>http://streamcloud.eu/zbce8k3d5got</urlsolve>
 <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
 <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
@@ -97,7 +97,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-    <title>[B][I]   [COLOR greenyellow] - Libres2[/COLOR][COLOR deeppink] - [720p][/COLOR][/B][/I] </title>
+    <title>[B][I]   [COLOR greenyellow] - Libres2[/COLOR][/I][COLOR deeppink] - [720p][/COLOR][/B] </title>
 	<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/formula-1-gp-australia-2018-libres-2-movf1-hdtv-720p-eventoshq,2089114,list,1,1.mp4</link>
     <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
     <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
@@ -126,7 +126,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][I]   [COLOR greenyellow] - Libres2[/COLOR][COLOR deeppink] - [SD][/COLOR][/B][/I] </title>
+<title>[B][I]   [COLOR greenyellow] - Libres2[/COLOR][/I][COLOR deeppink] - [SD][/COLOR][/B]</title>
 <urlsolve>http://streamcloud.eu/ljuchucyeuan</urlsolve>
 <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
 <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
@@ -136,7 +136,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-    <title>[B][I]   [COLOR greenyellow] - Libres1[/COLOR][COLOR deeppink] - [720p][/COLOR][/B][/I] </title>
+    <title>[B][I]   [COLOR greenyellow] - Libres1[/COLOR][/I][COLOR deeppink] - [720p][/COLOR][/B] </title>
 	<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/formula-1-gp-australia-2018-libres-1-movf1-hdtv-720p-eventoshq,2086775,list,1,1.mp4</link>
     <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
     <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
@@ -165,7 +165,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][I]   [COLOR greenyellow] - Libres1[/COLOR][COLOR deeppink] - [SD][/COLOR][/B][/I] </title>
+<title>[B][I]   [COLOR greenyellow] - Libres1[/COLOR][/I][COLOR deeppink] - [SD][/COLOR][/B] </title>
 <urlsolve>http://streamcloud.eu/q1nr72w9var9</urlsolve>
 <thumbnail>https://i.imgur.com/q3IeJGF.png</thumbnail>
 <fanart>https://www.australia-grand-prix.com/img/events/circuit/2381.jpg</fanart>
