@@ -396,7 +396,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
         <fanart>https://i.ytimg.com/vi/A3nJg8nUMT4/maxresdefault.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://kbagi.com/Josele89/farina-634961/list,1,1</page>
+<page>http://kbagi.com/Josele89/traicion-640329/list,1,1</page>
 <cookieJar></cookieJar>
 </regex>
  
