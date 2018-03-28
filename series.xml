@@ -80,32 +80,54 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Aida[/COLOR][/B]</title>
+<title>[B][COLOR red][  ] - [/COLOR][/B][B][COLOR white] Aida[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[getUrl]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]+- [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
 ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/jorge-garcia-luis/aida-89773/list,1,10</page>
 <cookieJar></cookieJar>
 </regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
+ 
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ ref = 'http://diskokosmiko.mx/'
+ url='http://diskokosmiko.mx[makelist.param1]'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+ 
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'josele89' , 'Password' : 'josele89'}
+ nr1 = requests.post('http://diskokosmiko.mx/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
 <cookieJar></cookieJar>
 </regex>
-<regex>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
@@ -766,29 +788,52 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Manos a La Obra[/COLOR][/B]</title>
+<title>[B][COLOR red][  ] - [/COLOR][/B][B][COLOR white] Manos a La Obra[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[getUrl]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]+- [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
 ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/jorge-garcia-luis/manos-a-la-obra-81412/list,1,6</page>
 <cookieJar></cookieJar>
 </regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
+ 
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ ref = 'http://diskokosmiko.mx/'
+ url='http://diskokosmiko.mx[makelist.param1]'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+ 
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'josele89' , 'Password' : 'josele89'}
+ nr1 = requests.post('http://diskokosmiko.mx/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -812,32 +857,54 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Compañeros[/COLOR][/B]</title>
+<title>[B][COLOR red][  ] - [/COLOR][/B][B][COLOR white] Compañeros[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[getUrl]</link>
-<fanart>http://www.atresplayer.com/clipping/2013/06/28/00743/705.jpg</fanart>
-<thumbnail>http://www.atresplayer.com/clipping/2013/06/28/00743/705.jpg</thumbnail>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]+- [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
 ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/jorge-garcia-luis/companeros-92054/list,1,6</page>
 <cookieJar></cookieJar>
 </regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
+ 
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ ref = 'http://diskokosmiko.mx/'
+ url='http://diskokosmiko.mx[makelist.param1]'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+ 
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'josele89' , 'Password' : 'josele89'}
+ nr1 = requests.post('http://diskokosmiko.mx/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
 <cookieJar></cookieJar>
 </regex>
-<regex>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
@@ -962,37 +1029,52 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] El Chiringuito de Pepe[/COLOR][/B]</title>
+<title>[B][COLOR red][  ] - [/COLOR][/B][B][COLOR white] El Chiringuito de Pepe[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[getUrl]</link>
-<fanart>https://imagizer.prod.carbyne.ps.ooyala.com/1800x635/https://s3-eu-west-1.amazonaws.com/ingest-mediaset-production.carbyne.ps.ooyala.com/x37cvs8dq8b8_masthead-el-chiringuito-de-pepe.jpg</fanart>
-<thumbnail>http://www.formulatv.com/images/series/posters/800/833/1_m3.jpg</thumbnail>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]+- [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
 ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/jorge-garcia-luis/el-chiringuito-de-pepe-78247/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/jorge-garcia-luis/el-chiringuito-de-pepe-78247/list,1,2</referer>
-<connection>keep-alive</connection>
+ 
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ ref = 'http://diskokosmiko.mx/'
+ url='http://diskokosmiko.mx[makelist.param1]'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+ 
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'josele89' , 'Password' : 'josele89'}
+ nr1 = requests.post('http://diskokosmiko.mx/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://www.formulatv.com/images/series/posters/800/833/1_m3.jpg</thumbnail>
@@ -1010,29 +1092,54 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR orange][  ] - [/COLOR][/B][B][COLOR white] Impares[/COLOR][/B]</title>
+<title>[B][COLOR red][  ] - [/COLOR][/B][B][COLOR white] Impares[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
+<link>$doregex[makelist]</link>
+ 
 <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[getUrl]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]+- [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
 ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/jorge-garcia-luis/impares-premium-86412/list,1,1</page>
 <cookieJar></cookieJar>
 </regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
+ 
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ ref = 'http://diskokosmiko.mx/'
+ url='http://diskokosmiko.mx[makelist.param1]'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+ 
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'josele89' , 'Password' : 'josele89'}
+ nr1 = requests.post('http://diskokosmiko.mx/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
