@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision2018.tk/01?wiuhkascohln</page>
+<referer>http://www.arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</thumbnail>
+<title>[B][COLOR orange]* [/COLOR][/B][B][COLOR springgreen] Sevilla - F.C.Barcelona  - En Directo! [/B][/COLOR]</title>
+</item>
 
 <item>
 <title>[B][COLOR yellow]----------------- Jornada 29 (NUEVO) -----------------[/COLOR][/B]</title>
