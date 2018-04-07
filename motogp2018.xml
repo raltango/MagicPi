@@ -6,12 +6,12 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision2018.tk/23?saikasxukjnasx</page>
+<page>http://arenavision2018.tk/08?dsaxcwedassczx</page>
 <referer>http://arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
-<title>[B][COLOR greenyellow]MotoGP - (ArenaVision.in)[/COLOR][COLOR yellow] Solo Evento[/COLOR][COLOR deeppink] [ENG][OP.1][/COLOR][/B]</title>
+<title>[B][COLOR greenyellow]MotoGP - [/COLOR][COLOR yellow] Solo Evento[/COLOR][COLOR deeppink] [POR][OP.1][/COLOR][/B]</title>
 </item>
 
 <item>
@@ -19,12 +19,12 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision2018.tk/24?hajsxyugwascxz</page>
+<page>http://arenavision2018.tk/09?sacasdcaws</page>
 <referer>http://arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
-<title>[B][COLOR greenyellow]F1 - (ArenaVision.in)[/COLOR][COLOR yellow] Solo Evento[/COLOR][COLOR deeppink] [ENG][OP.2][/COLOR][/B]</title>
+<title>[B][COLOR greenyellow]MotoGP - [/COLOR][COLOR yellow] Solo Evento[/COLOR][COLOR deeppink] [POR][OP.2][/COLOR][/B]</title>
 </item>
 
 <item>
@@ -32,17 +32,76 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision2018.tk/21?dajhbaduchjwas</page>
+<page>http://arenavision2018.tk/38?iusxkasjukxaszxc</page>
 <referer>http://arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
 https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
-<title>[B][COLOR greenyellow]F1 - (ArenaVision.in)[/COLOR][COLOR yellow] Solo Evento[/COLOR][COLOR deeppink] [ENG][OP.3][/COLOR][/B]</title>
+<title>[B][COLOR greenyellow]MotoGP - [/COLOR][COLOR yellow] Solo Evento[/COLOR][COLOR deeppink] [ENG][OP.3][/COLOR][/B]</title>
 </item>
 
  
  ----------------------------------------------------
  
+
+<item>
+    <title>[B][COLOR red][02] :[/COLOR][COLOR greenyellow] Gran Premio Argentina [/COLOR][/B]</title>
+    <link>http://ignorame</link>
+    <thumbnail>http://gpmalaysia.com/v1/wp-content/uploads/2015/04/2015-MotoGP-Argentina-GP-logo.png</thumbnail>
+    <fanart>http://blog.racc.es/wp-content/uploads/2014/04/motogp-argentina-20141.png</fanart>
+</item>
+ 
+ 
+<item>
+<title>  [B][I][COLOR greenyellow] - Clasificación MOTOGP  [/COLOR][COLOR hotpink] (720p)[/COLOR][/B][/I]</title>
+<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/motogp-2018-argentina-clasificacion-hdtv-720p-movistar-eventoshq,2162170,list,1,2.mp4</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ ref = 'http://diskokosmiko.mx/'
+ url='http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/motogp-2018-argentina-clasificacion-hdtv-720p-movistar-eventoshq,2162170,list,1,2.mp4'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+ 
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'josele89' , 'Password' : 'josele89'}
+ nr1 = requests.post('http://diskokosmiko.mx/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://gpmalaysia.com/v1/wp-content/uploads/2015/04/2015-MotoGP-Argentina-GP-logo.png</thumbnail>
+<fanart>http://blog.racc.es/wp-content/uploads/2014/04/motogp-argentina-20141.png</fanart>
+</item>
+
+<item>
+<title>  [B][I][COLOR greenyellow] - Clasificación MOTOGP  [/COLOR][COLOR hotpink] (SD)[/COLOR][/B][/I]</title>
+<urlsolve>https://www.rapidvideo.com/v/FQ4U3HFWPY</urlsolve>
+<thumbnail>http://gpmalaysia.com/v1/wp-content/uploads/2015/04/2015-MotoGP-Argentina-GP-logo.png</thumbnail>
+<fanart>http://blog.racc.es/wp-content/uploads/2014/04/motogp-argentina-20141.png</fanart>
+</item>
+
+
  
  
 <item>
@@ -54,15 +113,7 @@ https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
  
  
 <item>
-    <title>            [B][I][COLOR greenyellow] · CARRERA  [/COLOR][/B][/I]</title>
-    <link>http://ignorame</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-</item>
- 
- 
-<item>
-<title>[B][COLOR yellow]  - MotoGP[/B][/COLOR]</title>
+<title>  [B][COLOR yellow]  - Carrera MotoGP[/B][/COLOR]</title>
 <multilink>
 <link>https://archive.org/download/MotoGP.2018.Qatar.Carrera.HDTV.720p.Movistar.EventosHQ/MotoGP.2018.Qatar.Carrera.HDTV.720p.Movistar.EventosHQ.mp4$$lsname=[B][COLOR royalblue] Opcion 1[/COLOR][/B]</link>
 <link>$doregex[getUrl]$$lsname=[B][COLOR lime] Opcion 2[/COLOR][/B]</link>
@@ -107,7 +158,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 <item>
-<title>[B][COLOR yellow]  - Moto2[/B][/COLOR]</title>
+<title>  [B][COLOR yellow]  - Carrera Moto2[/B][/COLOR]</title>
 <multilink>
 <link>https://archive.org/download/Moto.2.2018.Qatar.Carrera.HDTV.720p.Movistar.EventosHQ/Moto.2.2018.Qatar.Carrera.HDTV.720p.Movistar.EventosHQ.mp4$$lsname=[B][COLOR royalblue] Opcion 1[/COLOR][/B]</link>
 <link>$doregex[getUrl]$$lsname=[B][COLOR lime] Opcion 2[/COLOR][/B]</link>
@@ -152,7 +203,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 <item>
-<title>[B][COLOR yellow]  - Moto3[/B][/COLOR]</title>
+<title>  [B][COLOR yellow]  - Carrera Moto3[/B][/COLOR]</title>
 <multilink>
 <link>https://archive.org/download/Moto.3.2018.Qatar.Carrera.HDTV.720p.Movistar.EventosHQ/Moto.3.2018.Qatar.Carrera.HDTV.720p.Movistar.EventosHQ.mp4$$lsname=[B][COLOR royalblue] Opcion 1[/COLOR][/B]</link>
 <link>$doregex[getUrl]$$lsname=[B][COLOR lime] Opcion 2[/COLOR][/B]</link>
@@ -195,209 +246,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
- 
- 
-<item>
-    <title>            [B][I][COLOR greenyellow] · CLASIFICACIÓN  [/COLOR][/B][/I]</title>
-    <link>http://ignorame</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-</item>
- 
- <item>
-    <title>[B][COLOR white]  - MotoGP[/B][/COLOR]</title>
-    <multilink>
-        <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/motogp-2018-qatar-clasificacion-hdtv-720p-movistar-eventoshq,2055463,list,1,1.mp4$$lsname=[B][COLOR red] Opcion 1[/COLOR][/B]</link>
-<regex><name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re , requests 
-def GetLSProData(page_data,Cookie_Jar,m):
- url='http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/motogp-2018-qatar-clasificacion-hdtv-720p-movistar-eventoshq,2055463,list,1,1.mp4'
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
- r = requests.get(url, headers=headers).text
- vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
- #print data_a
- ref = url
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1633855', headers=headers, data=data_a).text
- movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
- print movie 
- return movie 
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-        <link>$doregex[getUrl]$$lsname=[B][COLOR lime] Opcion 2[/COLOR][/B]</link>
- 
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re , requests ,json
-def GetLSProData(page_data,Cookie_Jar,m):
- 
- ref = 'http://kbagi.com/'
- url='http://kbagi.com/Josele89/motor-618870/motogp-2018-qatar-clasificacion-hdtv-720p-movistar-eventoshq,5733677,list,1,1.mp4'
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
-            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
- session = requests.Session()
- r = session.get(url, headers=headers)
- rv1 = r.cookies
- 
- vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
- nrj=json.loads(nr)
- nr = nrj['Content']
- r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
- data_a ={'__RequestVerificationToken': r2 , 'Username': 'Addonfesta' , 'Password' : 'addonfesta2017'}
- nr1 = requests.post('http://kbagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
- print nr1.headers['Set-Cookie']
- rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
- rv1['.ASPXAUTH_v2'] = rasp
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr3 = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
- r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
- print r3
- return r3
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-    </multilink>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
- </item>
- 
-  <item>
-    <title>[B][COLOR white]  - Moto2[/B][/COLOR]</title>
-    <multilink>
-        <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/moto-2-2018-qatar-clasificacion-hdtv-720p-movistar-eventoshq,2055621,list,1,1.mp4$$lsname=[B][COLOR red] Opcion 1[/COLOR][/B]</link>
-<regex><name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re , requests 
-def GetLSProData(page_data,Cookie_Jar,m):
- url='http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/moto-2-2018-qatar-clasificacion-hdtv-720p-movistar-eventoshq,2055621,list,1,1.mp4'
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
- r = requests.get(url, headers=headers).text
- vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
- #print data_a
- ref = url
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1633855', headers=headers, data=data_a).text
- movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
- print movie 
- return movie 
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-        <link>$doregex[getUrl]$$lsname=[B][COLOR lime] Opcion 2[/COLOR][/B]</link>
- 
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re , requests ,json
-def GetLSProData(page_data,Cookie_Jar,m):
- 
- ref = 'http://kbagi.com/'
- url='http://kbagi.com/Josele89/motor-618870/moto-2-2018-qatar-clasificacion-hdtv-720p-movistar-eventoshq,5733740,list,1,1.mp4'
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
-            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
- session = requests.Session()
- r = session.get(url, headers=headers)
- rv1 = r.cookies
- 
- vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
- nrj=json.loads(nr)
- nr = nrj['Content']
- r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
- data_a ={'__RequestVerificationToken': r2 , 'Username': 'Addonfesta' , 'Password' : 'addonfesta2017'}
- nr1 = requests.post('http://kbagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
- print nr1.headers['Set-Cookie']
- rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
- rv1['.ASPXAUTH_v2'] = rasp
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr3 = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
- r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
- print r3
- return r3
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-    </multilink>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
- </item>
- 
- <item>
-    <title>[B][COLOR white]  - Moto3[/B][/COLOR]</title>
-    <multilink>
-        <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/moto-3-2018-qatar-clasificacion-hdtv-720p-movistar-eventoshq,2055509,list,1,1.mp4$$lsname=[B][COLOR red] Opcion 1[/COLOR][/B]</link>
-<regex><name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re , requests 
-def GetLSProData(page_data,Cookie_Jar,m):
- url='http://diskokosmiko.mx/josele89/f1-motos-carreras-90233/moto-3-2018-qatar-clasificacion-hdtv-720p-movistar-eventoshq,2055509,list,1,1.mp4'
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
- r = requests.get(url, headers=headers).text
- vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
- #print data_a
- ref = url
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1633855', headers=headers, data=data_a).text
- movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
- print movie 
- return movie 
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-        <link>$doregex[getUrl]$$lsname=[B][COLOR lime] Opcion 2[/COLOR][/B]</link>
- 
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re , requests ,json
-def GetLSProData(page_data,Cookie_Jar,m):
- 
- ref = 'http://kbagi.com/'
- url='http://kbagi.com/Josele89/motor-618870/moto-3-2018-qatar-clasificacion-hdtv-720p-movistar-eventoshq,5733711,list,1,1.mp4'
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
-            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
- session = requests.Session()
- r = session.get(url, headers=headers)
- rv1 = r.cookies
- 
- vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
- nrj=json.loads(nr)
- nr = nrj['Content']
- r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
- data_a ={'__RequestVerificationToken': r2 , 'Username': 'Addonfesta' , 'Password' : 'addonfesta2017'}
- nr1 = requests.post('http://kbagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
- print nr1.headers['Set-Cookie']
- rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
- rv1['.ASPXAUTH_v2'] = rasp
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr3 = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
- r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
- print r3
- return r3
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-    </multilink>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
- </item>
  
  
  
